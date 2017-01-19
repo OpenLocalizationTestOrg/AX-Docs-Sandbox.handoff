@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-188fee3" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">33019e7f2b8f5bfde18941c7b16df620ce44041a</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\data-entities\data-entities-home-page-3.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">do-not-translate</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">fbd56981a27a23c3161ad162169461ef01b13078</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">95af8a71e6868ccb2307e04d55a4084355f817bc</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Data entities home page | Microsoft Docs</source>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This topic provides information about working with data entities, data packages, and OData in Microsoft Dynamics 365 for Operations.</source>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Data entities home page</source>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Data entities</source>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Tutorials</source>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Build and consume data entities (Master entity)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/building-and-consuming-data-entities/)</ept> <bpt id="p2">[</bpt>Develop an entity and use it for data migration (Reference entity)<ept id="p2">](http://ax.help.dynamics.com/en/wiki/developing-an-entity-and-using-it-for-data-migration/)</ept> <bpt id="p3">[</bpt>Building Basic Data Entity (Office Mix)<ept id="p3">](https://mix.office.com/watch/i53efq3ddtjy)</ept></source>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Concepts</source>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Data entities<ept id="p1">](http://ax.help.dynamics.com/en/wiki/data-entities/)</ept> <bpt id="p2">[</bpt>Behavioral properties on data entities<ept id="p2">](http://ax.help.dynamics.com/en/wiki/behavioral-properties-on-data-entities/)</ept> <bpt id="p3">[</bpt>Building and consuming data entities<ept id="p3">](http://ax.help.dynamics.com/en/wiki/building-and-consuming-data-entities/)</ept> <bpt id="p4">[</bpt>Data entities and packages framework<ept id="p4">](https://ax.help.dynamics.com/en/wiki/using-data-entities-and-data-packages/)</ept> <bpt id="p5">[</bpt>Computed columns and virtual fields<ept id="p5">](http://ax.help.dynamics.com/en/wiki/data-entity-computed-columns-and-virtual-fields/)</ept> <bpt id="p6">[</bpt>Country/region codes and configuration keys<ept id="p6">](http://ax.help.dynamics.com/en/wiki/countryregion-codes-and-configuration-keys/)</ept> <bpt id="p7">[</bpt>Cross company behavior<ept id="p7">](http://ax.help.dynamics.com/en/wiki/cross-company-behavior/)</ept> <bpt id="p8">[</bpt>Data entity wizard rules<ept id="p8">](http://ax.help.dynamics.com/en/wiki/data-entity-wizard-rules/)</ept> <bpt id="p9">[</bpt>Data management and integration through data entities<ept id="p9">](http://ax.help.dynamics.com/en/wiki/data-management-and-integration-through-data-entity/)</ept> <bpt id="p10">[</bpt>Date effectivity<ept id="p10">](http://ax.help.dynamics.com/en/wiki/date-effectivity/)</ept> <bpt id="p11">[</bpt>Design principles and best practices<ept id="p11">](http://ax.help.dynamics.com/en/wiki/design-principles-and-best-practices/)</ept> <bpt id="p12">[</bpt>Developing composite entities<ept id="p12">](http://ax.help.dynamics.com/en/wiki/developing-composite-data-entities/)</ept> <bpt id="p13">[</bpt>Dimensions<ept id="p13">](http://ax.help.dynamics.com/en/wiki/dimensions/)</ept> <bpt id="p14">[</bpt>Dimensions overview<ept id="p14">](http://ax.help.dynamics.com/en/wiki/dimensions-overview/)</ept> <bpt id="p15">[</bpt>Metadata properties: ReadOnly, AllowEdit, Mandatory<ept id="p15">](http://ax.help.dynamics.com/en/wiki/metadata-properties-readonly-allowedit-mandatory/)</ept> <bpt id="p16">[</bpt>Recurring integrations<ept id="p16">](http://ax.help.dynamics.com/en/wiki/recurring-integrations)</ept> <bpt id="p17">[</bpt>Security and data entities<ept id="p17">](http://ax.help.dynamics.com/en/wiki/security-and-data-entities/)</ept> <bpt id="p18">[</bpt>Support for super type and sub type<ept id="p18">](http://ax.help.dynamics.com/en/wiki/support-for-super-type-and-sub-type/)</ept> <bpt id="p19">[</bpt>Validations, defaults, and unmapped fields<ept id="p19">](http://ax.help.dynamics.com/en/wiki/validations-defaulting-and-unmapped-fields/)</ept> <bpt id="p20">[</bpt>Introduction to Data Entity (Office Mix)<ept id="p20">](https://mix.office.com/watch/1brkpjvhf851m)</ept> <bpt id="p21">[</bpt>Introduction to OData in Dynamics 365 for Operations (Office Mix)<ept id="p21">](https://mix.office.com/watch/i53efq3ddtjy)</ept> <bpt id="p22">[</bpt>Introduction to Import/Export and Integration (Office Mix)<ept id="p22">](https://mix.office.com/watch/1qplbdkxu5u4d)</ept> <bpt id="p23">[</bpt>JSON Based Endpout for Custom Services (Office Mix)<ept id="p23">](https://mix.office.com/watch/12e4fejbgj429)</ept></source>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>OData</source>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>OData is a standard protocol for creating and consuming data.</source>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>The purpose of OData is to provide a protocol for Representational State Transfer (REST) for Create, Read, Update, and Delete (CRUD) operations.</source>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>OData applies web technologies such as HTTP and JavaScript Object Notation (JSON) to provide access to information from various programs.</source>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>The following topics provide information about OData in Dynamics 365 for Operations.</source>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Concepts</source>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>OData in Dynamics 365 for Operations<ept id="p1">](http://ax.help.dynamics.com/en/wiki/odata-in-dynamics-ax-7/)</ept></source>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Data entities and data packages</source>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>We recommend that you import the data entities in the order listed below, as some entities have dependencies on others.</source>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>If you do not follow this order, you may encounter issues during import and configuration.</source>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>System administration<ept id="p1">](http://ax.help.dynamics.com/en/wiki/data-entities-system-administration/)</ept></source>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Global address book<ept id="p1">](http://ax.help.dynamics.com/en/wiki/data-entities-global-address-book/)</ept></source>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Workflow<ept id="p1">](http://ax.help.dynamics.com/en/wiki/data-entities-workflow/)</ept></source>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>General ledger<ept id="p1">](http://ax.help.dynamics.com/en/wiki/data-entities-general-ledger/)</ept></source>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Bank<ept id="p1">](http://ax.help.dynamics.com/en/wiki/data-entities-bank/)</ept></source>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Human resources<ept id="p1">](http://ax.help.dynamics.com/en/wiki/data-entities-human-resources/)</ept></source>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Accounts payable and taxes<ept id="p1">](http://ax.help.dynamics.com/en/wiki/data-entities-accounts-payable-and-taxes/)</ept></source>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Accounts receivable<ept id="p1">](http://ax.help.dynamics.com/en/wiki/data-entities-accounts-receivable/)</ept></source>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Budgeting<ept id="p1">](http://ax.help.dynamics.com/en/wiki/data-entities-budgeting/)</ept></source>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Budget planning<ept id="p1">](http://ax.help.dynamics.com/en/wiki/data-entities-budget-planning/)</ept></source>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Fixed assets<ept id="p1">](http://ax.help.dynamics.com/en/wiki/data-entities-fixed-assets/)</ept></source>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Inventory management<ept id="p1">](http://ax.help.dynamics.com/en/wiki/data-entities-inventory-management/)</ept></source>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Costing<ept id="p1">](http://ax.help.dynamics.com/en/wiki/data-entities-costing/)</ept></source>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Procurement and sourcing<ept id="p1">](http://ax.help.dynamics.com/en/wiki/data-entities-procurement-and-sourcing/)</ept></source>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Product information management<ept id="p1">](http://ax.help.dynamics.com/en/wiki/data-entities-product-information-management/)</ept></source>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Master planning<ept id="p1">](http://ax.help.dynamics.com/en/wiki/data-entities-master-planning/)</ept></source>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Production control<ept id="p1">](http://ax.help.dynamics.com/en/wiki/data-entities-production-control/)</ept></source>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Sales and marketing: Execution<ept id="p1">](http://ax.help.dynamics.com/en/wiki/data-entities-sales-and-marketing/)</ept></source>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Project accounting<ept id="p1">](http://ax.help.dynamics.com/en/wiki/data-entities-project-accounting/)</ept></source>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Expense management<ept id="p1">](http://ax.help.dynamics.com/en/wiki/data-entities-expense-management/)</ept></source>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Sales and marketing: Pre-sales<ept id="p1">](http://ax.help.dynamics.com/en/wiki/data-entities-sales-and-marketing-pre-sales/)</ept></source>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Public sector<ept id="p1">](http://ax.help.dynamics.com/en/wiki/data-entities-public-sector/)</ept></source>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Retail<ept id="p1">](http://ax.help.dynamics.com/en/wiki/data-entities-retail/)</ept></source>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Beginning balances<ept id="p1">](http://ax.help.dynamics.com/en/wiki/data-entities-beginning-balances/)</ept></source>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>Processes and resources</source>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>The following topics provide more information about working with data entities in Dynamics 365 for Operations.</source>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Behavioral properties on data entities<ept id="p1">](http://ax.help.dynamics.com/en/wiki/behavioral-properties-on-data-entities/)</ept></source>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Build and consume data entities<ept id="p1">](http://ax.help.dynamics.com/en/wiki/building-and-consuming-data-entities/)</ept></source>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Computed columns and virtual fields<ept id="p1">](http://ax.help.dynamics.com/en/wiki/data-entity-computed-columns-and-virtual-fields/)</ept></source>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Country/region codes and configuration keys<ept id="p1">](http://ax.help.dynamics.com/en/wiki/countryregion-codes-and-configuration-keys/)</ept></source>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Date effectivity<ept id="p1">](http://ax.help.dynamics.com/en/wiki/date-effectivity/)</ept></source>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Data entity Wizard rules<ept id="p1">](http://ax.help.dynamics.com/en/wiki/data-entity-wizard-rules/)</ept></source>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Data management and integration through data entities<ept id="p1">](http://ax.help.dynamics.com/en/wiki/data-management-and-integration-through-data-entity/)</ept></source>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Design principles and best practices<ept id="p1">](http://ax.help.dynamics.com/en/wiki/design-principles-and-best-practices/)</ept></source>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Develop composite entities<ept id="p1">](http://ax.help.dynamics.com/en/wiki/developing-composite-data-entities/)</ept></source>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Dimensions<ept id="p1">](http://ax.help.dynamics.com/en/wiki/dimensions/)</ept></source>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Dimensions in Excel<ept id="p1">](https://ax.help.dynamics.com/en/wiki/dimensions-overview/)</ept></source>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Metadata properties: ReadOnly, AllowEdit, Mandatory<ept id="p1">](http://ax.help.dynamics.com/en/wiki/metadata-properties-readonly-allowedit-mandatory/)</ept></source>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Recurring integrations<ept id="p1">](http://ax.help.dynamics.com/en/wiki/recurring-integrations/)</ept></source>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Security and data entities<ept id="p1">](http://ax.help.dynamics.com/en/wiki/security-and-data-entities/)</ept></source>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Super types and sub types<ept id="p1">](http://ax.help.dynamics.com/en/wiki/support-for-super-type-and-sub-type/)</ept></source>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Validations, defaults, and unmapped fields<ept id="p1">](http://ax.help.dynamics.com/en/wiki/validations-defaulting-and-unmapped-fields/)</ept></source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

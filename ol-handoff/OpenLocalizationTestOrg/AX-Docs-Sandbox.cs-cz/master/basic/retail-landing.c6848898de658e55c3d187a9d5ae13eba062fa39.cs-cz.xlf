@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-188fee3" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9ed05bf2700dd4c1dacbbebb7fab521ac03e507e</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">retail\retail-landing.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1f00493ee78c10e4bf264ee018ff8545c49ada59</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">27e528fdaceb48f20c3298386fe7e5b1ea071335</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Retail and commerce | Microsoft Docs</source>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This page lists the resources that are available for Retail and commerce in Dynamics 365 for Operations - Retail.</source>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Retail and commerce</source>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Dynamics 365 for Operations - Retail delivers a complete shopping experience, with a seamless and differentiating omni-channel solution that is modern, mobile, and global.</source>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>End-to-end capabilities, from modern point of sale (POS) software solutions, store operations, merchandising, e-commerce, call center, marketing, and customer care, to supply chain, financials, and more, can be deployed in the way that makes the most sense for your business.</source>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Retail for IT pros and developers home page<ept id="p1">](https://ax.help.dynamics.com/en/wiki/microsoft-dynamics-ax-retail-for-it-pros-and-developers/)</ept> <bpt id="p2">[</bpt>Commerce essentials home page<ept id="p2">](http://ax.help.dynamics.com/en/wiki/commerce-essentials-landing/)</ept> <bpt id="p3">[</bpt>Call center home page<ept id="p3">](https://ax.help.dynamics.com/en/wiki/call-center/)</ept> <bpt id="p4">[</bpt>Modern Point of sale (MPOS) and Cloud POS home page<ept id="p4">](//ax.help.dynamics.com/en/wiki/point-of-sale-pos-and-modern-point-of-sale-mpos/)</ept></source>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Channel setup and management</source>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Initialize seed data in a new Retail environment<ept id="p1">](http://ax.help.dynamics.com/en/wiki/enable-and-configure-retail-functionality/)</ept> <bpt id="p2">[</bpt>Define and maintain retail channels<ept id="p2">](http://ax.help.dynamics.com/en/wiki/define-and-maintain-retail-channels/)</ept> <bpt id="p3">[</bpt>Create financial dimensions for retail channels and configure dimension values on stores<ept id="p3">](http://ax.help.dynamics.com/en/wiki/create-financial-dimensions-for-retail-channels-and-configure-dimension-values-on-stores/)</ept>(Task guide) <bpt id="p4">[</bpt>Online stores<ept id="p4">](http://ax.help.dynamics.com/en/wiki/online-stores-2/)</ept> <bpt id="p5">[</bpt>Configure an online store<ept id="p5">](http://ax.help.dynamics.com/en/wiki/configure-an-online-store/)</ept> <bpt id="p6">[</bpt>P<ept id="p6">](http://ax.help.dynamics.com/en/wiki/payment-methods/)</ept><bpt id="p7">[</bpt>ayment methods<ept id="p7">](http://ax.help.dynamics.com/en/wiki/payment-methods/)</ept> <bpt id="p8">[</bpt>Info codes <ept id="p8">](http://ax.help.dynamics.com/en/wiki/about-info-codes-retail/)</ept> <bpt id="p9">[</bpt>Receipt templates and printing<ept id="p9">](http://ax.help.dynamics.com/en/wiki/receipt-templates-and-printing/)</ept> <bpt id="p10">[</bpt>Retail hardware station configuration and installation<ept id="p10">](http://ax.help.dynamics.com/en/wiki/retail-hardware-station-configuration-and-installation/)</ept> <bpt id="p11">[</bpt>Define retail channel communications (Commerce Data Exchange)<ept id="p11">](http://ax.help.dynamics.com/en/wiki/define-retail-channel-communications-commerce-data-exchange/)</ept> <bpt id="p12">[</bpt>Post online sales and payments<ept id="p12">](http://ax.help.dynamics.com/en/wiki/posting-of-online-sales-and-payments/)</ept> (Task guide) <bpt id="p13">[</bpt>Retail time and attendance<ept id="p13">](http://ax.help.dynamics.com/en/wiki/retail-time-and-attendance/)</ept></source>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Payment processing</source>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up payment processing<ept id="p1">](https://mix.office.com/watch/i7zw3bg6yk2v)</ept>(Office Mix) Configure credit card processing (Task guide)</source>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Products and merchandising</source>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Retail hierarchies<ept id="p1">](http://ax.help.dynamics.com/en/wiki/retail-hierarchies/)</ept> <bpt id="p2">[</bpt>Create and manage attributes<ept id="p2">](http://ax.help.dynamics.com/en/wiki/create-and-manage-attributes/)</ept> <bpt id="p3">[</bpt>Set up retail products<ept id="p3">](http://ax.help.dynamics.com/en/wiki/setting-up-retail-products/)</ept> <bpt id="p4">[</bpt>Create a product master<ept id="p4">](http://ax.help.dynamics.com/en/wiki/create-a-product-master/)</ept>(Task guide) <bpt id="p5">[</bpt>Release a product/product master to legal entities<ept id="p5">](http://ax.help.dynamics.com/en/wiki/release-a-productproduct-master-to-legal-entities/)</ept>(Task guide) <bpt id="p6">[</bpt>Set up bar codes<ept id="p6">](http://ax.help.dynamics.com/en/wiki/setting-up-bar-codes/)</ept> <bpt id="p7">[</bpt>Set up assortments<ept id="p7">](http://ax.help.dynamics.com/en/wiki/setting-up-assortments/)</ept></source>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Inventory management</source>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Configure and run recurrent job to update inventory<ept id="p1">](http://ax.help.dynamics.com/en/wiki/configure-and-run-recurrent-job-to-update-inventory/)</ept>(Task guide) <bpt id="p2">[</bpt>Create product packages and use in purchase orders<ept id="p2">](http://ax.help.dynamics.com/en/wiki/create-product-packages-and-use-in-purchase-order/)</ept>(Task guide) <bpt id="p3">[</bpt>Push products from distribution center to stores using buyer's push<ept id="p3">](http://ax.help.dynamics.com/en/wiki/push-products-from-distribution-center-to-stores-using-buyers-push/)</ept>(Task guide) <bpt id="p4">[</bpt>Cross-dock products from receiving warehouse to stores<ept id="p4">](http://ax.help.dynamics.com/en/wiki/cross-dock-products-from-receiving-warehouse-to-stores/)</ept>(Task guide) <bpt id="p5">[</bpt>Work with store inventory<ept id="p5">](http://ax.help.dynamics.com/en/wiki/working-with-store-inventory/)</ept></source>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Discounts and price adjustments</source>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Price adjustments and discounts<ept id="p1">](http://ax.help.dynamics.com/en/wiki/price-adjustments-and-discounts/)</ept> <bpt id="p2">[</bpt>Determine the optimal combination of overlapping discounts<ept id="p2">](http://ax.help.dynamics.com/en/wiki/determine-the-optimal-combination-of-overlapping-discounts/)</ept> <bpt id="p3">[</bpt>Define channel-specific discounts<ept id="p3">](http://ax.help.dynamics.com/en/wiki/define-channel-specific-discounts/)</ept> <bpt id="p4">[</bpt>Base price and trade agreements<ept id="p4">](http://ax.help.dynamics.com/en/wiki/base-price-and-trade-agreements/)</ept>(Task guide) <bpt id="p5">[</bpt>Create trade agreements using a category pricing rule<ept id="p5">](http://ax.help.dynamics.com/en/wiki/create-trade-agreements-using-a-category-pricing-rule/)</ept>(Task guide)</source>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Loyalty</source>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting up a customer loyalty program<ept id="p1">](http://ax.help.dynamics.com/en/wiki/setting-up-a-customer-loyalty-program/)</ept> <bpt id="p2">[</bpt>Define loyalty reward points<ept id="p2">](http://ax.help.dynamics.com/en/wiki/define-loyalty-reward-points/)</ept>(Task guide) <bpt id="p3">[</bpt>Define loyalty programs<ept id="p3">](http://ax.help.dynamics.com/en/wiki/define-loyalty-programs/)</ept>(Task guide) <bpt id="p4">[</bpt>Define loyalty schemes<ept id="p4">](http://ax.help.dynamics.com/en/wiki/define-loyalty-schemes/)</ept>(Task guide) <bpt id="p5">[</bpt>Loyalty reward adjustments<ept id="p5">](http://ax.help.dynamics.com/en/wiki/loyalty-rewards-adjustments/)</ept>(Task guide)</source>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Statements</source>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Store configurations for retail statements <ept id="p1">](http://ax.help.dynamics.com/en/wiki/store-configurations-for-retail-statements/)</ept>(Task guide) <bpt id="p2">[</bpt>Parameter configurations for retail statements<ept id="p2">](http://ax.help.dynamics.com/en/wiki/parameter-configurations-for-retail-statements/)</ept>(Task guide) <bpt id="p3">[</bpt>Payment configurations for retail statements<ept id="p3">](http://ax.help.dynamics.com/en/wiki/payment-configurations-for-retail-statements/)</ept>(Task guide) <bpt id="p4">[</bpt>Create, calculate, and post a statement for a retail store<ept id="p4">](http://ax.help.dynamics.com/en/wiki/create-calculate-and-post-a-statement-for-a-retail-store/)</ept>(Task guide) <bpt id="p5">[</bpt>Configure and run job to post statements<ept id="p5">](http://ax.help.dynamics.com/en/wiki/configure-and-run-job-to-post-statements/)</ept>(Task guide)</source>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>Monitoring and analysis</source>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Monitor sales and margin performance<ept id="p1">](http://ax.help.dynamics.com/en/wiki/monitoring-sales-and-margin-performance/)</ept> <bpt id="p2">[</bpt>Analyze sales trends and patterns<ept id="p2">](http://ax.help.dynamics.com/en/wiki/analyze-sales-trends-and-patterns/)</ept> <bpt id="p3">[</bpt>Assess sales performance by product<ept id="p3">](http://ax.help.dynamics.com/en/wiki/sales-performance-by-products/)</ept> <bpt id="p4">[</bpt>Assess customer and product profitability<ept id="p4">](http://ax.help.dynamics.com/en/wiki/assess-customer-product-profitability/)</ept> <bpt id="p5">[</bpt>Analyze store performance<ept id="p5">](http://ax.help.dynamics.com/en/wiki/store-performance-information/)</ept> <bpt id="p6">[</bpt>Set up RFM analysis<ept id="p6">](https://ax.help.dynamics.com/en/wiki/setting-up-rfm-analysis/)</ept></source>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt><ept id="p1">]()</ept>Additional resources</source>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Additional help is available as task guides inside Dynamics 365 for Operations.</source>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>To access task guides, click the Help button on any page.</source>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>For information about Dynamics 365 for Operations, see <bpt id="p1">[</bpt>Microsoft eLearning<ept id="p1">](https://mbs2.microsoft.com/members/elearning/dynamicstrainingcert.aspx)</ept> (requires CustomerSource account).</source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
