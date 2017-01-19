@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="et-ee">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-188fee3" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">af639cd43c0d8e0cb1c0a4b49111795ad9c62c82</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\lifecycle-services\lifecycle-services-for-microsoft-dynamics.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">do-not-translate</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">fdf825df7d2ad918692a3cd4ed57770f339286ce</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">328fc44054aa14acbe10657eceeb924cadab51fa</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Lifecycle Services for Microsoft Dynamics | Microsoft Docs</source>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Lifecycle Services for Microsoft Dynamics</source>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>What's new: Lifecycle Services for Microsoft Dynamics<ept id="p1">](http://ax.help.dynamics.com/en/wiki/whats-new-lifecycle-services-for-microsoft-dynamics/)</ept> <bpt id="p2">[</bpt>Microsoft Dynamics Lifecycle Services User Guide<ept id="p2">](http://ax.help.dynamics.com/en/wiki/lifecycle-services-for-microsoft-dynamics-user-guide-lcs/)</ept> <bpt id="p3">[</bpt>Projects (Lifecycle Services, LCS)<ept id="p3">](http://ax.help.dynamics.com/en/wiki/projects-lifecycle-services-lcs/)</ept> <bpt id="p4">[</bpt>Methodologies (Lifecycle Services, LCS)<ept id="p4">](http://ax.help.dynamics.com/en/wiki/methodologies-lifecycle-services-lcs/)</ept> <bpt id="p5">[</bpt>Business process modeler (Lifecycle Services, LCS)<ept id="p5">](http://ax.help.dynamics.com/en/wiki/business-process-modeler-lifecycle-services-lcs/)</ept> <bpt id="p6">[</bpt>Cloud-hosted environments (Lifecycle Services, LCS)<ept id="p6">](http://ax.help.dynamics.com/en/wiki/cloud-hosted-environments-lifecycle-services-lcs/)</ept> <bpt id="p7">[</bpt>Cloud-powered support (Lifecycle Services, LCS)<ept id="p7">](http://ax.help.dynamics.com/en/wiki/cloud-powered-support-lifecycle-services-lcs/)</ept> <bpt id="p8">[</bpt>Configuration manager (Lifecycle Services, LCS)<ept id="p8">](http://ax.help.dynamics.com/en/wiki/configuration-manager-lifecycle-services-lcs/)</ept> <bpt id="p9">[</bpt>Customization analysis (Lifecycle Services, LCS)<ept id="p9">](http://ax.help.dynamics.com/en/wiki/customization-analysis-lifecycle-services-lcs/)</ept> <bpt id="p10">[</bpt>Infrastructure estimator (Lifecycle Services, LCS)<ept id="p10">](http://ax.help.dynamics.com/en/wiki/infrastructure-estimator-lifecycle-services-lcs/)</ept> <bpt id="p11">[</bpt>Issue Search (Lifecycle Services, LCS)<ept id="p11">](http://ax.help.dynamics.com/en/wiki/issue-search-lifecycle-services-lcs/)</ept> <bpt id="p12">[</bpt>License sizing estimator (Lifecycle Services, LCS)<ept id="p12">](http://ax.help.dynamics.com/en/wiki/license-sizing-estimator-lifecycle-services-lcs/)</ept> <bpt id="p13">[</bpt>RFP responses (Lifecycle Services, LCS)<ept id="p13">](http://ax.help.dynamics.com/en/wiki/rfp-responses-lifecycle-services-lcs/)</ept> <bpt id="p14">[</bpt>System diagnostics (Lifecycle Services, LCS)<ept id="p14">](http://ax.help.dynamics.com/en/wiki/system-diagnostics-lifecycle-services-lcs/)</ept> <bpt id="p15">[</bpt>Upgrade analysis (Lifecycle Services, LCS)<ept id="p15">](http://ax.help.dynamics.com/en/wiki/upgrade-analysis-lifecycle-services-lcs/)</ept> <bpt id="p16">[</bpt>Usage profiler<ept id="p16">](http://ax.help.dynamics.com/en/wiki/usage-profiler-lifecycle-services-lcs/)</ept> <bpt id="p17">[</bpt>Lifecycle Services downloadable Tools<ept id="p17">](http://ax.help.dynamics.com/en/wiki/lifecycle-services-downloadable-tools-formerly-on-informationsource/)</ept></source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
