@@ -1,0 +1,558 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-fafe89b" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">bef8d17075459c121ead29e8749c8d762577a2d2</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">manufacturing\TOC.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">need-to-investigate</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a481a0b82176cc18ea5c4aa76b8a08be2f915a3e</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2cdda17959b6a5fb3eed5809c018b9e95405a417</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>business-processes<ept id="p1">](business-processes)</ept></source>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management<ept id="p1">](cost-management)</ept></source>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\adjusting-on-hand-inventory-cost-values<ept id="p1">](cost-management\adjusting-on-hand-inventory-cost-values.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\bom-calculation-groups<ept id="p1">](cost-management\bom-calculation-groups.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\common-sources-of-production-variances<ept id="p1">](cost-management\common-sources-of-production-variances.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\cost-categories-used-in-production-control-and-in-project-management-and-accounting<ept id="p1">](cost-management\cost-categories-used-in-production-control-and-in-project-management-and-accounting.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\cost-categories-used-in-production-routings<ept id="p1">](cost-management\cost-categories-used-in-production-routings.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\cost-entries<ept id="p1">](cost-management\cost-entries.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\cost-groups<ept id="p1">](cost-management\cost-groups.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\costing-sheets<ept id="p1">](cost-management\costing-sheets.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\costing-versions<ept id="p1">](cost-management\costing-versions.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\cost-management<ept id="p1">](cost-management\cost-management.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\cost-object<ept id="p1">](cost-management\cost-object.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\data-entities-costing<ept id="p1">](cost-management\data-entities-costing.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\fifo-with-physical-value-and-marking<ept id="p1">](cost-management\fifo-with-physical-value-and-marking.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\include-physical-value<ept id="p1">](cost-management\include-physical-value.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\information-used-in-bom-calculations-with-standard-costs<ept id="p1">](cost-management\information-used-in-bom-calculations-with-standard-costs.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\inventory-close<ept id="p1">](cost-management\inventory-close.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\lifo-date-with-physical-value-and-marking<ept id="p1">](cost-management\lifo-date-with-physical-value-and-marking.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\lifo-with-physical-value-and-marking<ept id="p1">](cost-management\lifo-with-physical-value-and-marking.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\managing-standard-cost-updates<ept id="p1">](cost-management\managing-standard-cost-updates.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\manufactured-items-that-are-treated-as-purchased-items<ept id="p1">](cost-management\manufactured-items-that-are-treated-as-purchased-items.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\moving-average<ept id="p1">](cost-management\moving-average.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\overview-of-the-production-process<ept id="p1">](cost-management\overview-of-the-production-process.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\physical-and-financial-updates<ept id="p1">](cost-management\physical-and-financial-updates.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\physical-quantity<ept id="p1">](cost-management\physical-quantity.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\prerequisites-for-a-standard-cost-conversion<ept id="p1">](cost-management\prerequisites-for-a-standard-cost-conversion.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\production-order-cost-analysis<ept id="p1">](cost-management\production-order-cost-analysis.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\production-order-cost-estimation<ept id="p1">](cost-management\production-order-cost-estimation.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\running-average-cost-price<ept id="p1">](cost-management\running-average-cost-price.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\simulating-cost-changes-by-using-a-costing-version-for-planned-costs<ept id="p1">](cost-management\simulating-cost-changes-by-using-a-costing-version-for-planned-costs.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\standard-cost-conversion-overview<ept id="p1">](cost-management\standard-cost-conversion-overview.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\supply-chain-management-home-page<ept id="p1">](cost-management\supply-chain-management-home-page.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\the-methodology-for-total-cost-allocation<ept id="p1">](cost-management\the-methodology-for-total-cost-allocation.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\track-running-average-cost-per-inventory-dimension<ept id="p1">](cost-management\track-running-average-cost-per-inventory-dimension.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\update-standard-costs-in-a-nonmanufacturing-environment<ept id="p1">](cost-management\update-standard-costs-in-a-nonmanufacturing-environment.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\updating-standard-costs-for-a-new-manufactured-item<ept id="p1">](cost-management\updating-standard-costs-for-a-new-manufactured-item.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\updating-standard-costs-in-a-manufacturing-environment<ept id="p1">](cost-management\updating-standard-costs-in-a-manufacturing-environment.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\weighted-average-date<ept id="p1">](cost-management\weighted-average-date.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-management\weighted-average-with-physical-value-and-marking<ept id="p1">](cost-management\weighted-average-with-physical-value-and-marking.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>inventory-management<ept id="p1">](inventory-management)</ept></source>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>inventory-management\consignment<ept id="p1">](inventory-management\consignment.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>inventory-management\enabling-nonconformance-management<ept id="p1">](inventory-management\enabling-nonconformance-management.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>inventory-management\merging-inventory-batches<ept id="p1">](inventory-management\merging-inventory-batches.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>inventory-management\quality-management-processes<ept id="p1">](inventory-management\quality-management-processes.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>inventory-management\quarantine-orders<ept id="p1">](inventory-management\quarantine-orders.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>inventory-management\reserve-inventory-quantities<ept id="p1">](inventory-management\reserve-inventory-quantities.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>inventory-management\reserving-the-same-batch-for-a-sales-order<ept id="p1">](inventory-management\reserving-the-same-batch-for-a-sales-order.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>inventory-management\setting-up-consignment<ept id="p1">](inventory-management\setting-up-consignment.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>inventory-management\tracing-items-and-raw-materials-in-inventory-production-and-sales<ept id="p1">](inventory-management\tracing-items-and-raw-materials-in-inventory-production-and-sales.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>master-planning<ept id="p1">](master-planning)</ept></source>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>master-planning\authorizing-the-adjusted-forecast<ept id="p1">](master-planning\authorizing-the-adjusted-forecast.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>master-planning\coverage-settings<ept id="p1">](master-planning\coverage-settings.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>master-planning\delays<ept id="p1">](master-planning\delays.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>master-planning\demand-forecasting<ept id="p1">](master-planning\demand-forecasting.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>master-planning\demand-forecasting-setup<ept id="p1">](master-planning\demand-forecasting-setup.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>master-planning\generating-a-statistical-baseline-forecast<ept id="p1">](master-planning\generating-a-statistical-baseline-forecast.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>master-planning\introduction-to-dynamics-ax7-demand-forecasting<ept id="p1">](master-planning\introduction-to-dynamics-ax7-demand-forecasting.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>master-planning\maintain-planned-orders<ept id="p1">](master-planning\maintain-planned-orders.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>master-planning\making-manual-adjustments-to-the-baseline-forecast<ept id="p1">](master-planning\making-manual-adjustments-to-the-baseline-forecast.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>master-planning\master-planning<ept id="p1">](master-planning\master-planning.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>master-planning\master-planning-and-multisite-functionality<ept id="p1">](master-planning\master-planning-and-multisite-functionality.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>master-planning\master-planning-explosion-of-a-bom-version<ept id="p1">](master-planning\master-planning-explosion-of-a-bom-version.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>master-planning\master-planning-how-the-bom-version-is-determined<ept id="p1">](master-planning\master-planning-how-the-bom-version-is-determined.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>master-planning\master-planning-site-and-warehouse-coverage-warehouse-mandatory<ept id="p1">](master-planning\master-planning-site-and-warehouse-coverage-warehouse-mandatory.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>master-planning\master-planning-site-and-warehouse-coverage-warehouse-not-mandatory<ept id="p1">](master-planning\master-planning-site-and-warehouse-coverage-warehouse-not-mandatory.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>master-planning\master-planning-site-coverage-warehouse-mandatory<ept id="p1">](master-planning\master-planning-site-coverage-warehouse-mandatory.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>master-planning\master-planning-site-coverage-warehouse-not-mandatory<ept id="p1">](master-planning\master-planning-site-coverage-warehouse-not-mandatory.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>master-planning\master-plans<ept id="p1">](master-planning\master-plans.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>master-planning\monitoring-forecast-accuracy<ept id="p1">](master-planning\monitoring-forecast-accuracy.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>master-planning\reduction-keys<ept id="p1">](master-planning\reduction-keys.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>master-planning\remove-outliers-from-historical-transaction-data-when-calculating-a-demand-forecast<ept id="p1">](master-planning\remove-outliers-from-historical-transaction-data-when-calculating-a-demand-forecast.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>master-planning\using-tracing-for-explosion<ept id="p1">](master-planning\using-tracing-for-explosion.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="174" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>procurement-sourcing<ept id="p1">](procurement-sourcing)</ept></source>
+        </trans-unit>
+        <trans-unit id="175" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>procurement-sourcing\about-purchasing-policies<ept id="p1">](procurement-sourcing\about-purchasing-policies.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="176" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>procurement-sourcing\collaborating-with-vendors-using-the-vendor-portal<ept id="p1">](procurement-sourcing\collaborating-with-vendors-using-the-vendor-portal.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="177" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>procurement-sourcing\configuring-security-for-vendor-portal-users<ept id="p1">](procurement-sourcing\configuring-security-for-vendor-portal-users.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="178" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>procurement-sourcing\procurement-and-sourcing<ept id="p1">](procurement-sourcing\procurement-and-sourcing.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="179" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>procurement-sourcing\procurement-and-sourcing-overview<ept id="p1">](procurement-sourcing\procurement-and-sourcing-overview.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="180" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>procurement-sourcing\procurement-and-sourcing-workflows<ept id="p1">](procurement-sourcing\procurement-and-sourcing-workflows.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="181" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>procurement-sourcing\procurement-catalogs<ept id="p1">](procurement-sourcing\procurement-catalogs.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="182" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>procurement-sourcing\product-receipt-against-purchase-orders<ept id="p1">](procurement-sourcing\product-receipt-against-purchase-orders.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="183" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>procurement-sourcing\purchase-order-approval-and-confirmation<ept id="p1">](procurement-sourcing\purchase-order-approval-and-confirmation.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="184" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>procurement-sourcing\purchase-order-creation<ept id="p1">](procurement-sourcing\purchase-order-creation.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="185" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>procurement-sourcing\purchase-order-overview<ept id="p1">](procurement-sourcing\purchase-order-overview.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="186" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>procurement-sourcing\purchase-requisitions-overview<ept id="p1">](procurement-sourcing\purchase-requisitions-overview.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="187" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>procurement-sourcing\purchase-requisition-workflow<ept id="p1">](procurement-sourcing\purchase-requisition-workflow.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="188" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>procurement-sourcing\request-for-quotations<ept id="p1">](procurement-sourcing\request-for-quotations.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="189" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>procurement-sourcing\setting-up-vendor-accounts<ept id="p1">](procurement-sourcing\setting-up-vendor-accounts.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="190" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>procurement-sourcing\using-vendor-collaboration-to-work-with-customers-in-dynamics-365-for-operations<ept id="p1">](procurement-sourcing\using-vendor-collaboration-to-work-with-customers-in-dynamics-365-for-operations.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="191" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>procurement-sourcing\using-vendor-collaboration-to-work-with-external-vendors<ept id="p1">](procurement-sourcing\using-vendor-collaboration-to-work-with-external-vendors.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="192" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>product-information-management<ept id="p1">](product-information-management)</ept></source>
+        </trans-unit>
+        <trans-unit id="193" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>product-information-management\building-a-product-configuration-model<ept id="p1">](product-information-management\building-a-product-configuration-model.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="194" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>product-information-management\calculations-for-product-configuration-models<ept id="p1">](product-information-management\calculations-for-product-configuration-models.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="195" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>product-information-management\configuration-rules<ept id="p1">](product-information-management\configuration-rules.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="196" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>product-information-management\dimension-based-product-configuration<ept id="p1">](product-information-management\dimension-based-product-configuration.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="197" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>product-information-management\key-concepts-in-product-configuration-models<ept id="p1">](product-information-management\key-concepts-in-product-configuration-models.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="198" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>product-information-management\product-configuration<ept id="p1">](product-information-management\product-configuration.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="199" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>product-information-management\product-dimensions<ept id="p1">](product-information-management\product-dimensions.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="200" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>product-information-management\product-information<ept id="p1">](product-information-management\product-information.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="201" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>product-information-management\product-variant-identification-nomenclature<ept id="p1">](product-information-management\product-variant-identification-nomenclature.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="202" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>product-information-management\registering-serial-numbers-in-the-sales-process<ept id="p1">](product-information-management\registering-serial-numbers-in-the-sales-process.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="203" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>product-information-management\reusing-product-configurations<ept id="p1">](product-information-management\reusing-product-configurations.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="204" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>product-information-management\search-for-products-and-product-variants<ept id="p1">](product-information-management\search-for-products-and-product-variants.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="205" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>product-information-management\setting-up-and-maintaining-a-product-configuration-model<ept id="p1">](product-information-management\setting-up-and-maintaining-a-product-configuration-model.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="206" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>product-information-management\system-defined-and-user-defined-table-constraints<ept id="p1">](product-information-management\system-defined-and-user-defined-table-constraints.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="207" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>product-information-management\translations-of-product-related-information<ept id="p1">](product-information-management\translations-of-product-related-information.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="208" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>production-control<ept id="p1">](production-control)</ept></source>
+        </trans-unit>
+        <trans-unit id="209" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>production-control\about-reporting-production-orders-as-finished<ept id="p1">](production-control\about-reporting-production-orders-as-finished.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="210" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>production-control\allocating-time-to-jobs-in-a-job-bundle<ept id="p1">](production-control\allocating-time-to-jobs-in-a-job-bundle.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="211" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>production-control\batch-attributes<ept id="p1">](production-control\batch-attributes.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="212" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>production-control\bill-of-material-bom<ept id="p1">](production-control\bill-of-material-bom.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="213" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>production-control\bom-designer-functionality<ept id="p1">](production-control\bom-designer-functionality.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="214" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>production-control\consolidated-batch-orders<ept id="p1">](production-control\consolidated-batch-orders.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="215" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>production-control\consumption<ept id="p1">](production-control\consumption.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="216" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>production-control\creating-production-orders<ept id="p1">](production-control\creating-production-orders.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="217" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>production-control\default-order-settings<ept id="p1">](production-control\default-order-settings.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="218" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>production-control\discrete-manufacturing<ept id="p1">](production-control\discrete-manufacturing.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="219" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>production-control\expression-constraints-and-table-constraints-in-product-configuration-models<ept id="p1">](production-control\expression-constraints-and-table-constraints-in-product-configuration-models.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="220" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>production-control\job-scheduling<ept id="p1">](production-control\job-scheduling.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="221" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>production-control\kanban-transfer-board-support-for-barcode-scanner<ept id="p1">](production-control\kanban-transfer-board-support-for-barcode-scanner.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="222" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>production-control\key-terms-in-cost-accounting<ept id="p1">](production-control\key-terms-in-cost-accounting.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="223" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>production-control\lean-manufacturing<ept id="p1">](production-control\lean-manufacturing.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="224" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>production-control\lean-manufacturing-2<ept id="p1">](production-control\lean-manufacturing-2.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="225" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>production-control\lean-manufacturing-kanban-job-scheduling<ept id="p1">](production-control\lean-manufacturing-kanban-job-scheduling.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="226" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>production-control\lean-manufacturing-modeling-the-lean-organization<ept id="p1">](production-control\lean-manufacturing-modeling-the-lean-organization.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="227" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>production-control\master-planning<ept id="p1">](production-control\master-planning.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="228" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>production-control\mixed-mode-planning<ept id="p1">](production-control\mixed-mode-planning.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="229" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>production-control\operation-scheduling-options<ept id="p1">](production-control\operation-scheduling-options.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="230" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>production-control\operations-resources<ept id="p1">](production-control\operations-resources.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="231" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>production-control\operations-scheduling<ept id="p1">](production-control\operations-scheduling.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="232" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>production-control\process-manufacturing<ept id="p1">](production-control\process-manufacturing.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="233" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>production-control\production-feedback<ept id="p1">](production-control\production-feedback.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="234" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>production-control\production-order-defaults-in-manufacturing-execution<ept id="p1">](production-control\production-order-defaults-in-manufacturing-execution.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="235" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>production-control\production-posting<ept id="p1">](production-control\production-posting.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="236" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>production-control\production-setup-requirements<ept id="p1">](production-control\production-setup-requirements.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="237" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>production-control\registration-for-manufacturing-execution<ept id="p1">](production-control\registration-for-manufacturing-execution.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="238" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>production-control\releasing-production-orders<ept id="p1">](production-control\releasing-production-orders.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="239" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>production-control\reporting-boms-as-finished<ept id="p1">](production-control\reporting-boms-as-finished.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="240" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>production-control\resource-capabilities<ept id="p1">](production-control\resource-capabilities.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="241" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>production-control\reversing-production-order-status<ept id="p1">](production-control\reversing-production-order-status.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="242" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>production-control\substituting-items-on-bom-lines<ept id="p1">](production-control\substituting-items-on-bom-lines.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="243" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>production-control\time-and-attendance-registrations<ept id="p1">](production-control\time-and-attendance-registrations.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="244" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>sales-marketing<ept id="p1">](sales-marketing)</ept></source>
+        </trans-unit>
+        <trans-unit id="245" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>sales-marketing\delivery-dates-and-available-to-promise-calculations<ept id="p1">](sales-marketing\delivery-dates-and-available-to-promise-calculations.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="246" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>sales-marketing\delivery-schedules<ept id="p1">](sales-marketing\delivery-schedules.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="247" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>sales-marketing\delivery-schedules-2<ept id="p1">](sales-marketing\delivery-schedules-2.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="248" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>sales-marketing\direct-deliveries<ept id="p1">](sales-marketing\direct-deliveries.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="249" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>sales-marketing\order-entry-deadlines<ept id="p1">](sales-marketing\order-entry-deadlines.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="250" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>sales-marketing\overview-sales-and-marketing<ept id="p1">](sales-marketing\overview-sales-and-marketing.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="251" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>sales-marketing\price-simulation<ept id="p1">](sales-marketing\price-simulation.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="252" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>sales-marketing\sales<ept id="p1">](sales-marketing\sales.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="253" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>sales-marketing\sales-agreements<ept id="p1">](sales-marketing\sales-agreements.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="254" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>transportation-management<ept id="p1">](transportation-management)</ept></source>
+        </trans-unit>
+        <trans-unit id="255" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>transportation-management\create-a-bill-of-lading<ept id="p1">](transportation-management\create-a-bill-of-lading.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="256" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>transportation-management\plan-loads-using-hub-consolidation<ept id="p1">](transportation-management\plan-loads-using-hub-consolidation.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="257" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>transportation-management\planning-freight-transportation-routes-with-multiple-stops<ept id="p1">](transportation-management\planning-freight-transportation-routes-with-multiple-stops.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="258" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>transportation-management\reconcile-freight-in-transportation-management<ept id="p1">](transportation-management\reconcile-freight-in-transportation-management.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="259" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>warehouse-management<ept id="p1">](warehouse-management)</ept></source>
+        </trans-unit>
+        <trans-unit id="260" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>warehouse-management\advantages-of-using-inventory-statuses<ept id="p1">](warehouse-management\advantages-of-using-inventory-statuses.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="261" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>warehouse-management\changing-the-look-and-feel-of-warehouse-mobile-device-displays<ept id="p1">](warehouse-management\changing-the-look-and-feel-of-warehouse-mobile-device-displays.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="262" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>warehouse-management\configure-mobile-devices-for-warehouse-work<ept id="p1">](warehouse-management\configure-mobile-devices-for-warehouse-work.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="263" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>warehouse-management\controlling-warehouse-work-with-work-templates-and-location-directives<ept id="p1">](warehouse-management\controlling-warehouse-work-with-work-templates-and-location-directives.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="264" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>warehouse-management\cycle-counting<ept id="p1">](warehouse-management\cycle-counting.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="265" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>warehouse-management\enabling-quality-management<ept id="p1">](warehouse-management\enabling-quality-management.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="266" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>warehouse-management\inventory-blocking<ept id="p1">](warehouse-management\inventory-blocking.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="267" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>warehouse-management\inventory-journals<ept id="p1">](warehouse-management\inventory-journals.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="268" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>warehouse-management\inventory-locations<ept id="p1">](warehouse-management\inventory-locations.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="269" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>warehouse-management\inventory-management<ept id="p1">](warehouse-management\inventory-management.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="270" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>warehouse-management\inventory-tag-counting<ept id="p1">](warehouse-management\inventory-tag-counting.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="271" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>warehouse-management\manage-warehouse-workers<ept id="p1">](warehouse-management\manage-warehouse-workers.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="272" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>warehouse-management\packing-materials-and-packing-material-fees<ept id="p1">](warehouse-management\packing-materials-and-packing-material-fees.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="273" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>warehouse-management\replenishment<ept id="p1">](warehouse-management\replenishment.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="274" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>warehouse-management\transportation-management<ept id="p1">](warehouse-management\transportation-management.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="275" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>warehouse-management\transportation-management-engines<ept id="p1">](warehouse-management\transportation-management-engines.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="276" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>warehouse-management\unit-of-measure-and-stocking-policies<ept id="p1">](warehouse-management\unit-of-measure-and-stocking-policies.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="277" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>warehouse-management\warehouse-configuration<ept id="p1">](warehouse-management\warehouse-configuration.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="278" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>warehouse-management\warehouse-management<ept id="p1">](warehouse-management\warehouse-management.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="279" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>warehouse-management\warehouse-mobile-devices-portal-for-microsoft-dynamics-ax<ept id="p1">](warehouse-management\warehouse-mobile-devices-portal-for-microsoft-dynamics-ax.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="280" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>warehouse-management\warehouse-work-policies-2<ept id="p1">](warehouse-management\warehouse-work-policies-2.md)</ept></source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

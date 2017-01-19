@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-fafe89b" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a4894211d037fa9a866e69222e1442295b1d00b0</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\dev-tools\dynamics-ax7-technical-preview-development-tools.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">do-not-translate</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dec23b64b84f4f8083a688d453bbf5a03fbe0fd9</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c6f01b543c74124d441224f7f31909d1696f1539</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Development tools | Microsoft Docs</source>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Application development is carried out exclusively in Visual Studio.</source>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Development tools</source>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>What are the development tools?</source>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>A notable change from Microsoft Dynamics AX 2012 is that Dynamics 365 for Operations does not include a rich-client application (ax32.exe).</source>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>From a development perspective, this means that the Microsoft Dynamics AX 2012 development environment, MorphX, is no longer used.</source>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>In its place, the application development is carried out exclusively in Visual Studio.</source>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>The development tools support all of the development tasks, including debugging and local testing scenarios.</source>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>A primary goal of the development experience is to keep familiar Microsoft Dynamics AX 2012 concepts, and seamlessly adapt them to the Visual Studio framework and paradigms.</source>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>What are the Visual Studio tools?</source>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Visual Studio 2015 is the exclusive integrated development environment (IDE) for development.</source>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>All of your application development work will be performed with it.</source>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>This section is an overview of the main features that are added to Visual Studio when the development tools are installed.</source>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Application Explorer</source>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>In Visual Studio, the model store is represented by the Application Explorer.</source>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>On the <bpt id="p1">**</bpt>View<ept id="p1">**</ept> menu, click <bpt id="p2">**</bpt>Application<ept id="p2">**</ept> <bpt id="p3">**</bpt>Explorer<ept id="p3">**</ept> to open it.</source>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>The Application Explorer corresponds to the Application Object Tree (AOT) that you may be familiar with in Microsoft Dynamics AX 2012.</source>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Use the Application Explorer to browse and interact with the elements in the model store that define the applications.</source>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>The following illustration shows the Application Explorer.</source>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>For more details, see <bpt id="p1">[</bpt>Application Explorer<ept id="p1">](http://ax.help.dynamics.com/en/wiki/the-application-explorer/)</ept>.</source>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt><ph id="ph1">![</ph>1<ph id="ph2">\_</ph>DevoToolsConcept<ept id="p1">](media/1_DevoToolsConcept.png)](media/1_DevoToolsConcept.png)</ept></source>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>The project template</source>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Even a simple application can have a large number of elements in its model.</source>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>The <bpt id="p1">**</bpt>Operations Project<ept id="p1">**</ept> template has been added to Visual Studio to help you organize and manage the elements that you are working with for a model.</source>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>You will use the project to design, build, and test model elements.</source>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>It’s common to have several projects within a single Visual Studio solution.</source>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>The following illustration shows three projects in a Visual Studio solution.</source>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>For more details, see <bpt id="p1">[</bpt>Projects<ept id="p1">](https://ax.help.dynamics.com/en/wiki/projects/)</ept>.</source>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt><ph id="ph1">![</ph>2<ph id="ph2">\_</ph>DevoToolsConcept<ept id="p1">](media/2_DevoToolsConcept.png)](media/2_DevoToolsConcept.png)</ept></source>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>Element designers</source>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>The Visual Studio tools contain designers for each kind of element in the application.</source>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>You will use these designers when you create or modify elements.</source>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>The following illustration shows the element designer for a form element.</source>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>For more details, see <bpt id="p1">[</bpt>Element designers<ept id="p1">](https://ax.help.dynamics.com/en/wiki/element-designers/)</ept>.</source>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt><ph id="ph1">![</ph>3<ph id="ph2">\_</ph>DevoToolsConcept<ept id="p1">](media/3_DevoToolsConcept.png)](media/3_DevoToolsConcept.png)</ept></source>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Code editor</source>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>The X++ code is written in the code editor for Visual Studio.</source>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>The standard features that a developer expects from the code editor are supported.</source>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>For example, sections of code are collapsible.</source>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>IntelliSense provides guidance as you write or modify code.</source>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>For more details, see <bpt id="p1">[</bpt>Code editor<ept id="p1">](https://ax.help.dynamics.com/en/wiki/code-editor/)</ept>.</source>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt><ph id="ph1">![</ph>4<ph id="ph2">\_</ph>DevoToolsConcept<ept id="p1">](media/4_DevoToolsConcept.png)](media/4_DevoToolsConcept.png)</ept></source>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>Dynamics 365 menu</source>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>The tools add the <bpt id="p1">**</bpt>Dynamics 365<ept id="p1">**</ept> menu to Visual Studio.</source>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>Several tools that you will use during the development process are found here.</source>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>For example, the tools for managing models are accessed from the menu.</source>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt><ph id="ph1">![</ph>5<ph id="ph2">\_</ph>DevoToolsConcept<ept id="p1">](media/5_DevoToolsConcept.png)](media/5_DevoToolsConcept.png)</ept></source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
