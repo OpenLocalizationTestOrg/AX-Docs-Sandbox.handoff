@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="ru-ru">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-188fee3" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8b89a923f98910e3cdffc42c5e40e6fdfad99bef</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\retail\microsoft-dynamics-ax-retail-for-it-pros-and-developers.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">do-not-translate</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8af892c2da9c2790022f5248855b0e683a0aa303</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d7cbd540c2d69d0bbe7e5496c78e3beb87a05b8f</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Microsoft Dynamics 365 for Operations - Retail for IT Pros and developers | Microsoft Docs</source>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This page lists the resources that are available for IT Pros and developers who support Retail and commerce in Microsoft Dynamics 365 for Operations.</source>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Microsoft Dynamics 365 for Operations - Retail for IT Pros and developers</source>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Retail Components</source>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Components of Microsoft Dynamics 365 for Operations - Retail<ept id="p1">](http://ax.help.dynamics.com/en/wiki/components-of-microsoft-dynamics-365-for-operations-retail/)</ept> <bpt id="p2">[</bpt>Retail Store Scale Unit overview<ept id="p2">](http://ax.help.dynamics.com/en/wiki/retail-store-system-before-you-begin/)</ept></source>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Retail Deployment</source>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Retail Modern POS configuration and installation<ept id="p1">](https://ax.help.dynamics.com/en/wiki/retail-modern-pos-and-device-activation-scenarios/)</ept> <bpt id="p2">[</bpt>Manage Retail accounts and devices from headquarters<ept id="p2">](https://ax.help.dynamics.com/en/wiki/setting-up-activation-accounts-and-validating-devices-in-hq/)</ept> <bpt id="p3">[</bpt>Retail POS device activation<ept id="p3">](https://ax.help.dynamics.com/en/wiki/cloud-pos-and-modern-pos-guided-device-activation-and-client-simplifications/)</ept> <bpt id="p4">[</bpt>Install the POS Layout designer<ept id="p4">](http://ax.help.dynamics.com/en/wiki/install-the-pos-layout-designer/)</ept> <bpt id="p5">[</bpt>Retail Hardware Station configuration and installation<ept id="p5">](http://ax.help.dynamics.com/en/wiki/retail-hardware-station-configuration-and-installation/)</ept> <bpt id="p6">[</bpt>Retail Store Scale Unit configuration and installation<ept id="p6">](http://ax.help.dynamics.com/en/wiki/retail-store-scale-unit-configuration-and-installation/)</ept> <bpt id="p7">[</bpt>Retail component events for diagnostics and troubleshooting<ept id="p7">](https://ax.help.dynamics.com/en/wiki/retail-component-events-for-diagnostics-and-troubleshooting/)</ept> <bpt id="p8">[</bpt>Access Microsoft Dynamics 365 for Operations instances<ept id="p8">](https://ax.help.dynamics.com/en/wiki/access-microsoft-dynamics-ax-7-instances-2/)</ept></source>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Retail Point of Sale</source>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Retail Modern POS architecture<ept id="p1">](https://ax.help.dynamics.com/en/wiki/Retail-Modern-POS-architecture/)</ept> <bpt id="p2">[</bpt>Retail online store publishing architecture<ept id="p2">](https://ax.help.dynamics.com/en/wiki/retail-online-store-publishing-architecture/)</ept> <bpt id="p3">[</bpt>Create a Retail Experience app<ept id="p3">](https://ax.help.dynamics.com/en/wiki/create-a-retail-experience-app/)</ept> <bpt id="p4">[</bpt>Retail Modern POS configuration and installation<ept id="p4">](https://ax.help.dynamics.com/en/wiki/retail-modern-pos-and-device-activation-scenarios/)</ept> <bpt id="p5">[</bpt>Manage Retail accounts and devices from headquarters<ept id="p5">](https://ax.help.dynamics.com/en/wiki/setting-up-activation-accounts-and-validating-devices-in-hq/)</ept> <bpt id="p6">[</bpt>Retail POS device activation<ept id="p6">](https://ax.help.dynamics.com/en/wiki/cloud-pos-and-modern-pos-guided-device-activation-and-client-simplifications/)</ept> <bpt id="p7">[</bpt>Security best practices for Dynamics 365 for Operations &amp;<ph id="ph1">\#</ph>8211; Retail Cloud POS in a shared environment<ept id="p7">](http://ax.help.dynamics.com/en/wiki/securing-retail-cloud-pos-for-dynamics-ax-on-a-shared-environment/)</ept> <bpt id="p8">[</bpt>Install the POS Layout designer<ept id="p8">](http://ax.help.dynamics.com/en/wiki/install-the-pos-layout-designer/)</ept> <bpt id="p9">[</bpt>Use Retail Modern POS in offline mode<ept id="p9">](https://ax.help.dynamics.com/en/wiki/Use-Retail-Modern-POS-in-offline-mode/)</ept> <bpt id="p10">[</bpt>Call a new or customized CRT service in offline mode<ept id="p10">](https://ax.help.dynamics.com/en/wiki/how-to-call-newcustomized-crt-service-in-offline/)</ept> <bpt id="p11">[</bpt>Modern POS and Cloud POS trigger extensibility<ept id="p11">](https://ax.help.dynamics.com/en/wiki/modern-pos-and-cloud-pos-trigger-extensibility/)</ept> <bpt id="p12">[</bpt>Add a new custom control to an MPOS screen layout<ept id="p12">](https://ax.help.dynamics.com/en/wiki/add-new-custom-control-in-mpos-screen-layout/)</ept> <bpt id="p13">[</bpt>Implementing a return policy by using triggers<ept id="p13">](https://ax.help.dynamics.com/en/wiki/trigger-example-return-policy/)</ept> <bpt id="p14">[</bpt>Blocking a transaction by using triggers<ept id="p14">](https://ax.help.dynamics.com/en/wiki/trigger-example-blocking-a-transaction/)</ept> <bpt id="p15">[</bpt>Retail POS screen layouts<ept id="p15">](https://ax.help.dynamics.com/en/wiki/pos-screen-layouts/)</ept> <bpt id="p16">[</bpt>Add extension properties to a Customer entity<ept id="p16">](http://ax.help.dynamics.com/en/wiki/add-extension-properties/)</ept></source>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Retail Server</source>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Architecture of Microsoft Dynamics AX Retail Server<ept id="p1">](https://ax.help.dynamics.com/en/wiki/architecture-of-microsoft-dynamics-ax-retail-server/)</ept> <bpt id="p2">[</bpt>Extend a Retail Server OData controller<ept id="p2">](https://ax.help.dynamics.com/en/wiki/Extend-a-Retail-Server-OData-Controller/)</ept> <bpt id="p3">[</bpt>Extend the metadata<ept id="p3">](https://ax.help.dynamics.com/en/wiki/Extend-the-metadata/)</ept> <bpt id="p4">[</bpt>Use Web API and OData controllers together<ept id="p4">](https://ax.help.dynamics.com/en/wiki/Use-Web-API-and-OData-controllers-together/)</ept> <bpt id="p5">[</bpt>Retail Server customer and consumer APIs<ept id="p5">](http://ax.help.dynamics.com/en/wiki/retail-server-customer-consumer-api)</ept></source>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Retail Hardware Station</source>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Retail hardware station configuration and installation<ept id="p1">](https://ax.help.dynamics.com/en/wiki/retail-hardware-station-configuration-and-installation/)</ept> <bpt id="p2">[</bpt>Hardware Station Extensibility<ept id="p2">](http://ax.help.dynamics.com/en/wiki/hardware-station-extensibility/)</ept></source>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Retail Store Scale Unit</source>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Retail Store Scale Unit overview<ept id="p1">](http://ax.help.dynamics.com/en/wiki/retail-store-system-before-you-begin/)</ept> <bpt id="p2">[</bpt>Retail Store Scale Unit configuration and installation<ept id="p2">](http://ax.help.dynamics.com/en/wiki/retail-store-scale-unit-configuration-and-installation/)</ept></source>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Commerce Runtime</source>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Commerce Runtime overview<ept id="p1">](https://ax.help.dynamics.com/en/wiki/commerce-runtime-overview/)</ept> <bpt id="p2">[</bpt>Commerce Runtime Extensibility - Trigger<ept id="p2">](http://ax.help.dynamics.com/en/wiki/commerce-runtime-extensibility-trigger)</ept> <bpt id="p3">[</bpt>Add customer preference data to a channel database<ept id="p3">](http://ax.help.dynamics.com/en/wiki/add-customer-preference-data-to-a-channel-database/)</ept> <bpt id="p4">[</bpt>Add properties to a sales order<ept id="p4">](https://ax.help.dynamics.com/en/wiki/add-properties-to-a-sales-order/)</ept></source>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Retail SDK</source>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Retail SDK Overview<ept id="p1">](http://ax.help.dynamics.com/wiki/retail-sdk-overview/)</ept> <bpt id="p2">[</bpt>Retail SDK packaging<ept id="p2">](https://ax.help.dynamics.com/en/wiki/retailsdk-packaging/)</ept> <bpt id="p3">[</bpt>Integrate the Retail SDK with the Dynamics AX continuous build system (VSTS)<ept id="p3">](https://ax.help.dynamics.com/en/wiki/steps-to-integrate-retail-sdk-with-the-ax-continuous-build-vsts/)</ept></source>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>eCommerce</source>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>e-Commerce platform<ept id="p1">](http://ax.help.dynamics.com/en/wiki/e-commerce-platform/)</ept> <bpt id="p2">[</bpt>e-Commerce platform SDK<ept id="p2">](http://ax.help.dynamics.com/en/wiki/e-commerce-platform-sdk/)</ept> <bpt id="p3">[</bpt>Configure an online store<ept id="p3">](https://ax.help.dynamics.com/en/wiki/configure-an-online-store/)</ept></source>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Payments</source>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Implementing a payment connector and payment device (white paper)<ept id="p1">](http://download.microsoft.com/download/4/D/7/4D7C6B05-0C23-4C6C-BA13-AB62ED08AA61/The%20Guide%20to%20Implementing%20Payment%20Connector%20and%20Payment%20Device.docx)</ept> <bpt id="p2">[</bpt>Create a Windows installer for a payment connector<ept id="p2">](http://ax.help.dynamics.com/en/wiki/create-a-windows-installer-for-a-payment-connector)</ept> <bpt id="p3">[</bpt>Deploy a payment connector<ept id="p3">](https://ax.help.dynamics.com/en/wiki/deploy-payment-connector/)</ept></source>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Hotfixes</source>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Install Retail hotfixes<ept id="p1">](http://ax.help.dynamics.com/en/wiki/install-retail-hotfixes/)</ept></source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
