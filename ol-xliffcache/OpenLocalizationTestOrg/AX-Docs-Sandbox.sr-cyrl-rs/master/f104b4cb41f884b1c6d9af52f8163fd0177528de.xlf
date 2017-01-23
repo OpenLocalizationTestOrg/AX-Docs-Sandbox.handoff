@@ -1,0 +1,903 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-71050dc" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f104b4cb41f884b1c6d9af52f8163fd0177528de</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\TOC.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">need-to-investigate</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6ac9eff24d0d4bd92c6f91da1d7fdbd1235337af</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">04b2af6d2fd005817c2d66ee0597eb4375f7c704</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable<ept id="p1">](accounts-payable)</ept></source>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\accounting-distributions<ept id="p1">](accounts-payable\accounting-distributions.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\accounting-distributions-and-subledger-journal-entries-for-vendor-invoices<ept id="p1">](accounts-payable\accounting-distributions-and-subledger-journal-entries-for-vendor-invoices.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\accounting-source-explorer<ept id="p1">](accounts-payable\accounting-source-explorer.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\accounts-payable<ept id="p1">](accounts-payable\accounts-payable.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\accounts-payable-invoice-matching<ept id="p1">](accounts-payable\accounts-payable-invoice-matching.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\accounts-payable-overview<ept id="p1">](accounts-payable\accounts-payable-overview.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\cash-and-bank-management<ept id="p1">](accounts-payable\cash-and-bank-management.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\cash-discounts<ept id="p1">](accounts-payable\cash-discounts.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\centralized-payments-for-accounts-payable<ept id="p1">](accounts-payable\centralized-payments-for-accounts-payable.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\configure-settlement<ept id="p1">](accounts-payable\configure-settlement.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\create-vendor-payments-using-a-payment-proposal<ept id="p1">](accounts-payable\create-vendor-payments-using-a-payment-proposal.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\data-entities-accounts-payable-and-taxes<ept id="p1">](accounts-payable\data-entities-accounts-payable-and-taxes.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\default-offset-accounts-for-vendor-invoice-journals-and-invoice-approval-journals<ept id="p1">](accounts-payable\default-offset-accounts-for-vendor-invoice-journals-and-invoice-approval-journals.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\foreign-currency-revaluation-for-accounts-payable-and-accounts-receivable<ept id="p1">](accounts-payable\foreign-currency-revaluation-for-accounts-payable-and-accounts-receivable.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\invoice-matching-and-intercompany-purchase-orders<ept id="p1">](accounts-payable\invoice-matching-and-intercompany-purchase-orders.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\positive-pay-overview<ept id="p1">](accounts-payable\positive-pay-overview.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\project-invoicing<ept id="p1">](accounts-payable\project-invoicing.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\purchase-agreements<ept id="p1">](accounts-payable\purchase-agreements.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\resolve-invoice-totals-invoice-matching-discrepancies<ept id="p1">](accounts-payable\resolve-invoice-totals-invoice-matching-discrepancies.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\reverse-a-vendor-payment<ept id="p1">](accounts-payable\reverse-a-vendor-payment.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\scenario-settle-a-partial-customer-payment-and-settle-the-final-payment-in-full-before-the-discount-date<ept id="p1">](accounts-payable\scenario-settle-a-partial-customer-payment-and-settle-the-final-payment-in-full-before-the-discount-date.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\scenario-settle-a-partial-vendor-payment-and-settle-the-final-payment-in-full-before-the-discount-date<ept id="p1">](accounts-payable\scenario-settle-a-partial-vendor-payment-and-settle-the-final-payment-in-full-before-the-discount-date.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\scenario-settle-a-partial-vendor-payment-before-the-discount-date-with-a-final-payment-after-the-discount-date<ept id="p1">](accounts-payable\scenario-settle-a-partial-vendor-payment-before-the-discount-date-with-a-final-payment-after-the-discount-date.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\scenario-settle-a-partial-vendor-payment-that-has-discounts-on-vendor-credit-notes<ept id="p1">](accounts-payable\scenario-settle-a-partial-vendor-payment-that-has-discounts-on-vendor-credit-notes.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\scenario-settle-a-partial-vendor-payment-that-has-multiple-discount-periods<ept id="p1">](accounts-payable\scenario-settle-a-partial-vendor-payment-that-has-multiple-discount-periods.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\scenario-take-a-discount-that-is-more-than-the-calculated-discount-for-a-vendor-payment<ept id="p1">](accounts-payable\scenario-take-a-discount-that-is-more-than-the-calculated-discount-for-a-vendor-payment.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\sepa-credit-transfer-overview<ept id="p1">](accounts-payable\sepa-credit-transfer-overview.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\settlement-overview<ept id="p1">](accounts-payable\settlement-overview.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\set-up-and-generate-positive-pay-files<ept id="p1">](accounts-payable\set-up-and-generate-positive-pay-files.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\set-up-centralized-payments<ept id="p1">](accounts-payable\set-up-centralized-payments.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\single-voucher-with-multiple-customer-or-vendor-records<ept id="p1">](accounts-payable\single-voucher-with-multiple-customer-or-vendor-records.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\take-a-cash-discount-outside-the-cash-discount-timeframe<ept id="p1">](accounts-payable\take-a-cash-discount-outside-the-cash-discount-timeframe.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\three-way-matching-policies<ept id="p1">](accounts-payable\three-way-matching-policies.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\vendor-agreements-and-project-contracts<ept id="p1">](accounts-payable\vendor-agreements-and-project-contracts.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\vendor-invoices-overview<ept id="p1">](accounts-payable\vendor-invoices-overview.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\vendor-payments-for-a-partial-amount<ept id="p1">](accounts-payable\vendor-payments-for-a-partial-amount.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\vendor-portal-invoicing-workspace<ept id="p1">](accounts-payable\vendor-portal-invoicing-workspace.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-payable\vendor-posting-profiles<ept id="p1">](accounts-payable\vendor-posting-profiles.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-receivable<ept id="p1">](accounts-receivable)</ept></source>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-receivable\accounting-distributions-and-subledger-journal-entries-for-free-text-invoices<ept id="p1">](accounts-receivable\accounting-distributions-and-subledger-journal-entries-for-free-text-invoices.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-receivable\accounts-receivable<ept id="p1">](accounts-receivable\accounts-receivable.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-receivable\accounts-receivables-setup-overview<ept id="p1">](accounts-receivable\accounts-receivables-setup-overview.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-receivable\centralized-payments-for-accounts-receivable<ept id="p1">](accounts-receivable\centralized-payments-for-accounts-receivable.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-receivable\close-accounts-receivable<ept id="p1">](accounts-receivable\close-accounts-receivable.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-receivable\collections-and-credit-in-accounts-receivable<ept id="p1">](accounts-receivable\collections-and-credit-in-accounts-receivable.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-receivable\configure-customer-invoices<ept id="p1">](accounts-receivable\configure-customer-invoices.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-receivable\correct-a-free-text-invoice<ept id="p1">](accounts-receivable\correct-a-free-text-invoice.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-receivable\credit-card-authorizations<ept id="p1">](accounts-receivable\credit-card-authorizations.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-receivable\customer-payments-for-a-partial-amount<ept id="p1">](accounts-receivable\customer-payments-for-a-partial-amount.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-receivable\customer-posting-profiles<ept id="p1">](accounts-receivable\customer-posting-profiles.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-receivable\data-entities-accounts-receivable<ept id="p1">](accounts-receivable\data-entities-accounts-receivable.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-receivable\reimburse-customers<ept id="p1">](accounts-receivable\reimburse-customers.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-receivable\scenario-settle-a-partial-customer-payment-before-the-discount-date-with-a-final-payment-after-the-discount-date<ept id="p1">](accounts-receivable\scenario-settle-a-partial-customer-payment-before-the-discount-date-with-a-final-payment-after-the-discount-date.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-receivable\scenario-settle-a-partial-customer-payment-that-has-discounts-on-credit-notes<ept id="p1">](accounts-receivable\scenario-settle-a-partial-customer-payment-that-has-discounts-on-credit-notes.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-receivable\scenario-settle-a-partial-customer-payment-that-has-multiple-discount-periods<ept id="p1">](accounts-receivable\scenario-settle-a-partial-customer-payment-that-has-multiple-discount-periods.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-receivable\scenario-use-one-customer-payment-to-settle-multiple-invoices-that-span-multiple-discount-periods<ept id="p1">](accounts-receivable\scenario-use-one-customer-payment-to-settle-multiple-invoices-that-span-multiple-discount-periods.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-receivable\sepa-direct-debit-overview<ept id="p1">](accounts-receivable\sepa-direct-debit-overview.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-receivable\set-up-and-process-recurring-invoices<ept id="p1">](accounts-receivable\set-up-and-process-recurring-invoices.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-receivable\set-up-collections<ept id="p1">](accounts-receivable\set-up-collections.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-receivable\set-up-interest-rates-for-an-interest-code<ept id="p1">](accounts-receivable\set-up-interest-rates-for-an-interest-code.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>accounts-receivable\waive-reinstate-reverse-interest-fees<ept id="p1">](accounts-receivable\waive-reinstate-reverse-interest-fees.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>budgeting<ept id="p1">](budgeting)</ept></source>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>budgeting\activating-financial-dimensions<ept id="p1">](budgeting\activating-financial-dimensions.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>budgeting\basic-budgeting-overview-and-configuration<ept id="p1">](budgeting\basic-budgeting-overview-and-configuration.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>budgeting\budget-control-overview-and-configuration<ept id="p1">](budgeting\budget-control-overview-and-configuration.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>budgeting\budgeting-overview<ept id="p1">](budgeting\budgeting-overview.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>budgeting\budget-planning-101<ept id="p1">](budgeting\budget-planning-101.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>budgeting\budget-planning-data-allocation<ept id="p1">](budgeting\budget-planning-data-allocation.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>budgeting\budget-planning-integration-with-other-modules<ept id="p1">](budgeting\budget-planning-integration-with-other-modules.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>budgeting\budget-planning-justification-documents<ept id="p1">](budgeting\budget-planning-justification-documents.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>budgeting\budget-planning-overview-and-configuration<ept id="p1">](budgeting\budget-planning-overview-and-configuration.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>budgeting\consolidation-and-elimination-overview<ept id="p1">](budgeting\consolidation-and-elimination-overview.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="174" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>budgeting\create-a-budget-from-transaction-accounts-and-total-accounts<ept id="p1">](budgeting\create-a-budget-from-transaction-accounts-and-total-accounts.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="175" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>budgeting\data-entities-beginning-balances__trashed<ept id="p1">](budgeting\data-entities-beginning-balances__trashed.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="176" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>budgeting\data-entities-beginning-balances-2<ept id="p1">](budgeting\data-entities-beginning-balances-2.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="177" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>budgeting\data-entities-budgeting<ept id="p1">](budgeting\data-entities-budgeting.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="178" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>budgeting\fiscal-calendars-fiscal-years-and-periods<ept id="p1">](budgeting\fiscal-calendars-fiscal-years-and-periods.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="179" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>budgeting\position-budgeting-setup-issues<ept id="p1">](budgeting\position-budgeting-setup-issues.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="180" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>budgeting\position-forecasting<ept id="p1">](budgeting\position-forecasting.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="181" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>budgeting\smart-excel-templates-for-budget-planning<ept id="p1">](budgeting\smart-excel-templates-for-budget-planning.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="182" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>business-processes<ept id="p1">](business-processes)</ept></source>
+        </trans-unit>
+        <trans-unit id="183" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cash-bank-management<ept id="p1">](cash-bank-management)</ept></source>
+        </trans-unit>
+        <trans-unit id="184" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cash-bank-management\about-letters-of-credit<ept id="p1">](cash-bank-management\about-letters-of-credit.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="185" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cash-bank-management\about-letters-of-credit-and-import-collections<ept id="p1">](cash-bank-management\about-letters-of-credit-and-import-collections.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="186" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cash-bank-management\about-postdated-checks<ept id="p1">](cash-bank-management\about-postdated-checks.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="187" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cash-bank-management\advanced-bank-reconciliation-mt940-import-composite-data-entity-upgrade-steps<ept id="p1">](cash-bank-management\advanced-bank-reconciliation-mt940-import-composite-data-entity-upgrade-steps.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="188" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cash-bank-management\advanced-bank-reconciliation-overview<ept id="p1">](cash-bank-management\advanced-bank-reconciliation-overview.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="189" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cash-bank-management\configure-advanced-bank-reconciliation<ept id="p1">](cash-bank-management\configure-advanced-bank-reconciliation.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="190" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cash-bank-management\data-entities-bank<ept id="p1">](cash-bank-management\data-entities-bank.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="191" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cash-bank-management\how-to-upgrade-bank-journal-composite-entity<ept id="p1">](cash-bank-management\how-to-upgrade-bank-journal-composite-entity.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="192" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cash-bank-management\import-bank-statement-file-failed-or-has-incorrect-results<ept id="p1">](cash-bank-management\import-bank-statement-file-failed-or-has-incorrect-results.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="193" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cash-bank-management\letters-of-guarantee<ept id="p1">](cash-bank-management\letters-of-guarantee.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="194" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cash-bank-management\prepayments-invoices-vs-prepayments<ept id="p1">](cash-bank-management\prepayments-invoices-vs-prepayments.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="195" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cash-bank-management\reconcile-bank-statements-using-advanced-bank-reconciliation<ept id="p1">](cash-bank-management\reconcile-bank-statements-using-advanced-bank-reconciliation.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="196" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cash-bank-management\scenario-automatic-settlement-and-prioritization<ept id="p1">](cash-bank-management\scenario-automatic-settlement-and-prioritization.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="197" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cash-bank-management\scenario-cash-discount-handling-for-overpayments<ept id="p1">](cash-bank-management\scenario-cash-discount-handling-for-overpayments.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="198" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cash-bank-management\settlement-overview-for-centralized-payments<ept id="p1">](cash-bank-management\settlement-overview-for-centralized-payments.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="199" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cash-bank-management\set-up-bank-reconciliation-matching-rules<ept id="p1">](cash-bank-management\set-up-bank-reconciliation-matching-rules.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="200" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cash-bank-management\set-up-the-advanced-bank-reconciliation-import-process<ept id="p1">](cash-bank-management\set-up-the-advanced-bank-reconciliation-import-process.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="201" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-accounting<ept id="p1">](cost-accounting)</ept></source>
+        </trans-unit>
+        <trans-unit id="202" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-accounting\cost-accounting-home-page<ept id="p1">](cost-accounting\cost-accounting-home-page.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="203" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-accounting\cost-elements<ept id="p1">](cost-accounting\cost-elements.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="204" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-accounting\cost-objects<ept id="p1">](cost-accounting\cost-objects.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="205" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>cost-accounting\mapping-cost-elements-dimension-members<ept id="p1">](cost-accounting\mapping-cost-elements-dimension-members.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="206" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>credit-collections<ept id="p1">](credit-collections)</ept></source>
+        </trans-unit>
+        <trans-unit id="207" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>credit-collections\cases<ept id="p1">](credit-collections\cases.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="208" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>expense-management<ept id="p1">](expense-management)</ept></source>
+        </trans-unit>
+        <trans-unit id="209" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>expense-management\expense-management<ept id="p1">](expense-management\expense-management.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="210" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>fixed-assets<ept id="p1">](fixed-assets)</ept></source>
+        </trans-unit>
+        <trans-unit id="211" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>fixed-assets\125-percent-reducing-balance-depreciation<ept id="p1">](fixed-assets\125-percent-reducing-balance-depreciation.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="212" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>fixed-assets\150-percent-reducing-balance-depreciation<ept id="p1">](fixed-assets\150-percent-reducing-balance-depreciation.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="213" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>fixed-assets\175-percent-reducing-balance-depreciation<ept id="p1">](fixed-assets\175-percent-reducing-balance-depreciation.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="214" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>fixed-assets\200-percent-reducing-balance-depreciation<ept id="p1">](fixed-assets\200-percent-reducing-balance-depreciation.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="215" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>fixed-assets\acquire-assets-through-procurement<ept id="p1">](fixed-assets\acquire-assets-through-procurement.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="216" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>fixed-assets\basic-set-up-of-fixed-assets<ept id="p1">](fixed-assets\basic-set-up-of-fixed-assets.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="217" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>fixed-assets\bonus-depreciation<ept id="p1">](fixed-assets\bonus-depreciation.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="218" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>fixed-assets\consumption-depreciation<ept id="p1">](fixed-assets\consumption-depreciation.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="219" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>fixed-assets\depreciation-book-upgrade-considerations<ept id="p1">](fixed-assets\depreciation-book-upgrade-considerations.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="220" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>fixed-assets\depreciation-effects-with-reversals<ept id="p1">](fixed-assets\depreciation-effects-with-reversals.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="221" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>fixed-assets\depreciation-methods-and-conventions<ept id="p1">](fixed-assets\depreciation-methods-and-conventions.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="222" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>fixed-assets\derived-books<ept id="p1">](fixed-assets\derived-books.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="223" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>fixed-assets\derived-depreciation-books<ept id="p1">](fixed-assets\derived-depreciation-books.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="224" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>fixed-assets\factor-depreciation<ept id="p1">](fixed-assets\factor-depreciation.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="225" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>fixed-assets\fixed-asset-acquisition-posting-accounts<ept id="p1">](fixed-assets\fixed-asset-acquisition-posting-accounts.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="226" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>fixed-assets\fixed-asset-depreciation<ept id="p1">](fixed-assets\fixed-asset-depreciation.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="227" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>fixed-assets\fixed-asset-disposal-posting-accounts<ept id="p1">](fixed-assets\fixed-asset-disposal-posting-accounts.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="228" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>fixed-assets\fixed-asset-mass-update<ept id="p1">](fixed-assets\fixed-asset-mass-update.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="229" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>fixed-assets\fixed-assets<ept id="p1">](fixed-assets\fixed-assets.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="230" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>fixed-assets\fixed-assets-integration<ept id="p1">](fixed-assets\fixed-assets-integration.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="231" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>fixed-assets\fixed-asset-value-model-and-depreciation-book-merge<ept id="p1">](fixed-assets\fixed-asset-value-model-and-depreciation-book-merge.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="232" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>fixed-assets\manual-depreciation<ept id="p1">](fixed-assets\manual-depreciation.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="233" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>fixed-assets\options-for-entering-fixed-asset-transactions<ept id="p1">](fixed-assets\options-for-entering-fixed-asset-transactions.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="234" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>fixed-assets\posting-fixed-asset-transactions-to-posting-layers<ept id="p1">](fixed-assets\posting-fixed-asset-transactions-to-posting-layers.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="235" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>fixed-assets\posting-with-derived-depreciation-books<ept id="p1">](fixed-assets\posting-with-derived-depreciation-books.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="236" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>fixed-assets\posting-with-derived-value-models<ept id="p1">](fixed-assets\posting-with-derived-value-models.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="237" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>fixed-assets\recalculating-replacement-costs-and-insured-values-for-fixed-asset-groups<ept id="p1">](fixed-assets\recalculating-replacement-costs-and-insured-values-for-fixed-asset-groups.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="238" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>fixed-assets\reducing-balance-depreciation<ept id="p1">](fixed-assets\reducing-balance-depreciation.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="239" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>fixed-assets\round-off-amount-for-depreciation-calculations<ept id="p1">](fixed-assets\round-off-amount-for-depreciation-calculations.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="240" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>fixed-assets\straight-line-life-remaining-depreciation<ept id="p1">](fixed-assets\straight-line-life-remaining-depreciation.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="241" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>fixed-assets\straight-line-service-life-depreciation<ept id="p1">](fixed-assets\straight-line-service-life-depreciation.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="242" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger<ept id="p1">](general-ledger)</ept></source>
+        </trans-unit>
+        <trans-unit id="243" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\accruals-overview<ept id="p1">](general-ledger\accruals-overview.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="244" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\audit-policy-rules<ept id="p1">](general-ledger\audit-policy-rules.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="245" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\audit-policy-violations-and-cases<ept id="p1">](general-ledger\audit-policy-violations-and-cases.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="246" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\balance-sheet-financial-reports<ept id="p1">](general-ledger\balance-sheet-financial-reports.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="247" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\close-the-general-ledger-at-period-end<ept id="p1">](general-ledger\close-the-general-ledger-at-period-end.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="248" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\convertingaccountingorreportingcurrencies<ept id="p1">](general-ledger\convertingaccountingorreportingcurrencies.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="249" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\currency-revaluation-in-a-consolidation-company<ept id="p1">](general-ledger\currency-revaluation-in-a-consolidation-company.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="250" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\elimination-rules<ept id="p1">](general-ledger\elimination-rules.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="251" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\enter-account-and-dimension-combinations-segmented-entry-control<ept id="p1">](general-ledger\enter-account-and-dimension-combinations-segmented-entry-control.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="252" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\example-balanced-journals-for-interunit-accounting<ept id="p1">](general-ledger\example-balanced-journals-for-interunit-accounting.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="253" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\examples-posting-definitions<ept id="p1">](general-ledger\examples-posting-definitions.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="254" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\financial-dimensions<ept id="p1">](general-ledger\financial-dimensions.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="255" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\financial-management-home-page<ept id="p1">](general-ledger\financial-management-home-page.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="256" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\financial-period-close-workspace<ept id="p1">](general-ledger\financial-period-close-workspace.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="257" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\financial-reporting<ept id="p1">](general-ledger\financial-reporting.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="258" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\foreign-currency-revaluation-for-general-ledger<ept id="p1">](general-ledger\foreign-currency-revaluation-for-general-ledger.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="259" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\general-journal-processing<ept id="p1">](general-ledger\general-journal-processing.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="260" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\general-ledger<ept id="p1">](general-ledger\general-ledger.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="261" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\general-ledger-account-balances<ept id="p1">](general-ledger\general-ledger-account-balances.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="262" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\generate-a-financial-report<ept id="p1">](general-ledger\generate-a-financial-report.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="263" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\important-information-for-customers-who-purchased-microsoft-dynamics-365-for-operations-through-a-csp__trashed<ept id="p1">](general-ledger\important-information-for-customers-who-purchased-microsoft-dynamics-365-for-operations-through-a-csp__trashed.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="264" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\import-currency-exchange-rates<ept id="p1">](general-ledger\import-currency-exchange-rates.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="265" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\income-statement-financial-report<ept id="p1">](general-ledger\income-statement-financial-report.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="266" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\indirect-taxes-in-microsoft-dynamics-ax-overview<ept id="p1">](general-ledger\indirect-taxes-in-microsoft-dynamics-ax-overview.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="267" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\intercompany-accounting-setup<ept id="p1">](general-ledger\intercompany-accounting-setup.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="268" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\ledger-allocation-rules<ept id="p1">](general-ledger\ledger-allocation-rules.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="269" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\ledger-journal-types<ept id="p1">](general-ledger\ledger-journal-types.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="270" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\main-account-types<ept id="p1">](general-ledger\main-account-types.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="271" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\open-lines-in-excel-from-journals-and-documents<ept id="p1">](general-ledger\open-lines-in-excel-from-journals-and-documents.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="272" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\planning-chart-of-accounts<ept id="p1">](general-ledger\planning-chart-of-accounts.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="273" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\posting-definitions<ept id="p1">](general-ledger\posting-definitions.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="274" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\process-allocations<ept id="p1">](general-ledger\process-allocations.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="275" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\rounding-sales-tax-payments<ept id="p1">](general-ledger\rounding-sales-tax-payments.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="276" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\sales-tax-calculation-methods-in-the-origin-field<ept id="p1">](general-ledger\sales-tax-calculation-methods-in-the-origin-field.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="277" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\the-marginal-base-field<ept id="p1">](general-ledger\the-marginal-base-field.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="278" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\trial-balance-financial-reports<ept id="p1">](general-ledger\trial-balance-financial-reports.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="279" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\view-financial-reports<ept id="p1">](general-ledger\view-financial-reports.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="280" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\view-journal-entries-and-transactions<ept id="p1">](general-ledger\view-journal-entries-and-transactions.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="281" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\whole-amount-and-interval-options-for-sales-tax-codes<ept id="p1">](general-ledger\whole-amount-and-interval-options-for-sales-tax-codes.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="282" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>general-ledger\year-end-close<ept id="p1">](general-ledger\year-end-close.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="283" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations<ept id="p1">](localizations)</ept></source>
+        </trans-unit>
+        <trans-unit id="284" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\asia-pacific<ept id="p1">](localizations\asia-pacific)</ept></source>
+        </trans-unit>
+        <trans-unit id="285" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\asia-pacific\aus-about-low-value-pool-depreciation<ept id="p1">](localizations\asia-pacific\aus-about-low-value-pool-depreciation.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="286" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\asia-pacific\aus-set-up-a-method-of-payment-to-pay-vendors-through-australian-banks<ept id="p1">](localizations\asia-pacific\aus-set-up-a-method-of-payment-to-pay-vendors-through-australian-banks.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="287" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\asia-pacific\business-activity-statement-bas-overview<ept id="p1">](localizations\asia-pacific\business-activity-statement-bas-overview.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="288" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\asia-pacific\chn-about-chinese-vouchers<ept id="p1">](localizations\asia-pacific\chn-about-chinese-vouchers.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="289" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\asia-pacific\chn-jpn-allocation-rules-for-fixed-assets<ept id="p1">](localizations\asia-pacific\chn-jpn-allocation-rules-for-fixed-assets.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="290" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\asia-pacific\generate-singapore-gst-05-report<ept id="p1">](localizations\asia-pacific\generate-singapore-gst-05-report.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="291" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\asia-pacific\import-the-chinese-golden-tax-data-entity<ept id="p1">](localizations\asia-pacific\import-the-chinese-golden-tax-data-entity.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="292" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\asia-pacific\jpn-bank-payment-fees-for-vendors<ept id="p1">](localizations\asia-pacific\jpn-bank-payment-fees-for-vendors.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="293" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\asia-pacific\jpn-consolidating-invoices<ept id="p1">](localizations\asia-pacific\jpn-consolidating-invoices.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="294" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\asia-pacific\jpn-equally-divided-depreciation-method<ept id="p1">](localizations\asia-pacific\jpn-equally-divided-depreciation-method.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="295" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\asia-pacific\jpn-fixed-asset-depreciation<ept id="p1">](localizations\asia-pacific\jpn-fixed-asset-depreciation.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="296" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\asia-pacific\jpn-fixed-asset-impairment-accounting-on-cash-generating-unit<ept id="p1">](localizations\asia-pacific\jpn-fixed-asset-impairment-accounting-on-cash-generating-unit.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="297" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\asia-pacific\jpn-impairment-accounting-for-fixed-assets<ept id="p1">](localizations\asia-pacific\jpn-impairment-accounting-for-fixed-assets.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="298" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\asia-pacific\jpn-set-up-asset-retirement-obligation-for-fixed-assets<ept id="p1">](localizations\asia-pacific\jpn-set-up-asset-retirement-obligation-for-fixed-assets.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="299" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\asia-pacific\jpn-set-up-reduction-entry-for-fixed-assets<ept id="p1">](localizations\asia-pacific\jpn-set-up-reduction-entry-for-fixed-assets.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="300" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\asia-pacific\malaysia-goods-and-service-tax<ept id="p1">](localizations\asia-pacific\malaysia-goods-and-service-tax.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="301" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\asia-pacific\pay-vendor-by-endorsing-a-bill-of-exchange<ept id="p1">](localizations\asia-pacific\pay-vendor-by-endorsing-a-bill-of-exchange.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="302" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\europe<ept id="p1">](localizations\europe)</ept></source>
+        </trans-unit>
+        <trans-unit id="303" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\europe\about-intrastat<ept id="p1">](localizations\europe\about-intrastat.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="304" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\europe\additional-acquisition-depreciation<ept id="p1">](localizations\europe\additional-acquisition-depreciation.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="305" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\europe\commitments-in-the-public-sector-in-france<ept id="p1">](localizations\europe\commitments-in-the-public-sector-in-france.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="306" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\europe\create-allocation-rules-and-allocate-depreciation-costs<ept id="p1">](localizations\europe\create-allocation-rules-and-allocate-depreciation-costs.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="307" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\europe\eeu-create-and-post-periodic-journals<ept id="p1">](localizations\europe\eeu-create-and-post-periodic-journals.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="308" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\europe\esp-cash-discount-is-applied-in-the-invoice<ept id="p1">](localizations\europe\esp-cash-discount-is-applied-in-the-invoice.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="309" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\europe\esp-opening-sheets<ept id="p1">](localizations\europe\esp-opening-sheets.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="310" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\europe\eu-entry-certificates<ept id="p1">](localizations\europe\eu-entry-certificates.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="311" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\europe\eu-sales-list-reporting<ept id="p1">](localizations\europe\eu-sales-list-reporting.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="312" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\europe\fra-about-rbsl-depreciation<ept id="p1">](localizations\europe\fra-about-rbsl-depreciation.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="313" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\europe\fra-apply-a-penalty-when-a-customer-payment-is-past-due<ept id="p1">](localizations\europe\fra-apply-a-penalty-when-a-customer-payment-is-past-due.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="314" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\europe\fra-configure-and-print-a-lump-sum-recovery-text-on-a-customer-invoice<ept id="p1">](localizations\europe\fra-configure-and-print-a-lump-sum-recovery-text-on-a-customer-invoice.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="315" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\europe\fra-derogatory-depreciation<ept id="p1">](localizations\europe\fra-derogatory-depreciation.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="316" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\europe\fra-naf-codes-and-siret-numbers<ept id="p1">](localizations\europe\fra-naf-codes-and-siret-numbers.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="317" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\europe\gdpdu-audit-data-export<ept id="p1">](localizations\europe\gdpdu-audit-data-export.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="318" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\europe\german-journal-list-report<ept id="p1">](localizations\europe\german-journal-list-report.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="319" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\europe\import-postal-codes-or-create-postal-codes-manually<ept id="p1">](localizations\europe\import-postal-codes-or-create-postal-codes-manually.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="320" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\europe\invoice-issue-deadline<ept id="p1">](localizations\europe\invoice-issue-deadline.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="321" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\europe\italian-black-list-report<ept id="p1">](localizations\europe\italian-black-list-report.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="322" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\europe\mandats-de-paiement-in-the-public-sector-in-france<ept id="p1">](localizations\europe\mandats-de-paiement-in-the-public-sector-in-france.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="323" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\europe\oioubl-standards-for-electronic-invoicing<ept id="p1">](localizations\europe\oioubl-standards-for-electronic-invoicing.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="324" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\europe\print-separate-label-for-credit-memo-originating-from-sales-deu<ept id="p1">](localizations\europe\print-separate-label-for-credit-memo-originating-from-sales-deu.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="325" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\europe\procurement-and-sourcing-in-the-public-sector-in-france<ept id="p1">](localizations\europe\procurement-and-sourcing-in-the-public-sector-in-france.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="326" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\europe\public-sector-accounting-in-france<ept id="p1">](localizations\europe\public-sector-accounting-in-france.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="327" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\europe\set-up-sepa-direct-debit-mandate<ept id="p1">](localizations\europe\set-up-sepa-direct-debit-mandate.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="328" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\europe\split-payment-for-invoices-issued-to-a-public-administration<ept id="p1">](localizations\europe\split-payment-for-invoices-issued-to-a-public-administration.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="329" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\europe\the-construction-industry-scheme<ept id="p1">](localizations\europe\the-construction-industry-scheme.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="330" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\europe\titres-de-recette-in-the-public-sector-in-france<ept id="p1">](localizations\europe\titres-de-recette-in-the-public-sector-in-france.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="331" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\europe\vendor-invoice-payment-holds-in-the-public-sector-in-france<ept id="p1">](localizations\europe\vendor-invoice-payment-holds-in-the-public-sector-in-france.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="332" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\latin-america<ept id="p1">](localizations\latin-america)</ept></source>
+        </trans-unit>
+        <trans-unit id="333" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\latin-america\electronic-invoices-for-mexico<ept id="p1">](localizations\latin-america\electronic-invoices-for-mexico.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="334" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\latin-america\electronic-ledger-accounting-statements-in-mexico<ept id="p1">](localizations\latin-america\electronic-ledger-accounting-statements-in-mexico.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="335" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\latin-america\mex-adjustment-inflation-declaration-report<ept id="p1">](localizations\latin-america\mex-adjustment-inflation-declaration-report.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="336" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\latin-america\mex-diot-declaration-statement<ept id="p1">](localizations\latin-america\mex-diot-declaration-statement.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="337" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\latin-america\mex-diot-declaration-statement-2<ept id="p1">](localizations\latin-america\mex-diot-declaration-statement-2.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="338" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\latin-america\mex-isr-declaration-report-and-supporting-processes<ept id="p1">](localizations\latin-america\mex-isr-declaration-report-and-supporting-processes.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="339" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\middle-east-africa<ept id="p1">](localizations\middle-east-africa)</ept></source>
+        </trans-unit>
+        <trans-unit id="340" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\north-america<ept id="p1">](localizations\north-america)</ept></source>
+        </trans-unit>
+        <trans-unit id="341" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\north-america\benefit-accrual-plan-tasks<ept id="p1">](localizations\north-america\benefit-accrual-plan-tasks.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="342" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\north-america\benefit-setup-tasks<ept id="p1">](localizations\north-america\benefit-setup-tasks.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="343" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\north-america\earning-code-and-earning-code-group-tasks<ept id="p1">](localizations\north-america\earning-code-and-earning-code-group-tasks.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="344" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\north-america\earnings-and-the-earnings-generation-process<ept id="p1">](localizations\north-america\earnings-and-the-earnings-generation-process.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="345" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\north-america\form-1099-in-the-public-sector<ept id="p1">](localizations\north-america\form-1099-in-the-public-sector.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="346" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\north-america\form-i-9-verification<ept id="p1">](localizations\north-america\form-i-9-verification.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="347" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\north-america\garnishment-and-tax-levy-enrollment-tasks<ept id="p1">](localizations\north-america\garnishment-and-tax-levy-enrollment-tasks.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="348" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\north-america\garnishment-and-tax-levy-setup-tasks<ept id="p1">](localizations\north-america\garnishment-and-tax-levy-setup-tasks.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="349" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\north-america\garnishments-tax-levies-and-administrative-fees<ept id="p1">](localizations\north-america\garnishments-tax-levies-and-administrative-fees.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="350" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\north-america\generate-earnings<ept id="p1">](localizations\north-america\generate-earnings.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="351" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\north-america\generating-payroll-reports<ept id="p1">](localizations\north-america\generating-payroll-reports.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="352" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\north-america\issue-worker-payments<ept id="p1">](localizations\north-america\issue-worker-payments.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="353" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\north-america\pay-cycle-and-pay-period-tasks-sample<ept id="p1">](localizations\north-america\pay-cycle-and-pay-period-tasks-sample.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="354" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\north-america\payroll<ept id="p1">](localizations\north-america\payroll.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="355" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\north-america\payroll-calculation-frequencies-tasks<ept id="p1">](localizations\north-america\payroll-calculation-frequencies-tasks.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="356" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\north-america\payroll-data-updates<ept id="p1">](localizations\north-america\payroll-data-updates.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="357" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\north-america\pay-statements-and-the-payment-generation-process<ept id="p1">](localizations\north-america\pay-statements-and-the-payment-generation-process.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="358" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\north-america\post-payroll-and-generate-vendor-invoices<ept id="p1">](localizations\north-america\post-payroll-and-generate-vendor-invoices.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="359" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\north-america\premium-earning-setup-tasks<ept id="p1">](localizations\north-america\premium-earning-setup-tasks.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="360" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\north-america\tax-codes-tax-groups-and-posting-definitions<ept id="p1">](localizations\north-america\tax-codes-tax-groups-and-posting-definitions.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="361" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\north-america\tax-information-tasks<ept id="p1">](localizations\north-america\tax-information-tasks.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="362" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\north-america\usa-comply-with-the-americans-with-disabilities-act<ept id="p1">](localizations\north-america\usa-comply-with-the-americans-with-disabilities-act.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="363" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\north-america\work-cycle-and-work-period-tasks<ept id="p1">](localizations\north-america\work-cycle-and-work-period-tasks.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="364" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\north-america\worker-and-position-payroll-tasks<ept id="p1">](localizations\north-america\worker-and-position-payroll-tasks.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="365" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\north-america\work-schedule-and-leave-tasks<ept id="p1">](localizations\north-america\work-schedule-and-leave-tasks.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="366" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\north-america\work-with-existing-earnings<ept id="p1">](localizations\north-america\work-with-existing-earnings.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="367" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\north-america\work-with-existing-payroll-payments<ept id="p1">](localizations\north-america\work-with-existing-payroll-payments.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="368" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\north-america\work-with-pay-statements<ept id="p1">](localizations\north-america\work-with-pay-statements.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="369" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>localizations\north-america\year-end-1099-reporting<ept id="p1">](localizations\north-america\year-end-1099-reporting.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="370" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>payroll<ept id="p1">](payroll)</ept></source>
+        </trans-unit>
+        <trans-unit id="371" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>public-sector<ept id="p1">](public-sector)</ept></source>
+        </trans-unit>
+        <trans-unit id="372" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>public-sector\accounts-payable-in-the-public-sector<ept id="p1">](public-sector\accounts-payable-in-the-public-sector.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="373" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>public-sector\accounts-receivable-in-the-public-sector<ept id="p1">](public-sector\accounts-receivable-in-the-public-sector.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="374" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>public-sector\advanced-ledger-entries-in-the-public-sector<ept id="p1">](public-sector\advanced-ledger-entries-in-the-public-sector.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="375" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>public-sector\billing-classifications-and-billing-codes-in-the-public-sector<ept id="p1">](public-sector\billing-classifications-and-billing-codes-in-the-public-sector.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="376" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>public-sector\budget-analysis-in-the-public-sector<ept id="p1">](public-sector\budget-analysis-in-the-public-sector.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="377" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>public-sector\budgeting-in-the-public-sector<ept id="p1">](public-sector\budgeting-in-the-public-sector.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="378" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>public-sector\derived-financial-hierarchies-in-the-public-sector<ept id="p1">](public-sector\derived-financial-hierarchies-in-the-public-sector.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="379" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>public-sector\fixed-assets-in-the-public-sector<ept id="p1">](public-sector\fixed-assets-in-the-public-sector.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="380" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>public-sector\free-text-invoices-in-the-public-sector<ept id="p1">](public-sector\free-text-invoices-in-the-public-sector.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="381" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>public-sector\funds-in-the-public-sector<ept id="p1">](public-sector\funds-in-the-public-sector.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="382" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>public-sector\general-ledger-in-the-public-sector<ept id="p1">](public-sector\general-ledger-in-the-public-sector.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="383" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>public-sector\one-time-vendors-in-the-public-sector<ept id="p1">](public-sector\one-time-vendors-in-the-public-sector.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="384" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>public-sector\planning-for-one-time-vendors-in-the-public-sector<ept id="p1">](public-sector\planning-for-one-time-vendors-in-the-public-sector.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="385" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>public-sector\planning-for-public-sector-functionality<ept id="p1">](public-sector\planning-for-public-sector-functionality.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="386" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>public-sector\posting-definitions-in-the-public-sector<ept id="p1">](public-sector\posting-definitions-in-the-public-sector.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="387" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>public-sector\preliminary-budgets-and-apportionments-in-the-public-sector<ept id="p1">](public-sector\preliminary-budgets-and-apportionments-in-the-public-sector.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="388" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>public-sector\procurement-and-sourcing-in-the-public-sector<ept id="p1">](public-sector\procurement-and-sourcing-in-the-public-sector.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="389" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>public-sector\public-sector-functionality<ept id="p1">](public-sector\public-sector-functionality.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="390" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>public-sector\purchase-order-codes-in-the-public-sector<ept id="p1">](public-sector\purchase-order-codes-in-the-public-sector.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="391" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>public-sector\reimbursements-in-the-public-sector<ept id="p1">](public-sector\reimbursements-in-the-public-sector.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="392" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>public-sector\security-roles-in-the-public-sector<ept id="p1">](public-sector\security-roles-in-the-public-sector.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="393" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>public-sector\settlement-priority-in-the-public-sector<ept id="p1">](public-sector\settlement-priority-in-the-public-sector.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="394" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>public-sector\year-end-processing-in-the-public-sector<ept id="p1">](public-sector\year-end-processing-in-the-public-sector.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="395" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>tax<ept id="p1">](tax)</ept></source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

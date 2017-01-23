@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-71050dc" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a4f38d7c91db4603b25c6e02b6f8a77110c81acf</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">core\TOC.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">need-to-investigate</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e71b9cfaca95af48b0c840f3efe89c334d40be0c</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8d6de0a91b006618b84d4aa827606ccdedf902ec</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Get started<ept id="p1">](get-started)</ept></source>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Action search<ept id="p1">](get-started\action-search.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Advanced filtering and query options<ept id="p1">](get-started\advanced-filtering-and-query-options.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Ax 2012 features not implemented in Dynamics AX 7 but are not deprecated<ept id="p1">](get-started\ax-2012-features-not-implemented-in-dynamics-ax-7-but-are-not-deprecated.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Client Q&amp;A<ept id="p1">](get-started\client-qa.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Deprecated features in Dynamics AX 7<ept id="p1">](get-started\deprecated-features-in-dynamics-ax-7.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>How to view and export field descriptions<ept id="p1">](get-started\how-to-view-and-export-field-descriptions.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Microsoft Dynamics AX glossary<ept id="p1">](get-started\microsoft-dynamics-ax-glossary.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Navigation search feature<ept id="p1">](get-started\navigation-search-feature.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>New or updated task guides available august 2016<ept id="p1">](get-started\new-or-updated-task-guides-available-august-2016.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>New or updated task guides available May 2016<ept id="p1">](get-started\new-or-updated-task-guides-available-may-2016.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>New task guides available on February 2016<ept id="p1">](get-started\new-task-guides-available-on-february-2016.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Open in new window feature<ept id="p1">](get-started\open-in-new-window-feature.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Personalizing the user experience<ept id="p1">](get-started\personalizing-the-user-experience.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Shortcut keys<ept id="p1">](get-started\shortcut-keys.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Window management<ept id="p1">](get-started\window-management.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Workspace wide settings<ept id="p1">](get-started\workspace-wide-settings.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Localizations<ept id="p1">](localizations)</ept></source>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Inform Microsoft about country region regulations alerts and track status of regulatory features<ept id="p1">](localizations\inform-microsoft-about-countryregion-regulations-alerts-and-track-status-of-regulatory-features.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Localization requirements apply country context<ept id="p1">](localizations\localization-requirements-apply-country-context.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Localization requirements how to classify localization features<ept id="p1">](localizations\localization-requirements-how-to-classify-localization-features.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Localization requirements regulatory certifications<ept id="p1">](localizations\localization-requirements-regulatory-certifications.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Localization requirements regulatory watch and communication<ept id="p1">](localizations\localization-requirements-regulatory-watch-and-communication.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Localization requirements separate ax localization models<ept id="p1">](localizations\localization-requirements-separate-ax-localization-models.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Organization administration<ept id="p1">](organization-administration)</ept></source>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>About organizations and organizational hierarchies<ept id="p1">](organization-administration\about-organizations-and-organizational-hierarchies.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Configure a conditional decision<ept id="p1">](organization-administration\configure-a-conditional-decision.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Configure a line item workflow<ept id="p1">](organization-administration\configure-a-line-item-workflow.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Configure a manual decision<ept id="p1">](organization-administration\configure-a-manual-decision.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Configure a manual task<ept id="p1">](organization-administration\configure-a-manual-task.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Configure an approval process<ept id="p1">](organization-administration\configure-an-approval-process.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Configure an approval step<ept id="p1">](organization-administration\configure-an-approval-step.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Configure an automated task<ept id="p1">](organization-administration\configure-an-automated-task.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Configure a parallel activity<ept id="p1">](organization-administration\configure-a-parallel-activity.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Configure a parallel branch workflow<ept id="p1">](organization-administration\configure-a-parallel-branch-workflow.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Configure workflow properties<ept id="p1">](organization-administration\configure-workflow-properties.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create a workflow<ept id="p1">](organization-administration\create-a-workflow.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Electronic signature overview<ept id="p1">](organization-administration\electronic-signature-overview.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>List of workflow types<ept id="p1">](organization-administration\list-of-workflow-types.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Manage vendor collaboration users<ept id="p1">](organization-administration\manage-vendor-collaboration-users.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Number sequence overview<ept id="p1">](organization-administration\number-sequence-overview.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Organization administration<ept id="p1">](organization-administration\organization-administration.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Overview global address book<ept id="p1">](organization-administration\overview-global-address-book.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Overview of the workflow system<ept id="p1">](organization-administration\overview-of-the-workflow-system.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Planning case management<ept id="p1">](organization-administration\planning-case-management.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Planning expense management<ept id="p1">](organization-administration\planning-expense-management.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Planning the configuration of the global address book and additional address books<ept id="p1">](organization-administration\planning-the-configuration-of-the-global-address-book-and-additional-address-books.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Plan the organizational hierarchy<ept id="p1">](organization-administration\plan-the-organizational-hierarchy.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Qa address books<ept id="p1">](organization-administration\qa-address-books.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up and maintain vendor collaboration<ept id="p1">](organization-administration\set-up-and-maintain-vendor-collaboration.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Using record templates<ept id="p1">](organization-administration\using-record-templates.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Whats new or changed in Dynamics 365 for Operations<ept id="p1">](organization-administration\whats-new-or-changed-in-dynamics-365-for-operations.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Whats new or changed in Dynamics AX 7<ept id="p1">](organization-administration\whats-new-or-changed-in-dynamics-ax-7.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Whats new or changed in Dynamics AX 7 0 February 2016<ept id="p1">](organization-administration\whats-new-or-changed-in-dynamics-ax-7-0-february-2016.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Whats new or changed in Dynamics AX application version 7 0 1 May 2016<ept id="p1">](organization-administration\whats-new-or-changed-in-dynamics-ax-application-version-7-0-1-may-2016.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Whats new or changed in Dynamics AX platform version 7 1 May 2016<ept id="p1">](organization-administration\whats-new-or-changed-in-dynamics-ax-platform-version-7-1-may-2016.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Whats new or changed in Dynamics AX platform version 7 2 August 2016<ept id="p1">](organization-administration\whats-new-or-changed-in-dynamics-ax-platform-version-7-2-august-2016.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Workflow actions<ept id="p1">](organization-administration\workflow-actions.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Workflow elements<ept id="p1">](organization-administration\workflow-elements.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Workflow system architecture<ept id="p1">](organization-administration\workflow-system-architecture.md)</ept></source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

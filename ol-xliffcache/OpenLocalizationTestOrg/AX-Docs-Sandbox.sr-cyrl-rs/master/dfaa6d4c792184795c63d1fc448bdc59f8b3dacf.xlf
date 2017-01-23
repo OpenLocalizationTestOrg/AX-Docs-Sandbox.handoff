@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-71050dc" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dfaa6d4c792184795c63d1fc448bdc59f8b3dacf</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\general-ledger\financial-management-home-page.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">need-to-investigate</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">55e263b60cfa0ee8ba502a2bc611cf74566d4315</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2ff881525f74f01dbc64a075e7f3671ec94a1b1f</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Financial management home page | Microsoft Docs</source>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This topic provides a list of the help topics and other resources for the financial management features in Microsoft Dynamics 365 for Operations.</source>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Financial management home page</source>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Select a feature area to learn more about it.</source>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Accounts payable home page<ept id="p1">](http://ax.help.dynamics.com/en/wiki/accounts-payable/)</ept> <bpt id="p2">[</bpt>Accounts receivable home page<ept id="p2">](http://ax.help.dynamics.com/en/wiki/accounts-receivable/)</ept> <bpt id="p3">[</bpt>Cash and bank management home page<ept id="p3">](http://ax.help.dynamics.com/en/wiki/cash-and-bank-management/)</ept> <bpt id="p4">[</bpt>General ledger and financial reporting home page<ept id="p4">](http://ax.help.dynamics.com/en/wiki/general-ledger/)</ept> <bpt id="p5">[</bpt>Public sector home page<ept id="p5">](http://ax.help.dynamics.com/en/wiki/public-sector-functionality/)</ept> <bpt id="p6">[</bpt>Budgeting home page<ept id="p6">](http://ax.help.dynamics.com/en/wiki/budgeting-overview/)</ept> <bpt id="p7">[</bpt>Expense management home page<ept id="p7">](http://ax.help.dynamics.com/en/wiki/expense-management/)</ept></source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

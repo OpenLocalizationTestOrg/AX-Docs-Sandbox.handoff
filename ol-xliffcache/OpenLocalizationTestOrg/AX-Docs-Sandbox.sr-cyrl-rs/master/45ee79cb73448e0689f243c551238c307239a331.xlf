@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-71050dc" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">45ee79cb73448e0689f243c551238c307239a331</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">manufacturing\cost-management\cost-management.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">need-to-investigate</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">13d64f77cf5336106e4ce8d7f45e5a0514e3ee02</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5c614bc82d1069ab96fb74815228c4ceccf7809e</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Cost management home page | Microsoft Docs</source>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This topic provides a list of the help topics and other resources that are available for Cost management.</source>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Cost management home page</source>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Cost management walkthrough</source>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Cost management walkthrough (Office Mix that requires a CustomerSource account)<ept id="p1">](https://mbs.microsoft.com/customersource/northamerica/AX/learning/presentations/DynamicsTechnicalConference16)</ept></source>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Inventory accounting</source>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Cost objects<ept id="p1">](http://ax.help.dynamics.com/en/wiki/cost-object/)</ept></source>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Cost entries<ept id="p1">](http://ax.help.dynamics.com/en/wiki/cost-entries/)</ept></source>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Values of an inventory object<ept id="p1">](http://ax.help.dynamics.com/en/wiki/physical-quantity/)</ept></source>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>View cost entries on a cost object<ept id="p1">](http://ax.help.dynamics.com/en/wiki/view-cost-entries-for-a-cost-object/)</ept> (Task guide)</source>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>View cost object balance<ept id="p1">](http://ax.help.dynamics.com/en/wiki/view-cost-object-balance/)</ept> (Task guide)</source>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>View inventory statement and KPIs by cost object<ept id="p1">](http://ax.help.dynamics.com/en/wiki/view-inventory-statement-and-kpis-by-cost-object/)</ept> (Task guide)</source>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>FIFO with physical value and marking<ept id="p1">](http://ax.help.dynamics.com/en/wiki/fifo-with-physical-value-and-marking/)</ept></source>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>LIFO Date with physical value and marking<ept id="p1">](http://ax.help.dynamics.com/en/wiki/lifo-date-with-physical-value-and-marking/)</ept></source>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>LIFO with physical value and marking<ept id="p1">](http://ax.help.dynamics.com/en/wiki/lifo-with-physical-value-and-marking/)</ept></source>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Moving average<ept id="p1">](http://ax.help.dynamics.com/en/wiki/moving-average/)</ept></source>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Weighted average date<ept id="p1">](http://ax.help.dynamics.com/en/wiki/weighted-average-date/)</ept></source>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Weighted average with physical value and marking<ept id="p1">](http://ax.help.dynamics.com/en/wiki/weighted-average-with-physical-value-and-marking/)</ept></source>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Running average cost price<ept id="p1">](http://ax.help.dynamics.com/en/wiki/running-average-cost-price/)</ept></source>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Adjusting on-hand inventory cost values<ept id="p1">](http://ax.help.dynamics.com/en/wiki/adjusting-on-hand-inventory-cost-values/)</ept></source>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Include physical value<ept id="p1">](http://ax.help.dynamics.com/en/wiki/include-physical-value/)</ept></source>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Inventory close<ept id="p1">](http://ax.help.dynamics.com/en/wiki/inventory-close/)</ept></source>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Physical and financial updates<ept id="p1">](http://ax.help.dynamics.com/en/wiki/physical-and-financial-updates/)</ept></source>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Tracking running average cost per inventory dimension<ept id="p1">](http://ax.help.dynamics.com/en/wiki/track-running-average-cost-per-inventory-dimension/)</ept></source>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Standard costs</source>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Standard cost conversion overview<ept id="p1">](http://ax.help.dynamics.com/en/wiki/standard-cost-conversion-overview/)</ept></source>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Prerequisites for a standard cost conversion<ept id="p1">](http://ax.help.dynamics.com/en/wiki/prerequisites-for-a-standard-cost-conversion/)</ept></source>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Managing standard cost updates<ept id="p1">](http://ax.help.dynamics.com/en/wiki/managing-standard-cost-updates/)</ept></source>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Information used in BOM calculations with standard costs<ept id="p1">](http://ax.help.dynamics.com/en/wiki/information-used-in-bom-calculations-with-standard-costs/)</ept></source>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Common issues related to standard cost conversion checks<ept id="p1">](http://ax.help.dynamics.com/en/wiki/common-issues-related-to-standard-cost-conversion-checks-2/)</ept></source>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Simulate cost changes by using a costing version for planned costs<ept id="p1">](http://ax.help.dynamics.com/en/wiki/simulating-cost-changes-by-using-a-costing-version-for-planned-costs/)</ept></source>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Update standard costs in a non-manufacturing environment<ept id="p1">](http://ax.help.dynamics.com/en/wiki/update-standard-costs-in-a-nonmanufacturing-environment/)</ept></source>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Update standard costs in a manufacturing environment<ept id="p1">](http://ax.help.dynamics.com/en/wiki/updating-standard-costs-in-a-manufacturing-environment/)</ept></source>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Update standard costs for a new manufactured item<ept id="p1">](http://ax.help.dynamics.com/en/wiki/updating-standard-costs-for-a-new-manufactured-item/)</ept></source>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>Manufacturing accounting</source>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Calculation groups for BOMs<ept id="p1">](http://ax.help.dynamics.com/en/wiki/bom-calculation-groups/)</ept></source>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Production order cost analysis<ept id="p1">](http://ax.help.dynamics.com/en/wiki/production-order-cost-analysis/)</ept></source>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Compare active, estimated, and realized costs on a production order<ept id="p1">](http://ax.help.dynamics.com/en/wiki/view-reasons-for-high-production-variance-for-a-production-order/)</ept> (Task guide)</source>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>View current WIP statement on a production order<ept id="p1">](http://ax.help.dynamics.com/en/wiki/view-wip-statement-on-a-production-order/)</ept> (Task guide)</source>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Cost categories used in production routing<ept id="p1">](http://ax.help.dynamics.com/en/wiki/cost-categories-used-in-production-routings/)</ept></source>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Cost categories used in Production control and Project management accounting<ept id="p1">](http://ax.help.dynamics.com/en/wiki/cost-categories-used-in-production-control-and-in-project-management-and-accounting/)</ept></source>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Production posting<ept id="p1">](http://ax.help.dynamics.com/en/wiki/production-posting/)</ept></source>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Common sources of production variances<ept id="p1">](http://ax.help.dynamics.com/en/wiki/common-sources-of-production-variances/)</ept></source>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>How to set up products that can be either produced or procured<ept id="p1">](http://ax.help.dynamics.com/en/wiki/manufactured-items-that-are-treated-as-purchased-items/)</ept></source>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>The methodology for total cost allocation<ept id="p1">](http://ax.help.dynamics.com/en/wiki/the-methodology-for-total-cost-allocation/)</ept></source>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>Predetermined costs</source>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Costing sheets<ept id="p1">](http://ax.help.dynamics.com/en/wiki/costing-sheets/)</ept></source>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Costing versions<ept id="p1">](http://ax.help.dynamics.com/en/wiki/costing-versions/)</ept></source>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Simulate cost changes by using a costing version for planned costs<ept id="p1">](http://ax.help.dynamics.com/en/wiki/simulating-cost-changes-by-using-a-costing-version-for-planned-costs/)</ept></source>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>Additional resources</source>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>Additional help is available as task guides inside Microsoft Dynamics 365 for Operations.</source>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>To access task guides, click the Help button on any page.</source>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>For information about Microsoft Dynamics 365 for Operations training, see <bpt id="p1">[</bpt>Microsoft eLearning<ept id="p1">](https://mbspartner.microsoft.com/AX/LearningPlans)</ept> (requires CustomerSource account).</source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
