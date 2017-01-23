@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="lv-lv">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-71050dc" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">48a2dd862feb36ce00059f301983de7ad600b0da</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\analytics-bi-reporting\powerbi-integration-in-ax7.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">do-not-translate</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ec10e61a62d195eee81420d594a342c0f948d1be</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d1fb2f793b01202ee46f63df088dc3d96c7b9deb</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Power BI integration | Microsoft Docs</source>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This article explains how you can use the features and services that are included in Microsoft Power BI to access, explore, and gain insight from your Microsoft Dynamics 365 for Operations data.</source>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>PowerBIConfiguration</source>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Power BI integration</source>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Microsoft Power BI is a collection of tools and services that enables interactive visualizations and dashboards.</source>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Power BI is the tool that many users choose when they want to create interactive visualizations and self-service reports for Microsoft Dynamics 365 for Operations.</source>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Power BI can connect to multiple data sources, both on premises and in the cloud, to create combined reports and dashboards.</source>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Dynamics 365 for Operations uses Open Data Protocol (OData) V4 to provide data securely to Power BI.</source>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">\[</ph>caption id="attachment<ph id="ph2">\_</ph>296711" align="aligncenter" width="1925"<ph id="ph3">\]</ph>![Power BI Integration Overview] Overview of Power BI integration<ph id="ph4">\[</ph>/caption<ph id="ph5">\]</ph> Dynamics 365 for Operations integrates with Power BI by being a first-class source of data to Power BI authoring tools, such as Microsoft Excel and Power BI Desktop.</source>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>After reports are authored, they can be published to PowerBI.com for collaboration and mobile access.</source>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Although dashboards and reports can be used on PowerBI.com, they can also be pinned to the Dynamics 365 for Operations client to provide interactive visuals that are related to business processes.</source>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>You can see an overview of the Power BI tools <bpt id="p1">[</bpt>here<ept id="p1">](https://powerbi.microsoft.com/tour)</ept>.</source>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Consuming Dynamics 365 for Operations data securely</source>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Dynamics 365 for Operations is a first-class data source for Power BI authoring tools, such as Excel and Power BI Desktop.</source>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Users who connect to Dynamics 365 for Operations data feeds via Microsoft Power Query for Excel can access <bpt id="p1">[</bpt>data entities<ept id="p1">](http://ax.help.dynamics.com/en/wiki/data-entities/)</ept> that they can use to author Power BI reports and dashboards.</source>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Dynamics 365 for Operations data entities are exposed as data feeds by using <bpt id="p1">[</bpt>OData<ept id="p1">](http://ax.help.dynamics.com/en/wiki/odata-in-dynamics-ax-7/)</ept>V4.</source>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>These data entities include both standard data entities and aggregate data entities that can provide summarized and calculated data in the OData feed.</source>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Dynamics 365 for Operations data feeds authenticate users and enable access, based on security permissions that are defined in Dynamics 365 for Operations.</source>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Any client tool that supports the OData protocol can consume Dynamics 365 for Operations data securely.</source>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Authoring content and deriving insights in Excel</source>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>Power BI reports can be developed in Excel or <bpt id="p1">[</bpt>Power BI Desktop<ept id="p1">](https://powerbi.microsoft.com/en-us/desktop)</ept>.</source>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>If you are using Microsoft Excel 2013, you must <bpt id="p1">[</bpt>download Power Query<ept id="p1">](http://www.microsoft.com/en-gb/download/details.aspx?id=39379)</ept>.</source>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Power Query is an add-in for Excel that can source data from Dynamics 365 for Operations and many other data sources.</source>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Power Query lets you build compelling data mash-ups that provide reporting across data sources.</source>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Microsoft SQL Server Power Pivot for Excel<ept id="p1">**</ept>, another add-in for Excel, enables data modeling for power users.</source>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Power Pivot takes advantage of an in-memory engine that is built into Excel, and that enables large amounts of data to be stored and worked with in a highly performant manner.</source>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Power View<ept id="p1">**</ept>, another add-in for Excel, lets users build interactive visualizations in Excel by using data that is loaded and modeled by Power Query and Power Pivot.</source>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Power View reports can be used on a stand-alone basis, so that you don't have to upload reports that are for personal use to PowerBI.com.</source>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>You can complete a tutorial that shows how to build a Power BI report and dashboard <bpt id="p1">[</bpt>here<ept id="p1">](http://ax.help.dynamics.com/en/wiki/tutorial-create-a-power-bi-report-and-dashboard/)</ept>.</source>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>Accessing interactive dashboards and collaborative capabilities on PowerBI.com</source>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>After reports are published to PowerBI.com, users can build dashboards, share with co-workers, and take advantage of the mobile tools that are available from Power BI.</source>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Additionally, after data is published to Power BI, users can take advantage of natural language search through Power BI Q&amp;A.</source>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>In addition to self-service and power user content, pre-built Dynamics 365 for Operations content packs for Power BI include dashboards and reports.</source>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>These content packs are provided by Microsoft, and also by independent software vendors (ISVs) and partners.</source>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>Users who are exploring data from their Dynamics 365 for Operations deployment can access the content packs directly from PowerBI.com.</source>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Users can also develop Power BI organizational content packs to share their data sets, reports, and dashboards within their organization.</source>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>You can learn more about organizational content packs <bpt id="p1">[</bpt>here<ept id="p1">](https://powerbi.microsoft.com/en-us/documentation/powerbi-service-organizational-content-packs-introduction/)</ept>.</source>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Finally, Power BI clients for iOS, Android, and Microsoft Windows mobile devices let users who are on the move access Power BI dashboards and reports.</source>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>Embedding Power BI visuals in the Dynamics 365 for Operations client</source>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>PowerBI.com can be used on its own as a reporting and dashboard solution for your organization or business unit.</source>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>However, users can also pin reports from PowerBI.com to Dynamics 365 for Operations workspaces and pages to provide contextual insights that are related to business operations.</source>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>Power BI tiles that are pinned to the Dynamics 365 for Operations client provide insightful visuals at a glance.</source>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>They also let users open PowerBI.com for interactive analysis.</source>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">\[</ph>caption id="attachment<ph id="ph2">\_</ph>296741" align="aligncenter" width="1806"<ph id="ph3">\]</ph>![Dynamics AX Workspace with Power BI visualizations] A Dynamics 365 for Operations workspace that includes Power BI visualizations<ph id="ph4">\[</ph>/caption<ph id="ph5">\]</ph> You can learn how to configure workspace integration <bpt id="p1">[</bpt>here<ept id="p1">](http://ax.help.dynamics.com/en/wiki/configuring-powerbi-integration/)</ept>.</source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
