@@ -1,0 +1,282 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-71050dc" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">58c9124dfbeb06bdbad4827841348c53a6630999</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\get-started\technical-concepts-guide.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">do-not-translate</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2fa65bb600e95c6f60d20ae2b2589163a1b562f2</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">255a009d33117ef6576b36d450a918a49086a56c</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Developer home page | Microsoft Docs</source>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This topic provides links to topics about development with Microsoft Dynamics 365 for Operations.</source>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Developer home page</source>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Overview</source>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Microsoft Dynamics 365 for Operations represents the next-generation enterprise resource planning (ERP) offering from Microsoft.</source>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>It is designed to enable the entire ERP application suite as a cloud-based solution, for both public and private clouds, as well as on-premises.</source>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>It leverages the speed, simplicity, and cost-effectiveness of working in the cloud, while building on the latest technology from Microsoft.</source>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>This release introduces significant changes to the development experience.</source>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>These changes include:</source>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Development tools that are decoupled from any running environment.</source>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>You develop against local, XML-based files, not the online database.</source>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Microsoft Visual Studio replaces MorphX as the development environment.</source>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Dynamics 365 for Operations customizes the Visual Studio environment to provide you with a smooth and familiar experience.</source>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>The X++ compiler generates Common Intermediate Language (CIL) for all features.</source>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>CIL is the same intermediate language used by other .NET-based (managed) languages, such as the C<ph id="ph1">\#</ph> programming language.</source>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>New browser-based client and new design patterns for forms that you can leverage to provide an improved end-user experience.</source>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>The new Application Lifecycle Model (ALM) for build automation, test automation, and deployment of models to the cloud.</source>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Architecture</source>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Architecture changes<ept id="p1">](https://ax.help.dynamics.com/en/wiki/architecture-changes-in-ax-7/)</ept></source>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Getting started</source>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Get an evaluation copy<ept id="p1">](https://ax.help.dynamics.com/en/wiki/get-an-evaluation-copy/)</ept> <bpt id="p2">[</bpt>LCS101 – Sign up for a Preview Subscription<ept id="p2">](https://ax.help.dynamics.com/en/wiki/sign-up-for-a-microsoft-dynamics-rainier-preview-subscription/)</ept> <bpt id="p3">[</bpt>Access Development Instances<ept id="p3">](https://ax.help.dynamics.com/en/wiki/access-microsoft-dynamics-ax-7-instances-2/)</ept> <bpt id="p4">[</bpt>Development System Requirements<ept id="p4">](https://ax.help.dynamics.com/en/wiki/ax7-development-system-requirements/)</ept> <bpt id="p5">[</bpt>Deprecated Features<ept id="p5">](https://ax.help.dynamics.com/en/wiki/deprecated-features-in-dynamics-ax-7/)</ept> <bpt id="p6">[</bpt>Deprecated API’s<ept id="p6">](http://ax.help.dynamics.com/en/wiki/deprecated-apis/)</ept> <bpt id="p7">[</bpt>Feedback and Support (Office Mix)<ept id="p7">](https://mix.office.com/watch/92azzna59jj6)</ept> <bpt id="p8">[</bpt>Rename and reboot machines for Visual Studio Online (Office Mix)<ept id="p8">](https://ax.help.dynamics.com/en/wiki/visual-studio-online-vso-machine-renaming/)</ept> <bpt id="p9">[</bpt>Configuring your Developer VM (Office Mix)<ept id="p9">](https://ax.help.dynamics.com/en/wiki/configuring-your-developer-vm/)</ept> <bpt id="p10">[</bpt>Introduction to Visual Studio Online (Video)<ept id="p10">](http://channel9.msdn.com/Events/Build/2014/2-575)</ept></source>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Fleet Management</source>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Fleet Management sample<ept id="p1">](https://ax.help.dynamics.com/en/wiki/introduction-to-the-fleet-management-sample/)</ept> <bpt id="p2">[</bpt>INT101: Introduction to Fleet Management<ept id="p2">](https://ax.help.dynamics.com/en/wiki/using-the-fleet-management-sample/)</ept></source>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Development tools</source>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Tutorials</source>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>DEV101: Introduction to Visual Studio Development<ept id="p1">](https://ax.help.dynamics.com/en/wiki/dev101-introduction-to-using-visual-studio/)</ept> <bpt id="p2">[</bpt>DEV102: Create a Simple Data Model<ept id="p2">](https://ax.help.dynamics.com/en/wiki/creating-a-model-and-data-model-elements/)</ept> <bpt id="p3">[</bpt>DEV103: Building and debugging a project<ept id="p3">](https://ax.help.dynamics.com/en/wiki/building-and-debugging-a-project/)</ept> <bpt id="p4">[</bpt>DEV105: Version control, metadata search, navigation, and other features<ept id="p4">](https://ax.help.dynamics.com/en/wiki/using-development-tools-in-ax7/)</ept></source>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>Concepts</source>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Development Tools<ept id="p1">](https://ax.help.dynamics.com/en/wiki/dynamics-ax7-technical-preview-development-tools/)</ept> <bpt id="p2">[</bpt>Introduction to the Development Environment (Office Mix)<ept id="p2">](https://mix.office.com/watch/1tz7194y62m3s)</ept> <bpt id="p3">[</bpt>Enable a new user account to develop on a development VM<ept id="p3">](http://ax.help.dynamics.com/en/wiki/enable-a-new-developer-on-a-dynamics-ax-development-machine/)</ept> <bpt id="p4">[</bpt>Application Explorer<ept id="p4">](http://ax.help.dynamics.com/en/wiki/the-application-explorer/)</ept> <bpt id="p5">[</bpt>Projects<ept id="p5">](http://ax.help.dynamics.com/en/wiki/projects/)</ept> <bpt id="p6">[</bpt>Element designers<ept id="p6">](http://ax.help.dynamics.com/en/wiki/element-designers/)</ept> <bpt id="p7">[</bpt>Element usage<ept id="p7">](http://ax.help.dynamics.com/en/wiki/element-usage/)</ept> <bpt id="p8">[</bpt>Models<ept id="p8">](http://ax.help.dynamics.com/en/wiki/models/)</ept> <bpt id="p9">[</bpt>Build operations<ept id="p9">](http://ax.help.dynamics.com/en/wiki/build-operations/)</ept> <bpt id="p10">[</bpt>Visual Studio Code Editor<ept id="p10">](http://ax.help.dynamics.com/en/wiki/code-editor/)</ept> <bpt id="p11">[</bpt>Developer Tools Add-ins<ept id="p11">](http://ax.help.dynamics.com/en/wiki/dynamics-developer-tools-add-ins/)</ept> <bpt id="p12">[</bpt>Distribution of Models: How to Export and Import a Model<ept id="p12">](https://ax.help.dynamics.com/en/wiki/distribution-of-models-how-to-export-and-import-a-model/)</ept> <bpt id="p13">[</bpt>Configuring Your Developer VM<ept id="p13">](https://ax.help.dynamics.com/en/wiki/configuring-your-developer-vm/)</ept> <bpt id="p14">[</bpt>Metadata Search in Visual Studio<ept id="p14">](https://ax.help.dynamics.com/en/wiki/metadata-search-in-visual-studio/)</ept> <bpt id="p15">[</bpt>Learn about Packages, Models and Visual Studio (Office Mix)<ept id="p15">](https://mix.office.com/watch/ies6lyit6773)</ept> <bpt id="p16">[</bpt>Development Tools Performance Tips (Office Mix)<ept id="p16">](https://mix.office.com/watch/rnp6ng9wu8kx)</ept> <bpt id="p17">[</bpt>Resolve conflicts using Visual Studio<ept id="p17">](https://mix.office.com/watch/1rl75ei2cs6d7)</ept></source>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>X++ programming language</source>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>Tutorials</source>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>DEV104: New X++ and Debugger Features<ept id="p1">](https://ax.help.dynamics.com/en/wiki/using-new-x-and-debugger-features-in-ax7/)</ept> <bpt id="p2">[</bpt>Dev106: C<ph id="ph1">\#</ph> and X++ Interoperability and LINQ<ept id="p2">](https://ax.help.dynamics.com/en/wiki/writing-business-logic-in-c-and-x-source-code/)</ept></source>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Concepts</source>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Programming language support<ept id="p1">](http://ax.help.dynamics.com/en/wiki/programming-language-support/)</ept> <bpt id="p2">[</bpt>Debugging X++ code<ept id="p2">](http://ax.help.dynamics.com/en/wiki/debugging-x-code/)</ept> <bpt id="p3">[</bpt>LINQ Provider for use in C<ph id="ph1">\#</ph><ept id="p3">](http://ax.help.dynamics.com/en/wiki/dynamics-ax-7-linq-provider-for-use-in-c/)</ept> <bpt id="p4">[</bpt>Authoring best practice rules<ept id="p4">](http://ax.help.dynamics.com/wiki/authoring-best-practice-rules)</ept></source>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Reference</source>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>X++ Language Reference</source>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Customizing with extensions and overlayering</source>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>DEV107: Customize model elements using extensions<ept id="p1">](https://ax.help.dynamics.com/en/wiki/customize-model-elements-using-extensions/)</ept> <bpt id="p2">[</bpt>Customize: Extensions and Overlayering<ept id="p2">](http://ax.help.dynamics.com/en/wiki/customization-overlayering-and-extensions/)</ept> <bpt id="p3">[</bpt>Class extensions<ept id="p3">](https://ax.help.dynamics.com/en/wiki/class-extensions/)</ept> <bpt id="p4">[</bpt>Customize by Overlayering Metadata source code (Office Mix)<ept id="p4">](https://mix.office.com/watch/1ol6ov90jrd4w)</ept></source>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Code migration</source>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>Migrate your code</source>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>To migrate your code to Dynamics 365 for Operations, use the "Migrate and Create Dynamics 365 for Operations Solutions" methodology in Lifecycle Services.</source>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>Key concepts</source>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>The following links (also included in the methodology) describe key concepts and steps in the migration process.</source>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>The links are listed here in the order that we recommend you read them.</source>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Overview: Prepare to migrate to Microsoft Dynamics 365 for Operations<ept id="p1">](https://ax.help.dynamics.com/en/wiki/upg101-preparing-for-migration/)</ept> <bpt id="p2">[</bpt>Migrate from AX 2012 to Dynamics 365 for Operations (Office Mix)<ept id="p2">](https://mix.office.com/watch/4gsvk592c685)</ept> <bpt id="p3">[</bpt>Migrate between versions (Office Mix)<ept id="p3">](https://mix.office.com/watch/os2wff38zi6f)</ept> <bpt id="p4">[</bpt>Configure your VSTS mapping after a code upgrade<ept id="p4">](http://ax.help.dynamics.com/en/wiki/configuring-your-vso-solution/)</ept> <bpt id="p5">[</bpt>Configure version control with VSTS (Office Mix)<ept id="p5">](https://mix.office.com/watch/1ftubtqzp3xxl)</ept> <bpt id="p6">[</bpt>Resolve conflicts using Visual Studio (Office Mix)<ept id="p6">](https://mix.office.com/watch/1rl75ei2cs6d7)</ept> <bpt id="p7">[</bpt>Understanding the Model split<ept id="p7">](https://ax.help.dynamics.com/en/wiki/understanding-the-model-split/)</ept> <bpt id="p8">[</bpt>Deprecated APIs<ept id="p8">](https://ax.help.dynamics.com/en/wiki/deprecated-apis/)</ept> <bpt id="p9">[</bpt>Deprecated Features<ept id="p9">](https://ax.help.dynamics.com/en/wiki/deprecated-features-in-dynamics-ax-7/)</ept> <bpt id="p10">[</bpt>Development tools performance tips<ept id="p10">](https://mix.office.com/watch/rnp6ng9wu8kx)</ept> <bpt id="p11">[</bpt>Configuring your developer VM<ept id="p11">](https://ax.help.dynamics.com/en/wiki/configuring-your-developer-vm/)</ept></source>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>Additional concepts</source>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Delegates for migration<ept id="p1">](https://ax.help.dynamics.com/en/wiki/delegates-for-migration/)</ept> <bpt id="p2">[</bpt>How to import a SQL Server Analysis Services Project into the AOT<ept id="p2">](https://technet.microsoft.com/en-us/library/dn754850.aspx)</ept> <bpt id="p3">[</bpt>Database synchronization<ept id="p3">](https://ax.help.dynamics.com/en/wiki/database-synchronization-in-ax7/)</ept> <bpt id="p4">[</bpt>Understand the Migration Task List (Office Mix)<ept id="p4">](https://mix.office.com/watch/kcek55rc5cau)</ept> <bpt id="p5">[</bpt>Generating the form patterns report (Office Mix)<ept id="p5">](https://mix.office.com/watch/jqzesi1uuosz)</ept></source>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>Moving packages between environments</source>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create and Apply a Deployable Package<ept id="p1">](https://ax.help.dynamics.com/en/wiki/create-and-apply-a-deployable-package/)</ept></source>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>Performance</source>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>PERF101: Take a trace with the Trace Parser and analyze it<ept id="p1">](http://ax.help.dynamics.com/en/wiki/perf101-take-a-trace-with-microsoft-dynamics-ax7-trace-parser-and-analyze-it/)</ept> <bpt id="p2">[</bpt>PERF103: Introduction to the PerfSDK and multiuser testing with Visual Studio Online<ept id="p2">](http://ax.help.dynamics.com/en/wiki/perf103-introduction-to-the-perfsdk-and-multi-user-testing-with-visual-studio-online/)</ept> <bpt id="p3">[</bpt>Using the desktop version of trace parser to diagnose problems and analyze performance issues<ept id="p3">](http://ax.help.dynamics.com/en/wiki/using-the-desktop-version-of-trace-parser-to-diagnose-problems-and-analyze-performance-issues/)</ept> <bpt id="p4">[</bpt>Performance timer<ept id="p4">](http://ax.help.dynamics.com/en/wiki/performance-timer/)</ept> <bpt id="p5">[</bpt>Expanding Data with the Data Expansion tool (Office Mix)<ept id="p5">](https://mix.office.com/watch/11cet1u4nmn64)</ept> <bpt id="p6">[</bpt>Analyzing Performance Issues with Trace Parser (Office Mix)<ept id="p6">](https://mix.office.com/watch/17d76cll0npyw)</ept> <bpt id="p7">[</bpt>The performance timer and other tools (Office Mix)<ept id="p7">](https://mix.office.com/watch/ij5cqidra5q3)</ept> <bpt id="p8">[</bpt>Using Task Recorder to create a single user performance test (Office Mix)<ept id="p8">](https://mix.office.com/watch/qtdlasy2rcf3)</ept> <bpt id="p9">[</bpt>The Performance Timer and other tools (Office Mix)<ept id="p9">](https://mix.office.com/watch/ij5cqidra5q3)</ept> <bpt id="p10">[</bpt>Analyzing Performance Issues with Trace Parser (Office Mix)<ept id="p10">](https://mix.office.com/watch/17d76cll0npyw)</ept></source>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>User interface concepts</source>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>The client is an HTML web client that runs in all major browsers.</source>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>For information about developing and customizing the user interface, see the <bpt id="p1">[</bpt>User interface development home page<ept id="p1">](http://ax.help.dynamics.com/en/wiki/user-interface-development-home-page)</ept>.</source>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>Analytics</source>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>Tutorials</source>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>BIR104: How to create a PowerBI reporting<ept id="p1">](https://ax.help.dynamics.com/en/wiki/how-to-create-a-powerbi-report-using-ax-data/)</ept> <bpt id="p2">[</bpt>BIR105: Create a Power BI report and dashboard<ept id="p2">](https://ax.help.dynamics.com/en/wiki/tutorial-create-a-power-bi-report-and-dashboard/)</ept></source>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>Concepts</source>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Analytics<ept id="p1">](http://ax.help.dynamics.com/en/wiki/analytics/)</ept> <bpt id="p2">[</bpt>PowerBI integration<ept id="p2">](https://ax.help.dynamics.com/en/wiki/powerbi-integration-in-ax7/)</ept> <bpt id="p3">[</bpt>Configuring Power BI integration for workspaces<ept id="p3">](https://ax.help.dynamics.com/en/wiki/configuring-powerbi-integration/)</ept></source>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>Reporting services</source>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>BIR103: Creating NextGen Reporting Solutions<ept id="p1">](https://ax.help.dynamics.com/en/wiki/creating-nextgen-reporting-solutions/)</ept> <bpt id="p2">[</bpt>Document Reporting Services overview<ept id="p2">](http://ax.help.dynamics.com/en/wiki/document-reporting-services/)</ept> <bpt id="p3">[</bpt>Tips to Help Prevent Long-running Reports from Timing Out<ept id="p3">](http://ax.help.dynamics.com/wiki/tips-to-help-prevent-long-running-reports-from-timing-out/)</ept> <bpt id="p4">[</bpt>Power BI Integration<ept id="p4">](http://ax.help.dynamics.com/en/wiki/powerbi-integration-in-ax7/)</ept> <bpt id="p5">[</bpt>Extending the list of electronic reporting functions<ept id="p5">](https://ax.help.dynamics.com/en/wiki/general-electronic-reporting-ger-formulas-list-extension/)</ept> <bpt id="p6">[</bpt>Introduction to Advanced Reporting Solutions (Office Mix)<ept id="p6">](https://mix.office.com/watch/wdl1dquy2tve)</ept> <bpt id="p7">[</bpt>Demo of Advanced Reporting Solutions (Office Mix)<ept id="p7">](https://mix.office.com/watch/1hkvtnc8sc7l6)</ept></source>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>Data entities and OData</source>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>Tutorials</source>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>DM101: Building and Consuming Data Entities<ept id="p1">](https://ax.help.dynamics.com/en/wiki/building-and-consuming-data-entities/)</ept> <bpt id="p2">[</bpt>DM102: Developing an entity and using it for data migration<ept id="p2">](https://ax.help.dynamics.com/en/wiki/developing-an-entity-and-using-it-for-data-migration/)</ept></source>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>Concepts</source>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Data entities home page<ept id="p1">](https://ax.help.dynamics.com/en/wiki/data-entities-home-page/)</ept> <bpt id="p2">[</bpt>OData<ept id="p2">](http://ax.help.dynamics.com/en/wiki/odata-in-dynamics-ax-7/)</ept> <bpt id="p3">[</bpt>Data Entities<ept id="p3">](http://ax.help.dynamics.com/en/wiki/data-entities/)</ept> <bpt id="p4">[</bpt>Introduction to Data Entity (Office Mix)<ept id="p4">](https://mix.office.com/watch/1brkpjvhf851m)</ept> <bpt id="p5">[</bpt>Building Basic Data Entity (Office Mix)<ept id="p5">](https://mix.office.com/watch/i53efq3ddtjy)</ept> <bpt id="p6">[</bpt>Introduction to OData (Office Mix)<ept id="p6">](https://mix.office.com/watch/i53efq3ddtjy)</ept> <bpt id="p7">[</bpt>Introduction to Import/Export and Integration (Office Mix)<ept id="p7">](https://mix.office.com/watch/1qplbdkxu5u4d)</ept> <bpt id="p8">[</bpt>JSON Based Endpout for Custom Services (Office Mix)<ept id="p8">](https://mix.office.com/watch/12e4fejbgj429)</ept></source>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>Workflow</source>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Workflow subsystem<ept id="p1">](http://ax.help.dynamics.com/en/wiki/workflow-subsystem-updates-for-ax-7/)</ept></source>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>Testing support in Visual Studio</source>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>TST101: Testing and Validations<ept id="p1">](https://ax.help.dynamics.com/en/wiki/tst101-testing-and-validations-in-microsoft-dynamics-ax-7/)</ept> <bpt id="p2">[</bpt>Support for testing in Visual Studio<ept id="p2">](http://ax.help.dynamics.com/en/wiki/support-for-testing-in-visual-studio/)</ept> <bpt id="p3">[</bpt>Developer topology deployment with continuous build and test automation<ept id="p3">](http://ax.help.dynamics.com/en/wiki/developer-topology-deployment-with-continuous-build-and-test-automation/)</ept> <bpt id="p4">[</bpt>Task Recorder<ept id="p4">](https://ax.help.dynamics.com/en/wiki/task-recorder-in-ax7/)</ept></source>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>Office integration</source>
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Office Integration<ept id="p1">](http://ax.help.dynamics.com/en/wiki/office-integration-in-dynamics-ax-7/)</ept> <bpt id="p2">[</bpt>Office Integration lab and walkthroughs<ept id="p2">](https://ax.help.dynamics.com/en/wiki/office-integration/)</ept> <bpt id="p3">[</bpt>Create Open in Excel experiences<ept id="p3">](https://ax.help.dynamics.com/en/wiki/off101-office-integration-enable-users-to-edit-data-in-excel/)</ept> <bpt id="p4">[</bpt>Office integration troubleshooting<ept id="p4">](https://ax.help.dynamics.com/en/wiki/office-integration-troubleshooting/)</ept> <bpt id="p5">[</bpt>Office Integration – Overview (Office Mix)<ept id="p5">](https://mix.office.com/watch/17wcym7cmc6ui)</ept> <bpt id="p6">[</bpt>Office Integration – Static Export to Excel (Office Mix)<ept id="p6">](https://mix.office.com/watch/jkyxad5xv6n2)</ept> <bpt id="p7">[</bpt>Office Integration – Open in Excel (Office Mix)<ept id="p7">](https://mix.office.com/watch/1pf13dlhilys8)</ept> <bpt id="p8">[</bpt>Office Integration – Document Management (Office Mix)<ept id="p8">](https://mix.office.com/watch/1gcybbejqv87s)</ept></source>
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>Servicing environments</source>
+        </trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Download Hotfixes from Lifecycle Services<ept id="p1">](https://ax.help.dynamics.com/en/wiki/download-hotfixes-from-lifecycle-services/)</ept> <bpt id="p2">[</bpt>Install a Binary Hotfix or Install a Deployable Package<ept id="p2">](https://ax.help.dynamics.com/en/wiki/apply-a-deployable-package-on-a-dynamics-ax-system)</ept> <bpt id="p3">[</bpt>Install an Application Metadata Hotfix<ept id="p3">](https://ax.help.dynamics.com/en/wiki/configuring-and-installing-a-metadata-hotfix-package/)</ept> <bpt id="p4">[</bpt>Install retail hotfixes<ept id="p4">](https://ax.help.dynamics.com/en/wiki/install-retail-hotfixes/)</ept> <bpt id="p5">[</bpt>Installing a Financial Reporting Binary hotfix<ept id="p5">](https://ax.help.dynamics.com/en/wiki/installing-a-financial-reporting-binary-hotfix-for-ax7/)</ept> <bpt id="p6">[</bpt>Patching the reporting service<ept id="p6">](https://ax.help.dynamics.com/en/wiki/patching-the-reporting-service-on-an-ax7-environment/)</ept> <bpt id="p7">[</bpt>Updating the Visual Studio development tools<ept id="p7">](https://ax.help.dynamics.com/en/wiki/updating-the-dynamics-ax7-visual-studio-development-tools/)</ept></source>
+        </trans-unit>
+        <trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>Building workspaces</source>
+        </trans-unit>
+        <trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>Tutorials</source>
+        </trans-unit>
+        <trans-unit id="176" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>BIR100: Modeling and using aggregate data<ept id="p1">](https://ax.help.dynamics.com/en/wiki/modeling-and-using-aggregate-data/)</ept> <bpt id="p2">[</bpt>BIR101: Adding KPI’s to Workspaces<ept id="p2">](https://ax.help.dynamics.com/en/wiki/adding-bi-to-workspaces/)</ept> <bpt id="p3">[</bpt>CLI104: Building Navigation<ept id="p3">](https://ax.help.dynamics.com/en/wiki/building-navigation/)</ept></source>
+        </trans-unit>
+        <trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>Concepts</source>
+        </trans-unit>
+        <trans-unit id="178" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>In-memory, real-time aggregate models replace SSAS cubes<ept id="p1">](http://ax.help.dynamics.com/en/wiki/transition-from-ssas-cubes-to-in-memory-real-time-aggregate-models-in-ax7/)</ept> <bpt id="p2">[</bpt>Building operational workspaces<ept id="p2">](https://ax.help.dynamics.com/en/wiki/building-operational-workspaces/)</ept> <bpt id="p3">[</bpt>Tile and List Caching for Workspaces<ept id="p3">](http://ax.help.dynamics.com/en/wiki/tile-and-list-caching-for-workspaces/)</ept> <bpt id="p4">[</bpt>Overiew of Aggregate Data (Office Mix)<ept id="p4">](https://mix.office.com/watch/16yvvnw45kzhf)</ept></source>
+        </trans-unit>
+        <trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>Mobile platform</source>
+        </trans-unit>
+        <trans-unit id="180" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Dynamics 365 for Operations mobile platform<ept id="p1">](http://ax.help.dynamics.com/en/wiki/mobile-development-handbook/)</ept></source>
+        </trans-unit>
+        <trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>Global finance management</source>
+        </trans-unit>
+        <trans-unit id="182" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Dimension entry control dialog support<ept id="p1">](http://ax.help.dynamics.com/en/wiki/dimension-entry-control-dialog-support/)</ept> <bpt id="p2">[</bpt>Dimension entry control migration<ept id="p2">](http://ax.help.dynamics.com/en/wiki/dimension-entry-control-migration/)</ept> <bpt id="p3">[</bpt>Dimension entry control uptake<ept id="p3">](http://ax.help.dynamics.com/en/wiki/dimension-entry-control-uptake/)</ept> <bpt id="p4">[</bpt>Add dimensions to the Microsoft Excel template<ept id="p4">](http://ax.help.dynamics.com/en/wiki/dimensions-overview/)</ept> <bpt id="p5">[</bpt>Create Open in Office experiences for Excel and Word<ept id="p5">](http://ax.help.dynamics.com/en/wiki/off101-office-integration-enable-users-to-edit-data-in-excel/)</ept> <bpt id="p6">[</bpt>Add templates to Open lines in Excel menu<ept id="p6">](http://ax.help.dynamics.com/en/wiki/add-templates-to-open-lines-in-excel-menu/)</ept> <bpt id="p7">[</bpt>Segmented entry control dialog support<ept id="p7">](http://ax.help.dynamics.com/en/wiki/segmented-entry-control-dialog-support/)</ept> <bpt id="p8">[</bpt>Segmented entry control Metadata Specification<ept id="p8">](http://ax.help.dynamics.com/en/wiki/segmented-entry-control-metadata-specification/)</ept> <bpt id="p9">[</bpt>Segmented entry control - Migration guidance<ept id="p9">](http://ax.help.dynamics.com/en/wiki/segmented-entry-control-migration-guidance/)</ept> <bpt id="p10">[</bpt>Segmented Entry control migration walkthrough<ept id="p10">](http://ax.help.dynamics.com/en/wiki/segmented-entry-control-conversion/)</ept> <bpt id="p11">[</bpt>Segmented entry control Parm Specification<ept id="p11">](http://ax.help.dynamics.com/en/wiki/segmented-entry-control-parm-method-specification/)</ept> <bpt id="p12">[</bpt>Creating exchange rate providers<ept id="p12">](http://ax.help.dynamics.com/en/wiki/creating-exchange-rate-providers/)</ept> <bpt id="p13">[</bpt>Financial dimension configuration for integrating applications<ept id="p13">](http://ax.help.dynamics.com/en/wiki/financial-dimension-configuration-for-integrating-applications/)</ept> <bpt id="p14">[</bpt>Activating financial dimensions<ept id="p14">](https://ax.help.dynamics.com/en/wiki/activating-financial-dimensions/)</ept> <bpt id="p15">[</bpt>Add the ability to look up values for financial dimensions in Microsoft Excel templates<ept id="p15">](http://ax.help.dynamics.com/en/wiki/add-dimensions-to-microsoft-excel-templates/)</ept></source>
+        </trans-unit>
+        <trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>Licensing</source>
+        </trans-unit>
+        <trans-unit id="184" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>ISV Licensing<ept id="p1">](https://ax.help.dynamics.com/en/wiki/isv-licensing-in-dynamics-ax/)</ept></source>
+        </trans-unit>
+        <trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>Supply chain management</source>
+        </trans-unit>
+        <trans-unit id="186" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Gantt Development Guide<ept id="p1">](http://ax.help.dynamics.com/wiki/gantt-development-guide/)</ept></source>
+        </trans-unit>
+        <trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>See also</source>
+        </trans-unit>
+        <trans-unit id="188" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Insider tips on development<ept id="p1">](https://community.dynamics.com/ax/b/newdynamicsax)</ept></source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
