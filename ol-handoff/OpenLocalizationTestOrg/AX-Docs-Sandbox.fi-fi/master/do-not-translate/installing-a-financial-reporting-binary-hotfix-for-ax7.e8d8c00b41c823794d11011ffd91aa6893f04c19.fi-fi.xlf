@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="fi-fi">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-71050dc" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4a90ab0337d5093d14fd891acc0644e5b1ed74eb</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\servicing\installing-a-financial-reporting-binary-hotfix-for-ax7.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">do-not-translate</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4ef8ad2523e494b6b7d4e63dd57fe8ff8a97a1c5</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b4751cb6a9ce2d8d6723fdd2e3de764f26eaea17</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Installing a financial reporting binary hotfix for Dynamics AX | Microsoft Docs</source>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Use this tutorial to install a financial reporting binary hotfix for Microsoft Dynamics AX from Microsoft Dynamics Lifecycle Services (LCS).</source>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Installing a financial reporting binary hotfix for Dynamics AX</source>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Update a one-box environment</source>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Download the patch.zip file from Microsoft Dynamics Lifecycle Services (LCS).</source>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Click <bpt id="p1">**</bpt>Administrator Tools<ept id="p1">**</ept> <ph id="ph1">&amp;gt;</ph> <bpt id="p2">**</bpt>Services<ept id="p2">**</ept>, and<bpt id="p3">**</bpt> <ept id="p3">**</ept>stop the Management Reporter 2012 Process Service.</source>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt><ph id="ph1">![</ph>Services<ph id="ph2">\_</ph>MRHotfix<ept id="p1">](media/Services_MRHotfix.png)](media/Services_MRHotfix.png)</ept></source>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Run the following commands:</source>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>'MROneBox<ph id="ph1">\\</ph>Instructions<ph id="ph2">\\</ph>MRHotfix.ps1' PowerShell script</source>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Restart the Management Reporter 2012 Process Service.</source>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Updating a multi-box environment</source>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Update each BI or MR machine</source>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>On each BI or MR machine.</source>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Click <bpt id="p1">**</bpt>Administrator Tools<ept id="p1">**</ept> <ph id="ph1">&amp;gt;</ph> <bpt id="p2">**</bpt>Services<ept id="p2">**</ept>, and<bpt id="p3">**</bpt> <ept id="p3">**</ept>stop the Management Reporter 2012 Process Service.</source>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt><ph id="ph1">![</ph>Services<ph id="ph2">\_</ph>MRHotfix<ept id="p1">](media/Services_MRHotfix.png)](media/Services_MRHotfix.png)</ept></source>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Once the Process service has been stopped on each BI or MR machine, proceed with step 2 below.</source>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Download the patch.zip file from LCS.</source>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Run the following commands:</source>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>'MRProcessService<ph id="ph1">\\</ph>Instructions<ph id="ph2">\\</ph>MRHotfix.ps1' PowerShell script</source>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Start the Management Reporter 2012 Process Service on each BI or MR machine.</source>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>Update each AOS machine</source>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Download the patch.zip file from LCS.</source>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Run the following commands:</source>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>'MRApplicationService<ph id="ph1">\\</ph>Instructions<ph id="ph2">\\</ph>MRHotfix.ps1' PowerShell script</source>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>See also</source>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Download hotfixes from Lifecycle Services<ept id="p1">](https://ax.help.dynamics.com/en/wiki/download-hotfixes-from-lifecycle-services/)</ept></source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

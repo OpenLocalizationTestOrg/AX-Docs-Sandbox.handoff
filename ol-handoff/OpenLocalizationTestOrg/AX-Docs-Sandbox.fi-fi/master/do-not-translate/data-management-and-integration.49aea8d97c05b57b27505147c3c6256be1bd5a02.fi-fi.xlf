@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="fi-fi">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-71050dc" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">62f2c055a735806191225385322efc2fcb2bf300</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\data-entities\data-management-and-integration.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">do-not-translate</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2e363e919957f6c55a145c26686082f7c87c2e9a</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e5b07e5c0878443bd4370eebbf7770e0bb2a5cfa</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Data management and integration | Microsoft Docs</source>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Data management and integration in Microsoft Dynamics 365 for Operations relies on out-of-the-box and custom data entities for migration, and supports services for application integration.</source>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Data management and integration</source>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Data entities</source>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Data entities<ept id="p1">](http://ax.help.dynamics.com/en/wiki/data-entities/)</ept> <bpt id="p2">[</bpt>Security and data entities<ept id="p2">](http://ax.help.dynamics.com/en/wiki/security-and-data-entities/)</ept></source>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Data import/export and asynchronous integration</source>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Data management and integration through data entities<ept id="p1">](http://ax.help.dynamics.com/en/wiki/data-management-and-integration-through-data-entity/)</ept> <bpt id="p2">[</bpt>Developing an entity and using it for data migration<ept id="p2">](http://ax.help.dynamics.com/en/wiki/developing-an-entity-and-using-it-for-data-migration/)</ept> <bpt id="p3">[</bpt>Recurring integrations<ept id="p3">](https://ax.help.dynamics.com/en/wiki/recurring-integrations/)</ept></source>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Application integration through services</source>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Guide to Services<ept id="p1">](http://ax.help.dynamics.com/en/wiki/dynamics-ax-7-services-technical-concepts-guide/)</ept> <bpt id="p2">[</bpt>OData in Microsoft Dynamics 365 for Operations<ept id="p2">](https://ax.help.dynamics.com/en/wiki/odata-in-dynamics-ax-7/)</ept> <bpt id="p3">[</bpt>JSON-based Endpoints for Custom Services (Office Mix)<ept id="p3">](https://mix.office.com/watch/12e4fejbgj429)</ept></source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
