@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-bf14093" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">095a52c00e25c61b09cca4abc60eed87b6999e06</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\localizations\asia-pacific\set-up-negative-debits-credits-china.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">need-to-investigate</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">757cd6f38908004ac1b70e4c63c64ea7642ea950</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c415f519b0d3d3326c8cbbacb31fdef4c12fefd1</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>required metadata</source>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>title:  | Microsoft Docs description: This topic shows how to display credit and debit amounts for ledger accounts in two separate columns in the general ledger for China.</source>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>author: ShylaThompson manager: AnnBe ms.date: 2017-01-05 15:21:22 ms.topic: article ms.prod: ms.service: Dynamics365Operations ms.technology:</source>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>optional metadata</source>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>keywords:</source>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>ROBOTS:</source>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>audience: Application User</source>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>ms.devlang:</source>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>ms.reviewer: 81 ms.suite: Released- Dynamics 365 for Operations version 1611</source>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>ms.tgt_pltfrm:</source>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>ms.custom: 265884 ms.assetid: afe173d2-2a76-45a4-8dda-4a5c0e1a9919 ms.region: China (PRC)</source>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>ms.industry:</source>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>ms.author: leguo</source>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>This topic shows how to display credit and debit amounts for ledger accounts in two separate columns in the general ledger for China.</source>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>You can view credit and debit amounts for ledger accounts in two separate columns on the <bpt id="p1">**</bpt>Voucher transactions<ept id="p1">**</ept> inquiry page.</source>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>You can also view the negative amounts that are related to the reversing entries.</source>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>All negative amounts are displayed in red letters on the <bpt id="p1">**</bpt>Voucher transactions<ept id="p1">**</ept> inquiry page.</source>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Click <bpt id="p1">**</bpt>General ledger<ept id="p1">**</ept> <ph id="ph1">&amp;gt;</ph> <bpt id="p2">**</bpt>Ledger Setup<ept id="p2">**</ept> <ph id="ph2">&amp;gt;</ph> <bpt id="p3">**</bpt>General ledger parameters<ept id="p3">**</ept>.</source>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Set the <bpt id="p1">**</bpt>Show amount in debit/credit columns<ept id="p1">**</ept> slider to <bpt id="p2">**</bpt>Yes<ept id="p2">**</ept>.</source>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Open <bpt id="p1">**</bpt>General ledger<ept id="p1">**</ept> <ph id="ph1">&amp;gt;</ph> <bpt id="p2">**</bpt>Inquiries and reports<ept id="p2">**</ept> <ph id="ph2">&amp;gt;</ph> <bpt id="p3">**</bpt>Voucher transactions<ept id="p3">**</ept> to confirm.</source>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> This functionality is only available for a legal entity with a primary address in China.</source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
