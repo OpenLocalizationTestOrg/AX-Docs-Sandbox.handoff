@@ -1,0 +1,300 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="sv-se">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-bf14093" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">784a54c7761309fa422e89b9f0d35f528379bfec</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\deployment\install-deployable-package.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">do-not-translate</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">500f6de4a7a5e175adb211bbe1ab824740e16f83</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">069036286ae66fbc6d7a05e6a7bcefcbb247c401</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Install a deployable package | Microsoft Docs</source>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This tutorial walks you through the steps for applying a deployable package on a system.</source>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Install a deployable package</source>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>This tutorial walks you through the steps for applying a deployable package on a system.</source>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Introduction</source>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>This tutorial walks you through the steps for applying a deployable package on a system.</source>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>This package can be either a binary hotfix for Application Object Server (AOS) or a deployable package that was created in your development environment.</source>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>This article describes the process using the command line and requires remote access to the environments.</source>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>On the other hand, and in most cases, you can apply a deployable package to an environment directly from Dynamics Lifecycle Services (LCS) as described in <bpt id="p1">[</bpt>Apply a deployable package on a system<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/deployment/apply-a-deployable-package-on-a-dynamics-ax-system)</ept>, without the need to understand the process described on this page.</source>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Key concepts</source>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Deployable package<ept id="p1">**</ept>– A deployable package is a unit of deployment that can be applied in any environment.</source>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>It can consist of a binary hotfix to the AOS runtime components, an updated application package, or a new application package.</source>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>AXUpdateInstaller<ept id="p1">**</ept>– A deployable package has the installer executable bundled in it.</source>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>When the package is downloaded to a computer, the installer is available.</source>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Runbook<ept id="p1">**</ept>– The deployment runbook is a series of steps that is generated for applying the deployable package to the target environment.</source>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Some of the steps are automated, and some are manual.</source>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>AXUpdateInstaller provides the capability to run these steps one by one and in the correct sequence.</source>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Collect topology configuration data</source>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>In Microsoft Dynamics Lifecycle Services (LCS), open the <bpt id="p1">**</bpt>Environment <ept id="p1">**</ept>page.</source>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Click the name of a virtual machine (VM), and establish a Remote Desktop connection to the VM by using the user name and password that are provided on the<bpt id="p1">**</bpt>Environment<ept id="p1">**</ept>page.</source>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>On the VM, download the zip file for the deployable package from LCS.</source>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> After you download the zip file, right-click it, and then select <bpt id="p2">**</bpt>Properties<ept id="p2">**</ept>.</source>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Then, in the <bpt id="p1">**</bpt>Properties <ept id="p1">**</ept>dialog box, on the <bpt id="p2">**</bpt>General <ept id="p2">**</ept>tab, click <bpt id="p3">**</bpt>Unblock <ept id="p3">**</ept>to unlock the files.</source>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Finally, extract the files, and continue with the next step.</source>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>In the folder where the deployable package was extracted, find and open the file that is named DefaultTopologyData.xml.</source>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>You must populate this file with the VM name and installed components.</source>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>To populate the VM name, follow these steps:</source>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Open Windows Explorer, right-click <bpt id="p1">**</bpt>This PC<ept id="p1">**</ept>, and then select <bpt id="p2">**</bpt>Properties<ept id="p2">**</ept>.</source>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>In the system properties, find and make a note of the machine name (for example, AOS-950ed2c3e7b).</source>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>In the DefaultTopologyData.xml file, replace the machine name with the name that you found in the previous step.</source>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>To populate the installed components, follow these steps:</source>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Open a Command Prompt window as an administrator.</source>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Navigate to the extracted folder, and run the following command to see a list of all the installed components on the computer.</source>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Update the DefaultTopologyData.xml with the list of components.</source>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>When you've finished populating the VM name and installed components, the DefaultTopologyData.xml file should resemble the following illustration.</source>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>defaulttopology</source>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Repeat steps 2 through 4 for each VM that is listed on the<bpt id="p1">**</bpt>Environment<ept id="p1">**</ept>page.</source>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Generate a runbook from the topology</source>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>Based on the topology information in the DefaultTopologyData.xml file, you must generate the runbook file that will provide step-by-step instructions for updating each VM.</source>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>On any VM, run the following command to generate the runbook.</source>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>Here is an explanation of the parameters that are used in this command:</source>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt><ph id="ph1">\[</ph>runbookID<ph id="ph2">\]</ph><ept id="p1">**</ept>– A parameter that is specified by the developer who applies the deployable package</source>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt><ph id="ph1">\[</ph>topologyFile<ph id="ph2">\]</ph><ept id="p1">**</ept>– The path of the DefaultTopologyData.xml file</source>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt><ph id="ph1">\[</ph>serviceModelFile<ph id="ph2">\]</ph><ept id="p1">**</ept>– The path of the DefaultServiceModelData.xml file</source>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt><ph id="ph1">\[</ph>runbookFile<ph id="ph2">\]</ph><ept id="p1">**</ept>– The name of the runbook file to generate (for example, AOSRunbook.xml)</source>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Example<ept id="p1">**</ept></source>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>The runbook provides the sequence of steps that must be run to update the environment.</source>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>The following illustration shows an example of a runbook file.</source>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>Each step in a runbook is associated with an ID, a machine name, and step execution details.</source>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt><ph id="ph1">![</ph>runbook-steps<ept id="p1">](./media/runbook-steps-1024x624.jpg)](./media/runbook-steps.jpg)</ept></source>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>Install a deployable package</source>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>Based on the sequence of steps that is specified in the runbook, start with the first machine that is listed.</source>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>Follow these steps on each VM:</source>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>Import the runbook by running the following command.</source>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Example<ept id="p1">**</ept></source>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>Verify the runbook.</source>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>Execute the runbook.</source>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Example<ept id="p1">**</ept></source>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>Export the runbook.</source>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Example<ept id="p1">**</ept></source>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>AXUpdateInstaller updates the runbook file after each step is run on a VM.</source>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>The runbook also logs information about each step.</source>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>For manual steps, follow the instructions, and then mark the step as completed in the runbook by using the AXUpdateInstaller.</source>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Example<ept id="p1">**</ept></source>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>After all the steps are completed on one machine, export the runbook results.</source>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Example<ept id="p1">**</ept></source>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>Log on to the second machine that is listed, and repeat steps 1 through 6 until all machines have been updated.</source>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>If errors occur during any step, debug the script/instruction in the step, and update accordingly.</source>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>Back up the database and computer instance</source>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>After all the services are stopped, make a backup of the database and VM snapshot manually (optional).</source>
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>Then run the following command to mark the backup step as completed.</source>
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>Supply the correct backup step ID.</source>
+        </trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Example<ept id="p1">**</ept></source>
+        </trans-unit>
+        <trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>Update files</source>
+        </trans-unit>
+        <trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>After you've marked the backup step as completed, the next step is triggered.</source>
+        </trans-unit>
+        <trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>In the sample step, AOS packages are updated from the deployable package.</source>
+        </trans-unit>
+        <trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>Run the following command to verify that the new version is installed.</source>
+        </trans-unit>
+        <trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>View the runbook to see the completed steps.</source>
+        </trans-unit>
+        <trans-unit id="179" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt><ph id="ph1">![</ph>image013<ept id="p1">](./media/image013-1024x978.png)](./media/image013.png)</ept></source>
+        </trans-unit>
+        <trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>Run database synchronization</source>
+        </trans-unit>
+        <trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>At one point, you will see a database synchronization (DBSync) step.</source>
+        </trans-unit>
+        <trans-unit id="182" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt><ph id="ph1">![</ph>image015<ept id="p1">](./media/image015-1024x654.png)](./media/image015.png)</ept></source>
+        </trans-unit>
+        <trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>Start all services</source>
+        </trans-unit>
+        <trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>After the database synchronization step is completed, follow the same instructions to complete the remaining steps.</source>
+        </trans-unit>
+        <trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>All the services will be started.</source>
+        </trans-unit>
+        <trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>Troubleshooting</source>
+        </trans-unit>
+        <trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>After all the steps are completed, export the runbook, and save it outside the computer for future reference.</source>
+        </trans-unit>
+        <trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>For example, you might have to use the runbook file in these situations:</source>
+        </trans-unit>
+        <trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>You must analyze the downtime requirements for production, and so on.</source>
+        </trans-unit>
+        <trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>You must send the file to Microsoft in the event of failure to install a deployable package.</source>
+        </trans-unit>
+        <trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>If any step fails, you can rerun it by running the following command.</source>
+        </trans-unit>
+        <trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>To prevent version mismatch or downgrade, or installation of the same deployable package, run the following command.</source>
+        </trans-unit>
+        <trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>To verify database synchronization, navigate to the aosservce<ph id="ph1">\\</ph>scripts<ph id="ph2">\\</ph> folder and find the dbsync.error.txt file.</source>
+        </trans-unit>
+        <trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>Find the file, and look for any errors.</source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
