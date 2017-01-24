@@ -1,0 +1,363 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="lt-lt">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-bf14093" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5fadfb1ff5de3702f4bc5441b7cce4d33ab7e591</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\analytics-bi-reporting\configure-power-bi-integration.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">do-not-translate</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b6d442139ec2cc7804d0b00c5fbba3169b3598f1</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">29c07415c4e384969c723fc40f795fdb1ab4cbea</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Configure Power BI integration for workspaces | Microsoft Docs</source>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This tutorial describes the configuration that is required for a new Microsoft Dynamics 365 for Operations environment to support integration with PowerBI.com.</source>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>This configuration enables workspaces to show the Power BI control and lets users pin visualizations to a workspace.</source>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>PowerBIConfiguration</source>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Configure Power BI integration for workspaces</source>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>This tutorial describes the configuration that is required for a new Microsoft Dynamics 365 for Operations environment to support integration with PowerBI.com.</source>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>This configuration enables workspaces to show the Power BI control and lets users pin visualizations to a workspace.</source>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Microsoft Dynamics 365 for Operations supports Power BI visualizations that are pinned directly to workspaces.</source>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>This functionality requires a one-time configuration for each tenant to help guarantee that Dynamics 365 for Operations and Power BI can communicate and authenticate correctly.</source>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">\[</ph>caption id="attachment<ph id="ph2">\_</ph>259704" align="alignnone" width="781"<ph id="ph3">\]</ph><bpt id="p1">[</bpt><ph id="ph4">![</ph>PowerBI control in Reservation Management Workspace<ept id="p1">](./media/fleetws-1024x578.png)](./media/fleetws.png)</ept> Power BI control in the Reservation management workspace<ph id="ph5">\[</ph>/caption<ph id="ph6">\]</ph> Both Dynamics 365 for Operations and PowerBI.com are cloud-based services.</source>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>In order for a Dynamics 365 for Operations workspace to display a Power BI tile, the Dynamics 365 for Operations server must contact the Power BI service on behalf of a user and must have a visualization drawn in the Dynamics 365 for Operations workspace.</source>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>This flow between Dynamics 365 for Operations and the Power BI service is based on the OAuth 2.0 Authorization Code Grant Flow.</source>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>The OAuth Authorization Code Grant Flow</source>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>This section describes the authorization flow between Dynamics 365 for Operations and the PowerBI.com service during authentication and when visualizations are presented to a user.</source>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>The following diagram shows the authorization flow and is based on the assumption that you've completed the configuration that this article describes.</source>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt><ph id="ph1">![</ph>OAuthFlow<ept id="p1">](./media/oauthflow.png)](./media/oauthflow.png)</ept></source>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>When a user visits a workspace in Dynamics 365 for Operations for the first time, the Power BI banner prompts the user to start the first-time connection.</source>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>If the user agrees to start the first-time connection, an OAuth 2.0 Authorization Code Grant Flow is started.</source>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Dynamics 365 for Operations redirects the user agent to the Microsoft Azure Active Directory (AAD) authorization endpoint.</source>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>The user is authenticated and consents, if consent is required.</source>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>Because the user is running Dynamics 365 for Operations, he or she is already signed in to AAD.</source>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Therefore, the user doesn't have to enter his or her credentials again.</source>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>The AAD authorization endpoint redirects the AAD agent back to the client application together with an authorization code.</source>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>The user agent returns the authorization code to the client application’s redirect URL.</source>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>The application redirect URL is a parameter that is maintained in your Power BI configuration, as described later in this article.</source>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Now that Dynamics 365 for Operations has an authorization code on behalf of the user, it requests an access token from the AAD token issuance endpoint.</source>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>Dynamics 365 for Operations presents the authorization code to prove that the user has consented.</source>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>The AAD token issuance endpoint returns an access token and a refresh token.</source>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Dynamics 365 for Operations must have the access tokento request a visualization from Power BI.</source>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>Access tokens expire after a short time.</source>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>The refresh token can be used to request a new token.</source>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Dynamics 365 for Operations uses the access token to authenticate to the Web API that is provided by Power BI.</source>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Dynamics 365 for Operations uses the Web API to request that Power BI visualizations be displayed on behalf of the user.</source>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>After the client application is authenticated, the Power BI Web API returns the requested visualization to the user.</source>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>Note that Power BI returns only the data that the user is allowed to see.</source>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Because the Power BI Web API detects that the user is connecting via Dynamics 365 for Operations, it can correctly resolve the user.</source>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>The user sees Power BI visualizations in the Dynamics 365 for Operations workspace.</source>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>For subsequent visits, this entire flow doesn't have to occur.</source>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>Because Dynamics 365 for Operations has the access token on behalf of the user, steps 1 through 4 don't have to be repeated.</source>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>Prerequisites</source>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>At least one AAD account in your tenant must be registered with PowerBI.com.</source>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>Follow the instructions at <bpt id="p1">&lt;</bpt>https://powerbi.microsoft.com/en-us/documentation/powerbi-developer-sign-up-for-power-bi-service/<ept id="p1">&gt;</ept>.</source>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>After you've created your AAD account, sign in to <bpt id="p1">&lt;</bpt>https://app.powerbi.com<ept id="p1">&gt;</ept>.</source>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>At least one user must sign in to PowerBI.com before the configuration can be completed.</source>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>You must have AAD administrator privileges.</source>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>You must be assigned to the System Administrator role in Dynamics 365 for Operations.</source>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>You must be using the same tenant for both your deployment and the user logon.</source>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>For example, if the environment was deployed under the contosoax7.onmicrosoft.com tenant, the user logon for both Dynamics 365 for Operations and Power BI should be in the format <ph id="ph1">myname@contosoax7.onmicrosoft.com</ph>.</source>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>Register your Dynamics 365 for Operations deployment as a web app in the Azure portal</source>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>The Power BI application programming interface (API) is available for consumption by any client or web application that is registered with AAD.</source>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>Therefore, the first step is to register your Dynamics 365 for Operations deployment as a web app.</source>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>To complete this step, you must have access to an AAD account that has administrator privileges for the tenant that Dynamics 365 for Operations was deployed for.</source>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>For instructions about how to register your web app, see <bpt id="p1">&lt;</bpt>https://powerbi.microsoft.com/en-us/documentation/powerbi-developer-register-a-web-app/<ept id="p1">&gt;</ept>.</source>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Important:<ept id="p1">**</ept> Observe the following guidelines when you register your web app:</source>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>Use the following values when you create your web app:</source>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Sign-in URL:<ept id="p1">**</ept> This URL is the same as your deployment URL, but <bpt id="p2">**</bpt>oauth<ept id="p2">**</ept> is added to the end.</source>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Example:<ept id="p1">**</ept> http://contosoax7.cloud.dynamics.com/<bpt id="p2">**</bpt>oauth<ept id="p2">**</ept></source>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>App ID URI:<ept id="p1">**</ept> This value is mandatory, but isn't required for the workspace integration.</source>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>Make sure that this App ID URI is a mock URI like https://contosoAX, since using the URL of your deployment can cause sign-in issues in other AAD applications such as the Excel Add-in.</source>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Example:<ept id="p1">**</ept> http://contosoax7testenv/</source>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Reply URL:<ept id="p1">**</ept> This URL is the same as your deployment URL, but <bpt id="p2">**</bpt>oauth<ept id="p2">**</ept> is added to the end.</source>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Example:<ept id="p1">**</ept> http://contosoax7.cloud.dynamics.com/<bpt id="p2">**</bpt>oauth<ept id="p2">**</ept></source>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>If you have multiple deployments, you can use the same web app and add additional deployments.</source>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>Add the URL of each deployment to the <bpt id="p1">**</bpt>Reply<ept id="p1">**</ept> <bpt id="p2">**</bpt>URL<ept id="p2">**</ept> list on the <bpt id="p3">**</bpt>Configuration<ept id="p3">**</ept> tab for your web app.</source>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>If you use the deployment URL as the <bpt id="p1">**</bpt>App ID URL<ept id="p1">**</ept> value, you will cause an error when authentication through Microsoft Power Query for Excel occurs.</source>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>Write down the <bpt id="p1">**</bpt>Client ID<ept id="p1">**</ept> and <bpt id="p2">**</bpt>Secret Key<ept id="p2">**</ept> values as they appear in the Azure portal, and keep this information in a safe place.</source>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>You will have to enter these values on the Dynamics 365 for Operations <bpt id="p1">**</bpt>Power BI configuration<ept id="p1">**</ept> page later.</source>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>When you try to give permission to the Power BI service, if you don't see <bpt id="p1">**</bpt>Power BI Service<ept id="p1">**</ept> in the <bpt id="p2">**</bpt>Permissions to other applications<ept id="p2">**</ept> list, you must sign up for the Power BI service by using the account of a member of your tenant.</source>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>To sign up for the Power BI service, you must have at least one organizational user in your AAD tenant.</source>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>For information about how to create new AAD users, see <bpt id="p1">[</bpt>Create or edit users in Azure AD<ept id="p1">](https://msdn.microsoft.com/en-us/library/azure/hh967632.aspx)</ept>.</source>
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>If you must create a new AAD user for this purpose, go to <bpt id="p1">[</bpt>https://powerbi.microsoft.com,<ept id="p1">](https://powerbi.microsoft.com)</ept> and sign up for a Power BI account.</source>
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>After your tenant has at least one account that is registered with Power BI, the Power BI service will appear as one of the options for permissions to your Dynamics 365 for Operations web application.</source>
+        </trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>Configure the environment for Power BI integration</source>
+        </trans-unit>
+        <trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>The following procedure must be completed by a Dynamics 365 for Operations system administrator.</source>
+        </trans-unit>
+        <trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>By default, the Power BI configuration is disabled.</source>
+        </trans-unit>
+        <trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>Sign in to Dynamics 365 for Operations by using an account that has the System Administrator role.</source>
+        </trans-unit>
+        <trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>Click <bpt id="p1">**</bpt>System administration<ept id="p1">**</ept> <ph id="ph1">&amp;gt;</ph> <bpt id="p2">**</bpt>Setup<ept id="p2">**</ept> <ph id="ph2">&amp;gt;</ph> <bpt id="p3">**</bpt>Power BI<ept id="p3">**</ept> to open the <bpt id="p4">**</bpt>Power BI configuration<ept id="p4">**</ept> page.</source>
+        </trans-unit>
+        <trans-unit id="178" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">\[</ph>caption id="attachment<ph id="ph2">\_</ph>260044" align="alignnone" width="640"<ph id="ph3">\]</ph><bpt id="p1">[</bpt><ph id="ph4">![</ph>PowerBI Configuration Form<ept id="p1">](./media/powerbiconfig2-903x1024.png)](./media/powerbiconfig2.png)</ept> Power BI configuration page<ph id="ph5">\[</ph>/caption<ph id="ph6">\]</ph></source>
+        </trans-unit>
+        <trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>Click the <bpt id="p1">**</bpt>Edit<ept id="p1">**</ept> button to make changes.</source>
+        </trans-unit>
+        <trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>Specify the following values for the fields on this page:</source>
+        </trans-unit>
+        <trans-unit id="181" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Enabled:<ept id="p1">**</ept> Set the option to <bpt id="p2">**</bpt>Yes<ept id="p2">**</ept>.</source>
+        </trans-unit>
+        <trans-unit id="182" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Azure AD authority URI:<ept id="p1">**</ept> The correct value, <bpt id="p2">**</bpt>https://login.windows.net<ept id="p2">**</ept>, should already be entered when you open the page.</source>
+        </trans-unit>
+        <trans-unit id="183" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Azure AD Power BI resource URI:<ept id="p1">**</ept> The correct value, <bpt id="p2">**</bpt>https://analysis.windows.net/powerbi/api<ept id="p2">**</ept>, should already be entered.</source>
+        </trans-unit>
+        <trans-unit id="184" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Azure AD Tenant:<ept id="p1">**</ept> The correct value, <bpt id="p2">**</bpt>contosoax7.onmicrosoft.com<ept id="p2">**</ept>, should already be entered.</source>
+        </trans-unit>
+        <trans-unit id="185" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Client ID:<ept id="p1">**</ept> Enter the <bpt id="p2">**</bpt>Client ID<ept id="p2">**</ept> value that you recorded earlier.</source>
+        </trans-unit>
+        <trans-unit id="186" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Application key:<ept id="p1">**</ept> Enter the <bpt id="p2">**</bpt>Secret Key<ept id="p2">**</ept> value that you recorded earlier.</source>
+        </trans-unit>
+        <trans-unit id="187" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Redirect URL:<ept id="p1">**</ept> The correct value, the root URL of your deployment plus <bpt id="p2">**</bpt>oauth<ept id="p2">**</ept>, should already be entered.</source>
+        </trans-unit>
+        <trans-unit id="188" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Power BI API Address:<ept id="p1">**</ept> The correct value, <bpt id="p2">**</bpt>https://api.powerbi.com/beta/myorg<ept id="p2">**</ept>, should already be entered.</source>
+        </trans-unit>
+        <trans-unit id="189" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Apply tile filter:<ept id="p1">**</ept> The correct value, <bpt id="p2">**</bpt>Yes<ept id="p2">**</ept>, should already be set.</source>
+        </trans-unit>
+        <trans-unit id="190" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Tile filter table:<ept id="p1">**</ept> The correct value, <bpt id="p2">**</bpt>Entities<ept id="p2">**</ept>, should already be entered.</source>
+        </trans-unit>
+        <trans-unit id="191" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Tile filter column:<ept id="p1">**</ept> The correct value, <bpt id="p2">**</bpt>ID<ept id="p2">**</ept>, should already be entered.</source>
+        </trans-unit>
+        <trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>Click <bpt id="p1">**</bpt>Save<ept id="p1">**</ept> to save your changes.</source>
+        </trans-unit>
+        <trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>Connect to Power BI from Dynamics AX for the first time</source>
+        </trans-unit>
+        <trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>Users will now see the Power BI control in specific workspaces.</source>
+        </trans-unit>
+        <trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>(The control must be added as part of the development process.</source>
+        </trans-unit>
+        <trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>By default, the control isn't added to all workspaces.) The first time that users use the control, they must confirm that they authorize access to their Power BI visualizations.</source>
+        </trans-unit>
+        <trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>To test your configuration, you can use the <bpt id="p1">**</bpt>Reservation management<ept id="p1">**</ept> workspace.</source>
+        </trans-unit>
+        <trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>On the dashboard page, click the <bpt id="p1">**</bpt>Reservation management<ept id="p1">**</ept> tile.</source>
+        </trans-unit>
+        <trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>Alternatively, to use menus, click <bpt id="p1">**</bpt>Fleet management<ept id="p1">**</ept> <ph id="ph1">&amp;gt;</ph> <bpt id="p2">**</bpt>Workspaces<ept id="p2">**</ept> <ph id="ph2">&amp;gt;</ph> <bpt id="p3">**</bpt>Reservation management<ept id="p3">**</ept>.</source>
+        </trans-unit>
+        <trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>The Power BI banner appears, as shown in the following screen shot.</source>
+        </trans-unit>
+        <trans-unit id="201" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">\[</ph>caption id="attachment<ph id="ph2">\_</ph>259704" align="alignnone" width="640"<ph id="ph3">\]</ph><bpt id="p1">[</bpt><ph id="ph4">![</ph>PowerBI control in Reservation Management Workspace<ept id="p1">](./media/fleetws-1024x578.png)](./media/fleetws.png)</ept> Power BI control in the Reservation management workspace<ph id="ph5">\[</ph>/caption<ph id="ph6">\]</ph></source>
+        </trans-unit>
+        <trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>In the Power BI banner, click <bpt id="p1">**</bpt>Get started<ept id="p1">**</ept>.</source>
+        </trans-unit>
+        <trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>If this is the first time that you've started Power BI from Dynamics 365 for Operations, you're prompted to authorize sign-in to Power BI from the Dynamics 365 for Operations client.</source>
+        </trans-unit>
+        <trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>Click <bpt id="p1">**</bpt>Click here to provide authorization to Power BI<ept id="p1">**</ept>.</source>
+        </trans-unit>
+        <trans-unit id="205" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">\[</ph>caption id="attachment<ph id="ph2">\_</ph>260804" align="alignnone" width="635"<ph id="ph3">\]</ph><bpt id="p1">[</bpt><ph id="ph4">![</ph>PowerBI Authorization<ept id="p1">](./media/authorization.png)](./media/authorization.png)</ept> Power BI authorization<ph id="ph5">\[</ph>/caption<ph id="ph6">\]</ph></source>
+        </trans-unit>
+        <trans-unit id="206" translate="yes" xml:space="preserve">
+          <source>Because you're already signed in to AAD in Dynamics 365 for Operations, you don't have to enter your credentials again.</source>
+        </trans-unit>
+        <trans-unit id="207" translate="yes" xml:space="preserve">
+          <source>A new tab appears, where you're prompted to authorize the connection between Dynamics 365 for Operations and Power BI.</source>
+        </trans-unit>
+        <trans-unit id="208" translate="yes" xml:space="preserve">
+          <source>You can now return to the original tab.</source>
+        </trans-unit>
+        <trans-unit id="209" translate="yes" xml:space="preserve">
+          <source>The <bpt id="p1">**</bpt>Add / remove Power BI tiles<ept id="p1">**</ept> slider dialog opens.</source>
+        </trans-unit>
+        <trans-unit id="210" translate="yes" xml:space="preserve">
+          <source>The tabs on the left show your dashboards, and the related visualizations appear on the right.</source>
+        </trans-unit>
+        <trans-unit id="211" translate="yes" xml:space="preserve">
+          <source>You can now select visualizations to add (pin) to the workspace.</source>
+        </trans-unit>
+        <trans-unit id="212" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">\[</ph>caption id="attachment<ph id="ph2">\_</ph>260924" align="alignnone" width="640"<ph id="ph3">\]</ph><bpt id="p1">[</bpt><ph id="ph4">![</ph>Pinning Slider<ept id="p1">](./media/pinning-836x1024.png)](./media/pinning.png)</ept> Pinning slider<ph id="ph5">\[</ph>/caption<ph id="ph6">\]</ph></source>
+        </trans-unit>
+        <trans-unit id="213" translate="yes" xml:space="preserve">
+          <source>After you've finished selecting visualizations, click <bpt id="p1">**</bpt>OK<ept id="p1">**</ept>.</source>
+        </trans-unit>
+        <trans-unit id="214" translate="yes" xml:space="preserve">
+          <source>See also</source>
+        </trans-unit>
+        <trans-unit id="215" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Sign up for Power BI service<ept id="p1">](https://powerbi.microsoft.com/en-us/documentation/powerbi-developer-sign-up-for-power-bi-service/)</ept></source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
