@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="ru-ru">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b041417051810657eb4ac0c2868778dcd6661546</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">manufacturing\warehouse-management\warehouse-management.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">94d14ce785c31140571a47a7f337a2514438406c</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f5b9ff70bf7ab422879caef2bdcca17de2a649b5</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Warehouse management home page | Microsoft Docs</source>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This topic gives a list of the help topics and other resources that are available for Warehouse management.</source>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Warehouse management home page</source>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>This topic gives a list of the help topics and other resources that are available for Warehouse management.</source>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Microsoft Dynamics 365 for Operations has two warehouse solutions: "Inventory management" warehousing or "Basic warehousing", which is available in the Inventory management module, and the "Advanced" warehousing solution that's available in the Warehouse management module.</source>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>This topic provides an overview of the resources that are available in the Warehouse management module.</source>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>For information about Inventory management warehousing, see the <bpt id="p1">[</bpt>Inventory management home page<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/warehouse-management/inventory-management)</ept>.</source>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Warehouse management overview</source>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Use the functionality in the Warehouse management module to monitor and automate warehouse processes.</source>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>The Warehouse management module lets you manage warehouse processes in manufacturing, distribution, and retail companies.</source>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>For example, you can use the features in this module to complete tasks in the following areas.</source>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Workflows - Configure inbound and outbound intelligent workflows.</source>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Picking and packing - Assign orders to clusters to pick from a single location and configure profiles to control the validation and packing of items into shipping containers.</source>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Alternate between picking strategies for batch and non-batch items.</source>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Wave processing - Create, implement, and release work using batch-scheduled or manual processing of waves.</source>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Inventory counting - Set up cycle counting thresholds, create cycle counting plans, schedule plans, and cycle count locations and items ad hoc.</source>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Containerization - Set up container groups to order the sequence of the packing process and create templates to support packing strategies.</source>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Mobile devices - Use scanners or other mobile devices to optimize precision in the picking and put-away processes.</source>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Warehouse management resources</source>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>The resources available for Advanced warehousing include:</source>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Install and configure Microsoft Dynamics 365 for Operations – Warehousing<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/mobile-apps/install-configure-warehousing-app)</ept></source>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Warehouse configuration<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/warehouse-management/warehouse-configuration)</ept></source>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Configure locations in a WMS-enabled warehouse<ept id="p1">](http://ax.help.dynamics.com/en/wiki/configure-locations-in-a-wms-enabled-warehouse/)</ept></source>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create a location profile<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-a-location-profile/)</ept></source>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Unit of measure and stocking policies<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/warehouse-management/unit-of-measure-and-stocking-policies)</ept></source>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Manage warehouse workers<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/warehouse-management/manage-warehouse-workers)</ept></source>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Controlling warehouse work with work templates and location directives<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/warehouse-management/controlling-warehouse-work-with-work-templates-and-location-directives)</ept></source>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up a work template for purchase orders<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-a-work-template-for-purchase-orders/)</ept></source>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create a work class<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-a-work-class/)</ept></source>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Configure wave processing<ept id="p1">](http://ax.help.dynamics.com/en/wiki/configure-wave-processing/)</ept></source>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Processing of inbound ASNs in Warehouse management<ept id="p1">](https://mix.office.com/watch/wpf78tr7rjuh)</ept> (Office mix)</source>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up a location directive for purchase order put-away<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-a-location-directive-for-purchase-order-put-away/)</ept></source>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Register items for an advanced warehousing enabled item using an item arrival journal<ept id="p1">](http://ax.help.dynamics.com/en/wiki/register-items-for-an-advanced-warehousing-enabled-item-using-an-item-arrival-journal/)</ept></source>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up dispositions codes<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-disposition-codes/)</ept></source>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Configuration of mobile devices for warehouse work<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/warehouse-management/configure-mobile-devices-for-warehouse-work)</ept></source>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Warehouse mobile device display settings<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/warehouse-management/changing-the-look-and-feel-of-warehouse-mobile-device-displays)</ept></source>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up a mobile device menu item to register received items<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-a-mobile-device-menu-item-to-register-received-items/)</ept></source>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up a mobile device menu item for completing work of type Purchase order<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-a-mobile-device-menu-item-for-completing-work-of-type-purchase-order/)</ept></source>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create a mobile device menu item for license plate consolidation<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-a-mobile-device-menu-item-for-license-plate-consolidation/)</ept></source>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Cycle counting<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/warehouse-management/cycle-counting)</ept></source>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Define cycle counting<ept id="p1">](http://ax.help.dynamics.com/en/wiki/define-cycle-counting/)</ept></source>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Replenishment<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/warehouse-management/replenishment)</ept></source>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up a min-max replenishment process<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-a-min-max-replenishment-process/)</ept></source>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up short picking item reallocation<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-short-picking-item-reallocation/)</ept></source>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Enable license plate label printing<ept id="p1">](http://ax.help.dynamics.com/en/wiki/enable-license-plate-label-printing/)</ept></source>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up manual packing<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-manual-packing/)</ept></source>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up containerization<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-containerization/)</ept></source>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Warehouse Mobile Devices Portal for Microsoft Dynamics 365 for Operations<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/warehouse-management/warehouse-mobile-devices-portal-for-microsoft-dynamics-ax)</ept></source>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Inventory on-hand movements/transfers using the mobile device menus<ept id="p1">](http://blogs.msdn.com/b/dynamicsaxscm/archive/2016/01/14/inventory-on-hand-movements-transfers-using-the-mobile-device-menus.aspx)</ept> (Blog post)</source>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up work audit templates to automate the updating of warehouse process records<ept id="p1">](http://blogs.msdn.com/b/dynamicsaxscm/archive/2016/01/26/set-up-work-audit-templates-to-automate-the-updating-of-warehouse-process-records.aspx)</ept> (Blog post)</source>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Tutorial: Locations with open work exceptions<ept id="p1">](http://kashperuk.blogspot.com/2016/01/tutorial-locations-with-open-work.html)</ept> (Blog post)</source>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Warehouse Management System Implementation Guide<ept id="p1">](http://blogs.msdn.com/b/dynamicsaxscm/archive/2014/07/15/warehouse-management-system-implementation-guide.aspx)</ept> (previous version of Dynamics)</source>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>There are also many topics about advanced warehousing on the <bpt id="p1">[</bpt>Supply Chain Management <ept id="p1">](http://blogs.msdn.com/b/dynamicsaxscm/)</ept>blog.</source>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>Most of these were written for the previous version of Dynamics 365 for Operations, but the same concepts still apply, and the procedures are similar in the current version.</source>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>For example, there are posts about:</source>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Manual packing functionality in Warehouse management<ept id="p1">](http://blogs.msdn.com/b/dynamicsaxscm/archive/2014/06/18/manual-packing-functionality-in-warehouse-management-available-in-ax-2012-r3.aspx)</ept></source>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Introduction to Containerization - Automated packing process<ept id="p1">](http://blogs.msdn.com/b/dynamicsaxscm/archive/2014/07/26/introduction-to-containerization-automated-packing-process-in-microsoft-dynamics-ax-2012-r3.aspx)</ept></source>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Receiving a pallet with mixed items based on a packing structure using License plate receiving mobile device menu item<ept id="p1">](http://blogs.msdn.com/b/dynamicsaxscm/archive/2014/09/18/receiving-a-pallet-with-mixed-items-based-on-a-packing-structure-using-license-plate-receiving-mobile-device-menu-item.aspx)</ept></source>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Use of license plates associated with a container type to drive warehouse management processes<ept id="p1">](https://blogs.msdn.microsoft.com/dynamicsaxscm/2016/06/20/use-of-license-plates-associated-with-a-container-type-to-drive-warehouse-management-processes/)</ept></source>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Receive and register a pallet with mixed source document lines using 1 license plate – purchase order matching<ept id="p1">](https://blogs.msdn.microsoft.com/dynamicsaxscm/2016/05/13/receive-and-register-a-pallet-with-mixed-source-document-lines-using-1-license-plate-purchase-order-matching/)</ept></source>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>Additional resources</source>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>Additional help is available as task guides inside Dynamics 365 for Operations.</source>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>To access task guides, click the Help button on any page.</source>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>For information about Microsoft Dynamics 365 for Operations training, see <bpt id="p1">[</bpt>Microsoft eLearning<ept id="p1">](https://mbs2.microsoft.com/members/elearning/dynamicstrainingcert.aspx)</ept> (requires CustomerSource account).</source>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>In particular, see the “Warehouse Management &amp; Transportation Management Systems” page.</source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
