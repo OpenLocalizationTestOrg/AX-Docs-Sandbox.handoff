@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="th-th">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4abdd6d4ad67e515387ab8da837e43b54de0e95a</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\fixed-assets\set-up-fixed-assets.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1471866f7e703a32eb49f7ea4601ba80d8ff5d50</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">7e45c058bb413e70bac5fbb6456608e9dc19b1c1</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Set up fixed assets | Microsoft Docs</source>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This topic provides an overview of Fixed assets module setup.</source>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Set up fixed assets</source>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>This topic provides an overview of Fixed assets module setup.</source>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Overview</source>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Parameters control general behavior within the Fixed assets module.</source>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Fixed asset groups are a way of grouping your assets, and defaulting attributes to each asset assigned to the group.</source>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Depreciation books and value models track the financial value of a fixed asset over time, using depreciation configuration defined in the depreciation profile.</source>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Both can be assigned to Fixed asset groups, which will then default to the fixed asset when it is created within the group.</source>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>The biggest difference between value models and depreciation books is that value models post to the General ledger while depreciation books do not.</source>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>The ledger accounts are defined by value model in the posting profile.</source>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>The following illustration provides an overview of how the different components of fixed assets are integrated.</source>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>FixedAssetsComponentsImage</source>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Depreciation profiles</source>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Depreciation profiles should be set up first.</source>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>The depreciation profile is where you configure how the value of an asset is depreciated over time.</source>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>You will need to define the method of depreciation, the depreciation year (calendar year or fiscal year), and the frequency of depreciation.</source>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Depreciation books</source>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>After depreciation profiles are set up, you need to create the necessary depreciation books and value models for your assets.</source>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Every depreciation book and value model will track an independent financial lifecycle of an asset.</source>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>Because depreciation books do not post to general ledger, they are typically used to track asset values for tax reporting purposes.</source>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>The depreciation option must be selected in order to calculate depreciation on the assets by default.</source>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>If the depreciation option is not selected for an asset, then the depreciation proposal will skip these assets.</source>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>This is where the primary depreciation profile is assigned, as well as an alternative or switchover depreciation profile, if it is applicable.</source>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Value models</source>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Value models should be set up next.</source>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>Value model setup is very similar to depreciation book setup, but has additional fields related to general ledger posting.</source>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>At this time you can also able to set up derived value models and derived depreciation books for a value model.</source>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>The specified derived transactions will be posted as an exact copy of the primary transaction against the derived books.</source>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>Fixed asset posting profiles</source>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>After value models have been set up, the posting profile can be created.</source>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>The posting profile must be defined by value model, but can also be defined at an even more granular level, such as value model and fixed asset group combination or even for an individual fixed asset.</source>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>The ledger accounts defined will be the default for your fixed asset transactions.</source>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>You need to define the ledger accounts to be used during the disposal processes, both disposal sales and disposal scraps.</source>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>At the time of disposal, the previously posted fixed asset transactions will be reversed out of the original accounts and move the net amount to the appropriate account for gain and loss for asset disposal.</source>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>You need to set up accounts for each type of transaction that you use in your business in order to properly reverse out the transactions.</source>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>The main account should be the original account that you set on the posting profile for that transaction type, and the offset account should be your gain and loss for disposal account.</source>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>The exception is the net book value – both the main and the offset accounts should be set to the gain and loss for disposal account.</source>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>Fixed asset groups</source>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>Fixed asset group is the only required field when creating a fixed asset, and it will default a number of different informational fields to the asset.</source>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>The fixed asset group is Value models and depreciation groups are set up to default for each asset assigned to the group.</source>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>At this point, additional attributes can be set for the value models and depreciation books that are specific to that group of assets, such as Service life and Depreciation convention.</source>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>This is also where Special depreciation allowances, or bonus depreciation, can be defined for a specific fixed asset group/depreciation book combination.</source>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>A priority must be assigned to the special depreciation allowance to specify the order in which allowances should be calculated when there are multiple assigned to a depreciation book.</source>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>Fixed asset parameters</source>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>The last step is to update fixed asset parameters.</source>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>Capitalization threshold will determine what assets will be depreciated.</source>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>If a purchase is selected as a fixed asset but does not meet the capitalization threshold, it will still be created or updated as a fixed asset, but the <bpt id="p1">**</bpt>Depreciation<ept id="p1">**</ept> check box will be clear.</source>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>This means that the asset will not be depreciated automatically as part of the depreciation proposals.</source>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>One important option is <bpt id="p1">**</bpt>Automatic creation of depreciation adjustments with disposal parameter<ept id="p1">**</ept>.</source>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>This functionality will automatically adjust the asset depreciation based on the depreciation settings at the time of the asset disposal.</source>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>There is also an option to deduct cash discounts from your acquisition amount when acquiring fixed assets using a vendor invoice.</source>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>In the Purchase orders section, you can configure how you want your assets to be created as part of the purchasing process.</source>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>The first field is <bpt id="p1">**</bpt>Allow asset acquisition from Purchasing<ept id="p1">**</ept>.</source>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>If selected, the asset acquisition happens at the time when the invoice is posted.</source>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>If it is clear, you can still put a fixed asset on a PO and invoice, but the acquisition will not be posted – this would need to be done as a separate step from the fixed asset journal.<bpt id="p1">**</bpt> Create asset during product receipt or invoice posting<ept id="p1">**</ept> will allow you to create a new asset on the fly – so it does not need to be set up as a fixed asset before the transaction.</source>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>The last option to <bpt id="p1">**</bpt>Check for fixed assets creation during line entry<ept id="p1">**</ept> is applicable to purchase requisitions only.</source>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>Reason codes can be configured to be required for changes to a fixed asset or for specific fixed asset transactions.</source>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>Finally, number sequences are defined for the Fixed assets module on the <bpt id="p1">**</bpt>Number sequences<ept id="p1">**</ept> tab.</source>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>The Fixed asset number sequence can be overridden by the Fixed asset group number sequence if it has been specified.</source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
