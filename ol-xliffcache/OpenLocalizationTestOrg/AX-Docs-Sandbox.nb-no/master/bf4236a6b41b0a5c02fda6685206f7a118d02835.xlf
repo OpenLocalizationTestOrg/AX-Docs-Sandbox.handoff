@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="nb-no">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">bf4236a6b41b0a5c02fda6685206f7a118d02835</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">manufacturing\master-planning\demand-forecasting.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e87f0944bea9fc464ca7ecf1287a2363c15889b3</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c0974d17aa34f78f22e61c841bec0ae1ad57db66</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Demand forecasting home page | Microsoft Docs</source>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This topic provides a list of the Help topics and other resources that are available for Demand forecasting.</source>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Demand forecasting home page</source>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>This topic provides a list of the Help topics and other resources that are available for Demand forecasting.</source>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>The resources available for Demand forecasting include:</source>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Introduction to demand forecasting<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/introduction-to-dynamics-ax7-demand-forecasting)</ept></source>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Demand forecasting setup<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/demand-forecasting-setup)</ept></source>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Generating a statistical baseline forecast<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/generating-a-statistical-baseline-forecast)</ept></source>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Making manual adjustments to the baseline forecast<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/making-manual-adjustments-to-the-baseline-forecast)</ept></source>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Authorizing the adjusted forecast<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/authorizing-the-adjusted-forecast)</ept></source>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Monitoring forecast accuracy<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/monitoring-forecast-accuracy)</ept></source>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Remove outliers from historical transaction data when calculating a demand forecast<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/remove-outliers-from-historical-transaction-data-when-calculating-a-demand-forecast)</ept></source>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Demand forecasting with Azure Machine Learning <ept id="p1">](https://mbs.microsoft.com/customersource/northamerica/AX/learning/presentations/DynamicsTechnicalConference16)</ept>(video requires a CustomerSource account)</source>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Reduction keys<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/reduction-keys)</ept></source>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create a baseline forecast<ept id="p1">](http://ax.help.dynamics.com/en/wiki/develop-baseline-forecast/)</ept> (Task guide)</source>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Modify a demand forecast manually<ept id="p1">](http://ax.help.dynamics.com/en/wiki/modify-a-demand-forecast-manually/)</ept> (Task guide)</source>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Additional resources</source>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Additional help is available as task guides inside Microsoft Dynamics 365 for Operations.</source>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>To access task guides, click the Help button on any page.</source>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>For more information about demand forecasting, see <bpt id="p1">[</bpt>Dynamics AX Manufacturing R&amp;D Team blog<ept id="p1">](https://blogs.msdn.microsoft.com/axmfg/)</ept>.</source>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>For information about Microsoft Dynamics 365 for Operations training, see <bpt id="p1">[</bpt>Microsoft eLearning<ept id="p1">](https://mbspartner.microsoft.com/AX/LearningPlans)</ept> (requires a CustomerSource account).</source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
