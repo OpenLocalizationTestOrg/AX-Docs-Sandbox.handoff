@@ -1,0 +1,408 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="tr-tr">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a7aadde8429c5d2723cb0ea5b515de0ed005e0c2</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\analytics-bi-reporting\electronic-reporting-destinations.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b6c4a292d3d3058fc69545d801c3753cf4a0251c</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">59c5d0efbc941e92d560952a745cb884b0aaaf9f</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Electronic reporting destinations | Microsoft Docs</source>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>You can configure a destination for each Electronic reporting (ER) format configuration and its output component (a folder or a file).</source>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Users who are granted appropriate access rights can also modify destination settings at run time.</source>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>This article explains ER destination management, the types of destinations that are supported, and security considerations.</source>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>DocuType, ERSolutionTable</source>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Electronic reporting destinations</source>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>You can configure a destination for each Electronic reporting (ER) format configuration and its output component (a folder or a file).</source>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Users who are granted appropriate access rights can also modify destination settings at run time.</source>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>This article explains ER destination management, the types of destinations that are supported, and security considerations.</source>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Electronic reporting (ER) format configurations usually contain at least one output component: a file.</source>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Typically, configurations contain multiple file output components of different types (for example, XML, TXT, or XLSX) that are grouped into either a single folder or multiple folders.</source>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>ER destination management lets you preconfigure what occurs when each component is run.</source>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>By default, when a configuration is run, the user is shown a dialog box that can be used to save or open the file.</source>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>The same behavior is also used when you import an ER configuration and don't configure any specific destinations for it.</source>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>After a destination is created for a main output component, that destination overrides the default behavior, and the folder or file is sent according to the destination's settings.</source>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Availability and general prerequisites</source>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>The ER destinations functionality is not available in the Microsoft Dynamics AX 7.0 (February 2016) release.</source>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Therefore, you must install one of the following prerequisites:</source>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Microsoft Dynamics AX application version 7.0.1 (May 2016)</source>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>ER destination management <bpt id="p1">[</bpt>application hotfix<ept id="p1">](https://fix.lcs.dynamics.com/issue/results/?q=3160213)</ept></source>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>You can set up destinations only for ER configurations that have been imported, and for the formats that are available on the <bpt id="p1">**</bpt>Electronic reporting configurations<ept id="p1">**</ept> page.</source>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Overview</source>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>The ER destination management functionality is available at <bpt id="p1">**</bpt>Organization administration<ept id="p1">**</ept> <ph id="ph1">&amp;gt;</ph> <bpt id="p2">**</bpt>Electronic reporting<ept id="p2">**</ept>.</source>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Here, you can override the default behavior for a configuration.</source>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Imported configurations aren't shown here until you click <bpt id="p1">**</bpt>New<ept id="p1">**</ept> and then, in the <bpt id="p2">**</bpt>Reference<ept id="p2">**</ept> field, select a configuration to create destination settings for.</source>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">\[</ph>caption id="attachment<ph id="ph2">\_</ph>886303" align="alignnone" width="640"<ph id="ph3">\]</ph><bpt id="p1">[</bpt><ph id="ph4">![</ph>Selecting a configuration in the Reference field<ept id="p1">](./media/ger_destinations2-1024x543.jpg)](./media/ger_destinations2.jpg)</ept> Electronic reporting destinations<ph id="ph5">\[</ph>/caption<ph id="ph6">\]</ph> After you have created a reference, you can create a file destination for each folder or for a file.</source>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">\[</ph>caption id="attachment<ph id="ph2">\_</ph>886103" align="alignnone" width="640"<ph id="ph3">\]</ph><bpt id="p1">[</bpt><ph id="ph4">![</ph>File destination<ept id="p1">](./media/ger_destinations-1024x543.jpg)](./media/ger_destinations.jpg)</ept> Electronic reporting file destinations<ph id="ph5">\[</ph>/caption<ph id="ph6">\]</ph> <bpt id="p2">**</bpt>Note:<ept id="p2">**</ept> You can create one file destination for each output component of the same format, such as a folder or a file that is selected in the <bpt id="p3">**</bpt>File Name<ept id="p3">**</ept> field.</source>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>You can then enable and disable the destinations for the file destination separately in the <bpt id="p1">**</bpt>Destination settings<ept id="p1">**</ept> dialog box.</source>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>The <bpt id="p1">**</bpt>Settings<ept id="p1">**</ept> button is used to control all the destinations for a selected file destination.</source>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Destination settings<ept id="p1">**</ept> dialog box, you can control each destination separately by setting the <bpt id="p2">**</bpt>Enabled<ept id="p2">**</ept> option for it.</source>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">\[</ph>caption id="attachment<ph id="ph2">\_</ph>886373" align="alignnone" width="640"<ph id="ph3">\]</ph><bpt id="p1">[</bpt><ph id="ph4">![</ph>Destination settings dialog box<ept id="p1">](./media/ger_destinationsettings-1024x541.jpg)](./media/ger_destinationsettings.jpg)</ept> Electronic reporting destination settings<ph id="ph5">\[</ph>/caption<ph id="ph6">\]</ph></source>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Destination types</source>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Various types of destinations are supported.</source>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>You can disable or enable all types at the same time.</source>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>In this way, you can either do nothing or send the component to all configured destinations.</source>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>The following sections describe the destinations that are supported.</source>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Email destination</source>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Set <bpt id="p1">**</bpt>Enabled<ept id="p1">**</ept> to <bpt id="p2">**</bpt>Yes<ept id="p2">**</ept> to send an output file by email.</source>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>After this option is enabled, you can edit the email subject and specify the email recipients.</source>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>Email configuration for ER is done just as it's done for the print management feature in Microsoft Dynamics 365 for Operations.</source>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>Email addresses</source>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>When you click <bpt id="p1">**</bpt>Edit<ept id="p1">**</ept> for the <bpt id="p2">**</bpt>To<ept id="p2">**</ept> or <bpt id="p3">**</bpt>Cc<ept id="p3">**</ept> field, you are shown a dialog box where you can enter fixed email addresses.</source>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>You can also select the contact type for a customer or a vendor to get an email address that depends on the document context.</source>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">\[</ph>caption id="attachment<ph id="ph2">\_</ph>888983" align="alignnone" width="640"<ph id="ph3">\]</ph><bpt id="p1">[</bpt><ph id="ph4">![</ph>Assigning email addresses for an email destination<ept id="p1">](./media/ger_assignemailadresses-1024x541.jpg)](./media/ger_assignemailadresses.jpg)</ept> Assign email addresses for email electronic reporting destination<ph id="ph5">\[</ph>/caption<ph id="ph6">\]</ph> To use non-fixed email addresses, you must select the email source type for a file destination.</source>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>The supported values are <bpt id="p1">**</bpt>Customer<ept id="p1">**</ept> and <bpt id="p2">**</bpt>Vendor<ept id="p2">**</ept>.</source>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>You can then use the <bpt id="p1">**</bpt>Bind email source<ept id="p1">**</ept> and <bpt id="p2">**</bpt>Unbind email source<ept id="p2">**</ept> functions to attach to the file destination a formula that represents a customer or vendor account.</source>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>Note that formulas are specific to the ER configuration.</source>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>Bind email source</source>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>Use this function to find an appropriate account, its contact type, and eventually the email address to use in an email destination.</source>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Formula<ept id="p1">**</ept> field, enter a document-specific reference to a customer or vendor party type.</source>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>Instead of typing, you can find the data source node that represents the customer or vendor account, and then click <bpt id="p1">**</bpt>Add data source<ept id="p1">**</ept> to update the formula.</source>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>For example, if you use the ISO 20022 Credit Transfer configuration, the node that represents a vendor account is <bpt id="p1">**</bpt>'$PaymentsForCoveringLetter'.Creditor.Identification.SourceID<ept id="p1">**</ept>.</source>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>Otherwise, enter any string value, such as <bpt id="p1">**</bpt>DE-001<ept id="p1">**</ept>, to save a formula.</source>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">\[</ph>caption id="attachment<ph id="ph2">\_</ph>888993" align="alignnone" width="640"<ph id="ph3">\]</ph><bpt id="p1">[</bpt><ph id="ph4">![</ph>Vendor representation in the ISO 20022 Credit Transfer configuration<ept id="p1">](./media/ger_formuladesignerfordestination-1024x541.jpg)](./media/ger_formuladesignerfordestination.jpg)</ept> Destination formula designer – Vendor representation in ISO 20022 Credit Transfer configuration<ph id="ph5">\[</ph>/caption<ph id="ph6">\]</ph></source>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>Unbind email source</source>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>Use this function to remove the email source type and the formula that was built for the email source.</source>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> A Simple Mail Transfer Protocol (SMTP) server must be configured and available.</source>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>You can specify your SMTP server in Dynamics 365 for Operations at <bpt id="p1">**</bpt>System administration<ept id="p1">**</ept> <ph id="ph1">&amp;gt;</ph> <bpt id="p2">**</bpt>Setup<ept id="p2">**</ept> <ph id="ph2">&amp;gt;</ph> <bpt id="p3">**</bpt>Email<ept id="p3">**</ept> <ph id="ph3">&amp;gt;</ph> <bpt id="p4">**</bpt>Email parameters<ept id="p4">**</ept>.</source>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>Archive destination</source>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>You can use this option to send output to either a Microsoft SharePoint folder or Microsoft Azure Storage.</source>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>Set <bpt id="p1">**</bpt>Enabled<ept id="p1">**</ept> to <bpt id="p2">**</bpt>Yes<ept id="p2">**</ept> to send output to a destination that is defined by the selected document type.</source>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>Only document types where the group is set to <bpt id="p1">**</bpt>File<ept id="p1">**</ept> are available for selection.</source>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>You define document types at <bpt id="p1">**</bpt>Organization administration<ept id="p1">**</ept> <ph id="ph1">&amp;gt;</ph> <bpt id="p2">**</bpt>Document management<ept id="p2">**</ept> <ph id="ph2">&amp;gt;</ph> <bpt id="p3">**</bpt>Document types<ept id="p3">**</ept>.</source>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>The configuration for ER destinations is the same as the configuration for the document management system.</source>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">\[</ph>caption id="attachment<ph id="ph2">\_</ph>888823" align="alignnone" width="640"<ph id="ph3">\]</ph><bpt id="p1">[</bpt><ph id="ph4">![</ph>Document type group and location<ept id="p1">](./media/ger_documenttypefile-1024x542.jpg)](./media/ger_documenttypefile.jpg)</ept> Document type – Group and location fields<ph id="ph5">\[</ph>/caption<ph id="ph6">\]</ph> The location determines where the file is saved.</source>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>SharePoint</source>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>You can save a file in a designated SharePoint folder.</source>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>You define the default SharePoint server at <bpt id="p1">**</bpt>Organization administration<ept id="p1">**</ept> <ph id="ph1">&amp;gt;</ph> <bpt id="p2">**</bpt>Document management<ept id="p2">**</ept> <ph id="ph2">&amp;gt;</ph> <bpt id="p3">**</bpt>Document management parameters<ept id="p3">**</ept>, on the <bpt id="p4">**</bpt>SharePoint<ept id="p4">**</ept> tab.</source>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>After the SharePoint folder is configured, you can select it in the document type as the folder where the ER output will be saved.</source>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">\[</ph>caption id="attachment<ph id="ph2">\_</ph>888833" align="alignnone" width="640"<ph id="ph3">\]</ph><bpt id="p1">[</bpt><ph id="ph4">![</ph>Selecting a SharePoint folder<ept id="p1">](./media/ger_sharepointfolderselection-1024x543.jpg)](./media/ger_sharepointfolderselection.jpg)</ept> Document type – SharePoint folder selection<ph id="ph5">\[</ph>/caption<ph id="ph6">\]</ph></source>
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>Azure Storage</source>
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>When the document type location is set to <bpt id="p1">**</bpt>Archive directory<ept id="p1">**</ept>, you can save a file to Azure Storage.</source>
+        </trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>File destination</source>
+        </trans-unit>
+        <trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>Set <bpt id="p1">**</bpt>Enabled<ept id="p1">**</ept> to <bpt id="p2">**</bpt>Yes<ept id="p2">**</ept> to see the open or save dialog box when the configuration has finished running.</source>
+        </trans-unit>
+        <trans-unit id="175" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Hint:<ept id="p1">**</ept> To override the default behavior (that is, the dialog box for a configuration), you can create a destination reference and a file destination for the main output component, and then disable all the destinations.</source>
+        </trans-unit>
+        <trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>Security considerations</source>
+        </trans-unit>
+        <trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>Two types of privileges and duties are used for ER destinations.</source>
+        </trans-unit>
+        <trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>One type controls the ability to maintain the overall destinations that are configured for a legal entity (that is, access to the <bpt id="p1">**</bpt>Electronic reporting destinations<ept id="p1">**</ept> page).</source>
+        </trans-unit>
+        <trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>The other type controls the ability of an application user to override, at run time, the destination settings that are configured by an ER developer or ER functional consultant.</source>
+        </trans-unit>
+        <trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>Role (AOT name)</source>
+        </trans-unit>
+        <trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>Role name</source>
+        </trans-unit>
+        <trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>Duty (AOT name)</source>
+        </trans-unit>
+        <trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>Duty name</source>
+        </trans-unit>
+        <trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>ERDeveloper</source>
+        </trans-unit>
+        <trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>Electronic reporting developer</source>
+        </trans-unit>
+        <trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>ERFormatDestinationConfigure</source>
+        </trans-unit>
+        <trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>Configure electronic reporting format destination</source>
+        </trans-unit>
+        <trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>ERFunctionalConsultant</source>
+        </trans-unit>
+        <trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>Electronic reporting functional consultant</source>
+        </trans-unit>
+        <trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>ERFormatDestinationConfigure</source>
+        </trans-unit>
+        <trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>Configure electronic reporting format destination</source>
+        </trans-unit>
+        <trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>PaymAccountsPayablePaymentsClerk</source>
+        </trans-unit>
+        <trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>Accounts payable payments clerk</source>
+        </trans-unit>
+        <trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>ERFormatDestinationRuntimeConfigure</source>
+        </trans-unit>
+        <trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>Configure electronic reporting format destination during runtime</source>
+        </trans-unit>
+        <trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>PaymAccountsReceivablePaymentsClerk</source>
+        </trans-unit>
+        <trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>Accounts receivable payments clerk</source>
+        </trans-unit>
+        <trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>ERFormatDestinationRuntimeConfigure</source>
+        </trans-unit>
+        <trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>Configure electronic reporting format destination during runtime</source>
+        </trans-unit>
+        <trans-unit id="200" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> Two privileges are used in the preceding duties.</source>
+        </trans-unit>
+        <trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>These privileges have the same names as the corresponding duties: <bpt id="p1">**</bpt>ERFormatDestinationConfigure<ept id="p1">**</ept> and <bpt id="p2">**</bpt>ERFormatDestinationRuntimeConfigure<ept id="p2">**</ept>.</source>
+        </trans-unit>
+        <trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>Frequently asked questions</source>
+        </trans-unit>
+        <trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>I have imported electronic configurations, and I see them on the Electronic reporting configurations page.</source>
+        </trans-unit>
+        <trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>But why I don't see them on the Electronic reporting destinations page?</source>
+        </trans-unit>
+        <trans-unit id="205" translate="yes" xml:space="preserve">
+          <source>Make sure that you click <bpt id="p1">**</bpt>New<ept id="p1">**</ept> and select a configuration in the <bpt id="p2">**</bpt>Reference<ept id="p2">**</ept> field.</source>
+        </trans-unit>
+        <trans-unit id="206" translate="yes" xml:space="preserve">
+          <source>On the <bpt id="p1">**</bpt>Electronic reporting destinations<ept id="p1">**</ept> page, you can see only configurations that destinations have been configured for.</source>
+        </trans-unit>
+        <trans-unit id="207" translate="yes" xml:space="preserve">
+          <source>Is there any way to define which Azure Storage account and Azure Blob storage is used?</source>
+        </trans-unit>
+        <trans-unit id="208" translate="yes" xml:space="preserve">
+          <source>No.</source>
+        </trans-unit>
+        <trans-unit id="209" translate="yes" xml:space="preserve">
+          <source>The default Azure Blob storage that is defined and used for the document management system is used.</source>
+        </trans-unit>
+        <trans-unit id="210" translate="yes" xml:space="preserve">
+          <source>What is the purpose of File in the destination settings?</source>
+        </trans-unit>
+        <trans-unit id="211" translate="yes" xml:space="preserve">
+          <source>What does that setting do?</source>
+        </trans-unit>
+        <trans-unit id="212" translate="yes" xml:space="preserve">
+          <source>The <bpt id="p1">**</bpt>File<ept id="p1">**</ept> destination is used to control a dialog box.</source>
+        </trans-unit>
+        <trans-unit id="213" translate="yes" xml:space="preserve">
+          <source>If you enable this destination, or if no destination is defined for a configuration, you see a save or open dialog box after an output file is created.</source>
+        </trans-unit>
+        <trans-unit id="214" translate="yes" xml:space="preserve">
+          <source>Can you give an example of the formula that refers to a vendor account that I can send email to?</source>
+        </trans-unit>
+        <trans-unit id="215" translate="yes" xml:space="preserve">
+          <source>The formula is specific to the ER configuration.</source>
+        </trans-unit>
+        <trans-unit id="216" translate="yes" xml:space="preserve">
+          <source>For example, if you use the ISO 20022 Credit Transfer configuration, you can use <bpt id="p1">**</bpt>'$PaymentsForCoveringLetter'.Creditor.Identification.SourceID<ept id="p1">**</ept> or <bpt id="p2">**</bpt>model.Payments.Creditor.Identification.SourceID<ept id="p2">**</ept> to get an associated vendor account.</source>
+        </trans-unit>
+        <trans-unit id="217" translate="yes" xml:space="preserve">
+          <source>One of my format configurations contains multiple files that are group into one folder (for example, Folder1 contains File1, File2, and File3).</source>
+        </trans-unit>
+        <trans-unit id="218" translate="yes" xml:space="preserve">
+          <source>How do I set up destinations so that Folder1.zip isn't created at all, File1 is sent by email, File2 is sent to SharePoint, and I can open File3 immediately after the configuration is run?</source>
+        </trans-unit>
+        <trans-unit id="219" translate="yes" xml:space="preserve">
+          <source>The prerequisite is that your format must be available in ER configurations.</source>
+        </trans-unit>
+        <trans-unit id="220" translate="yes" xml:space="preserve">
+          <source>If you have your format, open the <bpt id="p1">**</bpt>Electronic reporting destination<ept id="p1">**</ept> page, and create a new reference to this configuration.</source>
+        </trans-unit>
+        <trans-unit id="221" translate="yes" xml:space="preserve">
+          <source>You must then have four file destinations, one for each output component.</source>
+        </trans-unit>
+        <trans-unit id="222" translate="yes" xml:space="preserve">
+          <source>Create the first file destination, give it a name such as <bpt id="p1">**</bpt>Folder<ept id="p1">**</ept>, and select a file name that represents a folder in your configuration.</source>
+        </trans-unit>
+        <trans-unit id="223" translate="yes" xml:space="preserve">
+          <source>Then click <bpt id="p1">**</bpt>Settings<ept id="p1">**</ept>, and make sure that all the destinations are disabled.</source>
+        </trans-unit>
+        <trans-unit id="224" translate="yes" xml:space="preserve">
+          <source>For this file destination, the folder won't be created.</source>
+        </trans-unit>
+        <trans-unit id="225" translate="yes" xml:space="preserve">
+          <source>By default, because of hierarchical dependencies between files and parent folders, the files will behave in the same way.</source>
+        </trans-unit>
+        <trans-unit id="226" translate="yes" xml:space="preserve">
+          <source>In other words, they won't be sent anywhere.</source>
+        </trans-unit>
+        <trans-unit id="227" translate="yes" xml:space="preserve">
+          <source>To override that default behavior, you must create three more file destinations, one for each file.</source>
+        </trans-unit>
+        <trans-unit id="228" translate="yes" xml:space="preserve">
+          <source>In the destination settings for each, you must enable the destination that the file should be sent to.</source>
+        </trans-unit>
+        <trans-unit id="229" translate="yes" xml:space="preserve">
+          <source>See also</source>
+        </trans-unit>
+        <trans-unit id="230" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Electronic reporting overview<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/general-electronic-reporting-ger)</ept></source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
