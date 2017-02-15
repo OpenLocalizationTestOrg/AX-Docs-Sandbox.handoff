@@ -1,6 +1,4 @@
 ---
-# required metadata
-
 title: Update the bank journal composite entity | Microsoft Docs
 description: The following steps are needed in order to add the additional BankTransactionType field to the composite BankJournalEntity.
 author: twheeloc
@@ -10,31 +8,27 @@ ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-
-# optional metadata
-
-# keywords: 
-# ROBOTS: 
 audience: Application User, Developer
-# ms.devlang: 
 ms.reviewer: 101
 ms.suite: Released- Dynamics 365 for Operations version 1611
-# ms.tgt_pltfrm: 
 ms.custom: 221654
 ms.assetid: c8109fa1-56b6-4a05-b666-a49d1cd2fa12
 ms.region: Global
-# ms.industry: 
 ms.author: saraschi
+translationtype: Human Translation
+ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
+ms.openlocfilehash: da35377821ab9044deaaaddffe5eaa1cb08f7a71
+
 
 ---
 
-# Update the bank journal composite entity
+# <a name="update-the-bank-journal-composite-entity"></a>Update the bank journal composite entity
 
 The following steps are needed in order to add the additional BankTransactionType field to the composite BankJournalEntity.
 
-Use the following steps to add the additional BankTransactionType field to the composite BankJournalEntity.
+Use the following steps to add the additional BankTransactionType field to the composite BankJournalEntity.
 
-1.  Compile and synchronize the following bank journal composite entities, entities, and staging tables:
+1.  Compile and synchronize the following bank journal composite entities, entities, and staging tables:
     -   Composite Entity\\BankJournalEntity
     -   Entity\\BankJournalHeaderEntity
     -   Entity\\BankJournalLineEntity
@@ -53,5 +47,11 @@ Use the following steps to add the additional BankTransactionType field to the 
             -   Verify that Bank Transaction type is mapped from Source to Staging.
 
 3.  Import the new statement.
+
+
+
+
+
+<!--HONumber=Feb17_HO3-->
 
 
