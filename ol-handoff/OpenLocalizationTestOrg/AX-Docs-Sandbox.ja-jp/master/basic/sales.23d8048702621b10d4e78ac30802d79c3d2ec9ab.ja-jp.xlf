@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="ja-jp">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4578884209bce4666e3f35b4cc7227b4ff49f11e</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">manufacturing\sales-marketing\sales.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0b7c8f5f89840a97ea138637b6c7e54f201a62b2</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a0b33e88b434877ec996c634d5e44093174e48d4</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Sales home page | Microsoft Docs</source>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This topic includes a list of the help topics and other resources that are available for Sales.</source>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Sales home page</source>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>This topic includes a list of the help topics and other resources that are available for Sales.</source>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>The Sales functionality within the Sales and marketing module allows you to manage sales orders, pricing management, sales quotations, promotions, sales commissions, partner and alliance commissions, and sales returns.</source>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Sales order management</source>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Sales agreements<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/sales-marketing/sales-agreements)</ept></source>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Enter sales agreements<ept id="p1">](http://ax.help.dynamics.com/en/wiki/enter-sales-agreements/)</ept> (Task guide)</source>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Fulfill sales agreements<ept id="p1">](http://ax.help.dynamics.com/en/wiki/fulfill-sales-agreements/)</ept> (Task guide)</source>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create sales orders<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-sales-orders/)</ept> (Task guide)</source>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Enter orders for configurable products<ept id="p1">](http://ax.help.dynamics.com/en/wiki/enter-orders-for-configurable-products/)</ept> (Task guide)</source>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Order promising<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/sales-marketing/delivery-dates-and-available-to-promise-calculations)</ept></source>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Determine sales order line availability<ept id="p1">](http://ax.help.dynamics.com/en/wiki/determine-sales-order-line-availability/)</ept> (Task guide)</source>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Order entry deadlines<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/sales-marketing/order-entry-deadlines)</ept></source>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Direct deliveries<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/sales-marketing/direct-deliveries)</ept></source>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Delivery schedules<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/sales-marketing/delivery-schedules)</ept></source>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create a delivery schedule<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-a-delivery-schedule/)</ept> (Task guide)</source>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Registering serial numbers in the sales process<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/product-information-management/registering-serial-numbers-in-the-sales-process)</ept></source>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Reserving the same batch for a sales order<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/inventory-management/reserving-the-same-batch-for-a-sales-order)</ept></source>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Confirm sales orders<ept id="p1">](http://ax.help.dynamics.com/en/wiki/confirm-sales-orders/)</ept> (Task guide)</source>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Ship sales orders without warehousing<ept id="p1">](http://ax.help.dynamics.com/en/wiki/ship-sales-orders-without-warehousing/)</ept> (Task guide)</source>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Ship orders as direct deliveries<ept id="p1">](http://ax.help.dynamics.com/en/wiki/ship-orders-as-direct-deliveries/)</ept> (Task guide)</source>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create a purchase order from a sales order<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-a-purchase-order-from-a-sales-order/)</ept> (Task guide)</source>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Sales orders mobile workspace for Microsoft Dynamics 365 for Operations app<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/production-control/sales-orders-mobile-workspace)</ept></source>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Pricing management</source>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Trade Agreements<ept id="p1">](https://mbs.microsoft.com/customersource/global/AX/learning/documentation/white-papers/msdaxtradeagmtwp)</ept> (demo script, previous version of Dynamics)</source>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create a new trade agreement<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-a-new-trade-agreement/)</ept> (Task guide)</source>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Look up applicable prices and discounts<ept id="p1">](http://ax.help.dynamics.com/en/wiki/look-up-applicable-prices-and-discounts/)</ept> (Task guide)</source>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Rebates and allowances</source>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Generate and process customer rebates<ept id="p1">](http://ax.help.dynamics.com/en/wiki/generate-and-process-customer-rebates/)</ept> (Task guide)</source>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Process rebates for payment<ept id="p1">](http://ax.help.dynamics.com/en/wiki/process-rebates-for-payment/)</ept> (Task guide)</source>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Vendor rebates<ept id="p1">](https://mbs.microsoft.com/customersource/northamerica/AX/learning/documentation/white-papers/Vendor_rebates)</ept> (demo script)</source>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Manage Trade allowances<ept id="p1">](https://mbs.microsoft.com/customersource/global/AX/learning/documentation/white-papers/msdaxtradeallowancemanagement)</ept> (demo script)</source>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Sales quotations</source>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create and edit sales quotations<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-and-edit-sales-quotations/)</ept> (Task guide)</source>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Mass create sales quotations<ept id="p1">](http://ax.help.dynamics.com/en/wiki/mass-create-sales-quotations/)</ept> (Task guide)</source>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Price simulation<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/sales-marketing/price-simulation)</ept></source>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Sales commissions</source>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up sales commission rules<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-sales-commission-rules/)</ept> (Task guide)</source>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Register sales commissions<ept id="p1">](http://ax.help.dynamics.com/en/wiki/register-sales-commissions/)</ept> (Task guide)</source>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Broker contract management<ept id="p1">](https://mbs.microsoft.com/customersource/global/AX/learning/documentation/white-papers/msdaxbrokercontmgmt)</ept> (demo script)</source>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>Additional resources</source>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>Additional help is available as task guides inside Dynamics 365 for Operations.</source>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>To access task guides, click the Help button on any page.</source>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>For information about Microsoft Dynamics 365 for Operations training, see <bpt id="p1">[</bpt>Microsoft eLearning<ept id="p1">](https://mbspartner.microsoft.com/AX/LearningPlans)</ept> (requires a CustomerSource account).</source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
