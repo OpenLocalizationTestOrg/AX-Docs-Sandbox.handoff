@@ -1,0 +1,429 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="lv-lv">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4878251f815fa42d4357a1d99d8a38ec0095f731</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">core\localizations\country_region.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">eb553ddad28c7a4ca8f9a792213d177396ec3b0a</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5320d9f87ec640739f6479b3836253bea64cd7bd</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Country/region-specific Help content | Microsoft Docs</source>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This topic provides a list of Dynamics 365 help content by Country/region.</source>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Country/region-specific Help content</source>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>This topic provides a list of Dynamics 365 help content by Country/region.</source>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Australia</source>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Bank file formats<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/asia-pacific/aus-set-up-a-method-of-payment-to-pay-vendors-through-australian-banks)</ept></source>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Business Activity Statement (BAS)<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/asia-pacific/business-activity-statement-bas-overview)</ept></source>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up reason codes for Australia BAS<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-reason-codes-for-australia-bas/)</ept></source>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Add BAS report boxes and generate the Australia Business Activity Statement BAS<ept id="p1">](http://ax.help.dynamics.com/en/wiki/add-bas-report-boxes-and-generate-the-australia-business-activity-statement-bas/)</ept></source>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Additional BAS report boxes page (Field descriptions)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/additional-bas-report-boxes-page-field-descriptions/)</ept></source>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Low value pool depreciation<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/asia-pacific/aus-about-low-value-pool-depreciation)</ept></source>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Germany</source>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Additional acquisition depreciation<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/additional-acquisition-depreciation)</ept></source>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Depreciation adjustments for additional acquisitions in the second year<ept id="p1">](http://ax.help.dynamics.com/en/wiki/de-00002-depreciation-adjustments-for-additional-acquisitions-in-the-second-year/)</ept></source>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Electronic transmission of VAT declaration (ELSTER)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/de-00003-electronic-transmission-of-vat-declaration-elster/)</ept></source>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>EU entry certificates<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/eu-entry-certificates)</ept></source>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>SEPA credit transfers overview<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/sepa-credit-transfer-overview)</ept></source>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Invoice issue deadline<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/invoice-issue-deadline)</ept></source>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>EU Sales list reporting<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/eu-sales-list-reporting)</ept></source>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>German audit file (GDPdU/GoBD<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/gdpdu-audit-data-export)</ept></source>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Import German audit file configuration<ept id="p1">](http://ax.help.dynamics.com/en/wiki/import-german-audit-file-configuration/)</ept></source>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Generate German audit file<ept id="p1">](http://ax.help.dynamics.com/en/wiki/generate-german-audit-file/)</ept></source>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Denmark</source>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>OIOUBL standards for electronic invoicing<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/oioubl-standards-for-electronic-invoicing)</ept></source>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Import OIOUBL electronic invoicing configurations<ept id="p1">](http://ax.help.dynamics.com/en/wiki/import-oioubl-electronic-invoicing-configurations/)</ept></source>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up OIOUBL electronic invoicing<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-oioubl-electronic-invoicing/)</ept></source>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up customer accounts for OIOUBL electronic invoicing<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-customer-accounts-for-oioubl-electronic-invoicing/)</ept></source>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>EU entry certificates<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/eu-entry-certificates)</ept></source>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>SEPA credit transfers overview<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/sepa-credit-transfer-overview)</ept></source>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Invoice issue deadline<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/invoice-issue-deadline)</ept></source>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>EU Sales list reporting<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/eu-sales-list-reporting)</ept></source>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Europe</source>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>EU Entry certificates<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/eu-entry-certificates)</ept></source>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Issue an EU entry certificate<ept id="p1">](http://ax.help.dynamics.com/en/wiki/eur-00012-issue-an-eu-entry-certificate/)</ept></source>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Receive an EU entry certificate<ept id="p1">](http://ax.help.dynamics.com/en/wiki/eur-0012-receive-an-eu-entry-certificate/)</ept></source>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>EU Sales list reporting<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/eu-sales-list-reporting)</ept></source>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up EU sales list reporting<ept id="p1">](http://ax.help.dynamics.com/en/wiki/eur-00011-set-up-eu-sales-list-reporting/)</ept></source>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Generate the EU sales list report<ept id="p1">](http://ax.help.dynamics.com/en/wiki/eur-00011-generate-the-eu-sales-list-report/)</ept></source>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>SEPA direct debit overview<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-receivable/sepa-direct-debit-overview)</ept></source>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Import SEPA direct debit configuration<ept id="p1">](http://ax.help.dynamics.com/en/wiki/import-sepa-direct-debit-configuration/)</ept></source>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up a method of payment for SEPA Direct debit<ept id="p1">](http://ax.help.dynamics.com/en/wiki/setup-method-of-payment-for-sepa-direct-debit/)</ept></source>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create payments for a customer who has direct debit mandate<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-payments-for-a-customer-who-have-direct-debit-mandate/)</ept></source>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up company bank accounts for SEPA direct debits<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-company-bank-accounts-for-sepa-direct-debits/)</ept></source>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up customers and customer bank accounts for SEPA direct debits<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-customers-and-customer-bank-accounts-for-sepa-direct-debits/)</ept></source>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>SEPA credit transfer overview<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/sepa-credit-transfer-overview)</ept></source>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Import SEPA credit transfer configuration<ept id="p1">](http://ax.help.dynamics.com/en/wiki/import-sepa-credit-transfer-configuration/)</ept></source>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up a method of payment for SEPA credit transfer<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-method-of-payment-for-sepa-credit-transfer/)</ept></source>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up vendors and vendor bank accounts for SEPA credit transfers<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-vendor-and-vendor-bank-account-for-sepa-payment-generation/)</ept></source>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Intrastat<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/about-intrastat)</ept></source>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Generate an EU Intrastat declaration<ept id="p1">](http://ax.help.dynamics.com/en/wiki/generate-an-eu-intrastat-declaration/)</ept></source>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Transfer transactions to the Intrastat<ept id="p1">](http://ax.help.dynamics.com/en/wiki/transfer-transactions-to-the-intrastat/)</ept></source>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>France</source>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>SEPA credit transfers overview<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/sepa-credit-transfer-overview)</ept></source>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Invoice issue deadline<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/invoice-issue-deadline)</ept></source>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>EU Sales list reporting<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/eu-sales-list-reporting)</ept></source>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Mandats de paiement in the public sector in France<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/mandats-de-paiement-in-the-public-sector-in-france)</ept></source>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Public sector accounting in France<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/public-sector-accounting-in-france)</ept></source>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Derogatory depreciation for France<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/fra-derogatory-depreciation)</ept></source>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Penalties for past due customer payments in France<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/fra-apply-a-penalty-when-a-customer-payment-is-past-due)</ept></source>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>NAF codes and siret numbers<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/fra-naf-codes-and-siret-numbers)</ept></source>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create lump-sum depreciation assets using equally divided method<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-lump-sum-depreciation-assets-using-equally-divided-method/)</ept></source>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>Ireland</source>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>EU entry certificates<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/eu-entry-certificates)</ept></source>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>SEPA credit transfers overview<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/sepa-credit-transfer-overview)</ept></source>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Invoice issue deadline<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/invoice-issue-deadline)</ept></source>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>EU Sales list reporting<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/eu-sales-list-reporting)</ept></source>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>Iceland</source>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>SEPA credit transfers overview<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/sepa-credit-transfer-overview)</ept></source>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>Japan</source>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Fixed asset depreciation<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/asia-pacific/jpn-fixed-asset-depreciation)</ept></source>
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up reduction entries for fixed assets<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/asia-pacific/jpn-set-up-reduction-entry-for-fixed-assets)</ept></source>
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Equally divided depreciation method<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/asia-pacific/jpn-equally-divided-depreciation-method)</ept></source>
+        </trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Allocation rules for fixed assets<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/asia-pacific/chn-jpn-allocation-rules-for-fixed-assets)</ept></source>
+        </trans-unit>
+        <trans-unit id="174" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up asset retirement obligation for fixed assets<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/asia-pacific/jpn-set-up-asset-retirement-obligation-for-fixed-assets)</ept></source>
+        </trans-unit>
+        <trans-unit id="175" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Fixed asset impairment management on cash generating unit<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/asia-pacific/jpn-fixed-asset-impairment-accounting-on-cash-generating-unit)</ept></source>
+        </trans-unit>
+        <trans-unit id="176" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Consolidated invoices<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/asia-pacific/jpn-consolidating-invoices)</ept></source>
+        </trans-unit>
+        <trans-unit id="177" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Bank payment fees covered by vendors<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/asia-pacific/jpn-bank-payment-fees-for-vendors)</ept></source>
+        </trans-unit>
+        <trans-unit id="178" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Generate the Japan consumption tax report<ept id="p1">](http://ax.help.dynamics.com/en/wiki/generate-the-japan-consumption-tax-report/)</ept></source>
+        </trans-unit>
+        <trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>Mexico</source>
+        </trans-unit>
+        <trans-unit id="180" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>MX-00020 Set up the chart of accounts for a legal entity in Mexico<ept id="p1">](http://ax.help.dynamics.com/en/wiki/mx-00020-set-up-the-chart-of-accounts-for-a-legal-entity-in-mexico/)</ept></source>
+        </trans-unit>
+        <trans-unit id="181" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>MX-00010 Enter tax registration IDs for Mexican legal entities<ept id="p1">](http://ax.help.dynamics.com/en/wiki/mx-00010-enter-tax-registration-ids-for-mexican-legal-entities/)</ept></source>
+        </trans-unit>
+        <trans-unit id="182" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>MX-00007 Customer registration IDs and other information<ept id="p1">](http://ax.help.dynamics.com/en/wiki/mx-00007-customer-registration-ids-and-other-information/)</ept></source>
+        </trans-unit>
+        <trans-unit id="183" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>MX-00008: Vendor registration IDs<ept id="p1">](http://ax.help.dynamics.com/en/wiki/mx-00008-vendor-registration-ids/)</ept></source>
+        </trans-unit>
+        <trans-unit id="184" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>DIOT declaration statement<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/latin-america/mex-diot-declaration-statement)</ept></source>
+        </trans-unit>
+        <trans-unit id="185" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Electronic ledger accounting statements<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/latin-america/electronic-ledger-accounting-statements-in-mexico)</ept></source>
+        </trans-unit>
+        <trans-unit id="186" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Adjustment inflation declaration report<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/latin-america/mex-adjustment-inflation-declaration-report)</ept></source>
+        </trans-unit>
+        <trans-unit id="187" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>ISR declaration report and supporting processes<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/latin-america/mex-isr-declaration-report-and-supporting-processes)</ept></source>
+        </trans-unit>
+        <trans-unit id="188" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Electronic invoices (CFDI)<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/latin-america/electronic-invoices-for-mexico)</ept></source>
+        </trans-unit>
+        <trans-unit id="189" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>MX-00010 Set parameters for an electronic invoice<ept id="p1">](http://ax.help.dynamics.com/en/wiki/mx-00010-set-parameters-for-an-electronic-invoice/)</ept></source>
+        </trans-unit>
+        <trans-unit id="190" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>MX-00010 E-invoicing CFDI<ept id="p1">](http://ax.help.dynamics.com/en/wiki/mx-00010-e-invoicing-cfdi/)</ept></source>
+        </trans-unit>
+        <trans-unit id="191" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>MX-00006 Set up sales tax code<ept id="p1">](http://ax.help.dynamics.com/en/wiki/mx-00006-set-up-sales-tax-code/)</ept></source>
+        </trans-unit>
+        <trans-unit id="192" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>MX-00010 Post a free text invoice<ept id="p1">](http://ax.help.dynamics.com/en/wiki/mx-00010-post-a-free-text-invoice/)</ept></source>
+        </trans-unit>
+        <trans-unit id="193" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>MX-00010 Inquire and print an electronic invoice<ept id="p1">](http://ax.help.dynamics.com/en/wiki/mx-00010-inquire-and-print-an-electronic-invoice/)</ept></source>
+        </trans-unit>
+        <trans-unit id="194" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>MX-00010 Cancel an electronic invoice<ept id="p1">](http://ax.help.dynamics.com/en/wiki/mx-00010-cancel-an-electronic-invoice/)</ept></source>
+        </trans-unit>
+        <trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>Malaysia</source>
+        </trans-unit>
+        <trans-unit id="196" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Goods and services tax (GST)<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/asia-pacific/malaysia-goods-and-service-tax)</ept></source>
+        </trans-unit>
+        <trans-unit id="197" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>MY-00006 02 Print GST customer invoices with a relief clause<ept id="p1">](http://ax.help.dynamics.com/en/wiki/my-00006-02-print-gst-customer-invoices-with-a-relief-clause/)</ept></source>
+        </trans-unit>
+        <trans-unit id="198" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>MY-00010 GST – Generate GAF files in the required format<ept id="p1">](http://ax.help.dynamics.com/en/wiki/my-00010-gst-generate-gaf-files-in-the-required-format/)</ept></source>
+        </trans-unit>
+        <trans-unit id="199" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>MY-00003 Manage customer Debit note and Credit note for GST<ept id="p1">](http://ax.help.dynamics.com/en/wiki/my-00003-manage-customer-debit-note-and-credit-note-for-gst/)</ept></source>
+        </trans-unit>
+        <trans-unit id="200" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>MY-00011 02 Generate Customer Debit Note for Project sales<ept id="p1">](http://ax.help.dynamics.com/en/wiki/my-00011-02-generate-customer-debit-note-for-project-sales/)</ept></source>
+        </trans-unit>
+        <trans-unit id="201" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>MY-00005 Print GST tax invoices<ept id="p1">](http://ax.help.dynamics.com/en/wiki/my-00005-print-gst-tax-invoices/)</ept></source>
+        </trans-unit>
+        <trans-unit id="202" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Print self-billed GST invoices<ept id="p1">](http://ax.help.dynamics.com/en/wiki/print-self-billed-gst-invoices/)</ept></source>
+        </trans-unit>
+        <trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>Netherlands</source>
+        </trans-unit>
+        <trans-unit id="204" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>EU entry certificates<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/eu-entry-certificates)</ept></source>
+        </trans-unit>
+        <trans-unit id="205" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>SEPA credit transfers overview<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/sepa-credit-transfer-overview)</ept></source>
+        </trans-unit>
+        <trans-unit id="206" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Invoice issue deadline<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/invoice-issue-deadline)</ept></source>
+        </trans-unit>
+        <trans-unit id="207" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>EU Sales list reporting<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/eu-sales-list-reporting)</ept></source>
+        </trans-unit>
+        <trans-unit id="208" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Import postal codes or create postal codes manually<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/import-postal-codes-or-create-postal-codes-manually)</ept></source>
+        </trans-unit>
+        <trans-unit id="209" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>NL-00010 Electronic tax declarations (EVAT)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/nl-00010-electronic-tax-declarations-evat/)</ept></source>
+        </trans-unit>
+        <trans-unit id="210" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>NL-00003 Semansys XBRL integration<ept id="p1">](http://ax.help.dynamics.com/en/wiki/nl-00003-semansys-xbrl-integration/)</ept></source>
+        </trans-unit>
+        <trans-unit id="211" translate="yes" xml:space="preserve">
+          <source>New Zealand</source>
+        </trans-unit>
+        <trans-unit id="212" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Bank file formats<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/asia-pacific/aus-set-up-a-method-of-payment-to-pay-vendors-through-australian-banks)</ept></source>
+        </trans-unit>
+        <trans-unit id="213" translate="yes" xml:space="preserve">
+          <source>Singapore</source>
+        </trans-unit>
+        <trans-unit id="214" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Generate the GST-05 report<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/asia-pacific/generate-singapore-gst-05-report)</ept></source>
+        </trans-unit>
+        <trans-unit id="215" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Print GST tax invoices<ept id="p1">](http://ax.help.dynamics.com/en/wiki/my-00005-print-gst-tax-invoices/)</ept></source>
+        </trans-unit>
+        <trans-unit id="216" translate="yes" xml:space="preserve">
+          <source>United Kingdom</source>
+        </trans-unit>
+        <trans-unit id="217" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>EU entry certificates<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/eu-entry-certificates)</ept></source>
+        </trans-unit>
+        <trans-unit id="218" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>SEPA credit transfers overview<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/sepa-credit-transfer-overview)</ept></source>
+        </trans-unit>
+        <trans-unit id="219" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Invoice issue deadline<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/invoice-issue-deadline)</ept></source>
+        </trans-unit>
+        <trans-unit id="220" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>EU Sales list reporting<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/eu-sales-list-reporting)</ept></source>
+        </trans-unit>
+        <trans-unit id="221" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>GB-00002 Set up reverse charge VAT item groups, rules, and parameters<ept id="p1">](http://ax.help.dynamics.com/en/wiki/gb-00002-set-up-reverse-charge-vat-item-groups-rules-and-parameters/)</ept></source>
+        </trans-unit>
+        <trans-unit id="222" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>GB-00002 Create a sales order that includes items subject to reverse charge VAT<ept id="p1">](http://ax.help.dynamics.com/en/wiki/gb-00002-create-a-sales-order-that-includes-items-subject-to-reverse-charge-vat/)</ept></source>
+        </trans-unit>
+        <trans-unit id="223" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>GB-00002 Set up item sales tax groups for reverse charge VAT<ept id="p1">](http://ax.help.dynamics.com/en/wiki/gb-00002-set-up-item-sales-tax-groups-for-reverse-charge-vat/)</ept></source>
+        </trans-unit>
+        <trans-unit id="224" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>GB-00002 Set up sales tax groups for reverse charge VAT<ept id="p1">](http://ax.help.dynamics.com/en/wiki/gb-00002-set-up-sales-tax-groups-for-reverse-charge-vat/)</ept></source>
+        </trans-unit>
+        <trans-unit id="225" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>GB-00009 Create a credit note on the settlement discount<ept id="p1">](http://ax.help.dynamics.com/en/wiki/gb-00009-create-a-credit-note-on-the-settlement-discount/)</ept></source>
+        </trans-unit>
+        <trans-unit id="226" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>GB-00009 Setup parameters for credit note on prompt payment discount<ept id="p1">](http://ax.help.dynamics.com/en/wiki/gb-00009-setup-parameters-for-credit-note-on-prompt-payment-discount/)</ept></source>
+        </trans-unit>
+        <trans-unit id="227" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>The Construction Industry Scheme for the United Kingdom<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/the-construction-industry-scheme)</ept></source>
+        </trans-unit>
+        <trans-unit id="228" translate="yes" xml:space="preserve">
+          <source>United States</source>
+        </trans-unit>
+        <trans-unit id="229" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Year-end 1099 reporting<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/north-america/year-end-1099-reporting)</ept></source>
+        </trans-unit>
+        <trans-unit id="230" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting up I-9 document types<ept id="p1">](http://ax.help.dynamics.com/en/wiki/setting-up-i-9-document-types/)</ept></source>
+        </trans-unit>
+        <trans-unit id="231" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Form I-9 verification<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/north-america/form-i-9-verification)</ept></source>
+        </trans-unit>
+        <trans-unit id="232" translate="yes" xml:space="preserve">
+          <source>See also</source>
+        </trans-unit>
+        <trans-unit id="233" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>What’s new or changed<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/whats-new-or-changed-in-dynamics-ax-7)</ept></source>
+        </trans-unit>
+        <trans-unit id="234" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Inform Microsoft about country/region regulation alerts and track the status of regulatory features<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/localizations/inform-microsoft-about-countryregion-regulations-alerts-and-track-status-of-regulatory-features)</ept></source>
+        </trans-unit>
+        <trans-unit id="235" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Localization requirements – Regulatory watch and regulatory update communication<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/localizations/localization-requirements-regulatory-watch-and-communication)</ept></source>
+        </trans-unit>
+        <trans-unit id="236" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Electronic reporting (GER)<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/general-electronic-reporting-ger)</ept></source>
+        </trans-unit>
+        <trans-unit id="237" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create Electronic Reporting (GER) configuration<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/localization-requirements-create-ger-configuration)</ept></source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
