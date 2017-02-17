@@ -8,20 +8,24 @@ ms.tgt_pltfrm:
 ms.devlang: 
 ms.topic: article
 ms.date: 01/23/2017
+
+# optional metadata
+
+# keywords: 
+# ROBOTS: 
 audience: Application User
+# ms.devlang: 
 ms.reviewer: margoc
 ms.suite: Released- Dynamics AX 7.0.0
+# ms.tgt_pltfrm: 
 ms.custom: 104173
-ms.assetid: 8121b7bd-56ce-43f5-be90-0bb64dba0eb4
+ms.assetid: 8121b7bd-56ce-43f5-be90-0bb64dba0eb4
 ms.region: Global
+# ms.industry: 
 ms.author: margoc
-translationtype: Human Translation
-ms.sourcegitcommit: c7de9c1477226b254aee1fb5c52792639d001735
-ms.openlocfilehash: 8fdc8aed36f8208eb0eb00f65edb56cdcfadf98a
-
 
 ---
-# <a name="core-documentation-for-dynamics-365-for-operations-users"></a>Core Documentation for Dynamics 365 for Operations Users
+# Core Documentation for Dynamics 365 for Operations Users
 
 Learn how to navigate the Dynamics 365 for Operations UI, set up your organization, and use and request local features for your country or region.
 
@@ -81,10 +85,4 @@ Learn how to navigate the Dynamics 365 for Operations UI, set up your organizati
         </a>
     </li>    
 </ul>
-
-
-
-
-<!--HONumber=Feb17_HO3-->
-
 

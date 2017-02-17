@@ -1,6 +1,8 @@
 ---
+# required metadata
+
 title: User preferences in financial report designer | Microsoft Docs
-description: This article explains how to set user preferences to customize your user interactions in financial report designer and control the initial sign-in experience. You can also control how individual reports, the report library, and the default file locations are displayed.
+description: This article explains how to set user preferences to customize your user interactions in financial report designer and control the initial sign-in experience. You can also control how individual reports, the report library, and the default file locations are displayed. 
 author: RobinARH
 manager: AnnBe
 ms.date: 2016-02-04 19:44:33
@@ -8,33 +10,36 @@ ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
+
+# optional metadata
+
 keywords: FinancialReports
+# ROBOTS: 
 audience: Application User
+# ms.devlang: 
 ms.reviewer: RobinARH
 ms.suite: Released- Dynamics AX application 7.0.1
+# ms.tgt_pltfrm: 
 ms.custom: 31161
 ms.assetid: 82ddbfd6-da85-4443-98a0-bef0b70255d1
 ms.region: Global
+# ms.industry: 
 ms.author: aolson
-translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: f4a0d713ac1c457beb5ec7eeaedbae07ab1c7f9b
-
 
 ---
 
-# <a name="user-preferences-in-financial-report-designer"></a>User preferences in financial report designer
+# User preferences in financial report designer
 
 This article explains how to set user preferences to customize your user interactions in financial report designer and control the initial sign-in experience. You can also control how individual reports, the report library, and the default file locations are displayed. 
 
-<a name="set-user-preferences"></a>Set user preferences
+Set user preferences
 --------------------
 
 1.  In Report Designer, on the **Tools** menu, click **Options**.
-2.  In the **Options** dialog box, select your preferences.
+2.  In the **Options** dialog box, select your preferences.
 3.  Click **OK**.
 
-## <a name="options-dialog-box-options"></a>Options dialog box options
+## Options dialog box options
 <table>
 <colgroup>
 <col width="50%" />
@@ -73,14 +78,8 @@ This article explains how to set user preferences to customize your user interac
 
 
 
-<a name="see-also"></a>See also
+See also
 --------
 
 [Financial reporting for Microsoft Dynamics ERP](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/management-reporter-for-microsoft-dynamics-erp)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
-
 
