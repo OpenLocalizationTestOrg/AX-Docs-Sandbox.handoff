@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="hu-hu">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f166e713f120555b50b9f0d047b7fdbb5e2f87b6</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\accounts-payable\cash-bank-management.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8fb32d4e0db2094674fb9586cdd0344eb0a1eee2</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3217ec7f9454749319cc8a9a35ef21ebc6b51a8b</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Cash and bank management home page | Microsoft Docs</source>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>You can use Cash and bank management to maintain the legal entity’s bank accounts and the financial instruments that are associated with those bank accounts.</source>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Cash and bank management home page</source>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>You can use Cash and bank management to maintain the legal entity’s bank accounts and the financial instruments that are associated with those bank accounts.</source>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>These instruments include deposit slips, checks, bills of exchange, and promissory notes.</source>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>You can also reconcile bank statements and print bank data on standard reports.</source>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Cash discounts<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/cash-discounts)</ept></source>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Settlement overview<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/settlement-overview)</ept></source>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Configure settlement<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/configure-settlement)</ept></source>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Foreign currency revaluation for Accounts payable and Accounts receivable<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/foreign-currency-revaluation-for-accounts-payable-and-accounts-receivable)</ept></source>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Letters of credit<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/cash-bank-management/about-letters-of-credit)</ept></source>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Letters of credit and import collections<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/cash-bank-management/about-letters-of-credit-and-import-collections)</ept></source>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Letter of guarantee<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/cash-bank-management/letters-of-guarantee)</ept></source>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Advanced bank reconciliation overview<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/cash-bank-management/advanced-bank-reconciliation-overview)</ept></source>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Configure advanced bank reconciliation<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/cash-bank-management/configure-advanced-bank-reconciliation)</ept></source>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up the advanced bank reconciliation import<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/cash-bank-management/set-up-the-advanced-bank-reconciliation-import-process)</ept></source>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Reconcile bank statements using advanced bank reconciliation<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/cash-bank-management/reconcile-bank-statements-using-advanced-bank-reconciliation)</ept></source>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up bank reconciliation matching rules<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/cash-bank-management/set-up-bank-reconciliation-matching-rules)</ept></source>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up centralized payments<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/set-up-centralized-payments)</ept></source>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Accounts payable payments and settlements</source>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Centralized payments for Accounts payable<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/centralized-payments-for-accounts-payable)</ept></source>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create vendor invoices using a payment proposal<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/create-vendor-payments-using-a-payment-proposal)</ept></source>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Reverse a vendor payment<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/reverse-a-vendor-payment)</ept></source>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Vendor payments for a partial amount<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/vendor-payments-for-a-partial-amount)</ept></source>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Prepayment invoices and prepayments overview<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/cash-bank-management/prepayments-invoices-vs-prepayments)</ept></source>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Scenario: Settle a partial vendor payment and settle the final payment in full before the discount date<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/scenario-settle-a-partial-vendor-payment-and-settle-the-final-payment-in-full-before-the-discount-date)</ept></source>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Scenario: Settle a partial vendor payment before the discount date with a final payment after the discount date<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/scenario-settle-a-partial-vendor-payment-before-the-discount-date-with-a-final-payment-after-the-discount-date)</ept></source>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Scenario: Settle a partial vendor payment that has discounts on vendor credit notes<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/scenario-settle-a-partial-vendor-payment-that-has-discounts-on-vendor-credit-notes)</ept></source>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Scenario: Settle a partial vendor payment that has multiple discount periods<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/scenario-settle-a-partial-vendor-payment-that-has-multiple-discount-periods)</ept></source>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Scenario: Take a discount that is more than the calculated discount for a vendor payment<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/scenario-take-a-discount-that-is-more-than-the-calculated-discount-for-a-vendor-payment)</ept></source>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Scenario: Take a cash discount outside the cash discount period<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/take-a-cash-discount-outside-the-cash-discount-timeframe)</ept></source>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Accounts receivable payments and settlements</source>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Centralized payments for Accounts receivable<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-receivable/centralized-payments-for-accounts-receivable)</ept></source>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Customer payments for a partial amount<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-receivable/customer-payments-for-a-partial-amount)</ept></source>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Reimburse customers<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-receivable/reimburse-customers)</ept></source>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Scenario: Automatic settlement and prioritization<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/cash-bank-management/scenario-automatic-settlement-and-prioritization)</ept></source>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Scenario: Handling cash discount for overpayments<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/cash-bank-management/scenario-cash-discount-handling-for-overpayments)</ept></source>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Scenario: Settle a partial customer payment and settle the final payment in full before the discount date<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/scenario-settle-a-partial-customer-payment-and-settle-the-final-payment-in-full-before-the-discount-date)</ept></source>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Scenario: Settle a partial customer payment before the discount date with a final payment after the discount date<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-receivable/scenario-settle-a-partial-customer-payment-before-the-discount-date-with-a-final-payment-after-the-discount-date)</ept></source>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Scenario: Settle a partial customer payment that has discounts on credit notes<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-receivable/scenario-settle-a-partial-customer-payment-that-has-discounts-on-credit-notes)</ept></source>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Scenario: Settle a partial customer payment that has multiple discount periods<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-receivable/scenario-settle-a-partial-customer-payment-that-has-multiple-discount-periods)</ept></source>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Scenario: Use one customer payment to settle multiple invoice that span multiple discount periods<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-receivable/scenario-use-one-customer-payment-to-settle-multiple-invoices-that-span-multiple-discount-periods)</ept></source>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>Additional resources</source>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Additional help is available as task guides inside Dynamics 365 for Operations.</source>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>To access task guides, click the Help button on any page.</source>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>For information about Microsoft Dynamics 365 for Operations training, see <bpt id="p1">[</bpt>Microsoft eLearning<ept id="p1">](https://mbs2.microsoft.com/members/elearning/dynamicstrainingcert.aspx)</ept> (requires CustomerSource account).</source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
