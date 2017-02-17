@@ -1,4 +1,6 @@
 ---
+# required metadata
+
 title: Acquire assets through procurement | Microsoft Docs
 description: This article describes how to set up the integration between Fixed assets and Accounts payable to automatically create fixed assets from purchase orders or vendor invoices, or automatically post acquisition and acquisition adjustment transactions for fixed assets.
 author: twheeloc
@@ -8,26 +10,29 @@ ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
+
+# optional metadata
+
 keywords: AssetParameters
+# ROBOTS: 
 audience: Application User
+# ms.devlang: 
 ms.reviewer: 101
 ms.suite: Released- Dynamics AX 7.0.0
+# ms.tgt_pltfrm: 
 ms.custom: 3481
 ms.assetid: 3402b56c-0fbe-40e3-87ae-df951efbd359
 ms.region: Global
+# ms.industry: 
 ms.author: saraschi
-translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: baeaed2cc867aa819dd4b5ebfd95aac57cb93c77
-
 
 ---
 
-# <a name="acquire-assets-through-procurement"></a>Acquire assets through procurement
+# Acquire assets through procurement
 
 This article describes how to set up the integration between Fixed assets and Accounts payable to automatically create fixed assets from purchase orders or vendor invoices, or automatically post acquisition and acquisition adjustment transactions for fixed assets.
 
- The following methods are available for integrating Fixed assets and Accounts payable, and you must use the same method for all fixed assets:
+ The following methods are available for integrating Fixed assets and Accounts payable, and you must use the same method for all fixed assets:
 -   You manually create a fixed asset before you add the fixed asset number to the line on the purchase order or vendor invoice. An acquisition transaction automatically is posted for the asset when you post the vendor invoice. This is the default method.
 -   You manually create a fixed asset before you add the fixed asset number to the line on the purchase order or vendor invoice. No acquisition transaction is posted for the asset when you post the vendor invoice.
 -   A fixed asset automatically is created when you post a product receipt or vendor invoice that has the Create a new fixed asset check box selected. An acquisition transaction automatically is posted for the asset when you post the vendor invoice.
@@ -35,19 +40,19 @@ This article describes how to set up the integration between Fixed assets and Ac
 
 Select one of the first two methods if you prefer to manually create fixed assets, and then assign the fixed asset number to the purchase order or vendor invoice. Select one of the last two methods if you prefer a more flexible approach: sometimes you might create fixed assets manually, and sometimes you might automatically create a fixed asset based on the fixed asset information in the line item details. Whether you manually create fixed assets or use a more flexible approach, you must also decide whether an acquisition transaction can be posted only in Fixed assets, or whether it can be posted when you post a vendor invoice. Some organizations prefer that users manually create acquisition and acquisition transactions in Fixed assets by using manual journal entries or proposals. This topic discusses the details of each method.
 
-## <a name="methods-for-manually-creating-fixed-assets"></a>Methods for manually creating fixed assets
-When you post a vendor invoice that has a fixed asset number entered in the lines, if the Allow asset acquisition from Purchasing option is selected in the Fixed assets parameters page, the acquisition is posted automatically, and the status of the asset changes to Open. If an acquisition cannot be posted, you can either manually enter an acquisition transaction in Fixed assets, or use an acquisition proposal in the Fixed assets journal to create multiple acquisition transactions at the same time.
+## Methods for manually creating fixed assets
+When you post a vendor invoice that has a fixed asset number entered in the lines, if the Allow asset acquisition from Purchasing option is selected in the Fixed assets parameters page, the acquisition is posted automatically, and the status of the asset changes to Open. If an acquisition cannot be posted, you can either manually enter an acquisition transaction in Fixed assets, or use an acquisition proposal in the Fixed assets journal to create multiple acquisition transactions at the same time.
 | **Note**                                                                                                                                                                             |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | If Fixed assets is set up to limit acquisition transaction posting to a specific user group, you must be a member of that user group to post acquisition transactions from invoices. |
 
-## <a name="methods-for-automatically-creating-fixed-assets"></a>Methods for automatically creating fixed assets
+## Methods for automatically creating fixed assets
 When you post a product receipt that has the Create a new fixed asset option selected for a line, a new fixed asset is created that has a status of Not yet acquired. Then, when you post a vendor invoice with a new fixed asset, an acquisition transaction is posted for the new asset and the asset status changes to Open, if Fixed assets is set up to allow for asset acquisitions from Accounts payable, and you are a member of a user group that can post acquisition transactions. If the New fixed asset? option was not selected on the purchase line when you posted the product receipt, but it was selected when you posted the vendor invoice, the new fixed asset is created and acquired with a status of Open, if Fixed assets is set up to allow for creating and acquiring. An additional asset is not created when you post a vendor invoice if one was already created when you posted the product receipt.
-### <a name="capitalization-threshold"></a>Capitalization threshold
+### Capitalization threshold
 
 When you use a method where the asset is automatically created and acquired, you can set up the system to verify whether the purchase amount of the fixed asset meets a specified capitalization threshold for asset depreciation. If so, the Depreciation option will be selected in the books for the asset when it is created from Accounts payable. A capitalization threshold is a currency amount that determines whether assets are depreciated if they meet the specified amount. For example, if you purchase an asset and the purchase amount is less than the capitalization threshold, the asset is not designated to depreciate; if the purchase amount meets or exceeds the threshold, the asset is designated to depreciate. You can set up the capitalization threshold in the Fixed asset groups page.
 
-## <a name="scenario"></a>Scenario
+## Scenario
 The following scenario discusses a full cycle of a Fixed assets and Accounts payable integration. A sample setup is shown and the use of acquisition proposals is also described. In this scenario, the system is set up as follows:
 -   Assets are automatically created during product receipt or vendor invoice posting, but Fixed assets is set up to prevent posting acquisition transactions from Accounts payable.
 -   Accounts are specified in the Account type field for the Fixed asset receipt and Fixed asset issue account types in the Item groups page.
@@ -79,14 +84,8 @@ Finally, the accountant reviews all fixed assets that have a status of Not yet a
 
 
 
-<a name="see-also"></a>See also
+See also
 --------
 
 [Fixed assets integration](https://docs.microsoft.com/en-us/dynamics365/operations/financials/fixed-assets/fixed-assets-integration)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
-
 
