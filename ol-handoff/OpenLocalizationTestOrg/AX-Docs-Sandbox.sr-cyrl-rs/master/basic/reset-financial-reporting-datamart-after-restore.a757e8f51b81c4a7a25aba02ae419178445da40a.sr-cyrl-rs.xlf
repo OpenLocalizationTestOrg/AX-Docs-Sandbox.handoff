@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4c38323178310204041966ae7e80717da5c02778</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4938f1886b5c2c7dac34f4b1a3b19edd6331901f</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\analytics-bi-reporting\reset-financial-reporting-datamart-after-restore.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4b5b0b90ab8619fbe517b9a780f50076494f6e88</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8a9d6b325203d97a86a8d73c4c1908c84fae53f0</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b50831f99cfcf6825e0ffe9099dfa6bfb178db6e</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0e5c36a79050eb31f4ea329e435b0736932f6040</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Reset the financial reporting data mart after restoring a database | Microsoft Docs</source>
+          <source>Reset the financial reporting data mart after restoring a database</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This topic describes how to reset the financial reporting data mart after restoring a Microsoft Dynamics 365 for Operations database.</source>
@@ -124,7 +124,7 @@
           <source>Locate the latest DataUpgrade.zip package</source>
         </trans-unit>
         <trans-unit id="138" translate="yes" xml:space="preserve">
-          <source>Locate the latest DataUpgrade.zip package using the directions found in <bpt id="p1">[</bpt>Download the DataUpgrade.zip script<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/deployment/process-for-upgrading-ax-data-to-the-latest-dynamics-ax-update#download-the-dataupgrade-zip-script)</ept>.</source>
+          <source>Locate the latest DataUpgrade.zip package using the directions found in <bpt id="p1">[</bpt>Download the DataUpgrade.zip script<ept id="p1">](upgrade-data-to-latest-update.md#download-the-dataupgrade-zip-script)</ept>.</source>
         </trans-unit>
         <trans-unit id="139" translate="yes" xml:space="preserve">
           <source>The directions explain how to locate the correct version of the data upgrade package for your environment.</source>

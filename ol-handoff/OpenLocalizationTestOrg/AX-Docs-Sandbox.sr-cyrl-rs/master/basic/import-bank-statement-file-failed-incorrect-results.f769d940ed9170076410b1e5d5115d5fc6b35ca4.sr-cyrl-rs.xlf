@@ -3,20 +3,20 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">81815748ca9f2404e1a41e720b928971b787a204</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6938fc463d79d80494c4662873aabe502158afb1</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\cash-bank-management\import-bank-statement-file-failed-incorrect-results.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b6c53e7f95b2aa26758f107e087918c5d4e362fb</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5a0ec36f5d05f8212df4750950cae7ceda0bd1a3</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f32cbd944ef4bf6f536abd762864211e4ed80daa</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c119167bd114102befc7e4f4ad079aea190bbd5e</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Bank statement file import troubleshooting | Microsoft Docs</source>
+          <source>Bank statement file import troubleshooting</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>It's important that the bank statement file from the bank match the layout that Microsoft Dynamics 365 for Operations supports.</source>
+          <source>It's important that the bank statement file from the bank match the layout that Microsoft Dynamics AX supports.</source>
         </trans-unit>
         <trans-unit id="103" translate="yes" xml:space="preserve">
           <source>Because of strict standards for bank statements, most integrations will work correctly.</source>
@@ -34,7 +34,7 @@
           <source>Bank statement file import troubleshooting</source>
         </trans-unit>
         <trans-unit id="108" translate="yes" xml:space="preserve">
-          <source>It's important that the bank statement file from the bank match the layout that Microsoft Dynamics 365 for Operations supports.</source>
+          <source>It's important that the bank statement file from the bank match the layout that Microsoft Dynamics AX supports.</source>
         </trans-unit>
         <trans-unit id="109" translate="yes" xml:space="preserve">
           <source>Because of strict standards for bank statements, most integrations will work correctly.</source>
@@ -64,10 +64,10 @@
           <source>What are the differences?</source>
         </trans-unit>
         <trans-unit id="118" translate="yes" xml:space="preserve">
-          <source>Compare the bank file layout definition to the Microsoft Dynamics 365 for Operations import definition, and note any differences in the fields and elements.</source>
+          <source>Compare the bank file layout definition to the Microsoft Dynamics AX import definition, and note any differences in the fields and elements.</source>
         </trans-unit>
         <trans-unit id="119" translate="yes" xml:space="preserve">
-          <source>Compare the bank statement file to the related sample Dynamics 365 for Operations file.</source>
+          <source>Compare the bank statement file to the related sample Dynamics AX file.</source>
         </trans-unit>
         <trans-unit id="120" translate="yes" xml:space="preserve">
           <source>In the ISO20022 files, any differences should be easy to see.</source>
@@ -169,7 +169,7 @@
           <source>Adjust the transformation to get the appropriate field or element in the bank statement file.</source>
         </trans-unit>
         <trans-unit id="153" translate="yes" xml:space="preserve">
-          <source>Then map that field or element to the appropriate Dynamics 365 for Operations element.</source>
+          <source>Then map that field or element to the appropriate Dynamics AX element.</source>
         </trans-unit>
         <trans-unit id="154" translate="yes" xml:space="preserve">
           <source>Debit/credit indicator</source>

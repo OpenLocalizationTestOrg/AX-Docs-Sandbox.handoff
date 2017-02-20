@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">89dab7c0962b3b0386e72d0e6cae6547ee120db7</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b79dbbc80aa47d86a28966d4014edee4231e5081</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\data-entities\tips-tricks-import-general-journal-entity.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f3c3b453f98c44c820ae0b895eacb75430e34419</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">726ba1e5b4baeb0a0915a5c17110e36e65124e6c</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f0e7cbfec9e72944793288b1aa5a0b10b1e1a8c9</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">fce740b982a43199d3b70c227b68a720fca44edf</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Best practices for importing vouchers using the General journal entity | Microsoft Docs</source>
+          <source>Best practices for importing vouchers using the General journal entity</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This topic provides tips for importing data into the General journal by using the General journal entity.</source>
@@ -136,7 +136,7 @@
           <source>The hotfix number is 3170316 and available for download from Lifecycle services (LCS).</source>
         </trans-unit>
         <trans-unit id="142" translate="yes" xml:space="preserve">
-          <source>For more information, see <bpt id="p1">[</bpt>Download hotfixes from Lifecycle Services<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/servicing/download-hotfixes-from-lifecycle-services)</ept>.</source>
+          <source>For more information, see <bpt id="p1">[</bpt>Download hotfixes from Lifecycle Services<ept id="p1">](download-hotfix-lcs.md)</ept>.</source>
         </trans-unit>
         <trans-unit id="143" translate="yes" xml:space="preserve">
           <source>To enable this functionality, on the journal name that is used for imports in Dynamics 365 for Operations, set <bpt id="p1">**</bpt>Number allocation at posting<ept id="p1">**</ept> to <bpt id="p2">**</bpt>Yes<ept id="p2">**</ept>.</source>

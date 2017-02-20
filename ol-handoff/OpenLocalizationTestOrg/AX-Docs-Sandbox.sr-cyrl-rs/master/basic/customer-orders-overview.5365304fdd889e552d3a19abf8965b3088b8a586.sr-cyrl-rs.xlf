@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">cf6a13f9e685f8f1bd13d84c7f6f146ca2b41b8c</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e949f751e71ff5e816185bd6aa4df3b23ba5329b</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">retail\customer-orders-overview.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3f5d3f92b280a9b370dd49893a048c71b433ded6</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d866a5c16ecae7beb26cda12501c9ae480e41336</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">7bf2bc56763ee6a9cb01b83d77d5525c59a024f9</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f9c7ebf9f82353a63583b7dbdea9100d200fbda3</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Customer orders overview | Microsoft Docs</source>
+          <source>Customer orders overview</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This topic provides information about customer orders in Retail Modern POS (MPOS).</source>
@@ -217,7 +217,7 @@
           <source>See also</source>
         </trans-unit>
         <trans-unit id="169" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Hybrid customer orders<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/hybrid-customer-orders)</ept></source>
+          <source><bpt id="p1">[</bpt>Hybrid customer orders<ept id="p1">](hybrid-customer-orders.md)</ept></source>
         </trans-unit>
       </group>
     </body>

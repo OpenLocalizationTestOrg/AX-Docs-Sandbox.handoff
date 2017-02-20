@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">94aa27716173afb298f6e6e0e6614d2b5e9a0ecc</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">32f127185833565f2d14ef15965f7f838336a1ed</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">retail\monitor-sales-margin-performance.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e3141c873eb9ef1022447ebe840deedb06c23289</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3e014e6147b9bd3efb9c32b90432e9222710ecac</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">36eb424b06819a6d37928e8ccc97d9bfb236537e</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">286843544dca50e12ea0f8c596862dbb82a17854</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Monitor sales and margin performance | Microsoft Docs</source>
+          <source>Monitor sales and margin performance</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>You can monitor sales and margin performance in real time using Microsoft Dynamics 365 for Operations.</source>
@@ -73,7 +73,7 @@
           <source><bpt id="p1">**</bpt>Inquiries and reports<ept id="p1">**</ept> section Dynamics 365 for Operations <ph id="ph1">&amp;gt;</ph> <bpt id="p2">**</bpt>Retail and commerce<ept id="p2">**</ept> <ph id="ph2">&amp;gt;</ph> <bpt id="p3">**</bpt>Inquiries and reports<ept id="p3">**</ept> <ph id="ph3">&amp;gt;</ph> <bpt id="p4">**</bpt>Sales reports<ept id="p4">**</ept></source>
         </trans-unit>
         <trans-unit id="121" translate="yes" xml:space="preserve">
-          <source>For more information, see <bpt id="p1">[</bpt>Creating next-generation reporting solutions<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/creating-nextgen-reporting-solutions)</ept>.</source>
+          <source>For more information, see <bpt id="p1">[</bpt>Creating next-generation reporting solutions<ept id="p1">](create-nextgen-reporting-solutions.md)</ept>.</source>
         </trans-unit>
       </group>
     </body>

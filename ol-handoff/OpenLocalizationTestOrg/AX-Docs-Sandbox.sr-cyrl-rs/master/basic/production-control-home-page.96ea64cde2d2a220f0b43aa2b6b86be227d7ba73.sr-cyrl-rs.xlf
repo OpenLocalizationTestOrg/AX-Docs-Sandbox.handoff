@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d081a10cc5528ee31bd739b17ce16cef4276b9b1</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">7c14d97014b188a2495a3b3f95a42af797127cdc</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">manufacturing\production-control-home-page.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1c210fe9af2e28fa89ef57aabfa43520d295b1e1</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">44ba405890c36a35574a16d77377c39df1c29649</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d8212fdf443fead6a9535c2b77227f694e488f9d</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">03b02a1070844cd6ae3b6227021261ccbd1a9f86</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Production control home page | Microsoft Docs</source>
+          <source>Production control home page</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This topic provides a list of the Help topics and other resources that are available for Production control.</source>
@@ -28,19 +28,19 @@
           <source>Understand production control</source>
         </trans-unit>
         <trans-unit id="106" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Overview of production process<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/cost-management/overview-of-the-production-process)</ept></source>
+          <source><bpt id="p1">[</bpt>Overview of production process<ept id="p1">](production-process-overview.md)</ept></source>
         </trans-unit>
         <trans-unit id="107" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Mixed mode planning: Combine discrete, process, and lean sourcing<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/production-control/mixed-mode-planning)</ept></source>
+          <source><bpt id="p1">[</bpt>Mixed mode planning: Combine discrete, process, and lean sourcing<ept id="p1">](mixed-mode-plan.md)</ept></source>
         </trans-unit>
         <trans-unit id="108" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Bills of materials and formulas<ept id="p1">](http://ax.help.dynamics.com/en/wiki/bills-of-materials-and-formulas/)</ept></source>
         </trans-unit>
         <trans-unit id="109" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Lean manufacturing overview<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/production-control/lean-manufacturing-2)</ept></source>
+          <source><bpt id="p1">[</bpt>Lean manufacturing overview<ept id="p1">](lean-manufacturing-overview.md)</ept></source>
         </trans-unit>
         <trans-unit id="110" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Lean manufacturing – Modeling the lean organization<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/production-control/lean-manufacturing-modeling-the-lean-organization)</ept></source>
+          <source><bpt id="p1">[</bpt>Lean manufacturing – Modeling the lean organization<ept id="p1">](lean-manufacturing-modeling-lean-organization.md)</ept></source>
         </trans-unit>
         <trans-unit id="111" translate="yes" xml:space="preserve">
           <source>Maintain master data</source>
@@ -49,13 +49,13 @@
           <source><bpt id="p1">[</bpt>Create units of measure<ept id="p1">](http://ax.help.dynamics.com/en/wiki/manage-unit-of-measure/)</ept> (Task guide)</source>
         </trans-unit>
         <trans-unit id="113" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Operations resources<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/production-control/operations-resources)</ept></source>
+          <source><bpt id="p1">[</bpt>Operations resources<ept id="p1">](operations-resources.md)</ept></source>
         </trans-unit>
         <trans-unit id="114" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Create an operations resource<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-an-operations-resource/)</ept> (Task guide)</source>
         </trans-unit>
         <trans-unit id="115" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Resource capabilities<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/production-control/resource-capabilities)</ept></source>
+          <source><bpt id="p1">[</bpt>Resource capabilities<ept id="p1">](resource-capabilities.md)</ept></source>
         </trans-unit>
         <trans-unit id="116" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Create resource capabilities<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-a-resource-capability/)</ept> (Task guide)</source>
@@ -64,16 +64,16 @@
           <source><bpt id="p1">[</bpt>Create a resource group in discrete manufacturing<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-a-resource-group-in-discrete-manufacturing/)</ept> (Task guide)</source>
         </trans-unit>
         <trans-unit id="118" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Production order defaults in manufacturing execution<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/production-control/production-order-defaults-in-manufacturing-execution)</ept></source>
+          <source><bpt id="p1">[</bpt>Production order defaults in manufacturing execution<ept id="p1">](production-order-defaults-manufacturing-execution.md)</ept></source>
         </trans-unit>
         <trans-unit id="119" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Production setup requirements<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/production-control/production-setup-requirements)</ept></source>
+          <source><bpt id="p1">[</bpt>Production setup requirements<ept id="p1">](production-set-up-requirements.md)</ept></source>
         </trans-unit>
         <trans-unit id="120" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Configure a worker using the mobile job device<ept id="p1">](http://ax.help.dynamics.com/en/wiki/configure-a-worker-using-the-mobile-job-device/)</ept> (Task guide)</source>
         </trans-unit>
         <trans-unit id="121" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>BOM designer functionality<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/production-control/bom-designer-functionality)</ept></source>
+          <source><bpt id="p1">[</bpt>BOM designer functionality<ept id="p1">](bom-designer-functionality.md)</ept></source>
         </trans-unit>
         <trans-unit id="122" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Create a resource group in discrete manufacturing<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-a-resource-group-in-discrete-manufacturing/)</ept> (Task guide)</source>
@@ -88,7 +88,7 @@
           <source><bpt id="p1">[</bpt>Create a formula by copying from an existing formula<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-a-formula-by-copying-from-an-existing-formula/)</ept> (Task guide)</source>
         </trans-unit>
         <trans-unit id="126" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Batch attributes<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/production-control/batch-attributes)</ept></source>
+          <source><bpt id="p1">[</bpt>Batch attributes<ept id="p1">](batch-attributes.md)</ept></source>
         </trans-unit>
         <trans-unit id="127" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Create batch attributes for a product<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-a-batch-attribute/)</ept> (Task guide)</source>
@@ -160,10 +160,10 @@
           <source>Schedule production operations</source>
         </trans-unit>
         <trans-unit id="150" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Operations scheduling<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/production-control/operations-scheduling)</ept></source>
+          <source><bpt id="p1">[</bpt>Operations scheduling<ept id="p1">](operations-scheduling.md)</ept></source>
         </trans-unit>
         <trans-unit id="151" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Operations scheduling options<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/production-control/operation-scheduling-options)</ept></source>
+          <source><bpt id="p1">[</bpt>Operations scheduling options<ept id="p1">](operation-scheduling-options.md)</ept></source>
         </trans-unit>
         <trans-unit id="152" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Create working time scheduling properties<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-working-time-scheduling-properties/)</ept> (Task guide)</source>
@@ -178,7 +178,7 @@
           <source><bpt id="p1">[</bpt>Schedule a production order with operations and job scheduling<ept id="p1">](https://ax.help.dynamics.com/en/wiki/schedule-a-production-order-with-operations-and-job-scheduling/)</ept>(Task guide)</source>
         </trans-unit>
         <trans-unit id="156" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Material substitution in manufacturing<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/production-control/substituting-items-on-bom-lines)</ept></source>
+          <source><bpt id="p1">[</bpt>Material substitution in manufacturing<ept id="p1">](substitute-items-bom-lines.md)</ept></source>
         </trans-unit>
         <trans-unit id="157" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Create a material plan for co-products<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-material-plan-for-co-products/)</ept> (Task guide)</source>
@@ -187,7 +187,7 @@
           <source><bpt id="p1">[</bpt>Sequence production jobs for process manufacturing<ept id="p1">](http://ax.help.dynamics.com/en/wiki/sequence-production-jobs-for-process-manufacturing/)</ept> (Task guide)</source>
         </trans-unit>
         <trans-unit id="159" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Lean manufacturing – Kanban job scheduling<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/production-control/lean-manufacturing-kanban-job-scheduling)</ept></source>
+          <source><bpt id="p1">[</bpt>Lean manufacturing – Kanban job scheduling<ept id="p1">](lean-manufacturing-kanban-job-scheduling.md)</ept></source>
         </trans-unit>
         <trans-unit id="160" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Move scheduled kanban jobs<ept id="p1">](http://ax.help.dynamics.com/en/wiki/move-scheduled-kanban-jobs/)</ept> (Task guide)</source>
@@ -208,13 +208,13 @@
           <source>Operate production jobs</source>
         </trans-unit>
         <trans-unit id="166" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Overview of production process<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/cost-management/overview-of-the-production-process)</ept></source>
+          <source><bpt id="p1">[</bpt>Overview of production process<ept id="p1">](production-process-overview.md)</ept></source>
         </trans-unit>
         <trans-unit id="167" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Registration for manufacturing execution<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/production-control/registration-for-manufacturing-execution)</ept></source>
+          <source><bpt id="p1">[</bpt>Registration for manufacturing execution<ept id="p1">](registration-manufacturing-execution.md)</ept></source>
         </trans-unit>
         <trans-unit id="168" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Report BOMs as finished<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/production-control/reporting-boms-as-finished)</ept></source>
+          <source><bpt id="p1">[</bpt>Report BOMs as finished<ept id="p1">](report-boms-as-finished.md)</ept></source>
         </trans-unit>
         <trans-unit id="169" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Report progress on job card device<ept id="p1">](http://ax.help.dynamics.com/en/wiki/report-progress-on-job-card-device/)</ept> (Task guide)</source>
@@ -247,7 +247,7 @@
           <source><bpt id="p1">[</bpt>End a production order<ept id="p1">](http://ax.help.dynamics.com/en/wiki/end-a-production-order/)</ept> (Task guide)</source>
         </trans-unit>
         <trans-unit id="179" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Consolidated batch orders<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/production-control/consolidated-batch-orders)</ept></source>
+          <source><bpt id="p1">[</bpt>Consolidated batch orders<ept id="p1">](consolidated-batch-orders.md)</ept></source>
         </trans-unit>
         <trans-unit id="180" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Batch order lifecycle: from create to start<ept id="p1">](http://ax.help.dynamics.com/en/wiki/batch-order-lifecycle-from-create-to-start/)</ept>(Task guide)</source>
@@ -256,7 +256,7 @@
           <source>The following topics show how to operate kanban jobs.</source>
         </trans-unit>
         <trans-unit id="182" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Kanban transfer board support for barcode scanner<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/production-control/kanban-transfer-board-support-for-barcode-scanner)</ept> (Task guide)</source>
+          <source><bpt id="p1">[</bpt>Kanban transfer board support for barcode scanner<ept id="p1">](kanban-transfer-board-support-barcode-scanner.md)</ept> (Task guide)</source>
         </trans-unit>
         <trans-unit id="183" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Execute kanban process jobs<ept id="p1">](http://ax.help.dynamics.com/en/wiki/execute-kanban-process-jobs/)</ept>(Task guide)</source>
@@ -286,13 +286,13 @@
           <source><bpt id="p1">[</bpt>End a production order<ept id="p1">](http://ax.help.dynamics.com/en/wiki/end-a-production-order/)</ept> (Task guide)</source>
         </trans-unit>
         <trans-unit id="192" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Allocate time to jobs in a job bundle<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/production-control/allocating-time-to-jobs-in-a-job-bundle)</ept></source>
+          <source><bpt id="p1">[</bpt>Allocate time to jobs in a job bundle<ept id="p1">](allocate-time-jobs-job-bundle.md)</ept></source>
         </trans-unit>
         <trans-unit id="193" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Calculation of material consumption<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/production-control/consumption)</ept></source>
+          <source><bpt id="p1">[</bpt>Calculation of material consumption<ept id="p1">](consumption.md)</ept></source>
         </trans-unit>
         <trans-unit id="194" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Production posting<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/production-control/production-posting)</ept></source>
+          <source><bpt id="p1">[</bpt>Production posting<ept id="p1">](production-posting.md)</ept></source>
         </trans-unit>
         <trans-unit id="195" translate="yes" xml:space="preserve">
           <source>Additional resources</source>

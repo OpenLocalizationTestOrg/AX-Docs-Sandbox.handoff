@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8ccae22b1a9e3c8a4063a869d766f14eda5e669f</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8d672deb080991186741028b17790521a73b22cf</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">core\get-started\recently-added-editing-features-in-task-recorder.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">fd94243a91dde933dac364d8f370ce6fb9933d84</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1ff1c1b08c373a32724b584e2057be31035b1a18</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6bd60c98cee1fd4c9ae0eab836bc3e9a07a9e89c</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b8993705f9fcab59a615896cc0d954e356cb3f6e</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Recently added editing features in task recorder | Microsoft Docs</source>
+          <source>Recently added editing features in task recorder</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>If you use task recorder to create task guides, you can edit your files more efficiently using the functionality described in this wiki.</source>
@@ -136,13 +136,13 @@
           <source>See also</source>
         </trans-unit>
         <trans-unit id="142" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Task Recorder in Microsoft Dynamics 365 for Operations<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/task-recorder-in-ax7)</ept></source>
+          <source><bpt id="p1">[</bpt>Task Recorder in Microsoft Dynamics 365 for Operations<ept id="p1">](task-recorder.md)</ept></source>
         </trans-unit>
         <trans-unit id="143" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Create documentation or training using Task recordings<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/task-recorder)</ept></source>
+          <source><bpt id="p1">[</bpt>Create documentation or training using Task recordings<ept id="p1">](task-recorder.md)</ept></source>
         </trans-unit>
         <trans-unit id="144" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Task recorder quick reference<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/task-recorder-quick-reference)</ept></source>
+          <source><bpt id="p1">[</bpt>Task recorder quick reference<ept id="p1">](task-recorder-quick-reference.md)</ept></source>
         </trans-unit>
       </group>
     </body>

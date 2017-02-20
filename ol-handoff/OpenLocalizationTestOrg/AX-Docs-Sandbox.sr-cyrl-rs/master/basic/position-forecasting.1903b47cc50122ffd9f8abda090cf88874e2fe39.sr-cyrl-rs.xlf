@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">aa3824fcf3fb3cfb0f660f063e740283c3fce6a2</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">38778b0d821358d0577b2f73d1fb465b6030dd53</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\budgeting\position-forecasting.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">173915b3f7e279d46c386d83619fcaa08a79def7</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e0336acbf64f11a35a46f3024e48e91ee2ec57b9</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9c49f59b685cf8d29ac0feb2c93d665bfa20c349</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9ba2991dc60239d93814295e1152357f7602d587</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Position forecasting | Microsoft Docs</source>
+          <source>Position forecasting</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>Position forecasting</source>
@@ -271,7 +271,7 @@
           <source>Creating forecast positions for existing positions</source>
         </trans-unit>
         <trans-unit id="187" translate="yes" xml:space="preserve">
-          <source>For the most accurate budget planning, you can create forecast positions by using details from existing positions in Microsoft Dynamics 365 for Operations, regardless of whether the position is currently filled or unfilled.</source>
+          <source>For the most accurate budget planning, you can create forecast positions by using details from existing positions in Microsoft Dynamics AX, regardless of whether the position is currently filled or unfilled.</source>
         </trans-unit>
         <trans-unit id="188" translate="yes" xml:space="preserve">
           <source>The <bpt id="p1">**</bpt>Add existing positions<ept id="p1">**</ept> function displays all the positions for an organization.</source>

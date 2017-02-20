@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e365fb8e41f20800d50ab62b2effa3cd1698ac2e</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c829770128639e459fe64a363a86aa56c9bf6bd4</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\system-administration\help-get-started.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">12e32e46fd37e916d7178b73777045235a211af9</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c9b2fe284f9d2c41a808cf07f31f27a985c3fc4c</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">25ec1e1d6fd5c23e2d2dfcc3c33337620c80f1f1</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1039e7ecef3e063c76e4bddb2fc7a32b47077131</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Getting started with Help | Microsoft Docs</source>
+          <source>Getting started with Help</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This article provides an overview of the components of the Microsoft Dynamics 365 for Operations Help system.</source>
@@ -115,7 +115,7 @@
           <source>Updates to a particular wiki topic</source>
         </trans-unit>
         <trans-unit id="135" translate="yes" xml:space="preserve">
-          <source>https://ax.help.dynamics.com/en/wiki/<bpt id="p1">*</bpt>pagename<ept id="p1">*</ept>/revisions Example RSS feed for the Help and UI home page: <bpt id="p2">&lt;</bpt>https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/get-started/ax-help-and-ui-home-pagerevisions<ept id="p2">&gt;</ept></source>
+          <source>https://ax.help.dynamics.com/en/wiki/<bpt id="p1">*</bpt>pagename<ept id="p1">*</ept>/revisions Example RSS feed for the Help and UI home page: &lt;getting-started-home-page.mdrevisions&gt;</source>
         </trans-unit>
         <trans-unit id="136" translate="yes" xml:space="preserve">
           <source>New topics for a specific audience</source>
@@ -148,16 +148,16 @@
           <source>Task guides</source>
         </trans-unit>
         <trans-unit id="146" translate="yes" xml:space="preserve">
-          <source>A task guide is a controlled, guided, interactive experience that leads you through the steps of a task, or business process.</source>
+          <source>A Task guide is a controlled, guided, interactive experience that leads you through the steps of a task, or business process.</source>
         </trans-unit>
         <trans-unit id="147" translate="yes" xml:space="preserve">
-          <source>You can open (play) a task guide from the Help pane.</source>
+          <source>You can open (play) a Task guide from the Help pane.</source>
         </trans-unit>
         <trans-unit id="148" translate="yes" xml:space="preserve">
-          <source>When you first click a task guide, the Help pane will show the step-by-step instructions for the task.</source>
+          <source>When you first click a Task guide, the Help pane will show the step-by-step instructions for the task.</source>
         </trans-unit>
         <trans-unit id="149" translate="yes" xml:space="preserve">
-          <source>Localized task guides are now available.</source>
+          <source>Localized Task guides are now available.</source>
         </trans-unit>
         <trans-unit id="150" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt><ph id="ph1">![</ph>Task guide reading view<ept id="p1">](./media/task-guide-ops-1024x742.png)](./media/task-guide-ops.png)</ept> To begin the guided, interactive experience, click <bpt id="p2">**</bpt>Start task guide<ept id="p2">**</ept> at the bottom of the Help pane.</source>
@@ -169,7 +169,7 @@
           <source>Follow the directions that appear in the UI, and enter data as directed.</source>
         </trans-unit>
         <trans-unit id="153" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt><ph id="ph1">![</ph>Task guide step instruction<ept id="p1">](./media/task-guide-step-1-ops.png)](./media/task-guide-step-1-ops.png)</ept> <bpt id="p2">**</bpt>Important:<ept id="p2">**</ept> The data that you enter when you play a task guide is real.</source>
+          <source><bpt id="p1">[</bpt><ph id="ph1">![</ph>Task guide step instruction<ept id="p1">](./media/task-guide-step-1-ops.png)](./media/task-guide-step-1-ops.png)</ept> <bpt id="p2">**</bpt>Important:<ept id="p2">**</ept> The data that you enter when you play a Task guide is real.</source>
         </trans-unit>
         <trans-unit id="154" translate="yes" xml:space="preserve">
           <source>If you're in a production environment, the data will be entered in the company that you’re currently using.</source>
@@ -205,7 +205,7 @@
           <source><bpt id="p1">**</bpt>Save task recordings as Word documents<ept id="p1">**</ept> – By saving a task recording as a Microsoft Word document, you can easily produce printable training guides for your organization.</source>
         </trans-unit>
         <trans-unit id="165" translate="yes" xml:space="preserve">
-          <source>For more information about Task Recorder, see <bpt id="p1">[</bpt>Task recorder in Dynamics 365 for Operations<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/task-recorder-in-ax7)</ept>.</source>
+          <source>For more information about Task Recorder, see <bpt id="p1">[</bpt>Task recorder in Dynamics 365 for Operations<ept id="p1">](task-recorder.md)</ept>.</source>
         </trans-unit>
         <trans-unit id="166" translate="yes" xml:space="preserve">
           <source>Creating customized task recordings</source>
@@ -217,13 +217,13 @@
           <source>Therefore, you can create customized Help for your organization that reflects your specific Dynamics 365 for Operations implementation.</source>
         </trans-unit>
         <trans-unit id="169" translate="yes" xml:space="preserve">
-          <source>To display a task recording in the Dynamics 365 for Operations Help pane and play it as a task guide, you'll have to save the recording to a BPM library in LCS.</source>
+          <source>To display a task recording in the Dynamics 365 for Operations Help pane and play it as a Task guide, you'll have to save the recording to a BPM library in LCS.</source>
         </trans-unit>
         <trans-unit id="170" translate="yes" xml:space="preserve">
           <source>If you're a partner, and you promote a library to a corporate library and include it in a solution, it will be available to your customers.</source>
         </trans-unit>
         <trans-unit id="171" translate="yes" xml:space="preserve">
-          <source>For complete instructions, see <bpt id="p1">[</bpt>Using task recordings to create documentation or training<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/task-recorder)</ept>.</source>
+          <source>For complete instructions, see <bpt id="p1">[</bpt>Using task recordings to create documentation or training<ept id="p1">](task-recorder.md)</ept>.</source>
         </trans-unit>
         <trans-unit id="172" translate="yes" xml:space="preserve">
           <source>Inproduct Help</source>
@@ -256,10 +256,10 @@
           <source><bpt id="p1">[</bpt><ph id="ph1">![</ph>Wiki page<ept id="p1">](./media/wiki-page-1024x683.png)](./media/wiki-page.png)</ept></source>
         </trans-unit>
         <trans-unit id="182" translate="yes" xml:space="preserve">
-          <source>Accessing task guides from the Help pane</source>
+          <source>Accessing Task guides from the Help pane</source>
         </trans-unit>
         <trans-unit id="183" translate="yes" xml:space="preserve">
-          <source>Before you can access task guides from the Help pane, a System administrator has to go to the <bpt id="p1">**</bpt>System parameters<ept id="p1">**</ept> page in Dynamics 365 for Operations and configure some settings.</source>
+          <source>Before you can access Task guides from the Help pane, a System administrator has to go to the <bpt id="p1">**</bpt>System parameters<ept id="p1">**</ept> page in Dynamics 365 for Operations and configure some settings.</source>
         </trans-unit>
         <trans-unit id="184" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>Notes:<ept id="p1">**</ept></source>
@@ -295,43 +295,43 @@
           <source>After a System administrator has completed these steps, you can open the Help pane and click the <bpt id="p1">**</bpt>Task guides<ept id="p1">**</ept> tab.</source>
         </trans-unit>
         <trans-unit id="195" translate="yes" xml:space="preserve">
-          <source>You'll now see the task guides that apply to the page that you’re currently on in Dynamics 365 for Operations.</source>
+          <source>You'll now see the Task guides that apply to the page that you’re currently on in Dynamics 365 for Operations.</source>
         </trans-unit>
         <trans-unit id="196" translate="yes" xml:space="preserve">
-          <source>If no task guides are found, you can enter keywords to refine your search.</source>
+          <source>If no Task guides are found, you can enter keywords to refine your search.</source>
         </trans-unit>
         <trans-unit id="197" translate="yes" xml:space="preserve">
-          <source>After you click a task guide in the Help pane, the Help pane shows the step-by-step instructions, and you can play the task guide.</source>
+          <source>After you click a Task guide in the Help pane, the Help pane shows the step-by-step instructions, and you can play the task guide.</source>
         </trans-unit>
         <trans-unit id="198" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt><ph id="ph1">![</ph>Task guide reading view<ept id="p1">](./media/task-guide-ops-1024x742.png)](./media/task-guide-ops.png)</ept></source>
         </trans-unit>
         <trans-unit id="199" translate="yes" xml:space="preserve">
-          <source>Where are the translated task guides?</source>
+          <source>Where are the translated Task guides?</source>
         </trans-unit>
         <trans-unit id="200" translate="yes" xml:space="preserve">
-          <source>Translated task guides were shipped in the May APQC Unified Library, and the Getting Started library.</source>
+          <source>Translated Task guides were shipped in the May APQC Unified Library, and the Getting Started library.</source>
         </trans-unit>
         <trans-unit id="201" translate="yes" xml:space="preserve">
-          <source>In Dynamics 365 for Operations, to see localized task guide help, make sure that you are connected to the May library.</source>
+          <source>In Dynamics 365 for Operations, to see localized Task guide help, make sure that you are connected to the May library.</source>
         </trans-unit>
         <trans-unit id="202" translate="yes" xml:space="preserve">
-          <source>The language that a task guide appears in is controlled for each user by the Language settings under <bpt id="p1">**</bpt>Options<ept id="p1">**</ept> <ph id="ph1">&amp;gt;</ph> <bpt id="p2">**</bpt>Preferences<ept id="p2">**</ept>.</source>
+          <source>The language that a Task guide appears in is controlled for each user by the Language settings under <bpt id="p1">**</bpt>Options<ept id="p1">**</ept> <ph id="ph1">&amp;gt;</ph> <bpt id="p2">**</bpt>Preferences<ept id="p2">**</ept>.</source>
         </trans-unit>
         <trans-unit id="203" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> Even though many task guides have been translated, right now the Dynamics 365 for Operations client is not showing the translated task guide names.</source>
+          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> Even though many Task guides have been translated, right now the Dynamics 365 for Operations client is not showing the translated Task guide names.</source>
         </trans-unit>
         <trans-unit id="204" translate="yes" xml:space="preserve">
-          <source>Also, only the task guides that were released in February are available in translation in the May library at this point.</source>
+          <source>Also, only the Task guides that were released in February are available in translation in the May library at this point.</source>
         </trans-unit>
         <trans-unit id="205" translate="yes" xml:space="preserve">
           <source>We will release an updated library with additional translations.</source>
         </trans-unit>
         <trans-unit id="206" translate="yes" xml:space="preserve">
-          <source>If a task guide has been translated, when you open that task guide all the text of the task guide will appear in your selected language.</source>
+          <source>If a Task guide has been translated, when you open that Task guide all the text of the Task guide will appear in your selected language.</source>
         </trans-unit>
         <trans-unit id="207" translate="yes" xml:space="preserve">
-          <source>If a task guide has not yet been translated, when you open it, only some of the text (the text of the controls) will appear in your selected language.</source>
+          <source>If a Task guide has not yet been translated, when you open it, only some of the text (the text of the controls) will appear in your selected language.</source>
         </trans-unit>
         <trans-unit id="208" translate="yes" xml:space="preserve">
           <source>Additional resources</source>
@@ -415,19 +415,22 @@
           <source><bpt id="p1">[</bpt>Dynamics 365 for Operations help system (downloadable fact sheet)<ept id="p1">](https://mbs.microsoft.com/files/public/CS/AX2012R3/DynamicsAXHelpSystemFactSheet.pdf)</ept></source>
         </trans-unit>
         <trans-unit id="235" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Task Recorder in Microsoft Dynamics 365 for Operations<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/task-recorder-in-ax7)</ept></source>
+          <source><bpt id="p1">[</bpt>Task Recorder in Microsoft Dynamics 365 for Operations<ept id="p1">](task-recorder.md)</ept></source>
         </trans-unit>
         <trans-unit id="236" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Create documentation or training using Task recordings<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/task-recorder)</ept></source>
+          <source><bpt id="p1">[</bpt>Create documentation or training using Task recordings<ept id="p1">](task-recorder.md)</ept></source>
         </trans-unit>
         <trans-unit id="237" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>New task guides available (February 2016)<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/get-started/new-task-guides-available-on-february-2016)</ept></source>
+          <source><bpt id="p1">[</bpt>New task guides (February 2016)<ept id="p1">](new-task-guides-available-february-2016.md)</ept></source>
         </trans-unit>
         <trans-unit id="238" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>New or updated task guides available (May 2016)<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/get-started/new-or-updated-task-guides-available-may-2016)</ept></source>
+          <source><bpt id="p1">[</bpt>New or updated task guides (May 2016)<ept id="p1">](new-updated-task-guides-available-may-2016.md)</ept></source>
         </trans-unit>
         <trans-unit id="239" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>New or updated task guides available (August 2016)<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/get-started/new-or-updated-task-guides-available-august-2016)</ept></source>
+          <source><bpt id="p1">[</bpt>New or updated task guides (August 2016)<ept id="p1">](new-updated-task-guides-available-august-2016.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="240" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>New or updated Task guides (November 2016)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/new-or-updated-task-guides-available-november-2016/)</ept></source>
         </trans-unit>
       </group>
     </body>

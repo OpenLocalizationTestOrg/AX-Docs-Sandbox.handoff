@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ee03ba117dc81f69f444435c9720f930e87cf9c5</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">99fcfb208be6bdfce7eaf89aab5fb16e4e0f3fb2</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\localizations\north-america\issue-worker-payments.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">do-not-translate</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">cc3fef854dfdc25911f76d8a5fd9b4d55800ccf2</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f71bff18fd328736ab0c2d30b080e6e9cf1aa7c8</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f87edda4b0fe4e12a52650f7675722ff1222f948</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">760d88e8549e1468d0ae073db68be310665534da</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Issue worker payments | Microsoft Docs</source>
+          <source>Issue worker payments</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This topic explains how to submit pay statements, generate checks or electronic payments, generate a positive pay file for payroll, and post the payment journal.</source>
@@ -79,7 +79,7 @@
           <source>Before you can generate a positive pay file for payroll, you must set up positive pay.</source>
         </trans-unit>
         <trans-unit id="123" translate="yes" xml:space="preserve">
-          <source>For more information, see <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/set-up-and-generate-positive-pay-files"&gt;</bpt>Set up and generate positive pay<ept id="p1">&lt;/a&gt;</ept>.</source>
+          <source>For more information, see <bpt id="p1">&lt;a href="set-up-generate-positive-pay-files.md"&gt;</bpt>Set up and generate positive pay<ept id="p1">&lt;/a&gt;</ept>.</source>
         </trans-unit>
         <trans-unit id="124" translate="yes" xml:space="preserve">
           <source>If you generate electronic payments, make sure that the <bpt id="p1">&lt;strong&gt;</bpt>Electronic method of payment<ept id="p1">&lt;/strong&gt;</ept> field is set on the on the <bpt id="p2">&lt;strong&gt;</bpt>Payment issuance<ept id="p2">&lt;/strong&gt;</ept> tab on the <bpt id="p3">&lt;strong&gt;</bpt>Payroll parameters<ept id="p3">&lt;/strong&gt;</ept> page.</source>
@@ -97,7 +97,7 @@
           <source>Before you generate pay statements, you must generate and release earnings.</source>
         </trans-unit>
         <trans-unit id="129" translate="yes" xml:space="preserve">
-          <source>For more information, see <bpt id="p1">[</bpt>Generate earnings<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/north-america/generate-earnings)</ept>.</source>
+          <source>For more information, see <bpt id="p1">[</bpt>Generate earnings<ept id="p1">](generate-earnings.md)</ept>.</source>
         </trans-unit>
         <trans-unit id="130" translate="yes" xml:space="preserve">
           <source>To submit pay statements for multiple workers at the same time, follow these steps.</source>
@@ -106,13 +106,13 @@
           <source>Generate pay statements, so that earnings, benefits, and taxes are calculated.</source>
         </trans-unit>
         <trans-unit id="132" translate="yes" xml:space="preserve">
-          <source>For more information, see <bpt id="p1">[</bpt>Work with pay statements<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/north-america/work-with-pay-statements)</ept>.</source>
+          <source>For more information, see <bpt id="p1">[</bpt>Work with pay statements<ept id="p1">](pay-statements.md)</ept>.</source>
         </trans-unit>
         <trans-unit id="133" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>Tip:<ept id="p1">**</ept> Before you generate pay statements, we recommend that you view the <bpt id="p2">**</bpt>Pay statements to recalculate<ept id="p2">**</ept> list page to verify that no pay statements must be recalculated.</source>
         </trans-unit>
         <trans-unit id="134" translate="yes" xml:space="preserve">
-          <source>For more information, see “Modify pay statements” in <bpt id="p1">[</bpt>Work with pay statements<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/north-america/work-with-pay-statements)</ept>.</source>
+          <source>For more information, see “Modify pay statements” in <bpt id="p1">[</bpt>Work with pay statements<ept id="p1">](pay-statements.md)</ept>.</source>
         </trans-unit>
         <trans-unit id="135" translate="yes" xml:space="preserve">
           <source>On the <bpt id="p1">**</bpt>Submit pay statements<ept id="p1">**</ept> page, in the <bpt id="p2">**</bpt>Pay cycle<ept id="p2">**</ept> field, select the same pay cycle that you selected when you generated and released earnings.</source>
@@ -157,7 +157,7 @@
           <source>Generate pay statements, so that earnings, benefits, and taxes are calculated.</source>
         </trans-unit>
         <trans-unit id="149" translate="yes" xml:space="preserve">
-          <source>For more information, see <bpt id="p1">[</bpt>Work with pay statements<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/north-america/work-with-pay-statements)</ept>.</source>
+          <source>For more information, see <bpt id="p1">[</bpt>Work with pay statements<ept id="p1">](pay-statements.md)</ept>.</source>
         </trans-unit>
         <trans-unit id="150" translate="yes" xml:space="preserve">
           <source>On the <bpt id="p1">**</bpt>Calculated pay statements<ept id="p1">**</ept> page, select the worker pay statement to create the payment journal for, and then click <bpt id="p2">**</bpt>Submit for payment<ept id="p2">**</ept>.</source>

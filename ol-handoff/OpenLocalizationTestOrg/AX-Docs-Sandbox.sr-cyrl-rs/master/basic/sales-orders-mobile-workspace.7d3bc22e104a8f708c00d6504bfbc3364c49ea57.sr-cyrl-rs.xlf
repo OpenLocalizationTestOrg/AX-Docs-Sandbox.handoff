@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3dd96c71aaeef4e1634c26b319ae384a283124e3</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f9959b8c717ce5c9423da139ed9490b55e575ea3</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">manufacturing\production-control\sales-orders-mobile-workspace.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c965371e7aaa927eb8252b15dde83d3a32431957</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4bf6dba068f6eeb048e764cbe2b48c8d736a5204</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">159b6657236a0a45909298ba87f11b9aed15863c</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e43af971548a8808ce3c20c9d2f706da78d2af7b</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Sales orders mobile workspace for Microsoft Dynamics 365 for Operations app | Microsoft Docs</source>
+          <source>Sales orders mobile workspace for Microsoft Dynamics 365 for Operations app</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>With the sales orders mobile workspace, you can stay up-to-date on your sales orders anywhere and anytime.</source>
@@ -37,7 +37,7 @@
           <source>Read about the Microsoft Dynamics 365 for Operations mobile platform</source>
         </trans-unit>
         <trans-unit id="109" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Dynamics 365 for Operations mobile platform<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/mobile-apps/mobile-development-handbook)</ept></source>
+          <source><bpt id="p1">[</bpt>Dynamics 365 for Operations mobile platform<ept id="p1">](mobile-platform.md)</ept></source>
         </trans-unit>
         <trans-unit id="110" translate="yes" xml:space="preserve">
           <source>Dynamics 365 for Operations</source>

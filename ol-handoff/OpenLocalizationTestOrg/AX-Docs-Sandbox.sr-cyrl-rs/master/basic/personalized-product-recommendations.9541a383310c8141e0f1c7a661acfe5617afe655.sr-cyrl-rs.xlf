@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">209878d3c342bf3e54fa090ebacac2014aef827a</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a1ba5b269dbe26a658dd9cceca9b4d1cf6b77972</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">retail\personalized-product-recommendations.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">101bfe17e33d0e5b9c2a0e8e7e5ce48ebe9dd5c1</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">db84581b9c337ed7d9b9637b9bff3ac3a0792b09</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ad0dae7ad9826406c85b0da2ba24a09745977be1</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6cc23e2f9b0391ce0b653bd08e511bc8f28d484b</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Personalized product recommendations overview | Microsoft Docs</source>
+          <source>Personalized product recommendations overview</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>In Dynamics 365 for Operations, product recommendations can be displayed on the point of sale (POS) device.</source>
@@ -151,7 +151,7 @@
           <source>See also</source>
         </trans-unit>
         <trans-unit id="147" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Add a recommendations control to the transaction page on a POS device<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/add-recommendations-control-to-the-transaction-screen-on-pos-using-screen-layout-designer)</ept></source>
+          <source><bpt id="p1">[</bpt>Add a recommendations control to the transaction page on a POS device<ept id="p1">](add-recommendations-control-pos-screen.md)</ept></source>
         </trans-unit>
       </group>
     </body>

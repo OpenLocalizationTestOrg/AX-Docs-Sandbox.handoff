@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">cee8ac74699f7005f24105b80694be36c7085bff</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4e2ba541d2ed368919b95cfc7fee639deebbb260</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">manufacturing\master-planning\monitor-forecast-accuracy.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e9afce6d6a65aac0080be19438679b95a9330be7</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8e9bb6ed69e4e47bb2d9d158da8c69870f6e72f9</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5000bdd401c1c4a406bf4ce517e50972dde5358e</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a67216e9cd0091e4f40eb4d67e897babf5b48ba3</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Monitor forecast accuracy | Microsoft Docs</source>
+          <source>Monitor forecast accuracy</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This article describes the types of forecast accuracy that Microsoft Dynamics 365 for Operations calculates, and explains how you can view the accuracy values.</source>
@@ -52,10 +52,10 @@
           <source>See also</source>
         </trans-unit>
         <trans-unit id="114" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Authorizing the adjusted forecast<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/authorizing-the-adjusted-forecast)</ept></source>
+          <source><bpt id="p1">[</bpt>Authorizing the adjusted forecast<ept id="p1">](authorize-adjusted-forecast.md)</ept></source>
         </trans-unit>
         <trans-unit id="115" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Remove outliers from historical transaction data when calculating a demand forecast<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/remove-outliers-from-historical-transaction-data-when-calculating-a-demand-forecast)</ept></source>
+          <source><bpt id="p1">[</bpt>Remove outliers from historical transaction data when calculating a demand forecast<ept id="p1">](remove-historical-outliers-calculating-demand-forecast.md)</ept></source>
         </trans-unit>
       </group>
     </body>

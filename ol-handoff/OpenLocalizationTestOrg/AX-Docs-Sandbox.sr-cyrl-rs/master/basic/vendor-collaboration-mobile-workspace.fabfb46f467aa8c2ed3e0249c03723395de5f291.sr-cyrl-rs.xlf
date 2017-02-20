@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">95ef4932854637ef7a91e286befa5929126d158d</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b01bc22d4fe1657b5381b0765c28964915567e55</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">manufacturing\production-control\vendor-collaboration-mobile-workspace.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3786981c778b12a5790f65870dc721e6ae11acbb</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dff4517aa7d057a390cf83a994e26d2532af5816</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3e2bf54a040bab6ff2317031c9f1b9ccdafc084f</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">63235eb36748a71f2a8156c828959e48711ccd08</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Vendor collaboration mobile workspace for Microsoft Dynamics 365 for Operations app | Microsoft Docs</source>
+          <source>Vendor collaboration mobile workspace for Microsoft Dynamics 365 for Operations app</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>With the vendor collaboration mobile workspace, your vendors can stay up-to-date on the purchase orders that have been sent to them for approval and view information about new and updated purchase orders and contacts.</source>
@@ -37,7 +37,7 @@
           <source>Read about the Microsoft Dynamics 365 for Operations mobile platform</source>
         </trans-unit>
         <trans-unit id="109" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/mobile-apps/mobile-development-handbook"&gt;</bpt>Dynamics 365 for Operations mobile platform<ept id="p1">&lt;/a&gt;</ept></source>
+          <source><bpt id="p1">&lt;a href="mobile-platform.md"&gt;</bpt>Dynamics 365 for Operations mobile platform<ept id="p1">&lt;/a&gt;</ept></source>
         </trans-unit>
         <trans-unit id="110" translate="yes" xml:space="preserve">
           <source>Dynamics 365 for Operations</source>
@@ -70,16 +70,16 @@
           <source>Follow the steps described in the following topics to set up and work with the vendor collaboration web interface.</source>
         </trans-unit>
         <trans-unit id="120" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/procurement-sourcing/using-vendor-collaboration-to-work-with-external-vendors"&gt;</bpt>Use vendor collaboration to work with external vendors<ept id="p1">&lt;/a&gt;</ept></source>
+          <source><bpt id="p1">&lt;a href="vendor-collaboration-work-external-vendors.md"&gt;</bpt>Use vendor collaboration to work with external vendors<ept id="p1">&lt;/a&gt;</ept></source>
         </trans-unit>
         <trans-unit id="121" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/manage-vendor-collaboration-users"&gt;</bpt>Manage vendor collaboration users<ept id="p1">&lt;/a&gt;</ept></source>
+          <source><bpt id="p1">&lt;a href="manage-vendor-collaboration-users.md"&gt;</bpt>Manage vendor collaboration users<ept id="p1">&lt;/a&gt;</ept></source>
         </trans-unit>
         <trans-unit id="122" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/set-up-and-maintain-vendor-collaboration"&gt;</bpt>Set up and maintain vendor collaboration<ept id="p1">&lt;/a&gt;</ept></source>
+          <source><bpt id="p1">&lt;a href="set-up-maintain-vendor-collaboration.md"&gt;</bpt>Set up and maintain vendor collaboration<ept id="p1">&lt;/a&gt;</ept></source>
         </trans-unit>
         <trans-unit id="123" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/procurement-sourcing/using-vendor-collaboration-to-work-with-customers-in-dynamics-365-for-operations"&gt;</bpt>Use vendor collaboration to work with customers in Dynamics 365 for Operations<ept id="p1">&lt;/a&gt;</ept></source>
+          <source><bpt id="p1">&lt;a href="vendor-collaboration-work-customers-dynamics-365-operations.md"&gt;</bpt>Use vendor collaboration to work with customers in Dynamics 365 for Operations<ept id="p1">&lt;/a&gt;</ept></source>
         </trans-unit>
         <trans-unit id="124" translate="yes" xml:space="preserve">
           <source>Overview</source>

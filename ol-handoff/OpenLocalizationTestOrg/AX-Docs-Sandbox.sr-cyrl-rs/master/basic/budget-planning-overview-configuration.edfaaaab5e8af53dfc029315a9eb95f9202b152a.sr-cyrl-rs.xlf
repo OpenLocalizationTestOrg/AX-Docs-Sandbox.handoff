@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1c43fc7f49c72c089d0b78713c6d8c069624fb79</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e22b53bbc8b788adcd068ce03f69adc48b26b3b5</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\budgeting\budget-planning-overview-configuration.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ece08df4f8fe97ff2cf75f0ccd0fec8dd6eeaa45</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d984bf55ed3ae58e549dd53c7e494a700954cdb2</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">230958b1019e35dffa7d9d8725917f5cb1c5603c</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">63f01e40b13922762cf060d8c672b10fb218e5af</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Budget planning overview | Microsoft Docs</source>
+          <source>Budget planning overview</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This article introduces budget planning, and contains information to help you configure budget planning and set up budget planning processes.</source>
@@ -34,7 +34,7 @@
           <source>An organization can configure budget planning, and then set up budget planning processes to meet its policies, procedures, and requirements for budget preparation.</source>
         </trans-unit>
         <trans-unit id="108" translate="yes" xml:space="preserve">
-          <source>When you understand the concepts and terminology that are used in Microsoft Dynamics 365 for Operations, it will be easier for you to implement budget planning in your organization.</source>
+          <source>When you understand the concepts and terminology that are used in Microsoft Dynamics AX, it will be easier for you to implement budget planning in your organization.</source>
         </trans-unit>
         <trans-unit id="109" translate="yes" xml:space="preserve">
           <source>Key terms</source>
@@ -106,7 +106,7 @@
           <source>You can also develop a single budget plan at a higher level of the organization and allocate the budget to lower levels of the organization.</source>
         </trans-unit>
         <trans-unit id="132" translate="yes" xml:space="preserve">
-          <source>Budget planning is integrated with other Microsoft Dynamics 365 for Operations modules.</source>
+          <source>Budget planning is integrated with other Microsoft Dynamics AX modules.</source>
         </trans-unit>
         <trans-unit id="133" translate="yes" xml:space="preserve">
           <source>Therefore, you can bring in information from previous budgets, actual expenditures, fixed assets, and human resources.</source>
@@ -190,7 +190,7 @@
           <source>Only one organization hierarchy can be assigned to each budget planning process.</source>
         </trans-unit>
         <trans-unit id="160" translate="yes" xml:space="preserve">
-          <source>For more information, see <bpt id="p1">[</bpt>Organizations and organizational hierarchies<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/about-organizations-and-organizational-hierarchies)</ept>.</source>
+          <source>For more information, see <bpt id="p1">[</bpt>Organizations and organizational hierarchies<ept id="p1">](organizations-organizational-hierarchies.md)</ept>.</source>
         </trans-unit>
         <trans-unit id="161" translate="yes" xml:space="preserve">
           <source>User security</source>
@@ -214,7 +214,7 @@
           <source>Each budget planning workflow is associated with a Budgeting workflow.</source>
         </trans-unit>
         <trans-unit id="168" translate="yes" xml:space="preserve">
-          <source>Budgeting workflows are one of the types of workflow that are used throughout Microsoft Dynamics 365 for Operations.</source>
+          <source>Budgeting workflows are one of the types of workflow that are used throughout Microsoft Dynamics AX.</source>
         </trans-unit>
         <trans-unit id="169" translate="yes" xml:space="preserve">
           <source>The Budgeting workflow routes the budget plans, together with worksheets, justifications, and attachments, through the organization for review and approval.</source>
@@ -241,7 +241,7 @@
           <source>You create the Budgeting workflow for budget planning on the <bpt id="p1">**</bpt>Budgeting workflows<ept id="p1">**</ept> page.</source>
         </trans-unit>
         <trans-unit id="177" translate="yes" xml:space="preserve">
-          <source>The process resembles the process for creating other workflows in Microsoft Dynamics 365 for Operations.</source>
+          <source>The process resembles the process for creating other workflows in Microsoft Dynamics AX.</source>
         </trans-unit>
         <trans-unit id="178" translate="yes" xml:space="preserve">
           <source>The following illustration shows an example of a Headquarters workflow.</source>

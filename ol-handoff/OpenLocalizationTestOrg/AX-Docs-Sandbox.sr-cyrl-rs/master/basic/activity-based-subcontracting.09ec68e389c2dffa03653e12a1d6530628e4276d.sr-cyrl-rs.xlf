@@ -3,113 +3,113 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">61bd97407c9b6be8bd4e0d64851308976390c646</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">681794c2cd5856817f7d35e10edd44a8200f9dc5</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">manufacturing\production-control\activity-based-subcontracting.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">25ce57e75e1abbe40b9a016ab74e05fd524e7da9</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">cd8072c775192a74969b0e902e77a3bf22cdee0b</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">190fe6ab53aa533890e7f0790a3bf4bb18d868d1</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a562dbbb56a4d278aa7b5c2ce2a1edbddb15a2c7</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Activity-based subcontracting | Microsoft Docs</source>
+          <source>Activity-based subcontracting</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This topic describes, in detail, how to use subcontracted activities in a production flow for lean manufacturing.</source>
         </trans-unit>
         <trans-unit id="103" translate="yes" xml:space="preserve">
-          <source>KanbanJobSchedulingListPage, LeanRuleReassignmentWizard, PlanActivity, ReqSupplyDemandSchedule</source>
-        </trans-unit>
-        <trans-unit id="104" translate="yes" xml:space="preserve">
           <source>Activity-based subcontracting</source>
         </trans-unit>
-        <trans-unit id="105" translate="yes" xml:space="preserve">
+        <trans-unit id="104" translate="yes" xml:space="preserve">
           <source>This topic describes, in detail, how to use subcontracted activities in a production flow for lean manufacturing.</source>
         </trans-unit>
-        <trans-unit id="106" translate="yes" xml:space="preserve">
+        <trans-unit id="105" translate="yes" xml:space="preserve">
           <source>In Microsoft Dynamics 365 for Operations, there are two approaches for subcontracting: production orders and lean manufacturing.</source>
         </trans-unit>
-        <trans-unit id="107" translate="yes" xml:space="preserve">
+        <trans-unit id="106" translate="yes" xml:space="preserve">
           <source>In the lean manufacturing approach, the subcontracting work is modeled as a service that is related to an activity of a production flow.</source>
         </trans-unit>
-        <trans-unit id="108" translate="yes" xml:space="preserve">
+        <trans-unit id="107" translate="yes" xml:space="preserve">
           <source>A special type of cost group type that is named <bpt id="p1">**</bpt>Direct outsourcing<ept id="p1">**</ept> has been introduced, and the subcontracting services are no longer part of a bill of materials (BOM).</source>
         </trans-unit>
-        <trans-unit id="109" translate="yes" xml:space="preserve">
+        <trans-unit id="108" translate="yes" xml:space="preserve">
           <source>The cost accounting of subcontracted work is fully integrated into the costing solution for lean manufacturing.</source>
         </trans-unit>
-        <trans-unit id="110" translate="yes" xml:space="preserve">
+        <trans-unit id="109" translate="yes" xml:space="preserve">
           <source>Production flows that involve subcontractors</source>
         </trans-unit>
-        <trans-unit id="111" translate="yes" xml:space="preserve">
+        <trans-unit id="110" translate="yes" xml:space="preserve">
           <source>The basic principle of a production flow doesn't change when activities are subcontracted.</source>
         </trans-unit>
-        <trans-unit id="112" translate="yes" xml:space="preserve">
+        <trans-unit id="111" translate="yes" xml:space="preserve">
           <source>Material still flows between locations, process activities convert material to products, and transfer activities move material or products from one location to another.</source>
         </trans-unit>
-        <trans-unit id="113" translate="yes" xml:space="preserve">
+        <trans-unit id="112" translate="yes" xml:space="preserve">
           <source>You can model locations and work cells as vendor-managed by assigning the vendor account to a warehouse or to a resource of a resource group.</source>
         </trans-unit>
-        <trans-unit id="114" translate="yes" xml:space="preserve">
+        <trans-unit id="113" translate="yes" xml:space="preserve">
           <source>Based on these capabilities, lean manufacturing doesn't require any specific features in order to support the flow of material and products.</source>
         </trans-unit>
-        <trans-unit id="115" translate="yes" xml:space="preserve">
+        <trans-unit id="114" translate="yes" xml:space="preserve">
           <source>All possible scenarios that involve vendors as providers of production or transport services can be modeled based on the architecture of production flow and activities.</source>
         </trans-unit>
-        <trans-unit id="116" translate="yes" xml:space="preserve">
+        <trans-unit id="115" translate="yes" xml:space="preserve">
           <source>For example, a subcontractor works out of a supermarket that is located at the subcontractor.</source>
         </trans-unit>
-        <trans-unit id="117" translate="yes" xml:space="preserve">
+        <trans-unit id="116" translate="yes" xml:space="preserve">
           <source>When handling units are emptied at the subcontractor, the kanban cards are returned to the assembly cell together with the next shipment.</source>
         </trans-unit>
-        <trans-unit id="118" translate="yes" xml:space="preserve">
+        <trans-unit id="117" translate="yes" xml:space="preserve">
           <source>The supermarket at the subcontractor is then replenished.</source>
         </trans-unit>
-        <trans-unit id="119" translate="yes" xml:space="preserve">
+        <trans-unit id="118" translate="yes" xml:space="preserve">
           <source>The transfers to and from the subcontractor can be modeled as explicit transfer activities to support a picking and shipment process.</source>
         </trans-unit>
-        <trans-unit id="120" translate="yes" xml:space="preserve">
+        <trans-unit id="119" translate="yes" xml:space="preserve">
           <source>If an explicit registration isn't required in order to support the physical transport, the transfer activities can be omitted.</source>
         </trans-unit>
-        <trans-unit id="121" translate="yes" xml:space="preserve">
+        <trans-unit id="120" translate="yes" xml:space="preserve">
           <source>A subcontractor can be used to load balance the overall capacity of the production flow.</source>
         </trans-unit>
-        <trans-unit id="122" translate="yes" xml:space="preserve">
+        <trans-unit id="121" translate="yes" xml:space="preserve">
           <source>For example, a production flow is modeled by using scheduled kanban rules.</source>
         </trans-unit>
-        <trans-unit id="123" translate="yes" xml:space="preserve">
+        <trans-unit id="122" translate="yes" xml:space="preserve">
           <source>The planner uses the kanban scheduling board to schedule and load level both work cells on demand.</source>
         </trans-unit>
-        <trans-unit id="124" translate="yes" xml:space="preserve">
+        <trans-unit id="123" translate="yes" xml:space="preserve">
           <source>The planner also monitors the consolidated supply schedule for the supermarket on the <bpt id="p1">**</bpt>Supply schedule<ept id="p1">**</ept> page.</source>
         </trans-unit>
-        <trans-unit id="125" translate="yes" xml:space="preserve">
+        <trans-unit id="124" translate="yes" xml:space="preserve">
           <source>Multiple subcontractors can be modeled in one or multiple production flows, and there might be multiple kanban rules that can be used to supply the same product to the same location through different activities.</source>
         </trans-unit>
-        <trans-unit id="126" translate="yes" xml:space="preserve">
+        <trans-unit id="125" translate="yes" xml:space="preserve">
           <source>The planner can convert kanbans to an alternative kanban rule to reschedule a kanban that was originally created for internal production to an alternative process.</source>
         </trans-unit>
-        <trans-unit id="127" translate="yes" xml:space="preserve">
+        <trans-unit id="126" translate="yes" xml:space="preserve">
           <source>In fact, the subcontracted nature of the work cell has no impact on the production flow.</source>
         </trans-unit>
-        <trans-unit id="128" translate="yes" xml:space="preserve">
+        <trans-unit id="127" translate="yes" xml:space="preserve">
           <source>The same working principle applies for two parallel internal work cells or for two subcontracted cells.</source>
         </trans-unit>
-        <trans-unit id="129" translate="yes" xml:space="preserve">
+        <trans-unit id="128" translate="yes" xml:space="preserve">
           <source>Like any other activity in a production flow, subcontracted activities can consume and supply inventoried, non-inventoried (work in process <ph id="ph1">\[</ph>WIP<ph id="ph2">\]</ph>), and semi-finished material and products.</source>
         </trans-unit>
-        <trans-unit id="130" translate="yes" xml:space="preserve">
+        <trans-unit id="129" translate="yes" xml:space="preserve">
           <source>In all cases, the processes for scheduling and executing subcontracted activities are the same.</source>
         </trans-unit>
-        <trans-unit id="131" translate="yes" xml:space="preserve">
+        <trans-unit id="130" translate="yes" xml:space="preserve">
           <source>Additionally, these process the same as the processes for internal work.</source>
         </trans-unit>
-        <trans-unit id="132" translate="yes" xml:space="preserve">
+        <trans-unit id="131" translate="yes" xml:space="preserve">
           <source>Purchase process for subcontracted activities (services)</source>
         </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>The purchase process for subcontracted activities is based on the physical material flow that is registered by kanban job progress, for example, Start or Complete.</source>
+        </trans-unit>
         <trans-unit id="133" translate="yes" xml:space="preserve">
-          <source>The purchase process for subcontracted activities is based on the physical material flow that is required for the scheduling and execution registration of the kanban jobs.</source>
+          <source>The financial flow, for example, cost of subcontracted work, is a secondary flow that follows the physical flow.</source>
         </trans-unit>
         <trans-unit id="134" translate="yes" xml:space="preserve">
           <source>At the same time, the purchase process is an independent process that allows for manual adjustment of the purchase documents at every step.</source>

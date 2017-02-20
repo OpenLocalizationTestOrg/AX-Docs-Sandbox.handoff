@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">aaa0f80b62f51bb526cce83972ae21c0324e90ec</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">83773f79522c5f358494380d24486b58d1f429e6</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">retail\define-maintain-channel-clients-registers-hw-stations.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a86d0ecf6c5c0d2f90e8f664198fc68ccbfc4c55</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">975afe1883634091b2c913516bceab35adf82c9e</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a291cee154205eeb370492299a0fe9353d7cf6cc</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">baf9734359615fc50285b1a405c89b9b30b824af</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Define and maintain channel clients, registers, and hardware stations | Microsoft Docs</source>
+          <source>Define and maintain channel clients, registers, and hardware stations</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This wiki covers how to connect peripherals to your Retail POS.</source>
@@ -25,7 +25,7 @@
           <source>This wiki covers how to connect peripherals to your Retail POS.</source>
         </trans-unit>
         <trans-unit id="105" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> For specific installation instructions, see <bpt id="p2">[</bpt>Retail hardware station configuration and installation<ept id="p2">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/retail-hardware-station-configuration-and-installation)</ept> and <bpt id="p3">[</bpt>Retail Modern POS self-service download/installation, and device activation of Modern POS and Cloud POS<ept id="p3">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/retail-modern-pos-and-device-activation-scenarios)</ept>.</source>
+          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> For specific installation instructions, see <bpt id="p2">[</bpt>Retail hardware station configuration and installation<ept id="p2">](retail-hardware-station-configuration-installation.md)</ept> and <bpt id="p3">[</bpt>Retail Modern POS self-service download/installation, and device activation of Modern POS and Cloud POS<ept id="p3">](retail-modern-pos-device-activation.md)</ept>.</source>
         </trans-unit>
         <trans-unit id="106" translate="yes" xml:space="preserve">
           <source>Key components</source>
@@ -367,7 +367,7 @@
           <source>All aspects of how info codes are managed at the POS.</source>
         </trans-unit>
         <trans-unit id="219" translate="yes" xml:space="preserve">
-          <source>For details, see <bpt id="p1">[</bpt>Info codes<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/about-info-codes-retail)</ept>.</source>
+          <source>For details, see <bpt id="p1">[</bpt>Info codes<ept id="p1">](info-codes-retail.md)</ept>.</source>
         </trans-unit>
         <trans-unit id="220" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>Receipt numbering<ept id="p1">**</ept> FastTab:</source>

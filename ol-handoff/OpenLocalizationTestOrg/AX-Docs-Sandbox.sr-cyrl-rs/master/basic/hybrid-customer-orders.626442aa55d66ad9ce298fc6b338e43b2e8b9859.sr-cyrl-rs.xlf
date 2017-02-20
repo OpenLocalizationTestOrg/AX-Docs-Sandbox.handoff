@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0c99fc07fcac88a500cc47a3c8af456a777646c1</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">82a9823f84c522e555d7c4abfe9f28f7f80a1714</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">retail\hybrid-customer-orders.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0d25dad809aa20b16aefdfad5170c81d334dc438</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0c7f7cd75fe295496835fa2be051b73cd95e7b5a</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a523b852f3205d0229dea91114e1a4bfc5cf8687</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">40c91f5a4065a2beb80e9ce658fc11c1aec5b93a</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Hybrid customer orders | Microsoft Docs</source>
+          <source>Hybrid customer orders</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>A hybrid customer order is a single order, which contains products that can be carried out of the store by the customer, as well as products that will be picked up or shipped later.</source>
@@ -61,7 +61,7 @@
           <source>See also</source>
         </trans-unit>
         <trans-unit id="117" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Customer orders overview<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/customer-orders-overview)</ept></source>
+          <source><bpt id="p1">[</bpt>Customer orders overview<ept id="p1">](customer-orders-overview.md)</ept></source>
         </trans-unit>
       </group>
     </body>

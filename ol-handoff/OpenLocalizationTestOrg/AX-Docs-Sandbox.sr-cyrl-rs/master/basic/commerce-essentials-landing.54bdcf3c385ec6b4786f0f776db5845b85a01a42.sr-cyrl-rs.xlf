@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4b987f79472509db475756837d8700b4d2678890</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ee7801691012c782e631f79af409bc4955fa7de8</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">retail\commerce-essentials\commerce-essentials-landing.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1c6577933be31935b6b5e89c4ad2d20756cf3e1a</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4b0bfebd7953a53eacc9abf3484c2dcc8cd5a6f8</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">61996e628deb5456a6a84fd676565f473a6b4230</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4fa29bcb5d390d3dd7f262a5e6b5bddc3ce8dafa</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Commerce essentials | Microsoft Docs</source>
+          <source>Commerce essentials</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This page lists the resources that are available for Commerce essentials in Dynamics 365 for Operations.</source>
@@ -28,13 +28,13 @@
           <source>Overview</source>
         </trans-unit>
         <trans-unit id="106" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Commerce essentials overview<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/commerce-essentials)</ept></source>
+          <source><bpt id="p1">[</bpt>Commerce essentials overview<ept id="p1">](commerce-essentials.md)</ept></source>
         </trans-unit>
         <trans-unit id="107" translate="yes" xml:space="preserve">
           <source>Working with Commerce essentials</source>
         </trans-unit>
         <trans-unit id="108" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Working with organizations and organizational hierarchies (Commerce essentials)<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/working-with-organizations-and-organizational-hierarchies-commerce-essentials)</ept></source>
+          <source><bpt id="p1">[</bpt>Working with organizations and organizational hierarchies (Commerce essentials)<ept id="p1">](organizational-hierarchies-commerce-essentials.md)</ept></source>
         </trans-unit>
         <trans-unit id="109" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt><ept id="p1">]()</ept>Additional resources</source>

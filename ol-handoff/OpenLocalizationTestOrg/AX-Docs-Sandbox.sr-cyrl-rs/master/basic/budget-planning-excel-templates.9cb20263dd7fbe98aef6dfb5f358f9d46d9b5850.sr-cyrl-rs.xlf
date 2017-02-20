@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">322041f14e245c2855483e66fef035c8516d0b68</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c5a17ec9fcd25b1fb235dd8ae835288d39aca520</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\budgeting\budget-planning-excel-templates.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">cba9520498f9471536e85cdb64458d2b0e77d25e</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5a224c750ec8eb63f6b46944f49066981c7f4b8d</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">66487b13909b9ea22ff24766f82300337ffd72f1</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">79e73f88121e829b919d698411d4a30ff74ed226</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Budget planning templates for Excel | Microsoft Docs</source>
+          <source>Budget planning templates for Excel</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This topic describes how to create Microsoft Excel templates that can be used with budget plans.</source>
@@ -28,10 +28,10 @@
           <source>This topic shows how to create Excel templates that will be used with budget plans using the standard demo data set and the Admin user login.</source>
         </trans-unit>
         <trans-unit id="106" translate="yes" xml:space="preserve">
-          <source>For more information about budget planning, see <bpt id="p1">[</bpt>Budget planning overview.<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/budgeting/budget-planning-overview-and-configuration)</ept></source>
+          <source>For more information about budget planning, see <bpt id="p1">[</bpt>Budget planning overview.<ept id="p1">](budget-planning-overview-configuration.md)</ept></source>
         </trans-unit>
         <trans-unit id="107" translate="yes" xml:space="preserve">
-          <source>You can also follow the <bpt id="p1">[</bpt>Budget planning 101<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/budgeting/budget-planning-101)</ept> tutorial to learn basic module configuration and usage principles.</source>
+          <source>You can also follow the <bpt id="p1">[</bpt>Budget planning 101<ept id="p1">](budget-plan.md)</ept> tutorial to learn basic module configuration and usage principles.</source>
         </trans-unit>
         <trans-unit id="108" translate="yes" xml:space="preserve">
           <source>Generate a worksheet using budget plan document layout</source>

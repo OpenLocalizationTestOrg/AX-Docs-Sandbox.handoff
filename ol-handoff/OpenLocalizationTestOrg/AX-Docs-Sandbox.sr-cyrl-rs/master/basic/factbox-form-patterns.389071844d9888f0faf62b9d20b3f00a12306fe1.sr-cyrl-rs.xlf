@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f8197a906019e9ca849f32b5e3252ec37a4917e7</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dc064b9b4030f38b79e6a75eb69f1800eb01d39a</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\user-interface\factbox-form-patterns.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">06fa01b5b3b99973723a609801a57864d3d60631</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1ab5022338a3610937b85fe61f606f0dbac65199</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">44aa3121c60d0bb042f52ab8d0edefaa44f5ede6</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">925daff3944769917a46439e2ffb877aecfb4dce</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>FactBox form patterns | Microsoft Docs</source>
+          <source>FactBox form patterns</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This article provides information about the FactBox form patterns.</source>
@@ -148,7 +148,7 @@
           <source><bpt id="p1">**</bpt>Standard form guidelines:<ept id="p1">**</ept></source>
         </trans-unit>
         <trans-unit id="146" translate="yes" xml:space="preserve">
-          <source>Standard form guidelines have been consolidated into the Microsoft Dynamics AX <bpt id="p1">[</bpt>General Form Guidelines<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/general-form-guidelines)</ept>document.</source>
+          <source>Standard form guidelines have been consolidated into the Microsoft Dynamics AX <bpt id="p1">[</bpt>General Form Guidelines<ept id="p1">](general-form-guidelines.md)</ept>document.</source>
         </trans-unit>
         <trans-unit id="147" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>FactBox<ept id="p1">**</ept> <bpt id="p2">**</bpt>general guidelines:<ept id="p2">**</ept></source>

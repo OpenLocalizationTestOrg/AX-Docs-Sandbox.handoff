@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">adb60d3229cdd08dd8155e36ced39827bcd7db3d</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3d3cacaeb1d2ea9669cbd7268dc8046aaff8eb67</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\lifecycle-services\ax-2012\quick-import-export.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0e3ae03d610c216e88e135e92e05cb74ff96b3de</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dc1b1539b7234250ac1f5afa1c1d9683728aa155</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b0ea244df48f8af0a4546fb1ea278def9c24c422</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">58ff61dbec1fc0da7afcea33b7653d1e7768b5e6</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Run the Test Data Transfer Tool (beta) for Dynamics AX (AX 2012) | Microsoft Docs</source>
+          <source>Run the Test Data Transfer Tool (beta) for Dynamics AX (AX 2012)</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>The purpose of Quick import export is to let you import and export with fewer steps.</source>

@@ -3,20 +3,20 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2285ff43e7e8223ef6da8198c52d0a2296ddc3bb</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">fe77cbe2f7630f3c7c33d915cd1ee37b181ca875</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\cash-bank-management\set-up-advanced-bank-reconciliation-import-process.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2cef259362be86aeecd250b240fd223581561cbd</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9fff4c298d299bea8be251fbd696259e688a9bb5</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">99574ab2c1f31d65e1f11fafd4f29991d0e60114</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ceb26cfab3636d8ad537e3cba7f878f914fdeee2</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Set up the advanced bank reconciliation import process | Microsoft Docs</source>
+          <source>Set up the advanced bank reconciliation import process</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>The Advanced bank reconciliation feature lets you import electronic bank statements and automatically reconcile them with bank transactions in Microsoft Dynamics 365 for Operations.</source>
+          <source>The Advanced bank reconciliation feature lets you import electronic bank statements and automatically reconcile them with bank transactions in Microsoft Dynamics AX.</source>
         </trans-unit>
         <trans-unit id="103" translate="yes" xml:space="preserve">
           <source>This article explains how to set up the import functionality for your bank statements.</source>
@@ -25,7 +25,7 @@
           <source>Set up the advanced bank reconciliation import process</source>
         </trans-unit>
         <trans-unit id="105" translate="yes" xml:space="preserve">
-          <source>The Advanced bank reconciliation feature lets you import electronic bank statements and automatically reconcile them with bank transactions in Microsoft Dynamics 365 for Operations.</source>
+          <source>The Advanced bank reconciliation feature lets you import electronic bank statements and automatically reconcile them with bank transactions in Microsoft Dynamics AX.</source>
         </trans-unit>
         <trans-unit id="106" translate="yes" xml:space="preserve">
           <source>This article explains how to set up the import functionality for your bank statements.</source>
@@ -34,13 +34,13 @@
           <source>The setup for bank statement import varies, depending on the format of your electronic bank statement.</source>
         </trans-unit>
         <trans-unit id="108" translate="yes" xml:space="preserve">
-          <source>Microsoft Dynamics 365 for Operations supports three bank statement formats out of the box: ISO20022, MT940, and BAI2.</source>
+          <source>Microsoft Dynamics AX supports three bank statement formats out of the box: ISO20022, MT940, and BAI2.</source>
         </trans-unit>
         <trans-unit id="109" translate="yes" xml:space="preserve">
           <source>Sample files</source>
         </trans-unit>
         <trans-unit id="110" translate="yes" xml:space="preserve">
-          <source>For all three formats, you must have files that translate the electronic bank statement from the original format to a format that Dynamics 365 for Operations can use.</source>
+          <source>For all three formats, you must have files that translate the electronic bank statement from the original format to a format that Dynamics AX can use.</source>
         </trans-unit>
         <trans-unit id="111" translate="yes" xml:space="preserve">
           <source>You can find the required resource files under the <bpt id="p1">**</bpt>Resources<ept id="p1">**</ept> node in Application Explorer in Microsoft Visual Studio.</source>
@@ -166,7 +166,7 @@
           <source>For sequence number 1, click <bpt id="p1">**</bpt>Upload file<ept id="p1">**</ept>, and select the <bpt id="p2">**</bpt>ISO20022XML-to-Reconciliation.xslt<ept id="p2">**</ept> file that you saved earlier.</source>
         </trans-unit>
         <trans-unit id="152" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> Dynamics 365 for Operations transformation files are built for the standard format.</source>
+          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> Dynamics AX transformation files are built for the standard format.</source>
         </trans-unit>
         <trans-unit id="153" translate="yes" xml:space="preserve">
           <source>Because banks often diverge from this format, you may have to update the transformation file to map to your bank statement format.</source>
@@ -265,7 +265,7 @@
           <source>For sequence number 2, click <bpt id="p1">**</bpt>Upload file<ept id="p1">**</ept>, and select the <bpt id="p2">**</bpt>MT940XML-to-Reconciliation.xslt<ept id="p2">**</ept> file that you saved earlier.</source>
         </trans-unit>
         <trans-unit id="185" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> Dynamics 365 for Operations transformation files are built for the standard format.</source>
+          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> Dynamics AX transformation files are built for the standard format.</source>
         </trans-unit>
         <trans-unit id="186" translate="yes" xml:space="preserve">
           <source>Because banks often diverge from this format, you may have to update the transformation file to map to your bank statement format.</source>
@@ -367,7 +367,7 @@
           <source>For sequence number 2, click <bpt id="p1">**</bpt>Upload file<ept id="p1">**</ept>, and select the <bpt id="p2">**</bpt>BAI2XML-to-Reconciliation.xslt<ept id="p2">**</ept> file that you saved earlier.</source>
         </trans-unit>
         <trans-unit id="219" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> Dynamics 365 for Operations transformation files are built for the standard format.</source>
+          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> Dynamics AX transformation files are built for the standard format.</source>
         </trans-unit>
         <trans-unit id="220" translate="yes" xml:space="preserve">
           <source>Because banks often diverge from this format, and you may have to update the transformation file to map to your bank statement format.</source>

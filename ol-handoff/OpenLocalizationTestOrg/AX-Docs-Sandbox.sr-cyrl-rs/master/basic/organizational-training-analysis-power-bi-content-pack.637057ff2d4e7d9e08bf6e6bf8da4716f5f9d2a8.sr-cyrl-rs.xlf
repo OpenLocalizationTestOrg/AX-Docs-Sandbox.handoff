@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0494f5b372af542f7f3f2b55b1ac247c05d74055</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5237e6b812f76f4be1034f77e4b229990560a625</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\analytics-bi-reporting\organizational-training-analysis-power-bi-content-pack.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b1f82ba0c7fbc328629987bb00a642d438e81b2c</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1025e01cb07a8849d4e1df149739d66140154708</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">fef4775f6901c6bd4d64160b035db7c3a5b96449</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">177c0983d16d85869d8f8c4b1b958326eee3038d</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Organizational Training content pack for Power BI | Microsoft Docs</source>
+          <source>Organizational Training content pack for Power BI</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This topic describes the Dynamics 365 for Operations - Organizational Training content pack for Power BI.</source>
@@ -37,7 +37,7 @@
           <source>You can find the Organizational Training content pack in the Shared assets library in Microsoft Dynamics Lifecycle Services (LCS).</source>
         </trans-unit>
         <trans-unit id="109" translate="yes" xml:space="preserve">
-          <source>For more information about how to download the content pack and connect it to your Microsoft Dynamics 365 for Operations data, see <bpt id="p1">[</bpt>Power BI content from Microsoft and your partners<ept id="p1">](https://blogs.msdn.microsoft.com/dynamicsaxbi/2016/12/12/power-bi-content-from-microsoft-and-your-partners/)</ept>.</source>
+          <source>For more information about how to download the content pack and connect it to your Microsoft Dynamics 365 for Operations data, see <bpt id="p1">[</bpt>Power BI content in LCS from Microsoft and your partners<ept id="p1">](power-bi-content-microsoft-partners.md)</ept>.</source>
         </trans-unit>
         <trans-unit id="110" translate="yes" xml:space="preserve">
           <source>Reports that are included in the content pack</source>

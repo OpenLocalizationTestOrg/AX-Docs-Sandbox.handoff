@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">db230180023773a75b351bbff0b97644913cc00d</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">46c044c95b95799a11b5ebc0ba593d1581efeb83</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">core\get-started\whats-new-changed-7-0-february-2016.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">81156c59432bd6996c22b812d2c7088b4d2690a6</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">229c50b24277a0965e3b92b45da3e13a0ba27e4f</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">465a88c83574fb34883c40a2bf927ca5b1b9b3b5</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">036de935c5000b653a628622196ac698d7b45dfc</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>What's new or changed in Dynamics AX 7.0 (February 2016) | Microsoft Docs</source>
+          <source>What's new or changed in Dynamics AX 7.0 (February 2016)</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This article describes features that are either new or changed in Microsoft Dynamics AX 7.0.</source>
@@ -889,7 +889,7 @@
           <source>The Help system also displays topics from the Microsoft wiki.</source>
         </trans-unit>
         <trans-unit id="393" translate="yes" xml:space="preserve">
-          <source>For more information, see <bpt id="p1">[</bpt>Dynamics AX Help - Getting Started<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/system-administration/help-get-started)</ept> and <bpt id="p2">[</bpt>New task guides available (February 2016)<ept id="p2">](https://docs.microsoft.com/en-us/dynamics365/operations/core/get-started/new-task-guides-available-on-february-2016)</ept>.</source>
+          <source>For more information, see <bpt id="p1">[</bpt>Dynamics AX Help - Getting Started<ept id="p1">](help-get-started.md)</ept> and <bpt id="p2">[</bpt>New task guides available (February 2016)<ept id="p2">](new-task-guides-available-february-2016.md)</ept>.</source>
         </trans-unit>
         <trans-unit id="394" translate="yes" xml:space="preserve">
           <source>Task guides provide a guided, interactive experience that leads you through the steps of a task or business process.</source>
@@ -1324,7 +1324,7 @@
           <source>The feature has been implemented as an electronic reporting configuration.</source>
         </trans-unit>
         <trans-unit id="538" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>A separate article<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/gdpdu-audit-data-export)</ept> describes it in more detail.</source>
+          <source><bpt id="p1">[</bpt>A separate article<ept id="p1">](gdpdu-audit-data-export.md)</ept> describes it in more detail.</source>
         </trans-unit>
         <trans-unit id="539" translate="yes" xml:space="preserve">
           <source>The functionality is available to Germany and Austria.</source>
@@ -2697,10 +2697,10 @@
           <source>See also</source>
         </trans-unit>
         <trans-unit id="995" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>What’s new or changed<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/whats-new-or-changed-in-dynamics-ax-7)</ept></source>
+          <source><bpt id="p1">[</bpt>What’s new or changed<ept id="p1">](whats-new-changed.md)</ept></source>
         </trans-unit>
         <trans-unit id="996" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>New task guides available (February 2016)<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/get-started/new-task-guides-available-on-february-2016)</ept></source>
+          <source><bpt id="p1">[</bpt>New task guides available (February 2016)<ept id="p1">](new-task-guides-available-february-2016.md)</ept></source>
         </trans-unit>
       </group>
     </body>

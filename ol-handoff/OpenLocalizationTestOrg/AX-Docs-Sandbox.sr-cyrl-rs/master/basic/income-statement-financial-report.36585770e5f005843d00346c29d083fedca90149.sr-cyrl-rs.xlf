@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">7c75cfae15fd975778e6617e270bc3abfe7bb236</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">480a1aceb6238d878f50f42f7183149c35d8af41</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\general-ledger\income-statement-financial-report.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">07c70ee7d1cc535cdf7cc3edcb3ae594213e9d37</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">685c1d90fad2263e3219bcdaed4eae50707060b5</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0e25b30f53503656b5ad218f2b9411237c2a6607</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">301f2dfbbbbd4989ce3de0e87040a4e01603ccef</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Income statement financial report | Microsoft Docs</source>
+          <source>Income statement financial report</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This article describes the default report for income statements.</source>
@@ -103,10 +103,10 @@
           <source>See also</source>
         </trans-unit>
         <trans-unit id="131" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Financial reporting<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/general-ledger/financial-reporting)</ept></source>
+          <source><bpt id="p1">[</bpt>Financial reporting<ept id="p1">](financial-reporting-getting-started.md)</ept></source>
         </trans-unit>
         <trans-unit id="132" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>View financial reports<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/general-ledger/view-financial-reports)</ept></source>
+          <source><bpt id="p1">[</bpt>View financial reports<ept id="p1">](view-financial-reports.md)</ept></source>
         </trans-unit>
         <trans-unit id="133" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Dynamics Financial Reportign Blog<ept id="p1">](http://blogs.msdn.com/b/dynamics_financial_reporting/)</ept></source>

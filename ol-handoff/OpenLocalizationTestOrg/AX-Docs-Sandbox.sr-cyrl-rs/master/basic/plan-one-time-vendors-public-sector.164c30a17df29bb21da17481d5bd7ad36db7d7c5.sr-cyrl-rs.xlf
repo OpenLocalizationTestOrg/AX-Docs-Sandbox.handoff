@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0bb099daeaa21bfc197b7490318d5f4e351f01a5</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c79147873025f8adc2fb4058491b7b047f0ceb44</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\public-sector\plan-one-time-vendors-public-sector.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5d65a5076b7491df2e3e069db7800ddbec7f2ca0</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d0d9bf1250b86b11f09a00aa6af085df6dcfd7b7</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9d31324c8d329308924d3d3214948538e9c51b04</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b583c89f91f0119478fdbd80ff48cea404e5a958</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Plan for one-time vendors in the public sector | Microsoft Docs</source>
+          <source>Plan for one-time vendors in the public sector</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This article explains how to prepare to import and create multiple one-time vendors and invoices.</source>
@@ -256,16 +256,16 @@
           <source>What do I do next?</source>
         </trans-unit>
         <trans-unit id="182" translate="yes" xml:space="preserve">
-          <source>After you’ve set up the prerequisites that you require, see <bpt id="p1">[</bpt>One time vendors in the public sector<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/public-sector/one-time-vendors-in-the-public-sector)</ept>.</source>
+          <source>After you’ve set up the prerequisites that you require, see <bpt id="p1">[</bpt>One time vendors in the public sector<ept id="p1">](one-time-vendors-public-sector.md)</ept>.</source>
         </trans-unit>
         <trans-unit id="183" translate="yes" xml:space="preserve">
           <source>See also</source>
         </trans-unit>
         <trans-unit id="184" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>One-time vendors in the public sector<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/public-sector/one-time-vendors-in-the-public-sector)</ept></source>
+          <source><bpt id="p1">[</bpt>One-time vendors in the public sector<ept id="p1">](one-time-vendors-public-sector.md)</ept></source>
         </trans-unit>
         <trans-unit id="185" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Accounts payable in the public sector<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/public-sector/accounts-payable-in-the-public-sector)</ept></source>
+          <source><bpt id="p1">[</bpt>Accounts payable in the public sector<ept id="p1">](accounts-payable-public-sector.md)</ept></source>
         </trans-unit>
       </group>
     </body>

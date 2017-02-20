@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2328624e40a5f1b586c1c9d8521c5b8b8ab7294c</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d2d1ad732c7e019c309afb707dda542eda910a6e</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">manufacturing\production-control\master-plan.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">592ffef8ca8d811bc869532ebdbcb0ddcf5a2205</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">90d77a58b809dd623c1fc5c91d134332a8b9faf6</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8da5ba7a4df70f99f48d7ad4abb05ce9f9f71e14</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b2e30831d7eb80e32c70d5df6147aba7ad429004</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Master planning home page | Microsoft Docs</source>
+          <source>Master planning home page</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This topic provides a list of the Help topics and other resources that are available for Master planning.</source>
@@ -34,31 +34,31 @@
           <source>Create demand forecasting</source>
         </trans-unit>
         <trans-unit id="108" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Introduction to demand forecasting<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/introduction-to-dynamics-ax7-demand-forecasting)</ept></source>
+          <source><bpt id="p1">[</bpt>Introduction to demand forecasting<ept id="p1">](introduction-demand-forecasting.md)</ept></source>
         </trans-unit>
         <trans-unit id="109" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Demand forecasting setup<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/demand-forecasting-setup)</ept></source>
+          <source><bpt id="p1">[</bpt>Demand forecasting setup<ept id="p1">](demand-forecasting-setup.md)</ept></source>
         </trans-unit>
         <trans-unit id="110" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Generating a statistical baseline forecast<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/generating-a-statistical-baseline-forecast)</ept></source>
+          <source><bpt id="p1">[</bpt>Generating a statistical baseline forecast<ept id="p1">](generate-statistical-baseline-forecast.md)</ept></source>
         </trans-unit>
         <trans-unit id="111" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Making manual adjustments to the baseline forecast<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/making-manual-adjustments-to-the-baseline-forecast)</ept></source>
+          <source><bpt id="p1">[</bpt>Making manual adjustments to the baseline forecast<ept id="p1">](manual-adjustments-baseline-forecast.md)</ept></source>
         </trans-unit>
         <trans-unit id="112" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Authorizing the adjusted forecast<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/authorizing-the-adjusted-forecast)</ept></source>
+          <source><bpt id="p1">[</bpt>Authorizing the adjusted forecast<ept id="p1">](authorize-adjusted-forecast.md)</ept></source>
         </trans-unit>
         <trans-unit id="113" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Monitoring forecast accuracy<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/monitoring-forecast-accuracy)</ept></source>
+          <source><bpt id="p1">[</bpt>Monitoring forecast accuracy<ept id="p1">](monitor-forecast-accuracy.md)</ept></source>
         </trans-unit>
         <trans-unit id="114" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Remove outliers from historical transaction data when calculating a demand forecast<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/remove-outliers-from-historical-transaction-data-when-calculating-a-demand-forecast)</ept></source>
+          <source><bpt id="p1">[</bpt>Remove outliers from historical transaction data when calculating a demand forecast<ept id="p1">](remove-historical-outliers-calculating-demand-forecast.md)</ept></source>
         </trans-unit>
         <trans-unit id="115" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Demand forecasting with Azure Machine Learning <ept id="p1">](https://mbs.microsoft.com/customersource/northamerica/AX/learning/presentations/DynamicsTechnicalConference16)</ept>(video requires a CustomerSource account)</source>
         </trans-unit>
         <trans-unit id="116" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Reduction keys<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/reduction-keys)</ept></source>
+          <source><bpt id="p1">[</bpt>Reduction keys<ept id="p1">](reduction-keys.md)</ept></source>
         </trans-unit>
         <trans-unit id="117" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Create a baseline forecast<ept id="p1">](http://ax.help.dynamics.com/en/wiki/develop-baseline-forecast/)</ept> (Task guide)</source>
@@ -73,34 +73,34 @@
           <source><bpt id="p1">[</bpt>Action messages<ept id="p1">](http://ax.help.dynamics.com/en/wiki/action-messages/)</ept></source>
         </trans-unit>
         <trans-unit id="121" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Coverage settings<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/coverage-settings)</ept></source>
+          <source><bpt id="p1">[</bpt>Coverage settings<ept id="p1">](coverage-settings.md)</ept></source>
         </trans-unit>
         <trans-unit id="122" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Delays<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/delays)</ept></source>
+          <source><bpt id="p1">[</bpt>Delays<ept id="p1">](delays.md)</ept></source>
         </trans-unit>
         <trans-unit id="123" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Master plans<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/master-plans)</ept></source>
+          <source><bpt id="p1">[</bpt>Master plans<ept id="p1">](master-plans.md)</ept></source>
         </trans-unit>
         <trans-unit id="124" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Master planning and multisite functionality<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/master-planning-and-multisite-functionality)</ept></source>
+          <source><bpt id="p1">[</bpt>Master planning and multisite functionality<ept id="p1">](master-plan-multisite-functionality.md)</ept></source>
         </trans-unit>
         <trans-unit id="125" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Master planning - site coverage, warehouse mandatory<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/master-planning-site-coverage-warehouse-mandatory)</ept></source>
+          <source><bpt id="p1">[</bpt>Master planning - site coverage, warehouse mandatory<ept id="p1">](master-plan-site-coverage-warehouse-mandatory.md)</ept></source>
         </trans-unit>
         <trans-unit id="126" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Master planning - site coverage, warehouse not mandatory<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/master-planning-site-coverage-warehouse-not-mandatory)</ept></source>
+          <source><bpt id="p1">[</bpt>Master planning - site coverage, warehouse not mandatory<ept id="p1">](master-plan-site-coverage-warehouse-not-mandatory.md)</ept></source>
         </trans-unit>
         <trans-unit id="127" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Master planning - site and warehouse coverage, warehouse mandatory<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/master-planning-site-and-warehouse-coverage-warehouse-mandatory)</ept></source>
+          <source><bpt id="p1">[</bpt>Master planning - site and warehouse coverage, warehouse mandatory<ept id="p1">](master-plan-site-warehouse-coverage-warehouse-mandatory.md)</ept></source>
         </trans-unit>
         <trans-unit id="128" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Master planning - site and warehouse coverage, warehouse not mandatory<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/master-planning-site-and-warehouse-coverage-warehouse-not-mandatory)</ept></source>
+          <source><bpt id="p1">[</bpt>Master planning - site and warehouse coverage, warehouse not mandatory<ept id="p1">](master-plan-site-warehouse-coverage-warehouse-not-mandatory.md)</ept></source>
         </trans-unit>
         <trans-unit id="129" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Master planning - How the BOM version is determined<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/master-planning-how-the-bom-version-is-determined)</ept></source>
+          <source><bpt id="p1">[</bpt>Master planning - How the BOM version is determined<ept id="p1">](master-plan-bom-version-determined.md)</ept></source>
         </trans-unit>
         <trans-unit id="130" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Master planning - Explosion of a BOM version<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/master-planning-explosion-of-a-bom-version)</ept></source>
+          <source><bpt id="p1">[</bpt>Master planning - Explosion of a BOM version<ept id="p1">](master-plan-explosion-bom-version.md)</ept></source>
         </trans-unit>
         <trans-unit id="131" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Monitor a master planning run<ept id="p1">](http://ax.help.dynamics.com/en/wiki/monitor-a-master-planning-run/)</ept> (Task guide)</source>
@@ -127,10 +127,10 @@
           <source><bpt id="p1">[</bpt>View outbound planned intercompany demand<ept id="p1">](http://ax.help.dynamics.com/en/wiki/view-outbound-planned-intercompany-demand/)</ept> (Task guide)</source>
         </trans-unit>
         <trans-unit id="139" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Maintain planned orders<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/maintain-planned-orders)</ept></source>
+          <source><bpt id="p1">[</bpt>Maintain planned orders<ept id="p1">](maintain-planned-orders.md)</ept></source>
         </trans-unit>
         <trans-unit id="140" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Using tracing for explosion<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/using-tracing-for-explosion)</ept></source>
+          <source><bpt id="p1">[</bpt>Using tracing for explosion<ept id="p1">](trace-explosion.md)</ept></source>
         </trans-unit>
         <trans-unit id="141" translate="yes" xml:space="preserve">
           <source>Tips and tricks</source>

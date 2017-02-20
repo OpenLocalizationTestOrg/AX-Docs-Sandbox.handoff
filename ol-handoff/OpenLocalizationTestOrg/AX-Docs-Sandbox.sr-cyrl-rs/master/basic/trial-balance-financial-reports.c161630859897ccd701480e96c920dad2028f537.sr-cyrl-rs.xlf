@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">64861bd436644a83692d9ed6aeb9b011b9dc2c32</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5b4b98a35b04e532f93863bee493a0b57d2eba4c</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\general-ledger\trial-balance-financial-reports.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b448895f1f4ea1d3fe6ed9d37b82fd80ac9d596b</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ba43997b04782f5591bbddcdae8b6b03fed90e7d</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c7331888656a8e0a91d8f6edf1daebc8aeb96c40</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3bd554988a46d6ce6a2e94424cd97ca14fbd6049</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Trial balance financial reports | Microsoft Docs</source>
+          <source>Trial balance financial reports</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This article describes the default reports for trial balances.</source>
@@ -244,10 +244,10 @@
           <source>See also</source>
         </trans-unit>
         <trans-unit id="178" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Financial reporting<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/general-ledger/financial-reporting)</ept></source>
+          <source><bpt id="p1">[</bpt>Financial reporting<ept id="p1">](financial-reporting-getting-started.md)</ept></source>
         </trans-unit>
         <trans-unit id="179" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>View financial reports<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/general-ledger/view-financial-reports)</ept></source>
+          <source><bpt id="p1">[</bpt>View financial reports<ept id="p1">](view-financial-reports.md)</ept></source>
         </trans-unit>
         <trans-unit id="180" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Dynamics Financial Reporting Blog<ept id="p1">](http://blogs.msdn.com/b/dynamics_financial_reporting/)</ept></source>

@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">69a5ebf867aba7ad0a4abe1ca5dff8c92e9d6233</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">15654d73abeb4ad6d56d5e74f001ffd20097df38</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">retail\set-up-bar-codes.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e1790feb12d753d841ba32d74f2a7317003b968b</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a969e8b9f6df6a8bf7c744cabbc13dfe4331e3fe</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">02d68269f1fbfe593d536247394c8786d2878244</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b37ab1827d33f08c02315947d11ba5613d73ef2b</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Set up bar codes | Microsoft Docs</source>
+          <source>Set up bar codes</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This article describes how to use bar codes in Microsoft Dynamics 365 for Operations - Retail.</source>
@@ -70,10 +70,10 @@
           <source>To create bar codes, complete the following tasks in the order in which they are listed.</source>
         </trans-unit>
         <trans-unit id="120" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Set up bar code mask characters<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/set-up-bar-code-masks)</ept>.</source>
+          <source><bpt id="p1">[</bpt>Set up bar code mask characters<ept id="p1">](set-up-bar-code-masks.md)</ept>.</source>
         </trans-unit>
         <trans-unit id="121" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Set up bar code masks<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/set-up-bar-code-masks)</ept>.</source>
+          <source><bpt id="p1">[</bpt>Set up bar code masks<ept id="p1">](set-up-bar-code-masks.md)</ept>.</source>
         </trans-unit>
         <trans-unit id="122" translate="yes" xml:space="preserve">
           <source>Configure bar code setups.</source>
@@ -85,7 +85,7 @@
           <source>See also</source>
         </trans-unit>
         <trans-unit id="125" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Set up bar code masks<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/set-up-bar-code-masks)</ept></source>
+          <source><bpt id="p1">[</bpt>Set up bar code masks<ept id="p1">](set-up-bar-code-masks.md)</ept></source>
         </trans-unit>
       </group>
     </body>

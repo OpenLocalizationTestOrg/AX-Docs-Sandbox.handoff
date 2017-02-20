@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e3c53791c98a8cae3a34f70e6c825f8af05dc491</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">834d4ab9668e691f40444a1ab6c4420fc1ed7949</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\accounts-payable\set-up-generate-positive-pay-files.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">17bc5a51373abccfb0ccd7bd69a6c3a1d8ce8cc4</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ca7bffd64f6ab108adebdc7546ff762598627da9</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f2ba91e0b37c97a3e1f363d6c9e9ac9706aa734d</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">578b988b580f291aa0acc1886f189da3faa8608f</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Set up and generate positive pay files | Microsoft Docs</source>
+          <source>Set up and generate positive pay files</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This article explains how to set up positive pay and generate positive pay files.</source>
@@ -49,7 +49,7 @@
           <source>Positive pay files are downloaded to the location that is specified by your web browser.</source>
         </trans-unit>
         <trans-unit id="113" translate="yes" xml:space="preserve">
-          <source>Because positive pay files can contain sensitive information, it's important that only authorized users have access to generate and view this information in Microsoft Dynamics 365 for Operations.</source>
+          <source>Because positive pay files can contain sensitive information, it's important that only authorized users have access to generate and view this information in Microsoft Dynamics AX.</source>
         </trans-unit>
         <trans-unit id="114" translate="yes" xml:space="preserve">
           <source>Use the following table to help you determine the privileges that are required.</source>

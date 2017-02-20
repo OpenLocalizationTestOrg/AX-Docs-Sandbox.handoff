@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">62325c27cc3f26fb1cc4f1381624e5bbbf336d71</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a6e7e0b7b499c646f46222700e6e2af1c651d91e</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\general-ledger\close-general-ledger-at-period-end.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1962126f282f0636086a4899d087b4c68559cf44</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5ad5983029de0a53eb24bc87a57be4d14773a6f8</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e74d41d50c6d7e2b9a79298368c552cabc5286fc</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">753bbcae3387ec5eb46d4c90e1aa3f5217645a9c</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Close the general ledger at period end | Microsoft Docs</source>
+          <source>Close the general ledger at period end</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This topic describes the tasks that are typically completed when performing a period closing for General ledger.</source>
@@ -79,7 +79,7 @@
           <source>The Financial period close workspace can be used to organize and track the tasks required for various period end processes.</source>
         </trans-unit>
         <trans-unit id="123" translate="yes" xml:space="preserve">
-          <source>Refer to the <bpt id="p1">[</bpt>Financial period close workspace<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/general-ledger/financial-period-close-workspace)</ept>topic for additional information.</source>
+          <source>Refer to the <bpt id="p1">[</bpt>Financial period close workspace<ept id="p1">](financial-period-close-workspace.md)</ept>topic for additional information.</source>
         </trans-unit>
         <trans-unit id="124" translate="yes" xml:space="preserve">
           <source>See also</source>

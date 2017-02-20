@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d654311ceb995601e18be53c8cd4c5763fcb804c</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">397fce576f6bf1bd6c169db1bf25a3113fb43d3a</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\analytics-bi-reporting\financial-reporting-intro.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8e701d0076fb2e600b87dce4c2d2b8b33f385d1d</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b85609d4c53d4aae31bd9e2c0057d77fcbe2a9b2</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">221a2a82d5d42517d4458a2e2742cffc35ac0085</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3c5cd84a3c3e3f3766a85355c4c644c43d7960db</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Financial reporting for Dynamics 365 for Operations | Microsoft Docs</source>
+          <source>Financial reporting for Dynamics 365 for Operations</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>Financial reporting for Dynamics 365 for Operations allows financial and business professionals to create, maintain, deploy, and view financial statements.</source>
@@ -160,7 +160,7 @@
           <source>See also</source>
         </trans-unit>
         <trans-unit id="150" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Generate a financial report<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/general-ledger/generate-a-financial-report)</ept></source>
+          <source><bpt id="p1">[</bpt>Generate a financial report<ept id="p1">](generate-financial-report.md)</ept></source>
         </trans-unit>
       </group>
     </body>

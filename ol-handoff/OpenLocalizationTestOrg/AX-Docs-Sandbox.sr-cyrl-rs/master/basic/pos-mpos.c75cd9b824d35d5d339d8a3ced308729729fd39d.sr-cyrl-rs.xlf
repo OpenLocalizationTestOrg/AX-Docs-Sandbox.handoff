@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">69ee89342e519492b33ca3cd048a23b79ffb0cfc</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6421bc1173684674c2c8f29362b1cf49084b36f7</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">retail\pos-mpos.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">28e46a8957c249f2bec87e0b802ca823e084a17a</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">7965a5003c2ebaf71504937a198e65a75f345ab5</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">752f5079e7a8be76c9af942b28eaeeec8d57ea18</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b08dc39b3b96b8f6cd3173b351394b0f06e61486</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Modern Point of Sale (MPOS) and Cloud POS | Microsoft Docs</source>
+          <source>Modern Point of Sale (MPOS) and Cloud POS</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This page lists the MPOS and Cloud POS resources that are available in Dynamics 365 for Operations - Retail.</source>
@@ -28,7 +28,7 @@
           <source>Developer and IT Pro</source>
         </trans-unit>
         <trans-unit id="106" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Developer and IT documentation<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/retail/microsoft-dynamics-ax-retail-for-it-pros-and-developers)</ept></source>
+          <source><bpt id="p1">[</bpt>Developer and IT documentation<ept id="p1">](dev-retail-home-page.md)</ept></source>
         </trans-unit>
         <trans-unit id="107" translate="yes" xml:space="preserve">
           <source>Overview</source>
@@ -43,46 +43,46 @@
           <source>Hardware peripherals</source>
         </trans-unit>
         <trans-unit id="111" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Retail peripheral simulator<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/retail/retail-peripheral-simulator)</ept></source>
+          <source><bpt id="p1">[</bpt>Retail peripherals overview<ept id="p1">](http://ax.help.dynamics.com/en/wiki/retail-peripherals-overview/)</ept></source>
         </trans-unit>
         <trans-unit id="112" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Microsoft Tested POS Hardware Peripherals<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/microsoft-tested-pos-hardware-peripherals)</ept></source>
+          <source><bpt id="p1">[</bpt>Retail peripheral simulator<ept id="p1">](retail-peripheral-simulator.md)</ept></source>
         </trans-unit>
         <trans-unit id="113" translate="yes" xml:space="preserve">
           <source>Screen layout and customization</source>
         </trans-unit>
         <trans-unit id="114" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Configuring screen layouts for POS<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/pos-screen-layouts)</ept></source>
+          <source><bpt id="p1">[</bpt>Configuring screen layouts for POS<ept id="p1">](pos-screen-layouts.md)</ept></source>
         </trans-unit>
         <trans-unit id="115" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Add a new custom control to an MPOS screen layout<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/add-new-custom-control-in-mpos-screen-layout)</ept></source>
+          <source><bpt id="p1">[</bpt>Add a new custom control to an MPOS screen layout<ept id="p1">](add-new-custom-control-mpos-screen-layout.md)</ept></source>
         </trans-unit>
         <trans-unit id="116" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>POS application and user language settings<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/pos-application-and-user-language-settings)</ept></source>
+          <source><bpt id="p1">[</bpt>POS application and user language settings<ept id="p1">](pos-application-user-language-settings.md)</ept></source>
         </trans-unit>
         <trans-unit id="117" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Setting up and managing images for Retail Modern POS<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/setting-up-and-managing-images-for-retail-modern-pos)</ept></source>
+          <source><bpt id="p1">[</bpt>Setting up and managing images for Retail Modern POS<ept id="p1">](set-up-manage-images-retail-mpos.md)</ept></source>
         </trans-unit>
         <trans-unit id="118" translate="yes" xml:space="preserve">
           <source>Product recommendations</source>
         </trans-unit>
         <trans-unit id="119" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Personalized product recommendations overview<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/personalized-product-recommendations-powered-by-cognitive-services-and-azure-machine-learning)</ept></source>
+          <source><bpt id="p1">[</bpt>Personalized product recommendations overview<ept id="p1">](personalized-product-recommendations.md)</ept></source>
         </trans-unit>
         <trans-unit id="120" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Add a recommendations control to the transaction page on a POS device<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/add-recommendations-control-to-the-transaction-screen-on-pos-using-screen-layout-designer)</ept></source>
+          <source><bpt id="p1">[</bpt>Add a recommendations control to the transaction page on a POS device<ept id="p1">](add-recommendations-control-pos-screen.md)</ept></source>
         </trans-unit>
         <trans-unit id="121" translate="yes" xml:space="preserve">
           <source>Offline functionality</source>
         </trans-unit>
         <trans-unit id="122" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>POS offline functionality<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/pos-offline-functionality)</ept></source>
+          <source><bpt id="p1">[</bpt>POS offline functionality<ept id="p1">](pos-offline-functionality.md)</ept></source>
         </trans-unit>
         <trans-unit id="123" translate="yes" xml:space="preserve">
           <source>Shifts</source>
         </trans-unit>
         <trans-unit id="124" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Shift and cash drawer management<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/shift-and-drawer-management)</ept></source>
+          <source><bpt id="p1">[</bpt>Shift and cash drawer management<ept id="p1">](shift-drawer-management.md)</ept></source>
         </trans-unit>
         <trans-unit id="125" translate="yes" xml:space="preserve">
           <source>Financial dimensions</source>
@@ -94,16 +94,16 @@
           <source>Customer orders</source>
         </trans-unit>
         <trans-unit id="128" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Customer orders overview<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/customer-orders-overview)</ept></source>
+          <source><bpt id="p1">[</bpt>Customer orders overview<ept id="p1">](customer-orders-overview.md)</ept></source>
         </trans-unit>
         <trans-unit id="129" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Hybrid customer orders<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/hybrid-customer-orders)</ept></source>
+          <source><bpt id="p1">[</bpt>Hybrid customer orders<ept id="p1">](hybrid-customer-orders.md)</ept></source>
         </trans-unit>
         <trans-unit id="130" translate="yes" xml:space="preserve">
           <source>Sales associates</source>
         </trans-unit>
         <trans-unit id="131" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Track commissions in POS using sales groups<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/use-sales-groups-to-track-commissions-in-pos)</ept></source>
+          <source><bpt id="p1">[</bpt>Track commissions in POS using sales groups<ept id="p1">](pos-sales-groups-track-commissions.md)</ept></source>
         </trans-unit>
         <trans-unit id="132" translate="yes" xml:space="preserve">
           <source>Device activation</source>

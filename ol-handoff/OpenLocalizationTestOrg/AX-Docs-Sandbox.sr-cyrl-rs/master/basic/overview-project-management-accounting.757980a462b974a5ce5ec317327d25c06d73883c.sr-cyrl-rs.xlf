@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">112aab0b4434a297722fec59ba55583537824242</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c55134fb22f85ec5c48006398aa13bc3a7ab5d6b</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">human-resources\project-management-accounting\overview-project-management-accounting.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f076488467673072bd11613790bd295887e5deca</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">35a2ae0e8a7a1c0cacf091c809f58ca0179e7d7e</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0bb2df16f96a850afacce07cec551f9c737c483a</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4c23128baef37fcfabda8e32983b30ff210541fc</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Project management and accounting | Microsoft Docs</source>
+          <source>Project management and accounting</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>The project management and accounting functionality can be used in multiple industries to provide a service, produce a product, or achieve a result.</source>
@@ -112,7 +112,7 @@
           <source>After the bank has approved the request, the letter of guarantee is issued to the customer.</source>
         </trans-unit>
         <trans-unit id="134" translate="yes" xml:space="preserve">
-          <source>For more information, see <bpt id="p1">[</bpt>Project quotations<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/human-resources/project-management-accounting/project-quotations)</ept>.</source>
+          <source>For more information, see <bpt id="p1">[</bpt>Project quotations<ept id="p1">](project-quotations.md)</ept>.</source>
         </trans-unit>
         <trans-unit id="135" translate="yes" xml:space="preserve">
           <source>Create project contracts</source>
@@ -133,7 +133,7 @@
           <source>For more information about project types, see the "Creating projects" section.</source>
         </trans-unit>
         <trans-unit id="141" translate="yes" xml:space="preserve">
-          <source>For more information about project contracts, see <bpt id="p1">[</bpt>Project contracts<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/human-resources/project-management-accounting/project-contracts)</ept>.</source>
+          <source>For more information about project contracts, see <bpt id="p1">[</bpt>Project contracts<ept id="p1">](project-contracts.md)</ept>.</source>
         </trans-unit>
         <trans-unit id="142" translate="yes" xml:space="preserve">
           <source>Create work breakdown structures</source>
@@ -145,7 +145,7 @@
           <source>Projects that have very low tolerance for slippages in schedule or cost usually require a more detailed WBS, and also require diligent tracking of work progress and cost against the WBS.</source>
         </trans-unit>
         <trans-unit id="145" translate="yes" xml:space="preserve">
-          <source>For more information, see <bpt id="p1">[</bpt>Work breakdown structures<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/human-resources/project-management-accounting/work-breakdown-structures)</ept>.</source>
+          <source>For more information, see <bpt id="p1">[</bpt>Work breakdown structures<ept id="p1">](work-breakdown-structures.md)</ept>.</source>
         </trans-unit>
         <trans-unit id="146" translate="yes" xml:space="preserve">
           <source>Create project forecasts and budgets</source>
@@ -160,7 +160,7 @@
           <source>Each method has its advantages.</source>
         </trans-unit>
         <trans-unit id="150" translate="yes" xml:space="preserve">
-          <source>For more information, see <bpt id="p1">[</bpt>Project forecasts and budgets<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/human-resources/project-management-accounting/project-forecasts-and-budgetshttps:/ax.help.dynamics.com/en/wiki/project-forecasts-and-budgets/)</ept>.</source>
+          <source>For more information, see <bpt id="p1">[</bpt>Project forecasts and budgets<ept id="p1">](project-forecasts-budgets.mdhttps:/ax.help.dynamics.com/en/wiki/project-forecasts-and-budgets/)</ept>.</source>
         </trans-unit>
         <trans-unit id="151" translate="yes" xml:space="preserve">
           <source>Create projects</source>
@@ -373,7 +373,7 @@
           <source>It represents not only the work for each task, but also the size, cost, and duration of the task.</source>
         </trans-unit>
         <trans-unit id="221" translate="yes" xml:space="preserve">
-          <source>For more information, see <bpt id="p1">[</bpt>Work breakdown structures<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/human-resources/project-management-accounting/work-breakdown-structures)</ept>.</source>
+          <source>For more information, see <bpt id="p1">[</bpt>Work breakdown structures<ept id="p1">](work-breakdown-structures.md)</ept>.</source>
         </trans-unit>
         <trans-unit id="222" translate="yes" xml:space="preserve">
           <source>Manage project forecasts and budgets</source>
@@ -388,7 +388,7 @@
           <source>However, if your organization focuses more on financial amounts, you can use budgeting.</source>
         </trans-unit>
         <trans-unit id="226" translate="yes" xml:space="preserve">
-          <source>For more information, see <bpt id="p1">[</bpt>Project forecasts and budgets<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/human-resources/project-management-accounting/project-forecasts-and-budgetshttps:/ax.help.dynamics.com/en/wiki/project-forecasts-and-budgets/)</ept>.</source>
+          <source>For more information, see <bpt id="p1">[</bpt>Project forecasts and budgets<ept id="p1">](project-forecasts-budgets.mdhttps:/ax.help.dynamics.com/en/wiki/project-forecasts-and-budgets/)</ept>.</source>
         </trans-unit>
         <trans-unit id="227" translate="yes" xml:space="preserve">
           <source>Create production orders</source>
@@ -625,7 +625,7 @@
           <source>You can then review the invoice details before you post the project invoice and send it to the customer or other funding source.</source>
         </trans-unit>
         <trans-unit id="305" translate="yes" xml:space="preserve">
-          <source>For more information about how to process project invoices, see <bpt id="p1">[</bpt>Project invoicing<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/project-invoicing)</ept>.</source>
+          <source>For more information about how to process project invoices, see <bpt id="p1">[</bpt>Project invoicing<ept id="p1">](project-invoicing.md)</ept>.</source>
         </trans-unit>
         <trans-unit id="306" translate="yes" xml:space="preserve">
           <source>Calculate the cost to complete a project</source>

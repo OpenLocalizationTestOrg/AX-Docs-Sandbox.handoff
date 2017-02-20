@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">65e1711765844ec6f6842d27bc4900511884e36c</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">019f8b629f9260954316f52d667fb18b86aaff1e</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">retail\add-recommendations-control-pos-screen.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4b68b566ae701ab6133c9a23e79dc0b57619c55b</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">83f10be868c7ec1f1c026b4477ac783b4245119e</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">207dd9d89fa2bdc3c72f500fae014bde5723d635</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a46cd6b93e927924bad60edbe72469b7d8228b0a</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Add a recommendations control to the transaction page on a POS device | Microsoft Docs</source>
+          <source>Add a recommendations control to the transaction page on a POS device</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This topic describes how to add a recommendations control to the transaction screen on a point of sale (POS) device using the screen layout designer in Microsoft Dynamics 365 for Operations.</source>
@@ -163,7 +163,7 @@
           <source>See also</source>
         </trans-unit>
         <trans-unit id="151" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Personalized product recommendations overview<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/personalized-product-recommendations-powered-by-cognitive-services-and-azure-machine-learning)</ept></source>
+          <source><bpt id="p1">[</bpt>Personalized product recommendations overview<ept id="p1">](personalized-product-recommendations.md)</ept></source>
         </trans-unit>
       </group>
     </body>

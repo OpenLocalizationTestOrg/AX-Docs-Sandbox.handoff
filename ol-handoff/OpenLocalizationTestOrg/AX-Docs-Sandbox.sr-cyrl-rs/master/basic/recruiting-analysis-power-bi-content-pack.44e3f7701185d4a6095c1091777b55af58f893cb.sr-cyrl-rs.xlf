@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">966bb87ca128c03e225488ae5c8d5f88566ff315</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">51ea6080c3d718ac47d9a8d99ca3c579ef2d46cd</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\analytics-bi-reporting\recruiting-analysis-power-bi-content-pack.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4ee77796a68c6f06c9338b5715804079b3aa844e</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2548b03b351a9a8e761d468207a840c6d6545413</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">019572d0580ce1c8a0a6d8def9e9d6b19652e350</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6caee15fa0e29f1784d7fc8bb183d048936906e0</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Recruiting content pack for Power BI | Microsoft Docs</source>
+          <source>Recruiting content pack for Power BI</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This topic describes the Dynamics 365 for Operations - Recruiting content pack for Power BI.</source>
@@ -37,7 +37,7 @@
           <source>You can find the Recruiting content pack in the Shared assets library in Microsoft Dynamics Lifecycle Services (LCS).</source>
         </trans-unit>
         <trans-unit id="109" translate="yes" xml:space="preserve">
-          <source>For more information about how to download the content pack and connect it to your Microsoft Dynamics 365 for Operations data, see <bpt id="p1">[</bpt>Power BI content from Microsoft and your partners<ept id="p1">](https://blogs.msdn.microsoft.com/dynamicsaxbi/2016/12/12/power-bi-content-from-microsoft-and-your-partners/)</ept>.</source>
+          <source>For more information about how to download the content pack and connect it to your Microsoft Dynamics 365 for Operations data, see <bpt id="p1">[</bpt>Power BI content in LCS from Microsoft and your partners<ept id="p1">](power-bi-content-microsoft-partners.md)</ept>.</source>
         </trans-unit>
         <trans-unit id="110" translate="yes" xml:space="preserve">
           <source>Reports that are included in the content pack</source>

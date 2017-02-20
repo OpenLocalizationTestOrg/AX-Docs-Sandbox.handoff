@@ -3,26 +3,26 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">58ea372b82861cba100d04b9005d665d003d8c12</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0bc3debc9190d1183b0ce40528af3608bbb440b3</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\budgeting\budgeting-overview.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b17eb36cba590cea388b2e730361c98ab308ee94</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">db2ac15e4763b99f60964bc902c2ed0a07f3767d</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4d0684a9136b3fb5f21155d539f6f9f26b1b6ff4</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0e6539411d3f229b23e91617ff6fc5bb5edbad3a</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Budgeting home page | Microsoft Docs</source>
+          <source>Budgeting home page</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>This topic provides an overview of the budgeting functionality components, budgeting tools, and reporting capabilities in Microsoft Dynamics 365 for Operations.</source>
+          <source>This article provides an overview of the budgeting functionality components, budgeting tools, and reporting capabilities in Microsoft Dynamics 365 for Operations.</source>
         </trans-unit>
         <trans-unit id="103" translate="yes" xml:space="preserve">
           <source>Budgeting home page</source>
         </trans-unit>
         <trans-unit id="104" translate="yes" xml:space="preserve">
-          <source>This topic provides an overview of the budgeting functionality components, budgeting tools, and reporting capabilities in Microsoft Dynamics 365 for Operations.</source>
+          <source>This article provides an overview of the budgeting functionality components, budgeting tools, and reporting capabilities in Microsoft Dynamics 365 for Operations.</source>
         </trans-unit>
         <trans-unit id="105" translate="yes" xml:space="preserve">
           <source>Components of budgeting functionality</source>
@@ -82,22 +82,22 @@
           <source>Rolling forecasts can be done in parallel with the planning for the upcoming budget cycle.</source>
         </trans-unit>
         <trans-unit id="124" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Basic budgeting: Overview and configuration<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/budgeting/basic-budgeting-overview-and-configuration)</ept></source>
+          <source><bpt id="p1">[</bpt>Basic budgeting: Overview and configuration<ept id="p1">](basic-budgeting-overview-configuration.md)</ept></source>
         </trans-unit>
         <trans-unit id="125" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Budget control: Overview and configuration<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/budgeting/budget-control-overview-and-configuration)</ept></source>
+          <source><bpt id="p1">[</bpt>Budget control: Overview and configuration<ept id="p1">](budget-control-overview-configuration.md)</ept></source>
         </trans-unit>
         <trans-unit id="126" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Budget planning: Overview and configuration<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/budgeting/budget-planning-overview-and-configuration)</ept></source>
+          <source><bpt id="p1">[</bpt>Budget planning: Overview and configuration<ept id="p1">](budget-planning-overview-configuration.md)</ept></source>
         </trans-unit>
         <trans-unit id="127" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Position forecasting<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/budgeting/position-forecasting)</ept></source>
+          <source><bpt id="p1">[</bpt>Position forecasting<ept id="p1">](position-forecasting.md)</ept></source>
         </trans-unit>
         <trans-unit id="128" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Budget planning justification documents<ept id="p1">](https://ax.help.dynamics.com/en/budget-planning-justification-documents)</ept></source>
         </trans-unit>
         <trans-unit id="129" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Microsoft Excel templates for budget planning<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/budgeting/smart-excel-templates-for-budget-planning)</ept></source>
+          <source><bpt id="p1">[</bpt>Microsoft Excel templates for budget planning<ept id="p1">](budget-planning-excel-templates.md)</ept></source>
         </trans-unit>
         <trans-unit id="130" translate="yes" xml:space="preserve">
           <source>Budgeting tools in Dynamics 365 for Operations</source>
@@ -121,7 +121,7 @@
           <source><bpt id="p1">**</bpt>Demand forecasting <ept id="p1">**</ept>– Based on historical transaction data, you can estimate future inventory demand and create demand forecasts.</source>
         </trans-unit>
         <trans-unit id="137" translate="yes" xml:space="preserve">
-          <source>For information about how to bring planning data from other modules into budget plans, see <bpt id="p1">[</bpt>Budget planning integration with other modules<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/budgeting/budget-planning-integration-with-other-modules)</ept>.</source>
+          <source>For information about how to bring planning data from other modules into budget plans, see <bpt id="p1">[</bpt>Budget planning integration with other modules<ept id="p1">](budget-planning-integration-other-modules.md)</ept>.</source>
         </trans-unit>
         <trans-unit id="138" translate="yes" xml:space="preserve">
           <source>User interface and reporting capabilities</source>

@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e063953616bb8a1aafc0d461c190bc0cce8b997b</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2c8e5915d3fdfaa9f03ebc035297136627c239d5</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">core\organization-administration\create-workflow.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6e175a3643cdbaafc5cf6e5cfff3ac1574a51281</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">879a488f4131c4fb2fb56011833553f7a0943d3a</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1c2bd677988896017cd18c4b16edf43b647c39b5</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">583691fb9b49ca387fb4efc2faa4252fccd8dfb8</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Create a workflow | Microsoft Docs</source>
+          <source>Create a workflow</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This topics explains how to create a workflow.</source>
@@ -100,31 +100,31 @@
           <source>For information about how to configure each workflow element, see the following topics:</source>
         </trans-unit>
         <trans-unit id="130" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Configure a manual task<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/configure-a-manual-task)</ept></source>
+          <source><bpt id="p1">[</bpt>Configure a manual task<ept id="p1">](configure-manual-task-workflow.md)</ept></source>
         </trans-unit>
         <trans-unit id="131" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Configure an automated task<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/configure-an-automated-task)</ept></source>
+          <source><bpt id="p1">[</bpt>Configure an automated task<ept id="p1">](configure-automated-task-workflow.md)</ept></source>
         </trans-unit>
         <trans-unit id="132" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Configure an approval process<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/configure-an-approval-process)</ept></source>
+          <source><bpt id="p1">[</bpt>Configure an approval process<ept id="p1">](configure-approval-process-workflow.md)</ept></source>
         </trans-unit>
         <trans-unit id="133" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Configure an approval step<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/configure-an-approval-step)</ept></source>
+          <source><bpt id="p1">[</bpt>Configure an approval step<ept id="p1">](configure-approval-step-workflow.md)</ept></source>
         </trans-unit>
         <trans-unit id="134" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Configure a manual decision<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/configure-a-manual-decision)</ept></source>
+          <source><bpt id="p1">[</bpt>Configure a manual decision<ept id="p1">](configure-manual-decision-workflow.md)</ept></source>
         </trans-unit>
         <trans-unit id="135" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Configure a conditional decision<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/configure-a-conditional-decision)</ept></source>
+          <source><bpt id="p1">[</bpt>Configure a conditional decision<ept id="p1">](configure-conditional-decision-workflow.md)</ept></source>
         </trans-unit>
         <trans-unit id="136" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Configure a parallel activity<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/configure-a-parallel-activity)</ept></source>
+          <source><bpt id="p1">[</bpt>Configure a parallel activity<ept id="p1">](configure-parallel-activity-workflow.md)</ept></source>
         </trans-unit>
         <trans-unit id="137" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Configure a parallel branch<ept id="p1">](http://ax.help.dynamics.com/en/wiki/configure-a-parallel-branch/)</ept></source>
         </trans-unit>
         <trans-unit id="138" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Configure a line-item workflow<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/configure-a-line-item-workflow)</ept></source>
+          <source><bpt id="p1">[</bpt>Configure a line-item workflow<ept id="p1">](configure-line-item-workflow.md)</ept></source>
         </trans-unit>
         <trans-unit id="139" translate="yes" xml:space="preserve">
           <source>Resolve any errors or warnings</source>

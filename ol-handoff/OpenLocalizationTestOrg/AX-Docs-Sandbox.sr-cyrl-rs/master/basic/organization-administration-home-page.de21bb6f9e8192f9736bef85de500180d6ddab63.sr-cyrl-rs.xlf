@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">364a2de861f6b0a60a1939b7c0097a285dec1034</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a511a4d8a7100f1888b7b803677f0b468281344b</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">core\organization-administration\organization-administration-home-page.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8b9b07ce452e6d02111875249b7716288bcbe9d2</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">eeeec53d5a32c84a504c99e345355ad94b4ed890</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c886e3b4e28664fd8e5d448a6047be0feae23238</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ed38588d04a18cdece2a7baeb8be7093c8e4ea9b</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Organization administration home page | Microsoft Docs</source>
+          <source>Organization administration home page</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This topic points to resources that will help you use Microsoft Dynamics 365 for Operations in your organization.</source>
@@ -28,7 +28,7 @@
           <source>Number sequences</source>
         </trans-unit>
         <trans-unit id="106" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Number sequence overview<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/number-sequence-overview)</ept></source>
+          <source><bpt id="p1">[</bpt>Number sequence overview<ept id="p1">](number-sequence-overview.md)</ept></source>
         </trans-unit>
         <trans-unit id="107" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Set up number sequences by using a wizard<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-number-sequences-by-using-a-wizard/)</ept> (Task guide)</source>
@@ -40,76 +40,76 @@
           <source>Address books</source>
         </trans-unit>
         <trans-unit id="110" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Address books<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/qa-address-books)</ept></source>
+          <source><bpt id="p1">[</bpt>Address books<ept id="p1">](qa-address-books.md)</ept></source>
         </trans-unit>
         <trans-unit id="111" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Overview: Global address book<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/overview-global-address-book)</ept></source>
+          <source><bpt id="p1">[</bpt>Overview: Global address book<ept id="p1">](overview-global-address-book.md)</ept></source>
         </trans-unit>
         <trans-unit id="112" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Planning the configuration of the global address book and additional address book<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/planning-the-configuration-of-the-global-address-book-and-additional-address-books)</ept></source>
+          <source><bpt id="p1">[</bpt>Planning the configuration of the global address book and additional address book<ept id="p1">](plan-configuration-global-address-book-additional-address-books.md)</ept></source>
         </trans-unit>
         <trans-unit id="113" translate="yes" xml:space="preserve">
           <source>Workflow</source>
         </trans-unit>
         <trans-unit id="114" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Overview of the workflow system<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/overview-of-the-workflow-system)</ept></source>
+          <source><bpt id="p1">[</bpt>Overview of the workflow system<ept id="p1">](overview-workflow-system.md)</ept></source>
         </trans-unit>
         <trans-unit id="115" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Workflow system architecture<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/workflow-system-architecture)</ept></source>
+          <source><bpt id="p1">[</bpt>Workflow system architecture<ept id="p1">](workflow-system-architecture.md)</ept></source>
         </trans-unit>
         <trans-unit id="116" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Workflow elements<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/workflow-elements)</ept></source>
+          <source><bpt id="p1">[</bpt>Workflow elements<ept id="p1">](workflow-elements.md)</ept></source>
         </trans-unit>
         <trans-unit id="117" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Workflow actions<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/workflow-actions)</ept></source>
+          <source><bpt id="p1">[</bpt>Workflow actions<ept id="p1">](workflow-actions.md)</ept></source>
         </trans-unit>
         <trans-unit id="118" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Create a workflow<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/create-a-workflow)</ept></source>
+          <source><bpt id="p1">[</bpt>Create a workflow<ept id="p1">](create-workflow.md)</ept></source>
         </trans-unit>
         <trans-unit id="119" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Configure the properties of a workflow<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/configure-workflow-properties)</ept></source>
+          <source><bpt id="p1">[</bpt>Configure the properties of a workflow<ept id="p1">](configure-workflow-properties.md)</ept></source>
         </trans-unit>
         <trans-unit id="120" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Configure a manual task<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/configure-a-manual-task)</ept></source>
+          <source><bpt id="p1">[</bpt>Configure a manual task<ept id="p1">](configure-manual-task-workflow.md)</ept></source>
         </trans-unit>
         <trans-unit id="121" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Configure an automated task<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/configure-an-automated-task)</ept></source>
+          <source><bpt id="p1">[</bpt>Configure an automated task<ept id="p1">](configure-automated-task-workflow.md)</ept></source>
         </trans-unit>
         <trans-unit id="122" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Configure an approval process<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/configure-an-approval-process)</ept></source>
+          <source><bpt id="p1">[</bpt>Configure an approval process<ept id="p1">](configure-approval-process-workflow.md)</ept></source>
         </trans-unit>
         <trans-unit id="123" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Configure an approval step<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/configure-an-approval-step)</ept></source>
+          <source><bpt id="p1">[</bpt>Configure an approval step<ept id="p1">](configure-approval-step-workflow.md)</ept></source>
         </trans-unit>
         <trans-unit id="124" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Configure a manual decision<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/configure-a-manual-decision)</ept></source>
+          <source><bpt id="p1">[</bpt>Configure a manual decision<ept id="p1">](configure-manual-decision-workflow.md)</ept></source>
         </trans-unit>
         <trans-unit id="125" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Configure a conditional decision<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/configure-a-conditional-decision)</ept></source>
+          <source><bpt id="p1">[</bpt>Configure a conditional decision<ept id="p1">](configure-conditional-decision-workflow.md)</ept></source>
         </trans-unit>
         <trans-unit id="126" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Configure a parallel activity<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/configure-a-parallel-activity)</ept></source>
+          <source><bpt id="p1">[</bpt>Configure a parallel activity<ept id="p1">](configure-parallel-activity-workflow.md)</ept></source>
         </trans-unit>
         <trans-unit id="127" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Configure a parallel branch<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/configure-a-parallel-branch-workflow)</ept></source>
+          <source><bpt id="p1">[</bpt>Configure a parallel branch<ept id="p1">](configure-parallel-branch-workflow.md)</ept></source>
         </trans-unit>
         <trans-unit id="128" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Configure a line-item workflow element<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/configure-a-line-item-workflow)</ept></source>
+          <source><bpt id="p1">[</bpt>Configure a line-item workflow element<ept id="p1">](configure-line-item-workflow.md)</ept></source>
         </trans-unit>
         <trans-unit id="129" translate="yes" xml:space="preserve">
           <source>Case management</source>
         </trans-unit>
         <trans-unit id="130" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Planning: Case setup<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/planning-case-management)</ept></source>
+          <source><bpt id="p1">[</bpt>Planning: Case setup<ept id="p1">](plan-case-management.md)</ept></source>
         </trans-unit>
         <trans-unit id="131" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Case management examples<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/credit-collections/cases)</ept></source>
+          <source><bpt id="p1">[</bpt>Case management examples<ept id="p1">](cases.md)</ept></source>
         </trans-unit>
         <trans-unit id="132" translate="yes" xml:space="preserve">
           <source>Electronic signatures</source>
         </trans-unit>
         <trans-unit id="133" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Electronic signature overview<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/electronic-signature-overview)</ept></source>
+          <source><bpt id="p1">[</bpt>Electronic signature overview<ept id="p1">](electronic-signature-overview.md)</ept></source>
         </trans-unit>
         <trans-unit id="134" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Set up electronic signatures<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-electronic-signatures/)</ept> (Task guide)</source>
@@ -118,10 +118,10 @@
           <source>Organizations</source>
         </trans-unit>
         <trans-unit id="136" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Organizations and organizational hierarchies<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/about-organizations-and-organizational-hierarchies)</ept></source>
+          <source><bpt id="p1">[</bpt>Organizations and organizational hierarchies<ept id="p1">](organizations-organizational-hierarchies.md)</ept></source>
         </trans-unit>
         <trans-unit id="137" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Plan the organizational hierarchy<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/plan-the-organizational-hierarchy)</ept></source>
+          <source><bpt id="p1">[</bpt>Plan the organizational hierarchy<ept id="p1">](plan-organizational-hierarchy.md)</ept></source>
         </trans-unit>
         <trans-unit id="138" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Create an operating unit<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-an-operating-unit/)</ept> (Task guide)</source>
@@ -139,10 +139,10 @@
           <source><bpt id="p1">[</bpt>Change the banner or logo<ept id="p1">](http://ax.help.dynamics.com/en/wiki/change-the-banner-or-logo/)</ept> (Task guide)</source>
         </trans-unit>
         <trans-unit id="143" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>About date/time data and time zones<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/about-datetime-data-and-time-zones)</ept></source>
+          <source><bpt id="p1">[</bpt>About date/time data and time zones<ept id="p1">](date-time-zones.md)</ept></source>
         </trans-unit>
         <trans-unit id="144" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Record templates<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/using-record-templates)</ept></source>
+          <source><bpt id="p1">[</bpt>Record templates<ept id="p1">](record-templates.md)</ept></source>
         </trans-unit>
         <trans-unit id="145" translate="yes" xml:space="preserve">
           <source>Additional resources</source>

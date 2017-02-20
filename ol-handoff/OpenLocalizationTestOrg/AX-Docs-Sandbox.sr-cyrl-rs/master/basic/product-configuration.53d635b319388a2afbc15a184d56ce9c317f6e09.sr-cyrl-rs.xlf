@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3ebab3899f1a36bd745d5b2266e631685dd05285</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">44d8e68f784dc958b12931656caf0d4f7485d386</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">manufacturing\product-information-management\product-configuration.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">38614d4bfd733e725bc55dca53d55f36f075d9e8</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">86c6dc130d37d578eb78907a989a63378f750974</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b90fc6f88db9c8ead1f1988a9e7ba40ce822d6f3</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b5db42e2b5307b6d484da6d2b6230f8d502579ba</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Product configuration home page | Microsoft Docs</source>
+          <source>Product configuration home page</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This topic provides a list of the Help topics and other resources that are available for Product configuration.</source>
@@ -31,31 +31,31 @@
           <source><bpt id="p1">[</bpt>Product configurator in Microsoft Dynamics AX<ept id="p1">](https://mbs.microsoft.com/customersource/northamerica/AX/learning/presentations/DynamicsTechnicalConference16)</ept> (this video requires a CustomerSource account)</source>
         </trans-unit>
         <trans-unit id="107" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Building a product configuration model<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/product-information-management/building-a-product-configuration-model)</ept></source>
+          <source><bpt id="p1">[</bpt>Building a product configuration model<ept id="p1">](build-product-configuration-model.md)</ept></source>
         </trans-unit>
         <trans-unit id="108" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Key concepts in product configuration models<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/product-information-management/key-concepts-in-product-configuration-models)</ept></source>
+          <source><bpt id="p1">[</bpt>Key concepts in product configuration models<ept id="p1">](product-configuration-models.md)</ept></source>
         </trans-unit>
         <trans-unit id="109" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Setting up and creating a product configuration model<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/product-information-management/setting-up-and-maintaining-a-product-configuration-model)</ept></source>
+          <source><bpt id="p1">[</bpt>Setting up and creating a product configuration model<ept id="p1">](set-up-maintain-product-configuration-model.md)</ept></source>
         </trans-unit>
         <trans-unit id="110" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Configuration rules<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/product-information-management/configuration-rules)</ept></source>
+          <source><bpt id="p1">[</bpt>Configuration rules<ept id="p1">](configuration-rules.md)</ept></source>
         </trans-unit>
         <trans-unit id="111" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Calculations for product configuration models<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/product-information-management/calculations-for-product-configuration-models)</ept></source>
+          <source><bpt id="p1">[</bpt>Calculations for product configuration models<ept id="p1">](calculate-product-configuration-models.md)</ept></source>
         </trans-unit>
         <trans-unit id="112" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Dimension-based product configuration<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/product-information-management/dimension-based-product-configuration)</ept></source>
+          <source><bpt id="p1">[</bpt>Dimension-based product configuration<ept id="p1">](dimension-based-product-configuration.md)</ept></source>
         </trans-unit>
         <trans-unit id="113" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Expression constraints and table constraints in product configuration models<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/production-control/expression-constraints-and-table-constraints-in-product-configuration-models)</ept></source>
+          <source><bpt id="p1">[</bpt>Expression constraints and table constraints in product configuration models<ept id="p1">](expression-constraints-table-constraints-product-configuration-models.md)</ept></source>
         </trans-unit>
         <trans-unit id="114" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>System-defined and user-defined table constraints<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/product-information-management/system-defined-and-user-defined-table-constraints)</ept></source>
+          <source><bpt id="p1">[</bpt>System-defined and user-defined table constraints<ept id="p1">](system-defined-user-defined-table-constraints.md)</ept></source>
         </trans-unit>
         <trans-unit id="115" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Reusing product configurations<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/product-information-management/reusing-product-configurations)</ept></source>
+          <source><bpt id="p1">[</bpt>Reusing product configurations<ept id="p1">](reuse-product-configurations.md)</ept></source>
         </trans-unit>
         <trans-unit id="116" translate="yes" xml:space="preserve">
           <source>Work with dimensionbased product configurations</source>

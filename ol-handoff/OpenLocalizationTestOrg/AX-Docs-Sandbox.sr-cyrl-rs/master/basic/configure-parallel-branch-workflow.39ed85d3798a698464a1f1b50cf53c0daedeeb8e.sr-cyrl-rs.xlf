@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a5cc3ff11142dd647603ba8717a0fef94615e294</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2f581369683f05280408ca2b9e9cc9b4f1102d7</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">core\organization-administration\configure-parallel-branch-workflow.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">df46839ec82fa9a63e6888c2b46905e23c1f69c7</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">40fb62e7199eb134c5aef4750eec8b6a1dcbc5e3</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">59119589b1b84c9a63e5c0dc53f2d144b9333470</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">30a1c50737a6f1ba6ca10e1df1f835a7086898fe</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Configure a parallel branch in a workflow | Microsoft Docs</source>
+          <source>Configure a parallel branch in a workflow</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>To configure a parallel branch, complete the following procedures in the workflow editor.</source>
@@ -67,7 +67,7 @@
           <source>See also</source>
         </trans-unit>
         <trans-unit id="119" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Create a workflow<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/create-a-workflow)</ept></source>
+          <source><bpt id="p1">[</bpt>Create a workflow<ept id="p1">](create-workflow.md)</ept></source>
         </trans-unit>
       </group>
     </body>

@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5b3e8a869519907c920885fa9353147b9555275f</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1ec5992bb436208b96fea33bc09fc9e664f8fae9</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">core\get-started\whats-new-dynamics-365-operations-1611.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4fc52a8e0470168ddb5aa2bb7e0e3f0a351176bd</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6503450e75b736c5e3dbcafbd8d9cc475d2f2730</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">aa62ce06490ae9386cd3b1ccbfe8e7d8070fe88f</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2a1c2df6567e43e0a9ce0add89bd8a87a59b194c</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>What's new or changed in Dynamics 365 for Operations version 1611 (November 2016) | Microsoft Docs</source>
+          <source>What's new or changed in Dynamics 365 for Operations version 1611 (November 2016)</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This topic describes features that are either new or changed in Dynamics 365 for Operations version 1611.</source>
@@ -2101,7 +2101,7 @@
           <source>Find out more about consignment support in Dynamics 365 for Operations</source>
         </trans-unit>
         <trans-unit id="797" translate="yes" xml:space="preserve">
-          <source>For more information about the support for consignment processes, see <bpt id="p1">[</bpt>Consignment<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/inventory-management/consignment)</ept>, <bpt id="p2">[</bpt>Setting up consignment<ept id="p2">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/inventory-management/setting-up-consignment)</ept>, <bpt id="p3">[</bpt>Create a consignment replenishment order<ept id="p3">](http://ax.help.dynamics.com/en/wiki/create-a-consignment-replenishment-order/)</ept>, and <bpt id="p4">[</bpt>Change the ownership of consignment inventory based on production demand<ept id="p4">](http://ax.help.dynamics.com/en/wiki/change-the-ownership-of-consignment-inventory-based-on-production-demand/)</ept>.</source>
+          <source>For more information about the support for consignment processes, see <bpt id="p1">[</bpt>Consignment<ept id="p1">](consignment.md)</ept>, <bpt id="p2">[</bpt>Setting up consignment<ept id="p2">](set-up-consignment.md)</ept>, <bpt id="p3">[</bpt>Create a consignment replenishment order<ept id="p3">](http://ax.help.dynamics.com/en/wiki/create-a-consignment-replenishment-order/)</ept>, and <bpt id="p4">[</bpt>Change the ownership of consignment inventory based on production demand<ept id="p4">](http://ax.help.dynamics.com/en/wiki/change-the-ownership-of-consignment-inventory-based-on-production-demand/)</ept>.</source>
         </trans-unit>
         <trans-unit id="798" translate="yes" xml:space="preserve">
           <source>Vendor collaboration (previously known as the Vendor portal)</source>
@@ -2176,7 +2176,7 @@
           <source>Find out more about support for vendor collaboration in Dynamics 365 for Operations.</source>
         </trans-unit>
         <trans-unit id="822" translate="yes" xml:space="preserve">
-          <source>For more information about vendor collaboration, see <bpt id="p1">[</bpt>Vendor collaboration with external vendors<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/procurement-sourcing/using-vendor-collaboration-to-work-with-external-vendors)</ept>, <bpt id="p2">[</bpt>Vendor collaboration with customers<ept id="p2">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/procurement-sourcing/using-vendor-collaboration-to-work-with-customers-in-dynamics-365-for-operations)</ept>, <bpt id="p3">[</bpt>Manage vendor collaboration users<ept id="p3">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/manage-vendor-collaboration-users)</ept>, <bpt id="p4">[</bpt>Set up and maintain vendor collaboration<ept id="p4">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/set-up-and-maintain-vendor-collaboration)</ept>, and <bpt id="p5">[</bpt>Vendor collaboration invoicing workspace<ept id="p5">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/vendor-portal-invoicing-workspace)</ept>.</source>
+          <source>For more information about vendor collaboration, see <bpt id="p1">[</bpt>Vendor collaboration with external vendors<ept id="p1">](vendor-collaboration-work-external-vendors.md)</ept>, <bpt id="p2">[</bpt>Vendor collaboration with customers<ept id="p2">](vendor-collaboration-work-customers-dynamics-365-operations.md)</ept>, <bpt id="p3">[</bpt>Manage vendor collaboration users<ept id="p3">](manage-vendor-collaboration-users.md)</ept>, <bpt id="p4">[</bpt>Set up and maintain vendor collaboration<ept id="p4">](set-up-maintain-vendor-collaboration.md)</ept>, and <bpt id="p5">[</bpt>Vendor collaboration invoicing workspace<ept id="p5">](vendor-portal-invoicing-workspace.md)</ept>.</source>
         </trans-unit>
         <trans-unit id="823" translate="yes" xml:space="preserve">
           <source>Intercompany order processing</source>
@@ -2599,7 +2599,7 @@
           <source>See also</source>
         </trans-unit>
         <trans-unit id="963" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>What's new or changed<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/whats-new-or-changed-in-dynamics-ax-7)</ept></source>
+          <source><bpt id="p1">[</bpt>What's new or changed<ept id="p1">](whats-new-changed.md)</ept></source>
         </trans-unit>
       </group>
     </body>

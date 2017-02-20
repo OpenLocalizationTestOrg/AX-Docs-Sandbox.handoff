@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">275381fe2c95298ea414ae8478efce121597d20b</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">48912aa24230f1390768d182065b461070378f49</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\localizations\europe\create-allocation-rules-allocate-depreciation.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">7f92e6acd6dae7509f8cf4bfb1961a874b14aedf</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">cb64a45a18fcbf913dc729fac715df43aeb88f88</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1924c0cf79e2400021ed314ec02416a3747f92c2</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ca088cb2f74d8cb81d7f0c8338355f0a3a1f7cd2</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Create allocation rules and allocate depreciation costs | Microsoft Docs</source>
+          <source>Create allocation rules and allocate depreciation costs</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This topic explains the process of creating allocation rules and allocating depreciation costs of fixed assets for Japan.</source>
@@ -100,7 +100,7 @@
           <source>See also</source>
         </trans-unit>
         <trans-unit id="130" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Allocation rules for fixed assets<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/asia-pacific/chn-jpn-allocation-rules-for-fixed-assets)</ept></source>
+          <source><bpt id="p1">[</bpt>Allocation rules for fixed assets<ept id="p1">](allocation-rules-fixed-assets.md)</ept></source>
         </trans-unit>
       </group>
     </body>

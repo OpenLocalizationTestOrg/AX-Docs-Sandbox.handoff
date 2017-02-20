@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a441781e780e7c9b6c154cb1d923ff38a3481fa1</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">aec5a82247746bfafa91060e305335021c81afe9</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\analytics-bi-reporting\purchase-content-pack-for-power-bi.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">808d5dd8282eaf82c34e72912045f0e488a4c3c2</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">78a012000ef743fdcfad131f7d8ae99d7b53926a</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">67950f67fa7793e11fa0e7b84c92d9c939bc84fd</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d161ff72d075115f5c069cab70ddb931042e39d3</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Purchase spend analysis content pack for Power BI | Microsoft Docs</source>
+          <source>Purchase spend analysis content pack for Power BI</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This topic describes what is included in the Purchase spend analysis content pack for Microsoft Power BI.</source>
@@ -70,7 +70,7 @@
           <source>The Purchase spend analysis content pack is published as an implementation asset in Microsoft Dynamics Lifecycle Services (LCS) and can be accessed from Microsoft Dynamics 365 for Operations.</source>
         </trans-unit>
         <trans-unit id="120" translate="yes" xml:space="preserve">
-          <source>For more information about how to access and open Power BI reports, see the <bpt id="p1">[</bpt>Authoring and distributing Power BI reports with Dynamics<ept id="p1">](https://blogs.msdn.microsoft.com/dynamicsaxbi/2016/06/23/authoring-and-distributing-power-bi-reports-with-dynamics-ax7/)</ept> blog post.</source>
+          <source>For more information about how to access and open Power BI reports, see <bpt id="p1">[</bpt>Power BI content in LCS from Microsoft and your partners<ept id="p1">](power-bi-content-microsoft-partners.md)</ept>.</source>
         </trans-unit>
         <trans-unit id="121" translate="yes" xml:space="preserve">
           <source>Metrics that are included in the content pack</source>
@@ -334,7 +334,7 @@
           <source>Here are some helpful links that are related to entities and building Power BI content:</source>
         </trans-unit>
         <trans-unit id="208" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Data entities<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/data-entities/data-entities)</ept></source>
+          <source><bpt id="p1">[</bpt>Data entities<ept id="p1">](data-entities.md)</ept></source>
         </trans-unit>
         <trans-unit id="209" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Creating organizational content packs<ept id="p1">](https://powerbi.microsoft.com/en-us/documentation/powerbi-service-organizational-content-packs-introduction/)</ept></source>
@@ -343,7 +343,7 @@
           <source><bpt id="p1">[</bpt>Data modeling using Power BI<ept id="p1">](https://powerbi.microsoft.com/en-us/guided-learning/powerbi-learning-2-1-intro-modeling-data)</ept></source>
         </trans-unit>
         <trans-unit id="211" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Adding Power BI tiles to workspaces<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/configuring-powerbi-integration)</ept></source>
+          <source><bpt id="p1">[</bpt>Adding Power BI tiles to workspaces<ept id="p1">](configure-power-bi-integration.md)</ept></source>
         </trans-unit>
       </group>
     </body>

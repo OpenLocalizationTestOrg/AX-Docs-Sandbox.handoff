@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">61bd1d41e193f1a0e473ce136e895ba8af5771c8</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f94d3fba2f59f5ff194510ee56740b8bdf20bc89</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">core\get-started\whats-new-changed-application-version-7-0-1-may-2016.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e819a95841da813d24ff7d3934a5681f975126fb</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0a46da77ddbc32dbea9cb5969bb074afa705d495</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">08578aad6e49e3c7dd3581862389e4f3963a5429</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c2bdb61e1d56ff636fb3968554d2a8da99dcc22f</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>What's new or changed in Dynamics AX application version 7.0.1 (May 2016) | Microsoft Docs</source>
+          <source>What's new or changed in Dynamics AX application version 7.0.1 (May 2016)</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This article describes features that are either new or changed in Microsoft Dynamics AX application version 7.0.1.</source>
@@ -202,10 +202,10 @@
           <source>See also</source>
         </trans-unit>
         <trans-unit id="164" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>What's new or changed<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/whats-new-or-changed-in-dynamics-ax-7)</ept></source>
+          <source><bpt id="p1">[</bpt>What's new or changed<ept id="p1">](whats-new-changed.md)</ept></source>
         </trans-unit>
         <trans-unit id="165" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>New or updated task guides available (May 2016)<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/get-started/new-or-updated-task-guides-available-may-2016)</ept></source>
+          <source><bpt id="p1">[</bpt>New or updated task guides (May 2016)<ept id="p1">](new-updated-task-guides-available-may-2016.md)</ept></source>
         </trans-unit>
       </group>
     </body>

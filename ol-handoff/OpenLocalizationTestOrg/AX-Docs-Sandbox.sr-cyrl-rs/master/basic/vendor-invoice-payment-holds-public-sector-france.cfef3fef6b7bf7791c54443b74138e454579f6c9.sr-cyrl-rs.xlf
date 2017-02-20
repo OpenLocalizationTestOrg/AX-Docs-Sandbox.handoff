@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3e1bb8cdc941ce34bf5e33b3548e787a10d21ddf</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">87b528f614837f2da1f8bacedeae20cdb1bac80e</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\localizations\europe\vendor-invoice-payment-holds-public-sector-france.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ba50d058cb1da8071fe70a1a0ca416b418c9d234</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">35fdba9172b6e1d6ebcc02bac8fd0c7472a152f1</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">392e515a125fc2be53d2461775fe7ea0be061630</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f1b7ff4f1e4cc540061f9c2a0c0d12dfe9860774</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Vendor invoice payment holds in the public sector in France | Microsoft Docs</source>
+          <source>Vendor invoice payment holds in the public sector in France</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>The standard processes related to vendor invoice payment holds in Microsoft Dynamics 'AX 7' are augmented for French entities in the public sector.</source>

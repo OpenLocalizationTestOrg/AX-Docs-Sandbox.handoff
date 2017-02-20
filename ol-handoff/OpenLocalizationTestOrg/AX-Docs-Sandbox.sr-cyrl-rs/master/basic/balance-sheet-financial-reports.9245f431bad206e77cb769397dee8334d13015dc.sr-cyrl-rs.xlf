@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d1002f757f95b6c83d23b8451628f3326f9d5c44</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9039042192a8638e45c5fd13791563a01312751d</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\general-ledger\balance-sheet-financial-reports.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">92d6879278545af5db2c68b66d51992cdd87f9bc</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">cb6988fa5745badc50ad4b9aadf8a0c8037fc2be</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">deab856c3e5a05954f416f949fa97cf832fd58e2</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">323b48f08006318f684b89dc58f09012329ec446</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Balance sheet financial reports | Microsoft Docs</source>
+          <source>Balance sheet financial reports</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This article describes the default reports for balance sheets.</source>
@@ -145,10 +145,10 @@
           <source>See also</source>
         </trans-unit>
         <trans-unit id="145" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Financial reporting<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/general-ledger/financial-reporting)</ept></source>
+          <source><bpt id="p1">[</bpt>Financial reporting<ept id="p1">](financial-reporting-getting-started.md)</ept></source>
         </trans-unit>
         <trans-unit id="146" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>View financial reports<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/general-ledger/view-financial-reports)</ept></source>
+          <source><bpt id="p1">[</bpt>View financial reports<ept id="p1">](view-financial-reports.md)</ept></source>
         </trans-unit>
         <trans-unit id="147" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Dynamics Financial Reporting Blog<ept id="p1">](http://blogs.msdn.com/b/dynamics_financial_reporting/)</ept></source>

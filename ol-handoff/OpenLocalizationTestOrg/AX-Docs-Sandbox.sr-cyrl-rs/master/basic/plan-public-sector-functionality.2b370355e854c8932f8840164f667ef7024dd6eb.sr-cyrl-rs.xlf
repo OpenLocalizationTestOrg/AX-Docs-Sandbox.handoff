@@ -3,35 +3,35 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2dff158438938e070fb0fe635b1c18b36e90490b</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1345d9753b61f052691eee456c729860448ccd4d</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\public-sector\plan-public-sector-functionality.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2b2062ccee944b143f5d9c0fc47d04054b8b7730</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">912a0282ad8b1d85764d19d79bffcb15b9dd9070</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dfee9db0d36ff2aac175df523748695a1efdd016</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">62376a75e2df83f31a619da5258fb2f3af2a5d48</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Plan for public sector functionality | Microsoft Docs</source>
+          <source>Plan for public sector functionality</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>This article suggests the first steps to setting up Public sector functionality in Microsoft Dynamics 365 for Operations.</source>
+          <source>This article suggests the first steps to setting up Public sector functionality in Microsoft Dynamics AX.</source>
         </trans-unit>
         <trans-unit id="103" translate="yes" xml:space="preserve">
           <source>Plan for public sector functionality</source>
         </trans-unit>
         <trans-unit id="104" translate="yes" xml:space="preserve">
-          <source>This article suggests the first steps to setting up Public sector functionality in Microsoft Dynamics 365 for Operations.</source>
+          <source>This article suggests the first steps to setting up Public sector functionality in Microsoft Dynamics AX.</source>
         </trans-unit>
         <trans-unit id="105" translate="yes" xml:space="preserve">
           <source>What should I do first?</source>
         </trans-unit>
         <trans-unit id="106" translate="yes" xml:space="preserve">
-          <source>Before you begin to adjust the settings and input your data, you should consider which Microsoft Dynamics 365 for Operations modules you’ll need to set up for your Public sector organization.</source>
+          <source>Before you begin to adjust the settings and input your data, you should consider which Microsoft Dynamics AX modules you’ll need to set up for your Public sector organization.</source>
         </trans-unit>
         <trans-unit id="107" translate="yes" xml:space="preserve">
-          <source>Public sector functionality is integrated with the following Microsoft Dynamics 365 for Operations modules and Microsoft products.</source>
+          <source>Public sector functionality is integrated with the following Microsoft Dynamics AX modules and Microsoft products.</source>
         </trans-unit>
         <trans-unit id="108" translate="yes" xml:space="preserve">
           <source>Accounts payable</source>
@@ -55,7 +55,7 @@
           <source>French regulatory options</source>
         </trans-unit>
         <trans-unit id="115" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">**</bpt>Note<ept id="p1">**</ept> For information about French regulatory options, see <bpt id="p2">[</bpt>Public sector accounting in France<ept id="p2">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/public-sector-accounting-in-france)</ept>.</source>
+          <source><bpt id="p1">**</bpt>Note<ept id="p1">**</ept> For information about French regulatory options, see <bpt id="p2">[</bpt>Public sector accounting in France<ept id="p2">](public-sector-accounting-france.md)</ept>.</source>
         </trans-unit>
         <trans-unit id="116" translate="yes" xml:space="preserve">
           <source>The following pages are available only if the following conditions are met:</source>
@@ -88,7 +88,7 @@
           <source>See also</source>
         </trans-unit>
         <trans-unit id="126" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Public sector functionality<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/public-sector/public-sector-functionality)</ept></source>
+          <source><bpt id="p1">[</bpt>Public sector functionality<ept id="p1">](public-sector-functionality.md)</ept></source>
         </trans-unit>
       </group>
     </body>

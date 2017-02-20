@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4578884209bce4666e3f35b4cc7227b4ff49f11e</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1a1a0eeb90de7f7260fb63d7df9db124169580fe</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">manufacturing\sales-marketing\sales.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0b7c8f5f89840a97ea138637b6c7e54f201a62b2</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a0b33e88b434877ec996c634d5e44093174e48d4</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8ed2e05a947b22500f1e72fdb35586f381fff7b5</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8d3c5988eee2cf21f7ad2a0e085d0f673b2233fc</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Sales home page | Microsoft Docs</source>
+          <source>Sales home page</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This topic includes a list of the help topics and other resources that are available for Sales.</source>
@@ -31,7 +31,7 @@
           <source>Sales order management</source>
         </trans-unit>
         <trans-unit id="107" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Sales agreements<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/sales-marketing/sales-agreements)</ept></source>
+          <source><bpt id="p1">[</bpt>Sales agreements<ept id="p1">](sales-agreements.md)</ept></source>
         </trans-unit>
         <trans-unit id="108" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Enter sales agreements<ept id="p1">](http://ax.help.dynamics.com/en/wiki/enter-sales-agreements/)</ept> (Task guide)</source>
@@ -46,28 +46,28 @@
           <source><bpt id="p1">[</bpt>Enter orders for configurable products<ept id="p1">](http://ax.help.dynamics.com/en/wiki/enter-orders-for-configurable-products/)</ept> (Task guide)</source>
         </trans-unit>
         <trans-unit id="112" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Order promising<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/sales-marketing/delivery-dates-and-available-to-promise-calculations)</ept></source>
+          <source><bpt id="p1">[</bpt>Order promising<ept id="p1">](delivery-dates-available-promise-calculations.md)</ept></source>
         </trans-unit>
         <trans-unit id="113" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Determine sales order line availability<ept id="p1">](http://ax.help.dynamics.com/en/wiki/determine-sales-order-line-availability/)</ept> (Task guide)</source>
         </trans-unit>
         <trans-unit id="114" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Order entry deadlines<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/sales-marketing/order-entry-deadlines)</ept></source>
+          <source><bpt id="p1">[</bpt>Order entry deadlines<ept id="p1">](order-entry-deadlines.md)</ept></source>
         </trans-unit>
         <trans-unit id="115" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Direct deliveries<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/sales-marketing/direct-deliveries)</ept></source>
+          <source><bpt id="p1">[</bpt>Direct deliveries<ept id="p1">](direct-deliveries.md)</ept></source>
         </trans-unit>
         <trans-unit id="116" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Delivery schedules<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/sales-marketing/delivery-schedules)</ept></source>
+          <source><bpt id="p1">[</bpt>Delivery schedules<ept id="p1">](delivery-schedules.md)</ept></source>
         </trans-unit>
         <trans-unit id="117" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Create a delivery schedule<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-a-delivery-schedule/)</ept> (Task guide)</source>
         </trans-unit>
         <trans-unit id="118" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Registering serial numbers in the sales process<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/product-information-management/registering-serial-numbers-in-the-sales-process)</ept></source>
+          <source><bpt id="p1">[</bpt>Registering serial numbers in the sales process<ept id="p1">](register-serial-numbers-sales-process.md)</ept></source>
         </trans-unit>
         <trans-unit id="119" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Reserving the same batch for a sales order<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/inventory-management/reserving-the-same-batch-for-a-sales-order)</ept></source>
+          <source><bpt id="p1">[</bpt>Reserving the same batch for a sales order<ept id="p1">](reserve-same-batch-sales-order.md)</ept></source>
         </trans-unit>
         <trans-unit id="120" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Confirm sales orders<ept id="p1">](http://ax.help.dynamics.com/en/wiki/confirm-sales-orders/)</ept> (Task guide)</source>
@@ -82,7 +82,7 @@
           <source><bpt id="p1">[</bpt>Create a purchase order from a sales order<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-a-purchase-order-from-a-sales-order/)</ept> (Task guide)</source>
         </trans-unit>
         <trans-unit id="124" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Sales orders mobile workspace for Microsoft Dynamics 365 for Operations app<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/production-control/sales-orders-mobile-workspace)</ept></source>
+          <source><bpt id="p1">[</bpt>Sales orders mobile workspace for Microsoft Dynamics 365 for Operations app<ept id="p1">](sales-orders-mobile-workspace.md)</ept></source>
         </trans-unit>
         <trans-unit id="125" translate="yes" xml:space="preserve">
           <source>Pricing management</source>
@@ -121,7 +121,7 @@
           <source><bpt id="p1">[</bpt>Mass create sales quotations<ept id="p1">](http://ax.help.dynamics.com/en/wiki/mass-create-sales-quotations/)</ept> (Task guide)</source>
         </trans-unit>
         <trans-unit id="137" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Price simulation<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/sales-marketing/price-simulation)</ept></source>
+          <source><bpt id="p1">[</bpt>Price simulation<ept id="p1">](price-simulation.md)</ept></source>
         </trans-unit>
         <trans-unit id="138" translate="yes" xml:space="preserve">
           <source>Sales commissions</source>

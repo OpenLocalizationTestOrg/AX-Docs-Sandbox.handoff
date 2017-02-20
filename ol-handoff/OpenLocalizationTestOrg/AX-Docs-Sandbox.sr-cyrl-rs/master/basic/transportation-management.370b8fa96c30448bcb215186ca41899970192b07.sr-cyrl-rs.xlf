@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">792b2b204531afa4209f253ef00a0a596f0050e7</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">856a86e85546da0b1d3a12a272ecfd0443d36d34</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">manufacturing\warehouse-management\transportation-management.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d6d0b76c6171da20df6eb5cd796123e760eddbc1</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3226a2cc2f663ac8cdd3dc993727f9c4a70de013</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a80b99c3174d9609a395b955d6c78dc9a2e223da</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c13fd5647010b9eac2ec8a89f61b7ccd2e51da2d</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Transportation management home page | Microsoft Docs</source>
+          <source>Transportation management home page</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This topic gives a list of the help topics and other resources that are available for Transportation management.</source>
@@ -37,10 +37,10 @@
           <source><bpt id="p1">[</bpt>Transportation management overview<ept id="p1">](http://ax.help.dynamics.com/en/wiki/transportation-management-overview/)</ept></source>
         </trans-unit>
         <trans-unit id="109" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Transport management engines<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/warehouse-management/transportation-management-engines)</ept></source>
+          <source><bpt id="p1">[</bpt>Transport management engines<ept id="p1">](transportation-management-engines.md)</ept></source>
         </trans-unit>
         <trans-unit id="110" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Create a new transportation management engine<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/create-a-new-transportation-management-engine)</ept></source>
+          <source><bpt id="p1">[</bpt>Create a new transportation management engine<ept id="p1">](create-new-transportation-management-engine.md)</ept></source>
         </trans-unit>
         <trans-unit id="111" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Transportation Management System Implementation Guide<ept id="p1">](http://blogs.msdn.com/b/dynamicsaxscm/archive/2014/11/21/transportation-management-system-implementation-guide.aspx)</ept> (previous version of Dynamics)</source>
@@ -49,10 +49,10 @@
           <source><bpt id="p1">[</bpt>Set up shipping carriers<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-shipping-carriers/)</ept></source>
         </trans-unit>
         <trans-unit id="113" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Planning freight transportation routes with multiple stops<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/transportation-management/planning-freight-transportation-routes-with-multiple-stops)</ept></source>
+          <source><bpt id="p1">[</bpt>Planning freight transportation routes with multiple stops<ept id="p1">](plan-freight-transportation-routes-multiple-stops.md)</ept></source>
         </trans-unit>
         <trans-unit id="114" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Create a bill of lading<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/transportation-management/create-a-bill-of-lading)</ept></source>
+          <source><bpt id="p1">[</bpt>Create a bill of lading<ept id="p1">](create-bill-of-lading.md)</ept></source>
         </trans-unit>
         <trans-unit id="115" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Set up transportation constraints for an item<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-transportation-constraints-for-an-item/)</ept></source>
@@ -61,7 +61,7 @@
           <source><bpt id="p1">[</bpt>Set up a transportation tender<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-a-transportation-tender/)</ept></source>
         </trans-unit>
         <trans-unit id="117" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Reconcile freight in transportation management<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/transportation-management/reconcile-freight-in-transportation-management)</ept></source>
+          <source><bpt id="p1">[</bpt>Reconcile freight in transportation management<ept id="p1">](reconcile-freight-transportation-management.md)</ept></source>
         </trans-unit>
         <trans-unit id="118" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Set up automatic freight reconciliation<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-automatic-freight-reconciliation/)</ept></source>
@@ -85,7 +85,7 @@
           <source><bpt id="p1">[</bpt>Set up hub accessorial charges and accessorial masters<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-hub-accessorial-charges-and-accessorial-masters/)</ept></source>
         </trans-unit>
         <trans-unit id="125" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Plan loads using hub consolidation<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/transportation-management/plan-loads-using-hub-consolidation)</ept></source>
+          <source><bpt id="p1">[</bpt>Plan loads using hub consolidation<ept id="p1">](plan-loads-hub-consolidation.md)</ept></source>
         </trans-unit>
         <trans-unit id="126" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Use the Load Planning Workbench to plan loads and shipments<ept id="p1">](http://ax.help.dynamics.com/en/wiki/use-the-load-planning-workbench-to-plan-loads/)</ept></source>

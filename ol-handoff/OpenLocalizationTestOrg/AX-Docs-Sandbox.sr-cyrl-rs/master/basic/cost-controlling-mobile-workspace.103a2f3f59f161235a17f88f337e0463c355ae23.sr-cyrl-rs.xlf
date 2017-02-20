@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">972144d42f0ad22ee63d58314bf34f3d2d310510</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6233752b8161087789374a684dbc7f72b14d6fcd</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">manufacturing\production-control\cost-controlling-mobile-workspace.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">17429cb20da2862279855c5376ffd9495a97290e</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ebedf2212b6f464ef61041247e37f0863e233d15</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c0b23c2f093d2f11ab42c744e50c9d5105d9fbd6</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5159abab81216da7a61444b6c38e1ecf51cfc834</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Cost controlling mobile workspace for Microsoft Dynamics 365 for Operations app | Microsoft Docs</source>
+          <source>Cost controlling mobile workspace for Microsoft Dynamics 365 for Operations app</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>With the Cost controlling mobile workspace, cost center managers can see the cost center performance anytime and anywhere.</source>
@@ -37,7 +37,7 @@
           <source>Read about the Microsoft Dynamics 365 for Operations mobile platform</source>
         </trans-unit>
         <trans-unit id="109" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Dynamics 365 for Operations mobile platform<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/mobile-apps/mobile-development-handbook)</ept></source>
+          <source><bpt id="p1">[</bpt>Dynamics 365 for Operations mobile platform<ept id="p1">](mobile-platform.md)</ept></source>
         </trans-unit>
         <trans-unit id="110" translate="yes" xml:space="preserve">
           <source>Dynamics 365 for Operations</source>

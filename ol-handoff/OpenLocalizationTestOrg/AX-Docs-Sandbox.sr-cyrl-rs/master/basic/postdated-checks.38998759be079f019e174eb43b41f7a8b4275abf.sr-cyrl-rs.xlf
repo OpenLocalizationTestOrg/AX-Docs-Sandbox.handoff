@@ -3,20 +3,20 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">825b39db2ca8317a0fed2e4802787738bd65692b</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2b8f01ce647fa4eb147c9d7d40af5b311579f53b</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\cash-bank-management\postdated-checks.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4f1e0967222200147081090c4f3312a7835f2cf5</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c64939ef0dff9627a824710d2a01c030d99b50a3</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6a6020257295af59215c115a99119f3ce0bf36a3</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3fa8d6f517ad1513c0bbdc5039a42b579dbd442a</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Postdated checks | Microsoft Docs</source>
+          <source>Postdated checks</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>This article provides information about support for postdated checks in Microsoft Dynamics 365 for Operations.</source>
+          <source>This article provides information about support for postdated checks in Microsoft Dynamics AX.</source>
         </trans-unit>
         <trans-unit id="103" translate="yes" xml:space="preserve">
           <source>Postdated checks are checks that are issued to make and receive payments on a future date.</source>
@@ -28,7 +28,7 @@
           <source>Postdated checks</source>
         </trans-unit>
         <trans-unit id="106" translate="yes" xml:space="preserve">
-          <source>This article provides information about support for postdated checks in Microsoft Dynamics 365 for Operations.</source>
+          <source>This article provides information about support for postdated checks in Microsoft Dynamics AX.</source>
         </trans-unit>
         <trans-unit id="107" translate="yes" xml:space="preserve">
           <source>Postdated checks are checks that are issued to make and receive payments on a future date.</source>
@@ -37,7 +37,7 @@
           <source>Therefore, the check can't be cashed until the specified date.</source>
         </trans-unit>
         <trans-unit id="109" translate="yes" xml:space="preserve">
-          <source>Microsoft Dynamics 365 for Operations supports the full management cycle for postdated checks in both Accounts receivable and Accounts payable, as shown in the following table.</source>
+          <source>Microsoft Dynamics AX supports the full management cycle for postdated checks in both Accounts receivable and Accounts payable, as shown in the following table.</source>
         </trans-unit>
         <trans-unit id="110" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>Scenario<ept id="p1">**</ept></source>

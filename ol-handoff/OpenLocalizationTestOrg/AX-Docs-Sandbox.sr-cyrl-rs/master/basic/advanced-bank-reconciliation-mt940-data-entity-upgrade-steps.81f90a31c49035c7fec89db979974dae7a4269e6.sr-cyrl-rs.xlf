@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b3ada9af865bdfdbeae954a58a5762ab29d84acf</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">93a05975009ab91c19c9a6955bd98c8bfe599af7</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\cash-bank-management\advanced-bank-reconciliation-mt940-data-entity-upgrade-steps.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">09d498a32755c3bd3feca800305d9c69054365d1</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5a926fce3ce358f85c3f6dbc5d1bc232cfde00bb</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e3b3cb06d321b6b80299daf07a34f6d211f30239</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3d7ff562cfecb0021716a5cca646dfb88971ee0f</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Advanced bank reconciliation MT940 Import – Composite data entity upgrade | Microsoft Docs</source>
+          <source>Advanced bank reconciliation MT940 Import – Composite data entity upgrade</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>A sequence number needs to be added to the bank statement import entity to support the MT940 format.</source>

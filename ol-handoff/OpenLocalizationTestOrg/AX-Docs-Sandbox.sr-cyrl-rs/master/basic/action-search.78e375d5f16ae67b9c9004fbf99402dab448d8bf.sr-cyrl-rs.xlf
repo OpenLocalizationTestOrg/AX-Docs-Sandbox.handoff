@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dbe55db0848a0b2f55ecdd7d08c9be9436dcf7ca</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b934be64adcf8029029a58a1f47db958aa53e482</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">core\get-started\action-search.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">836fe00348b13b09ac28b77d8fe93a463db881c3</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">7e428305890fc1cace7ff3834fbaf2e7dc79510d</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">af7840fc415545293e1c37977f4971faf085753d</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f0a909d0e3b5947e008887385f9bfa1427d0d63d</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Action search | Microsoft Docs</source>
+          <source>Action search</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This article describes the action search functionality in Microsoft Dynamics 365 for Operations.</source>
@@ -151,7 +151,7 @@
           <source>Whereas action search is intended to find and run actions on a page, there is a separate search mechanism for finding and navigating to pages in Dynamics 365 for Operations.</source>
         </trans-unit>
         <trans-unit id="147" translate="yes" xml:space="preserve">
-          <source>For more information about that feature, see the <bpt id="p1">[</bpt>Navigation search<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/get-started/navigation-search-feature)</ept> article.</source>
+          <source>For more information about that feature, see the <bpt id="p1">[</bpt>Navigation search<ept id="p1">](navigation-search.md)</ept> article.</source>
         </trans-unit>
       </group>
     </body>

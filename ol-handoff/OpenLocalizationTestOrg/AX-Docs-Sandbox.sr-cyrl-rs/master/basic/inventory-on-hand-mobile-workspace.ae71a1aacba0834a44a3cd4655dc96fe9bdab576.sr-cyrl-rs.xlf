@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">fb9c88e71f0e8014956212782c9a0c806e9af2ad</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4fb855eb113935c05fbb619f8fd74da003b185be</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">manufacturing\production-control\inventory-on-hand-mobile-workspace.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d19347201266932031fc57ec58d0410683cba8b9</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9412d3ccd7a085a3fcc977c0d79ea6a7ec095b8b</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">bbea427fb4aebd571f702016689959bd0f7fb6e3</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">452926ad4c92eaf3ace1e5c0204a11c80f212953</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Inventory on-hand mobile workspace for Microsoft Dynamics 365 for Operations app | Microsoft Docs</source>
+          <source>Inventory on-hand mobile workspace for Microsoft Dynamics 365 for Operations app</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>The Inventory on-hand mobile workspace helps you gain mobile insights into reserved and available inventory anytime and anywhere.</source>
@@ -37,7 +37,7 @@
           <source>Read about the Microsoft Dynamics 365 for Operations mobile platform</source>
         </trans-unit>
         <trans-unit id="109" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Dynamics 365 for Operations mobile platform<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/mobile-apps/mobile-development-handbook)</ept></source>
+          <source><bpt id="p1">[</bpt>Dynamics 365 for Operations mobile platform<ept id="p1">](mobile-platform.md)</ept></source>
         </trans-unit>
         <trans-unit id="110" translate="yes" xml:space="preserve">
           <source>Dynamics 365 for Operations</source>

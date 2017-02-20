@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">74a32ae3ba2740f94f2093934ed29470b7de50f4</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dfd10687dbc6dfa3872b147b55d06263db4272d8</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\localizations\europe\gdpdu-audit-data-export.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0a1c677cae1c4e6b313f38c3e5146d1c694b6ce2</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">39f879607708fd410d5b12f69d150bc91717472b</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">07788f4e5f9cc987f9a82d50bc965c0a45aafb64</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">25449fb7b0e29577673f7789355269250b105b49</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>German audit file (GDPdU/GoBD) | Microsoft Docs</source>
+          <source>German audit file (GDPdU/GoBD)</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>Companies in Germany and some other countries/regions are legally required to provide an export of financial data in a machine-readable form.</source>
@@ -2209,7 +2209,7 @@
           <source>See also</source>
         </trans-unit>
         <trans-unit id="833" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Electronic Reporting overview<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/general-electronic-reporting-ger)</ept></source>
+          <source><bpt id="p1">[</bpt>Electronic Reporting overview<ept id="p1">](general-electronic-reporting.md)</ept></source>
         </trans-unit>
       </group>
     </body>

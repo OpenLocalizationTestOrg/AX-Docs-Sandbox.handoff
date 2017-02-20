@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c10cccad031267bd33f534b90ccea104730c466a</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">7634f7bfda244113ec403a594fc2894c3c5f1372</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">manufacturing\procurement-sourcing\vendor-collaboration-work-external-vendors.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ef3cafe21098360f28c81600fd9e68419eb950ed</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c17755434d0a6c7c554a2121fc92ca89bc649706</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8a7c66739b29294fa88cb9feaa403128da212f6c</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">47877b23833450e7c43b559db5dbaf6074dd6f7a</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Vendor collaboration with external vendors | Microsoft Docs</source>
+          <source>Vendor collaboration with external vendors</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This topic describes how purchasing agents can collaborate with external vendors to exchange information about purchase orders and consignment inventory.</source>
@@ -37,13 +37,13 @@
           <source>It also describes how to enable a specific vendor to use vendor collaboration, and how to define the information that all vendors will see when they respond to a PO.</source>
         </trans-unit>
         <trans-unit id="109" translate="yes" xml:space="preserve">
-          <source>For more information about what external vendors can do in the vendor collaboration interface, see <bpt id="p1">[</bpt>Vendor collaboration with customers<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/procurement-sourcing/using-vendor-collaboration-to-work-with-customers-in-dynamics-365-for-operations)</ept>.</source>
+          <source>For more information about what external vendors can do in the vendor collaboration interface, see <bpt id="p1">[</bpt>Vendor collaboration with customers<ept id="p1">](vendor-collaboration-work-customers-dynamics-365-operations.md)</ept>.</source>
         </trans-unit>
         <trans-unit id="110" translate="yes" xml:space="preserve">
-          <source>For more information about how vendors can use vendor collaboration in invoicing processes, see <bpt id="p1">[</bpt>Vendor collaboration invoicing workspace<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/vendor-portal-invoicing-workspace)</ept>.</source>
+          <source>For more information about how vendors can use vendor collaboration in invoicing processes, see <bpt id="p1">[</bpt>Vendor collaboration invoicing workspace<ept id="p1">](vendor-portal-invoicing-workspace.md)</ept>.</source>
         </trans-unit>
         <trans-unit id="111" translate="yes" xml:space="preserve">
-          <source>For information about how to provision new vendor collaboration users, see <bpt id="p1">[</bpt>Manage vendor collaboration users<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/manage-vendor-collaboration-users)</ept>.</source>
+          <source>For information about how to provision new vendor collaboration users, see <bpt id="p1">[</bpt>Manage vendor collaboration users<ept id="p1">](manage-vendor-collaboration-users.md)</ept>.</source>
         </trans-unit>
         <trans-unit id="112" translate="yes" xml:space="preserve">
           <source>Define the information shown to vendors when they respond to POs</source>

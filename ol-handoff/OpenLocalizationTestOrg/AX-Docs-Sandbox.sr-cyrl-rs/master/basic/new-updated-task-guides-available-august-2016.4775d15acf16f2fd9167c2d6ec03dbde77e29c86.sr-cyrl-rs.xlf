@@ -3,20 +3,20 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ea272da1081a6095971e94ae747a497ce5b6755c</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5876c0b0f2e56cc4296fcc0ab93dae779a53e87a</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">core\get-started\new-updated-task-guides-available-august-2016.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">796232ad5586adee1682c46f6a8b170a7cd8ddd4</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3dbd771f710d280569303125ac15bd8ee3ab8e3a</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0abf00fb5f1f351c0db39e4fe3122b596b6a2170</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ec18b77f0cbeaa41b0d38b9eba03fb1b62f835d6</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>New or updated task guides (August 2016) | Microsoft Docs</source>
+          <source>New or updated task guides (August 2016)</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>This topic lists the new or updated task guides that were released to the Microsoft (August 2016 - all languages) APQC Unified Library for Microsoft Dynamics AX.</source>
+          <source>This topic lists the new or updated Task guides that were released to the Microsoft (August 2016 - all languages) APQC Unified Library for Microsoft Dynamics AX.</source>
         </trans-unit>
         <trans-unit id="103" translate="yes" xml:space="preserve">
           <source>No new Getting Started Library was released.</source>
@@ -25,7 +25,7 @@
           <source>New or updated task guides (August 2016)</source>
         </trans-unit>
         <trans-unit id="105" translate="yes" xml:space="preserve">
-          <source>This topic lists the new or updated task guides that were released to the Microsoft (August 2016 - all languages) APQC Unified Library for Microsoft Dynamics AX.</source>
+          <source>This topic lists the new or updated Task guides that were released to the Microsoft (August 2016 - all languages) APQC Unified Library for Microsoft Dynamics AX.</source>
         </trans-unit>
         <trans-unit id="106" translate="yes" xml:space="preserve">
           <source>No new Getting Started Library was released.</source>
@@ -34,16 +34,16 @@
           <source><bpt id="p1">[</bpt><ept id="p1">]()</ept>Task guides in the (August 2016 - all languages) APQC Unified Library for Microsoft Dynamics AX</source>
         </trans-unit>
         <trans-unit id="108" translate="yes" xml:space="preserve">
-          <source>The (August 2016 - all languages) APQC Unified Library contains the task guides that are intended to be used for Help with Microsoft Dynamics AX platform update 2 (August 2016), the Dynamics AX May 2016 application update, and the Microsoft Dynamics AX February 2016 release.</source>
+          <source>The (August 2016 - all languages) APQC Unified Library contains the Task guides that are intended to be used for Help with Microsoft Dynamics AX platform update 2 (August 2016), the Dynamics AX May 2016 application update, and the Microsoft Dynamics AX February 2016 release.</source>
         </trans-unit>
         <trans-unit id="109" translate="yes" xml:space="preserve">
-          <source>For more information about these releases, see <bpt id="p1">[</bpt>What’s new or changed<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/whats-new-or-changed-in-dynamics-ax-7)</ept>.</source>
+          <source>For more information about these releases, see <bpt id="p1">[</bpt>What’s new or changed<ept id="p1">](whats-new-changed.md)</ept>.</source>
         </trans-unit>
         <trans-unit id="110" translate="yes" xml:space="preserve">
-          <source>Localized versions of the task guides are available in this library.</source>
+          <source>Localized versions of the Task guides are available in this library.</source>
         </trans-unit>
         <trans-unit id="111" translate="yes" xml:space="preserve">
-          <source>For more information about how to connect the Help system to a task guide library, see <bpt id="p1">[</bpt>Get started with Help<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/system-administration/help-get-started)</ept>.</source>
+          <source>For more information about how to connect the Help system to a Task guide library, see <bpt id="p1">[</bpt>Get started with Help<ept id="p1">](help-get-started.md)</ept>.</source>
         </trans-unit>
         <trans-unit id="112" translate="yes" xml:space="preserve">
           <source>Data access</source>
@@ -256,10 +256,13 @@
           <source>See also</source>
         </trans-unit>
         <trans-unit id="182" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>New or updated task guides available (May 2016)<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/get-started/new-or-updated-task-guides-available-may-2016)</ept></source>
+          <source><bpt id="p1">[</bpt>New Task guides (February 2016)<ept id="p1">](new-task-guides-available-february-2016.md)</ept></source>
         </trans-unit>
         <trans-unit id="183" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>New task guides available (February 2016)<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/get-started/new-task-guides-available-on-february-2016)</ept></source>
+          <source><bpt id="p1">[</bpt>New or updated Task guides (May 2016)<ept id="p1">](new-updated-task-guides-available-may-2016.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="184" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>New or updated Task guides (November 2016)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/new-or-updated-task-guides-available-november-2016/)</ept></source>
         </trans-unit>
       </group>
     </body>

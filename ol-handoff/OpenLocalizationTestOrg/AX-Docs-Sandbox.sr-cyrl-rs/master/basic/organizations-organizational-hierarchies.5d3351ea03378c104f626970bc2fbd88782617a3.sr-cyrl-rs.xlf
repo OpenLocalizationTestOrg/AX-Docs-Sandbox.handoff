@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b0ee957fc6c846cb1f29ec6288d8b266ebffcd3e</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b48c0f3faba9cf892e548e9769be0bb8b62ac004</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">core\organization-administration\organizations-organizational-hierarchies.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a919e4eae32a63d3dc28236c8bd6be12d8cd7d10</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">09b896e5727e30738d0ba1dda7e56ab77bbba3a3</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">65ab84c29234f14446bef3d991480126de09bb08</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5f9cf0c5acd1dec98a5c6ea827f145bc55a6c693</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Organizations and organizational hierarchies | Microsoft Docs</source>
+          <source>Organizations and organizational hierarchies</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>An organization is a group of people who are working together to carry out a business process or achieve a goal.</source>
@@ -187,7 +187,7 @@
           <source>Creating organizations and hierarchies requires careful planning.</source>
         </trans-unit>
         <trans-unit id="159" translate="yes" xml:space="preserve">
-          <source>For more information, see <bpt id="p1">[</bpt>Plan the organizational hierarchy<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/plan-the-organizational-hierarchy)</ept>.</source>
+          <source>For more information, see <bpt id="p1">[</bpt>Plan the organizational hierarchy<ept id="p1">](plan-organizational-hierarchy.md)</ept>.</source>
         </trans-unit>
       </group>
     </body>

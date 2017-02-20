@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6efdfb88415193512756367a47eae76704004db6</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5ba3520e008d79206b1c4e0684e39130efe587bd</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\general-ledger\view-financial-reports.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d59992e288abc96fe48f242efc2f610014007cd2</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c015c56bedd8b719a65352ba5b777ffa2328167e</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a66817d2504bb7b00414dc129962355e99ea02e5</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d41a6657b7f052562e708e4dec45316d844de88c</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>View financial reports | Microsoft Docs</source>
+          <source>View financial reports</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This article describes how to view and explore financial reports in Microsoft Dynamics AX.</source>
@@ -277,7 +277,7 @@
           <source>See also</source>
         </trans-unit>
         <trans-unit id="189" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Financial reporting for Microsoft Dynamics AX<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/management-reporter-for-microsoft-dynamics-erp)</ept></source>
+          <source><bpt id="p1">[</bpt>Financial reporting for Microsoft Dynamics AX<ept id="p1">](financial-reporting-intro.md)</ept></source>
         </trans-unit>
       </group>
     </body>

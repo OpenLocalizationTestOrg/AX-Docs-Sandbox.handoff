@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">36e3a24f36941ee53d64c9c1b35c176ae7e217ea</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c4ebbb122e96537f343c3d31932b138da8eb3d5c</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\accounts-payable\positive-pay-overview.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">40c05a0afc69d12cbf384f3e63d0997ffa612578</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ce71e0b00cc691273f91b37fef56260da4aa59e3</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8a9748936243f7eb364548aa9210f5f1cb6fc0ad</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">7c64a1d973db2a5a97fcfdc8addb31983f2fb524</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Positive pay overview | Microsoft Docs</source>
+          <source>Positive pay overview</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This article provides information about positive pay, which is used to generate an electronic list of checks that can be presented to a bank.</source>
@@ -73,7 +73,7 @@
           <source>After the checks that are listed in a positive pay file have been paid, you receive a confirmation number from your bank.</source>
         </trans-unit>
         <trans-unit id="121" translate="yes" xml:space="preserve">
-          <source>You can then confirm the positive pay file in Microsoft Dynamics 365 for Operations.</source>
+          <source>You can then confirm the positive pay file in Microsoft Dynamics AX.</source>
         </trans-unit>
         <trans-unit id="122" translate="yes" xml:space="preserve">
           <source>If you must change a positive pay file, you can recall it.</source>
@@ -85,7 +85,7 @@
           <source>See also</source>
         </trans-unit>
         <trans-unit id="125" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Set up and generate positive pay files<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/set-up-and-generate-positive-pay-files)</ept></source>
+          <source><bpt id="p1">[</bpt>Set up and generate positive pay files<ept id="p1">](set-up-generate-positive-pay-files.md)</ept></source>
         </trans-unit>
       </group>
     </body>

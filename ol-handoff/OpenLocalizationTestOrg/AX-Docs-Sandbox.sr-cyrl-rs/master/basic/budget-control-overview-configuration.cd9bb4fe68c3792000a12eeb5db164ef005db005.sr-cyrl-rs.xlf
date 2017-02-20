@@ -3,38 +3,38 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">cd281127748f7e6efb331af4b4e7898457988e23</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">58c49fbd8d4f71b0c79402b79c3b9f8ee6d3e30f</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\budgeting\budget-control-overview-configuration.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6a634a36674751a69edd27af3bf4097d38e6ca84</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9b93cfcb23c61ff99da527b9230d84da5d86e7d8</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c1ad4c98ba4852c709beb54e0a431eacd087f5a9</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">28b4be80c4589ff8d3f3183d4a994d309e4328b3</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Budget control overview | Microsoft Docs</source>
+          <source>Budget control overview</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>This article introduces budget control and provides information to help you configure budget control in Microsoft Dynamics 365 for Operations so that you can manage financial resources.</source>
+          <source>This article introduces budget control and provides information to help you configure budget control in Microsoft Dynamics AX so that you can manage financial resources.</source>
         </trans-unit>
         <trans-unit id="103" translate="yes" xml:space="preserve">
           <source>Budget control overview</source>
         </trans-unit>
         <trans-unit id="104" translate="yes" xml:space="preserve">
-          <source>This article introduces budget control and provides information to help you configure budget control in Microsoft Dynamics 365 for Operations so that you can manage financial resources.</source>
+          <source>This article introduces budget control and provides information to help you configure budget control in Microsoft Dynamics AX so that you can manage financial resources.</source>
         </trans-unit>
         <trans-unit id="105" translate="yes" xml:space="preserve">
           <source>Overview</source>
         </trans-unit>
         <trans-unit id="106" translate="yes" xml:space="preserve">
-          <source>Budget control in Microsoft Dynamics 365 for Operations supports management of an organization’s financial resources through the chart of accounts, workflows, user groups, source documents and journals, configurable calculation of available funds, budget cycles, and thresholds.</source>
+          <source>Budget control in Microsoft Dynamics AX supports management of an organization’s financial resources through the chart of accounts, workflows, user groups, source documents and journals, configurable calculation of available funds, budget cycles, and thresholds.</source>
         </trans-unit>
         <trans-unit id="107" translate="yes" xml:space="preserve">
           <source>When controls are in place, an organization can plan, measure, manage, and forecast its financial resources throughout its fiscal year.</source>
         </trans-unit>
         <trans-unit id="108" translate="yes" xml:space="preserve">
-          <source>After budgets have been approved in Dynamics 365 for Operations, you can use budget plans to generate budget register entries to record the expenditure budget for an organization.</source>
+          <source>After budgets have been approved in Dynamics AX, you can use budget plans to generate budget register entries to record the expenditure budget for an organization.</source>
         </trans-unit>
         <trans-unit id="109" translate="yes" xml:space="preserve">
           <source>Alternatively, you can create or import budget register entries from a third-party program instead of using budget planning functionality.</source>
@@ -82,7 +82,7 @@
           <source><bpt id="p1">**</bpt>Override permission<ept id="p1">**</ept> – Who has permission to exceed the available budget?</source>
         </trans-unit>
         <trans-unit id="124" translate="yes" xml:space="preserve">
-          <source>Budget control is fully integrated with Dynamics 365 for Operations.</source>
+          <source>Budget control is fully integrated with Dynamics AX.</source>
         </trans-unit>
         <trans-unit id="125" translate="yes" xml:space="preserve">
           <source>Therefore, you can evaluate the available budget for both planned purchases and actual purchases.</source>
@@ -223,7 +223,7 @@
           <source>You can define different thresholds for each budget control rule.</source>
         </trans-unit>
         <trans-unit id="171" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">**</bpt>Important:<ept id="p1">**</ept> Budget control will be enabled for any main account of the <bpt id="p2">**</bpt>Profit and Loss<ept id="p2">**</ept>, <bpt id="p3">**</bpt>Expense<ept id="p3">**</ept>, <bpt id="p4">**</bpt>Revenue, Balance sheet, Liability, Equity<ept id="p4">**</ept> or <bpt id="p5">**</bpt>Asset<ept id="p5">**</ept> type.</source>
+          <source><bpt id="p1">**</bpt>Important:<ept id="p1">**</ept> Budget control will be enabled for any main account of the <bpt id="p2">**</bpt>Profit and Loss<ept id="p2">**</ept>, <bpt id="p3">**</bpt>Expense<ept id="p3">**</ept>, or <bpt id="p4">**</bpt>Asset<ept id="p4">**</ept> type.</source>
         </trans-unit>
         <trans-unit id="172" translate="yes" xml:space="preserve">
           <source>If this tab contains a rule that has empty criteria, budget control will be enabled for <bpt id="p1">**</bpt>all<ept id="p1">**</ept> financial dimension combinations that include main accounts of those types.</source>

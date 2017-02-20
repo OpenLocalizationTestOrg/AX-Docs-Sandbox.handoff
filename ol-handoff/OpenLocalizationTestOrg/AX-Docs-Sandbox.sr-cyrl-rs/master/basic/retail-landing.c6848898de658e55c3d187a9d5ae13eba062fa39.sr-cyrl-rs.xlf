@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">df8709bbb415e92c3840eb5c2cf3e2f88d08a381</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">20b1ead84695cec76aa58c9ec80eb5cf92bfde3a</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">retail\retail-landing.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6f77f1b08970a42a07bdc60a10da1f36ff98afca</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">7bb3c650378d1151741ee81c213dc976381a06fb</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">349177a98bfeb538e90917fbe09de5769fcd8560</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">095cd41b7bf123a96599182cea9e021239d189ee</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Retail and commerce | Microsoft Docs</source>
+          <source>Retail and commerce</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This page lists the resources that are available for Retail and commerce in Dynamics 365 for Operations - Retail.</source>
@@ -31,16 +31,16 @@
           <source>End-to-end capabilities, from modern point of sale (POS) software solutions, store operations, merchandising, e-commerce, call center, marketing, and customer care, to supply chain, financials, and more, can be deployed in the way that makes the most sense for your business.</source>
         </trans-unit>
         <trans-unit id="107" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Retail for IT pros and developers home page<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/retail/microsoft-dynamics-ax-retail-for-it-pros-and-developers)</ept> <bpt id="p2">[</bpt>Commerce essentials home page<ept id="p2">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/commerce-essentials-landing)</ept> <bpt id="p3">[</bpt>Call center home page<ept id="p3">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/call-center)</ept> <bpt id="p4">[</bpt>Modern Point of sale (MPOS) and Cloud POS home page<ept id="p4">](//ax.help.dynamics.com/en/wiki/point-of-sale-pos-and-modern-point-of-sale-mpos/)</ept></source>
+          <source><bpt id="p1">[</bpt>Retail for IT pros and developers home page<ept id="p1">](dev-retail-home-page.md)</ept> <bpt id="p2">[</bpt>Commerce essentials home page<ept id="p2">](commerce-essentials-landing.md)</ept> <bpt id="p3">[</bpt>Call center home page<ept id="p3">](call-center.md)</ept> <bpt id="p4">[</bpt>Modern Point of sale (MPOS) and Cloud POS home page<ept id="p4">](//ax.help.dynamics.com/en/wiki/point-of-sale-pos-and-modern-point-of-sale-mpos/)</ept></source>
         </trans-unit>
         <trans-unit id="108" translate="yes" xml:space="preserve">
           <source>Channel setup and management</source>
         </trans-unit>
         <trans-unit id="109" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Initialize seed data in a new Retail environment<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/enable-and-configure-retail-functionality)</ept></source>
+          <source><bpt id="p1">[</bpt>Initialize seed data in a new Retail environment<ept id="p1">](enable-configure-retail-functionality.md)</ept></source>
         </trans-unit>
         <trans-unit id="110" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Define and maintain retail channels<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/define-and-maintain-retail-channels)</ept></source>
+          <source><bpt id="p1">[</bpt>Define and maintain retail channels<ept id="p1">](define-maintain-retail-channels.md)</ept></source>
         </trans-unit>
         <trans-unit id="111" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Create financial dimensions for retail channels and configure dimension values on stores<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-financial-dimensions-for-retail-channels-and-configure-dimension-values-on-stores/)</ept>(Task guide)</source>
@@ -49,28 +49,28 @@
           <source><bpt id="p1">[</bpt>Online stores<ept id="p1">](http://ax.help.dynamics.com/en/wiki/online-stores-2/)</ept></source>
         </trans-unit>
         <trans-unit id="113" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Configure an online store<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/retail/configure-an-online-store)</ept></source>
+          <source><bpt id="p1">[</bpt>Configure an online store<ept id="p1">](configure-online-store.md)</ept></source>
         </trans-unit>
         <trans-unit id="114" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>P<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/retail/payment-methods)</ept><bpt id="p2">[</bpt>ayment methods<ept id="p2">](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/retail/payment-methods)</ept></source>
+          <source><bpt id="p1">[</bpt>P<ept id="p1">](payment-methods.md)</ept><bpt id="p2">[</bpt>ayment methods<ept id="p2">](payment-methods.md)</ept></source>
         </trans-unit>
         <trans-unit id="115" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Info codes <ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/about-info-codes-retail)</ept></source>
+          <source><bpt id="p1">[</bpt>Info codes <ept id="p1">](info-codes-retail.md)</ept></source>
         </trans-unit>
         <trans-unit id="116" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Receipt templates and printing<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/receipt-templates-and-printing)</ept></source>
+          <source><bpt id="p1">[</bpt>Receipt templates and printing<ept id="p1">](receipt-templates-printing.md)</ept></source>
         </trans-unit>
         <trans-unit id="117" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Retail hardware station configuration and installation<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/retail-hardware-station-configuration-and-installation)</ept></source>
+          <source><bpt id="p1">[</bpt>Retail hardware station configuration and installation<ept id="p1">](retail-hardware-station-configuration-installation.md)</ept></source>
         </trans-unit>
         <trans-unit id="118" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Define retail channel communications (Commerce Data Exchange)<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/retail/define-retail-channel-communications-commerce-data-exchange)</ept></source>
+          <source><bpt id="p1">[</bpt>Define retail channel communications (Commerce Data Exchange)<ept id="p1">](define-retail-channel-communications-cdx.md)</ept></source>
         </trans-unit>
         <trans-unit id="119" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Post online sales and payments<ept id="p1">](http://ax.help.dynamics.com/en/wiki/posting-of-online-sales-and-payments/)</ept> (Task guide)</source>
         </trans-unit>
         <trans-unit id="120" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Retail time and attendance<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/retail-time-and-attendance)</ept></source>
+          <source><bpt id="p1">[</bpt>Retail time and attendance<ept id="p1">](retail-time-attendance.md)</ept></source>
         </trans-unit>
         <trans-unit id="121" translate="yes" xml:space="preserve">
           <source>Payment processing</source>
@@ -85,13 +85,13 @@
           <source>Products and merchandising</source>
         </trans-unit>
         <trans-unit id="125" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Retail hierarchies<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/retail-hierarchies)</ept></source>
+          <source><bpt id="p1">[</bpt>Retail hierarchies<ept id="p1">](retail-hierarchies.md)</ept></source>
         </trans-unit>
         <trans-unit id="126" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Create and manage attributes<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/create-and-manage-attributes)</ept></source>
+          <source><bpt id="p1">[</bpt>Create and manage attributes<ept id="p1">](create-manage-attributes.md)</ept></source>
         </trans-unit>
         <trans-unit id="127" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Set up retail products<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/setting-up-retail-products)</ept></source>
+          <source><bpt id="p1">[</bpt>Set up retail products<ept id="p1">](set-up-retail-products.md)</ept></source>
         </trans-unit>
         <trans-unit id="128" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Create a product master<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-a-product-master/)</ept>(Task guide)</source>
@@ -100,13 +100,13 @@
           <source><bpt id="p1">[</bpt>Release a product/product master to legal entities<ept id="p1">](http://ax.help.dynamics.com/en/wiki/release-a-productproduct-master-to-legal-entities/)</ept>(Task guide)</source>
         </trans-unit>
         <trans-unit id="130" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Set up bar codes<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/setting-up-bar-codes)</ept></source>
+          <source><bpt id="p1">[</bpt>Set up bar codes<ept id="p1">](set-up-bar-codes.md)</ept></source>
         </trans-unit>
         <trans-unit id="131" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Set up bar code masks<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/set-up-bar-code-masks)</ept></source>
+          <source><bpt id="p1">[</bpt>Set up bar code masks<ept id="p1">](set-up-bar-code-masks.md)</ept></source>
         </trans-unit>
         <trans-unit id="132" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Set up assortments<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/setting-up-assortments)</ept></source>
+          <source><bpt id="p1">[</bpt>Set up assortments<ept id="p1">](set-up-assortments.md)</ept></source>
         </trans-unit>
         <trans-unit id="133" translate="yes" xml:space="preserve">
           <source>Inventory management</source>
@@ -124,19 +124,19 @@
           <source><bpt id="p1">[</bpt>Cross-dock products from receiving warehouse to stores<ept id="p1">](http://ax.help.dynamics.com/en/wiki/cross-dock-products-from-receiving-warehouse-to-stores/)</ept>(Task guide)</source>
         </trans-unit>
         <trans-unit id="138" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Work with store inventory<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/working-with-store-inventory)</ept></source>
+          <source><bpt id="p1">[</bpt>Work with store inventory<ept id="p1">](work-with-store-inventory.md)</ept></source>
         </trans-unit>
         <trans-unit id="139" translate="yes" xml:space="preserve">
           <source>Discounts and price adjustments</source>
         </trans-unit>
         <trans-unit id="140" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Price adjustments and discounts<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/price-adjustments-and-discounts)</ept></source>
+          <source><bpt id="p1">[</bpt>Price adjustments and discounts<ept id="p1">](price-adjustments-discounts.md)</ept></source>
         </trans-unit>
         <trans-unit id="141" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Determine the optimal combination of overlapping discounts<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/determine-the-optimal-combination-of-overlapping-discounts)</ept></source>
+          <source><bpt id="p1">[</bpt>Determine the optimal combination of overlapping discounts<ept id="p1">](optimal-combination-overlapping-discounts.md)</ept></source>
         </trans-unit>
         <trans-unit id="142" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Define channel-specific discounts<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/define-channel-specific-discounts)</ept></source>
+          <source><bpt id="p1">[</bpt>Define channel-specific discounts<ept id="p1">](define-channel-specific-discounts.md)</ept></source>
         </trans-unit>
         <trans-unit id="143" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Base price and trade agreements<ept id="p1">](http://ax.help.dynamics.com/en/wiki/base-price-and-trade-agreements/)</ept>(Task guide)</source>
@@ -148,7 +148,7 @@
           <source>Loyalty</source>
         </trans-unit>
         <trans-unit id="146" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Setting up a customer loyalty program<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/setting-up-a-customer-loyalty-program)</ept></source>
+          <source><bpt id="p1">[</bpt>Setting up a customer loyalty program<ept id="p1">](set-up-customer-loyalty-program.md)</ept></source>
         </trans-unit>
         <trans-unit id="147" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Define loyalty reward points<ept id="p1">](http://ax.help.dynamics.com/en/wiki/define-loyalty-reward-points/)</ept>(Task guide)</source>
@@ -184,22 +184,22 @@
           <source>Monitoring and analysis</source>
         </trans-unit>
         <trans-unit id="158" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Monitor sales and margin performance<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/monitoring-sales-and-margin-performance)</ept></source>
+          <source><bpt id="p1">[</bpt>Monitor sales and margin performance<ept id="p1">](monitor-sales-margin-performance.md)</ept></source>
         </trans-unit>
         <trans-unit id="159" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Analyze sales trends and patterns<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/analyze-sales-trends-and-patterns)</ept></source>
+          <source><bpt id="p1">[</bpt>Analyze sales trends and patterns<ept id="p1">](analyze-sales-trends-patterns.md)</ept></source>
         </trans-unit>
         <trans-unit id="160" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Assess sales performance by product<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/sales-performance-by-products)</ept></source>
+          <source><bpt id="p1">[</bpt>Assess sales performance by product<ept id="p1">](sales-performance-products.md)</ept></source>
         </trans-unit>
         <trans-unit id="161" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Assess customer and product profitability<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/assess-customer-product-profitability)</ept></source>
+          <source><bpt id="p1">[</bpt>Assess customer and product profitability<ept id="p1">](assess-customer-product-profitability.md)</ept></source>
         </trans-unit>
         <trans-unit id="162" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Analyze store performance<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/store-performance-information)</ept></source>
+          <source><bpt id="p1">[</bpt>Analyze store performance<ept id="p1">](store-performance-information.md)</ept></source>
         </trans-unit>
         <trans-unit id="163" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Set up RFM analysis<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/retail/setting-up-rfm-analysis)</ept></source>
+          <source><bpt id="p1">[</bpt>Set up RFM analysis<ept id="p1">](set-up-rfm-analysis.md)</ept></source>
         </trans-unit>
         <trans-unit id="164" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt><ept id="p1">]()</ept>Additional resources</source>

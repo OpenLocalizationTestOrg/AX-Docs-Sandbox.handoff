@@ -3,32 +3,32 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">765e2e4be0445f4b23360f45e370f19ba51169cb</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2da5fe09f5f642edbb1e6eed6100af68215ff88a</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\budgeting\basic-budgeting-overview-configuration.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f7cf67cacf579e47827c9038dadc6d16ff6fea65</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c14f6153b9cd5e3fba971e5a05c2d231cebc7910</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c5b8f7a9ad98af63aeb9070704fbaa3e892bd1b9</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">514475bdcccb0a659f20e964467f2b3ab443a2d4</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Budgeting overview | Microsoft Docs</source>
+          <source>Budgeting overview</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>Almost every company that uses Financials functionality in Microsoft Dynamics 365 for Operations will have to be able to create reports of budget vs. actuals.</source>
+          <source>Almost every company that uses Financials functionality in Microsoft Dynamics AX will have to be able to create reports of budget vs. actuals.</source>
         </trans-unit>
         <trans-unit id="103" translate="yes" xml:space="preserve">
-          <source>This article explains the minimum configuration that is required in order to create budgets in Dynamics 365 for Operations or load them from a third-party program.</source>
+          <source>This article explains the minimum configuration that is required in order to create budgets in Dynamics AX or load them from a third-party program.</source>
         </trans-unit>
         <trans-unit id="104" translate="yes" xml:space="preserve">
           <source>Budgeting overview</source>
         </trans-unit>
         <trans-unit id="105" translate="yes" xml:space="preserve">
-          <source>Almost every company that uses Financials functionality in Microsoft Dynamics 365 for Operations will have to be able to create reports of budget vs. actuals.</source>
+          <source>Almost every company that uses Financials functionality in Microsoft Dynamics AX will have to be able to create reports of budget vs. actuals.</source>
         </trans-unit>
         <trans-unit id="106" translate="yes" xml:space="preserve">
-          <source>This article explains the minimum configuration that is required in order to create budgets in Dynamics 365 for Operations or load them from a third-party program.</source>
+          <source>This article explains the minimum configuration that is required in order to create budgets in Dynamics AX or load them from a third-party program.</source>
         </trans-unit>
         <trans-unit id="107" translate="yes" xml:space="preserve">
           <source>Overview</source>
@@ -43,7 +43,7 @@
           <source>The budget register entry document is integrated with basic financial reports and inquiry pages where ledger actual amounts are compared to budget amounts.</source>
         </trans-unit>
         <trans-unit id="111" translate="yes" xml:space="preserve">
-          <source>There are multiple methods for creating budget register entries in Dynamics 365 for Operations:</source>
+          <source>There are multiple methods for creating budget register entries in Microsoft Dynamics AX:</source>
         </trans-unit>
         <trans-unit id="112" translate="yes" xml:space="preserve">
           <source>Manually enter the document information on the <bpt id="p1">**</bpt>Budget register entries<ept id="p1">**</ept> page.</source>

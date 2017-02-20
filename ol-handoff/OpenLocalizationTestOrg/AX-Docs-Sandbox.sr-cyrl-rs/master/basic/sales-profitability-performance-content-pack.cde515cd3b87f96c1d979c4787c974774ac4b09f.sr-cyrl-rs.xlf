@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">89c0273059791683efdb75587ce1dde683c93715</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">7dc83d6a95770e2e89b6ca81892e1898b42aaaba</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\analytics-bi-reporting\sales-profitability-performance-content-pack.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9e2f05b23e03b1a6b91ade5354c69f7fecb63ad4</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6c7904f3d8f154891ceaacda070eb20317fa3566</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b1b10e3ee2a63905f145181036fc9e56545af823</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3b114f1e83a413c0048e6d377ddf13ef600355df</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Sales and profitability performance content pack for Power BI | Microsoft Docs</source>
+          <source>Sales and profitability performance content pack for Power BI</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This topic describes what's included in the Dynamics 365 for Operations - Sales and profitability performance content pack for Microsoft Power BI.</source>
@@ -76,7 +76,7 @@
           <source>The Sales and profitability performance Power BI content pack is published as an implementation asset in Lifecycle Services (LCS) and can be accessed from Dynamics 365 for Operations.</source>
         </trans-unit>
         <trans-unit id="122" translate="yes" xml:space="preserve">
-          <source>For more information about how to access and launch Power BI reports, see the blog <bpt id="p1">[</bpt>Authoring and distributing Power BI reports with Dynamics<ept id="p1">](https://blogs.msdn.microsoft.com/dynamicsaxbi/2016/06/23/authoring-and-distributing-power-bi-reports-with-dynamics-ax7/)</ept>.</source>
+          <source>For more information about how to access and launch Power BI reports, see <bpt id="p1">[</bpt>Power BI content in LCS from Microsoft and your partners<ept id="p1">](power-bi-content-microsoft-partners.md)</ept>.</source>
         </trans-unit>
         <trans-unit id="123" translate="yes" xml:space="preserve">
           <source>Metrics included in the content pack</source>
@@ -352,7 +352,7 @@
           <source>Here are some helpful links that are related to entities and building Power BI content:</source>
         </trans-unit>
         <trans-unit id="214" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Data entities<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/data-entities/data-entities)</ept></source>
+          <source><bpt id="p1">[</bpt>Data entities<ept id="p1">](data-entities.md)</ept></source>
         </trans-unit>
         <trans-unit id="215" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Creating organizational content packs<ept id="p1">](https://powerbi.microsoft.com/en-us/documentation/powerbi-service-organizational-content-packs-introduction/)</ept></source>
@@ -361,7 +361,7 @@
           <source><bpt id="p1">[</bpt>Data modeling using Power BI<ept id="p1">](https://powerbi.microsoft.com/en-us/guided-learning/powerbi-learning-2-1-intro-modeling-data)</ept></source>
         </trans-unit>
         <trans-unit id="217" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Adding Power BI tiles to workspaces<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/configuring-powerbi-integration)</ept></source>
+          <source><bpt id="p1">[</bpt>Adding Power BI tiles to workspaces<ept id="p1">](configure-power-bi-integration.md)</ept></source>
         </trans-unit>
       </group>
     </body>

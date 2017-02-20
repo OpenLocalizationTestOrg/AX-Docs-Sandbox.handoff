@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">562495fa9d13b93baa54f24f9dcf3ba1a3555645</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9292e284032a744e501dd191bf944e0c09247e57</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\analytics-bi-reporting\design-financial-reports.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b596036c81af1223a3fabf9b9aac402385a2ba53</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f5a41fce002a11e65901ed495ef63f7abe5a773a</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9944226d56bc33577e5b78bdc82e6e2dd51e4622</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0617d62ce7045cd2b0e0d32755fb439e34291dcf</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>View and design financial reports | Microsoft Docs</source>
+          <source>View and design financial reports</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This article provides exercises that walk you through viewing and creating financial reports for Microsoft Dynamics AX.</source>
@@ -643,7 +643,7 @@
           <source>Additional resources</source>
         </trans-unit>
         <trans-unit id="311" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Financial reporting<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/general-ledger/financial-reporting)</ept> <bpt id="p2">[</bpt>View financial reports<ept id="p2">](https://docs.microsoft.com/en-us/dynamics365/operations/financials/general-ledger/view-financial-reports)</ept> <bpt id="p3">[</bpt>Dynamics Financial Reporting Blog<ept id="p3">](http://blogs.msdn.com/b/dynamics_financial_reporting/)</ept></source>
+          <source><bpt id="p1">[</bpt>Financial reporting<ept id="p1">](financial-reporting-getting-started.md)</ept> <bpt id="p2">[</bpt>View financial reports<ept id="p2">](view-financial-reports.md)</ept> <bpt id="p3">[</bpt>Dynamics Financial Reporting Blog<ept id="p3">](http://blogs.msdn.com/b/dynamics_financial_reporting/)</ept></source>
         </trans-unit>
       </group>
     </body>
