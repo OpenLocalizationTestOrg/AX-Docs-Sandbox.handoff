@@ -1,8 +1,6 @@
 ---
-# required metadata
-
 title: Report definitions in financial report designer
-description: This article provides information about report definitions. A report definition is a report component (or building block) that uses a row definition, a column definition, and an optional reporting tree definition to create a report. A report definition also provides options and settings that for customizing a report. 
+description: This article provides information about report definitions. A report definition is a report component (or building block) that uses a row definition, a column definition, and an optional reporting tree definition to create a report. A report definition also provides options and settings that for customizing a report.
 author: RobinARH
 manager: AnnBe
 ms.date: 2016-03-07 18 - 58 - 18
@@ -10,43 +8,40 @@ ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-
-# optional metadata
-
 ms.search.form: FinancialReports
-# ROBOTS: 
 audience: Application User
-# ms.devlang: 
 ms.reviewer: RobinARH
 ms.search.scope: Management Reporter, Core
-# ms.tgt_pltfrm: 
 ms.custom: 59131
 ms.assetid: 56328714-99b6-4ded-9df9-9c103f28ae57
 ms.search.region: Global
-# ms.search.industry: 
 ms.author: aolson
 ms.dyn365.ops.intro: 
 ms.dyn365.ops.version: 
+translationtype: Human Translation
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: 39b77cb8da89ba26e3ac0bf0091d3ffba58fbc3c
+
 
 ---
 
-# Report definitions in financial report designer
+# <a name="report-definitions-in-financial-report-designer"></a>Report definitions in financial report designer
 
 This article provides information about report definitions. A report definition is a report component (or building block) that uses a row definition, a column definition, and an optional reporting tree definition to create a report. A report definition also provides options and settings that for customizing a report. 
 
-A report definition is a report component (or building block) that uses a row definition, a column definition, and an optional reporting tree definition to create a report. A report definition also provides options and settings that you can use to customize a report. After you define row definitions and column definitions, you must combine them in a report definition. At this point, you also define other aspects of the definitions, such as the detail level and report date. You can then save and generate a report. Financial reporting offers the following levels of detail:
+A report definition is a report component (or building block) that uses a row definition, a column definition, and an optional reporting tree definition to create a report. A report definition also provides options and settings that you can use to customize a report. After you define row definitions and column definitions, you must combine them in a report definition. At this point, you also define other aspects of the definitions, such as the detail level and report date. You can then save and generate a report. Financial reporting offers the following levels of detail:
 
 -   Financial
--   Financial and Account
+-   Financial and Account
 -   Financial, Account, and Transaction
 
 However, depending on how data is stored in the Microsoft Dynamics ERP system, transaction details might not be available in reports.
 
-## Create a report definition
+## <a name="create-a-report-definition"></a>Create a report definition
 1.  In Report Designer, on the **File** menu, click **New**, and then select **Report Definition**.
-2.  Specify the appropriate information on the **Report**, **Output and Distribution**, **Headers and Footers**, and **Settings** tabs.
+2.  Specify the appropriate information on the **Report**, **Output and Distribution**, **Headers and Footers**, and **Settings** tabs.
 
-## Contents of a report definition
+## <a name="contents-of-a-report-definition"></a>Contents of a report definition
 The following table describes the tabs in a report definition and how the information is used.
 
 <table>
@@ -90,8 +85,14 @@ The following table describes the tabs in a report definition and how the inform
 
 
 
-See also
+<a name="see-also"></a>See also
 --------
 
 [Financial reporting for Microsoft Dynamics AX](financial-reporting-intro.md)
+
+
+
+
+<!--HONumber=Feb17_HO3-->
+
 

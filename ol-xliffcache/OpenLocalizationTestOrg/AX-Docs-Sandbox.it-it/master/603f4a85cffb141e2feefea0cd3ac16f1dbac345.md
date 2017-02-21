@@ -1,6 +1,4 @@
 ---
-# required metadata
-
 title: Accounts payable home page
 description: This topic provides a list of the help topics and other resources that are available for Accounts payable.
 author: annbe
@@ -10,27 +8,23 @@ ms.topic: index-page
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-
-# optional metadata
-
-# ms.search.form: 
-# ROBOTS: 
 audience: Application User
-# ms.devlang: 
 ms.reviewer: annbe
 ms.search.scope: AX 7.0.0, Operations
-# ms.tgt_pltfrm: 
 ms.custom: 21901
 ms.assetid: 5299d46e-31db-4050-8e83-b304368c7f27
 ms.search.region: Global
-# ms.search.industry: 
 ms.author: annbe
 ms.dyn365.intro: May-16
 ms.dyn365.version: AX 7.0.1
+translationtype: Human Translation
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: 603f4a85cffb141e2feefea0cd3ac16f1dbac345
+
 
 ---
 
-# Accounts payable home page
+# <a name="accounts-payable-home-page"></a>Accounts payable home page
 
 This topic provides a list of the help topics and other resources that are available for Accounts payable.
 
@@ -49,7 +43,7 @@ You can enter vendor invoices manually or receive them electronically through a 
 -   [Set up and generate positive pay files](set-up-generate-positive-pay-files.md)
 -   [Year-end 1099 reporting](year-end-1099-reporting.md)
 
-## Payments and settlements
+## <a name="payments-and-settlements"></a>Payments and settlements
 -   [Centralized payments for Accounts payable](centralized-payments-accounts-payable.md)
 -   [Create vendor invoices using a payment proposal](create-vendor-payments-payment-proposal.md)
 -   [Reverse a vendor payment](reverse-vendor-payment.md)
@@ -62,9 +56,15 @@ You can enter vendor invoices manually or receive them electronically through a 
 -   [Scenario: Take a discount that is more than the calculated discount for a vendor payment](take-discount-more-calculated-discount-vendor-payment.md)
 -   [Scenario: Take a cash discount outside the cash discount period](take-cash-discount-outside-cash-discount-timeframe.md)
 
-## Additional resources
+## <a name="additional-resources"></a>Additional resources
 -   Additional help is available as task guides inside Dynamics 365 for Operations. To access task guides, click the Help button on any page.
 -   For information about Microsoft Dynamics 365 for Operations training, see [Microsoft eLearning](https://mbs2.microsoft.com/members/elearning/dynamicstrainingcert.aspx) (requires CustomerSource account).
 
- 
+ 
+
+
+
+
+<!--HONumber=Feb17_HO3-->
+
 

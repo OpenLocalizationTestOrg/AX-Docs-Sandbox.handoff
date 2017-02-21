@@ -1,6 +1,4 @@
 ---
-# required metadata
-
 title: Purchase orders for a project
 description: This article describes the various methods that you can use to create purchase orders for a project. The method that you use depends on the purpose of the purchase order, and when the purchased items are consumed and charged to a project.
 author: kfend
@@ -10,33 +8,28 @@ ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-
-# optional metadata
-
-# ms.search.form: 
-# ROBOTS: 
 audience: Application User
-# ms.devlang: 
-# ms.reviewer: 51
 ms.search.scope: AX 7.0.0, Operations
-# ms.tgt_pltfrm: 
 ms.custom: 83972
 ms.assetid: ddd76c95-c224-4259-a6be-6ed3946fd524
 ms.search.region: Global
-# ms.search.industry: 
 ms.author: kfend
 ms.dyn365.ops.intro: Feb-16
 ms.dyn365.ops.version: AX 7.0.0
+translationtype: Human Translation
+ms.sourcegitcommit: 163dd8dd3f119eef45b9bc6d5313f48ef0adc222
+ms.openlocfilehash: cdfb6d3b0f164e955b3fb1bd436ffede965a1e3d
+
 
 ---
 
-# Purchase orders for a project
+# <a name="purchase-orders-for-a-project"></a>Purchase orders for a project
 
 This article describes the various methods that you can use to create purchase orders for a project. The method that you use depends on the purpose of the purchase order, and when the purchased items are consumed and charged to a project.
 
 In Microsoft Dynamics 365 for Operations, you can use multiple methods to create purchase orders for a project. The method that you use depends on the purpose of the purchase order, when the purchased items are consumed, and when the purchased items are charged to a project.
 
-### Methods for creating a purchase order
+### <a name="methods-for-creating-a-purchase-order"></a>Methods for creating a purchase order
 
 You can use one of the following methods to create a purchase order in Project management and accounting. The purpose of the purchase order determines when the purchase order is consumed and, therefore, when items are charged to a project.
 
@@ -77,4 +70,10 @@ You can use one of the following methods to create a purchase order in Project m
 </table>
 
 **Note:** When you update the vendor invoice or packing slip, you're prompted to update the packing slip on the item requirement.
+
+
+
+
+<!--HONumber=Feb17_HO3-->
+
 
