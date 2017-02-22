@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="lv-lv">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-6be57c5" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">74dbc9804d9fe6f19c37b8927c85f366fee0737a</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">retail\commerce-essentials\commerce-essentials-landing.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6cffdeb386daaaaeb6a2f58772298048a83f59ac</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4fa29bcb5d390d3dd7f262a5e6b5bddc3ce8dafa</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Commerce essentials</source>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This page lists the resources that are available for Commerce essentials in Dynamics 365 for Operations.</source>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Commerce essentials</source>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>This page lists the resources that are available for Commerce essentials in Dynamics 365 for Operations.</source>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Overview</source>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Commerce essentials overview<ept id="p1">](commerce-essentials.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Working with Commerce essentials</source>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with organizations and organizational hierarchies (Commerce essentials)<ept id="p1">](organizational-hierarchies-commerce-essentials.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt><ept id="p1">]()</ept>Additional resources</source>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Additional help is available as task guides inside Dynamics 365 for Operations.</source>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>To access task guides, click the Help button on any page.</source>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>For information about Dynamics 365 for Operations training, see <bpt id="p1">[</bpt>Microsoft eLearning<ept id="p1">](https://mbs2.microsoft.com/members/elearning/dynamicstrainingcert.aspx)</ept> (requires CustomerSource account).</source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

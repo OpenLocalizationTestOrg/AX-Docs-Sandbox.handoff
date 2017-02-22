@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="lv-lv">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-6be57c5" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">df98533a733cd220ccd127ab645eb9d41b3c0cf6</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\general-ledger\general-ledger.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3488a7728f2c04a831ba57ad3be79245e1c51f9e</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1e14672fd8a370bf28a6210c93bf7911168b51f1</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>General ledger and Financial reporting home page</source>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Use General ledger to define and manage the legal entity’s financial records.</source>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>The general ledger is a register of debit and credit entries.</source>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>These entries are classified using the accounts that are listed in a chart of accounts.</source>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>General ledger and Financial reporting home page</source>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Use General ledger to define and manage the legal entity’s financial records.</source>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>The general ledger is a register of debit and credit entries.</source>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>These entries are classified using the accounts that are listed in a chart of accounts.</source>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>You can allocate, or distribute, monetary amounts to one or more accounts or account and dimension combinations based on allocation rules.</source>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>There are two types of allocations: fixed and variable.</source>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>You can also settle transactions between ledger accounts and revalue currency amounts.</source>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>At the end of a fiscal year, you must generate closing transactions and prepare your accounts for the next fiscal year.</source>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>You can use the consolidation functionality to combine the financial results for several subsidiary legal entities into results for a single, consolidated organization.</source>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>The subsidiaries can be in the same Microsoft Dynamics 365 for Operations database or in separate databases.</source>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Accounting distributions<ept id="p1">](accounting-distributions.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Accounting source explorer<ept id="p1">](accounting-source-explorer.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Example: Balanced journal for interunit accounting<ept id="p1">](example-balanced-journals-interunit-accounting.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Posting definitions<ept id="p1">](posting-definitions.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Example: Posting definitions<ept id="p1">](example-posting-definitions.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Financial period close workspace<ept id="p1">](financial-period-close-workspace.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>General journal processing<ept id="p1">](general-journal-processing.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Intercompany accounting<ept id="p1">](http://ax.help.dynamics.com/en/wiki/intercompany-accounting/)</ept></source>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Ledger allocation rules<ept id="p1">](ledger-allocation-rules.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Ledger journal types<ept id="p1">](ledger-journal-types.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Process allocations<ept id="p1">](process-allocations.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Fiscal calendars, fiscal years and periods<ept id="p1">](fiscal-calendars-fiscal-years-periods.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Main account types<ept id="p1">](main-account-types.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Financial dimensions<ept id="p1">](financial-dimensions.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Accruals overview<ept id="p1">](accruals-overview.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Close the general ledger at period end<ept id="p1">](close-general-ledger-at-period-end.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Consolidation and elimination overview<ept id="p1">](consolidation-elimination-overview.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Elimination rules<ept id="p1">](elimination-rules.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Enter account and dimension combinations (segmented entry control)<ept id="p1">](enter-account-dimension-combinations-segmented-entry-control.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>General ledger account balances<ept id="p1">](general-ledger-account-balances.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Convert accounting or reporting currencies<ept id="p1">](convert-accounting-reporting-currencies.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Foreign currency revaluation for General ledger<ept id="p1">](foreign-currency-revaluation-general-ledger.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Currency revaluation in a consolidation company<ept id="p1">](currency-revaluation-consolidation-company.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Open lines in Excel from general journals<ept id="p1">](http://ax.help.dynamics.com/en/wiki/open-lines-in-excel-from-general-journals/)</ept></source>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Planning: Chart of accounts<ept id="p1">](plan-chart-of-accounts.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>View journal entries and transactions<ept id="p1">](view-journal-entries-transactions.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Year-end close<ept id="p1">](year-end-close.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>Financial reporting</source>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>Financial reports provide insights into an organizations financial state at the end of defined periods.</source>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Refer to the following resources for more information about financial reporting.</source>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Financial reporting<ept id="p1">](financial-reporting-getting-started.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>View financial reports<ept id="p1">](view-financial-reports.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Resetting the financial reporting data mart after restoring a database<ept id="p1">](reset-financial-reporting-datamart-after-restore.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Fin<ept id="p1">](financial-performance-power-bi-content-pack.md)</ept><bpt id="p2">[</bpt>ancial<ept id="p2">](financial-performance-power-bi-content-pack.md)</ept><bpt id="p3">[</bpt> Perfo<ept id="p3">](financial-performance-power-bi-content-pack.md)</ept><bpt id="p4">[</bpt>rmance<ept id="p4">](financial-performance-power-bi-content-pack.md)</ept><bpt id="p5">[</bpt> cont<ept id="p5">](financial-performance-power-bi-content-pack.md)</ept><bpt id="p6">[</bpt>ent<ept id="p6">](financial-performance-power-bi-content-pack.md)</ept><bpt id="p7">[</bpt> pa<ept id="p7">](financial-performance-power-bi-content-pack.md)</ept><bpt id="p8">[</bpt>ck<ept id="p8">](financial-performance-power-bi-content-pack.md)</ept><bpt id="p9">[</bpt> for<ept id="p9">](financial-performance-power-bi-content-pack.md)</ept><bpt id="p10">[</bpt> Power<ept id="p10">](financial-performance-power-bi-content-pack.md)</ept><bpt id="p11">[</bpt> BI<ept id="p11">](financial-performance-power-bi-content-pack.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Dynamics Financial Reporting blog<ept id="p1">](http://blogs.msdn.com/b/dynamics_financial_reporting/)</ept></source>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>Sales tax</source>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>Every company collects and pays taxes to various tax authorities.</source>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>The rules and rates vary by country/region, state, county, and city.</source>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>In addition, the rules must be updated periodically when tax authorities change their requirements.</source>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>Sales tax codes contain the basic information about how much you collect and pay to the authorities.</source>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>When you set up sales tax codes, you define the amounts or percentages that must be collected.</source>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>You also define the various methods by which those amounts or percentages are applied to transaction amounts.</source>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>The topics in this section provide information about how to set up sales tax codes for the methods and rates that your tax authorities require.</source>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Sales tax overview<ept id="p1">](indirect-taxes-overview.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Determining sales tax rates based on the Marginal base and Calculation method fields<ept id="p1">](marginal-base-field.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Sales tax calculation methods in the Origin field<ept id="p1">](sales-tax-calculation-methods-origin-field.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Whole amount and Interval calculation options for sales tax codes<ept id="p1">](whole-amount-interval-options-sales-tax-codes.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Sales tax payments and rounding rules<ept id="p1">](round-sales-tax-payments.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>Additional resources</source>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>Additional help is available as task guides inside Dynamics 365 for Operations.</source>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>To access task guides, click the Help button on any page.</source>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>For information about Microsoft Dynamics 365 for Operations training, see <bpt id="p1">[</bpt>Microsoft eLearning<ept id="p1">](https://mbs2.microsoft.com/members/elearning/dynamicstrainingcert.aspx)</ept> (requires CustomerSource account).</source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
