@@ -1,0 +1,789 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="ar-sa">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-6be57c5" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3bdb5e368e5d9719c3778863a14a6bdd3d73ffb2</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">core\localizations\country_region.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ff6d460038bab4d008880c051dc6775968bfc17d</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4b3216720445a20ca76ab84a4ea01d6149f36f3d</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Country/region-specific Help content</source>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This topic lists Help content for country/region-specific functionality in Dynamics 365 for Operations.</source>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Country/region-specific Help content</source>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>This topic lists Help content for country/region-specific functionality in Dynamics 365 for Operations.</source>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Localization requirements</source>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Regulatory watch and regulatory update communication<ept id="p1">](localization-requirements-regulatory-watch-communication.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Separate localization models<ept id="p1">](localization-requirements-separate-localization-models.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Apply country/region context<ept id="p1">](localization-requirements-apply-country-context.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Regulatory certifications<ept id="p1">](localization-requirements-regulatory-certifications.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Classify localization features<ept id="p1">](localization-requirements-classify-localization-features.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create an electronic reporting configuration<ept id="p1">](localization-requirements-electronic-reporting-configuration.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Electronic reporting</source>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Electronic reporting overview<ept id="p1">](general-electronic-reporting-ger-2.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Download Electronic reporting configurations from Lifecycle Services<ept id="p1">](download-electronic-reporting-configuration-lcs.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Electronic reporting destinations<ept id="p1">](electronic-reporting-destinations.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Manage the Electronic reporting configuration lifecycle<ept id="p1">](general-electronic-reporting-manage-configuration-lifecycle.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Country/regionspecific help topics</source>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>The following sections list help topics by country/region.</source>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Australia</source>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Bank file formats<ept id="p1">](set-up-method-of-payment-pay-vendors-australian-banks.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Business Activity Statement (BAS)<ept id="p1">](business-activity-statement-bas-overview.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up reason codes for Australia BAS (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-reason-codes-for-australia-bas/)</ept></source>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Add BAS report boxes and generate the Australia Business Activity Statement BAS (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/add-bas-report-boxes-and-generate-the-australia-business-activity-statement-bas/)</ept></source>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Additional BAS report boxes page (Field descriptions)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/additional-bas-report-boxes-page-field-descriptions/)</ept></source>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Low value pool depreciation<ept id="p1">](low-value-pool-depreciation.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Austria</source>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Packing material fee calculation for Austria<ept id="p1">](aut-packing-material-fee-calculation.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>VAT statement details for Austria<ept id="p1">](aut-vat-statement-details-austria.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>OIOUBL standards for electronic invoicing<ept id="p1">](oioubl-standards-electronic-invoicing.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up OIOUBL electronic invoicing (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-oioubl-electronic-invoicing/)</ept></source>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Import OIOUBL electronic invoicing configurations (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/import-oioubl-electronic-invoicing-configurations/)</ept></source>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up customer accounts for OIOUBL electronic invoicing (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-customer-accounts-for-oioubl-electronic-invoicing/)</ept></source>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Invoices for public sector</source>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create and post a customer invoice for a public sector customer (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-and-post-a-customer-invoice-for-a-public-sector-customer/)</ept></source>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create and post a free text invoice for a public sector customer (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-and-post-a-free-text-invoice-for-a-public-sector-customer/)</ept></source>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create and post a project invoice for a public sector customer (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-and-post-a-project-invoice-for-a-public-sector-customer/)</ept></source>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Belgium</source>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting up and maintaining PRODCOM<ept id="p1">](prodcom-report-setup.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>CODA bank statement<ept id="p1">](bel-coda-bank-statement-import.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>China</source>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>User operation log by China working rule<ept id="p1">](http://ax.help.dynamics.com/en/wiki/user-operation-log-by-china-working-rule/)</ept></source>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up basic tax integration profile for China (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-basic-tax-integration-profile-for-china/)</ept></source>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>China hierarchy of chart of accounts<ept id="p1">](http://ax.help.dynamics.com/en/wiki/china-hierarchy-of-chart-of-accounts/)</ept></source>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Chinese vouchers<ept id="p1">](chinese-vouchers.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up Chinese vouchers (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-chinese-vouchers/)</ept></source>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Chinese voucher continuity check<ept id="p1">](http://ax.help.dynamics.com/en/wiki/chinese-voucher-continuity-check/)</ept></source>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Post vouchers from other modules, like sales invoices<ept id="p1">](http://ax.help.dynamics.com/en/wiki/post-vouchers-from-other-modules-like-sales-invoices/)</ept></source>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Post vouchers from the general journal (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/post-vouchers-from-the-general-journal/)</ept></source>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Import the Chinese Golden Tax data entity (Task Guide)<ept id="p1">](import-chinese-golden-tax-data-entity.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Configure tax integration for China<ept id="p1">](configure-tax-integration-china.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Chinese tax integration modification for VAT customer invoices FAQ<ept id="p1">](chn-chinese-tax-integration-vat-customer-invoices.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>Fixed assets</source>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Allocation rules for fixed assets<ept id="p1">](allocation-rules-fixed-assets.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Depreciation methods for fixed assets<ept id="p1">](depreciation-methods-fixed-assets-china.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Bill of materials comparison<ept id="p1">](chn-bom-comparison.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Posting inventory main accounts by site<ept id="p1">](chn-about-posting-inventory-main-accounts-by-site.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Monthly average cost model for China<ept id="p1">](chn-monthly-average-cost-model.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>The Czech Republic</source>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>Fixed asset depreciation</source>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Depreciation rounding<ept id="p1">](eeu-depreciation-rounding.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Half year depreciation on fixed asset disposal for the Czech Republic<ept id="p1">](cze-half-depreciation-fixed-asset-disposal.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Depreciation suspension (holidays)<ept id="p1">](cze-depreciation-suspension-holidays.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Fixed assets depreciation methods for the Czech Republic<ept id="p1">](cze-fixed-assets-depreciation.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>VAT statement for the Czech Republic<ept id="p1">](cz-vat-statement-details-for-czech-republic.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Advance holders<ept id="p1">](advance-holders.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Advance payment to employee<ept id="p1">](http://ax.help.dynamics.com/en/wiki/advance-payment-to-employee/)</ept></source>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Advance holder transactions<ept id="p1">](advance-holders-transactions.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Split periods in periodic journals<ept id="p1">](create-post-periodic-journals.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up signers for print forms<ept id="p1">](eeu-set-up-signers-for-printing-forms.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Update how amounts are displayed on reports and documents<ept id="p1">](eeu-amount-printing-forms.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>Denmark</source>
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>OIOUBL standards for electronic invoicing<ept id="p1">](oioubl-standards-electronic-invoicing.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up OIOUBL electronic invoicing (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-oioubl-electronic-invoicing/)</ept></source>
+        </trans-unit>
+        <trans-unit id="174" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Import OIOUBL electronic invoicing configurations (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/import-oioubl-electronic-invoicing-configurations/)</ept></source>
+        </trans-unit>
+        <trans-unit id="175" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up customer accounts for OIOUBL electronic invoicing (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-customer-accounts-for-oioubl-electronic-invoicing/)</ept></source>
+        </trans-unit>
+        <trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>Invoices for public sector</source>
+        </trans-unit>
+        <trans-unit id="177" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create and post a customer invoice for a public sector customer (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-and-post-a-customer-invoice-for-a-public-sector-customer/)</ept></source>
+        </trans-unit>
+        <trans-unit id="178" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create and post a free text invoice for a public sector customer (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-and-post-a-free-text-invoice-for-a-public-sector-customer/)</ept></source>
+        </trans-unit>
+        <trans-unit id="179" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create and post a project invoice for a public sector customer (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-and-post-a-project-invoice-for-a-public-sector-customer/)</ept></source>
+        </trans-unit>
+        <trans-unit id="180" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Invoice issue deadline<ept id="p1">](invoice-issue-deadline.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>Estonia</source>
+        </trans-unit>
+        <trans-unit id="182" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Advance holders<ept id="p1">](advance-holders.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="183" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Advance payment to employee<ept id="p1">](http://ax.help.dynamics.com/en/wiki/advance-payment-to-employee/)</ept></source>
+        </trans-unit>
+        <trans-unit id="184" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Advance holder transactions<ept id="p1">](advance-holders-transactions.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="185" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Split periods in periodic journals<ept id="p1">](create-post-periodic-journals.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="186" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up signers for print forms<ept id="p1">](eeu-set-up-signers-for-printing-forms.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="187" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Update how amounts are displayed on reports and documents<ept id="p1">](eeu-amount-printing-forms.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>Europe</source>
+        </trans-unit>
+        <trans-unit id="189" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>EU Entry certificates<ept id="p1">](entry-certificates.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="190" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Issue an EU entry certificate (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/eur-00012-issue-an-eu-entry-certificate/)</ept></source>
+        </trans-unit>
+        <trans-unit id="191" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Receive an EU entry certificate (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/eur-0012-receive-an-eu-entry-certificate/)</ept></source>
+        </trans-unit>
+        <trans-unit id="192" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>EU Sales list reporting<ept id="p1">](eu-sales-list.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="193" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up EU sales list reporting (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/eur-00011-set-up-eu-sales-list-reporting/)</ept></source>
+        </trans-unit>
+        <trans-unit id="194" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Generate the EU sales list report (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/eur-00011-generate-the-eu-sales-list-report/)</ept></source>
+        </trans-unit>
+        <trans-unit id="195" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>SEPA direct debit overview<ept id="p1">](sepa-direct-debit-overview.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="196" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Import SEPA direct debit configuration (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/import-sepa-direct-debit-configuration/)</ept></source>
+        </trans-unit>
+        <trans-unit id="197" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up a method of payment for SEPA Direct debit (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/setup-method-of-payment-for-sepa-direct-debit/)</ept></source>
+        </trans-unit>
+        <trans-unit id="198" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create payments for a customer who has direct debit mandate (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-payments-for-a-customer-who-have-direct-debit-mandate/)</ept></source>
+        </trans-unit>
+        <trans-unit id="199" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up company bank accounts for SEPA direct debits (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-company-bank-accounts-for-sepa-direct-debits/)</ept></source>
+        </trans-unit>
+        <trans-unit id="200" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up customers and customer bank accounts for SEPA direct debits (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-customers-and-customer-bank-accounts-for-sepa-direct-debits/)</ept></source>
+        </trans-unit>
+        <trans-unit id="201" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>SEPA credit transfer overview<ept id="p1">](sepa-credit-transfer.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="202" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Import SEPA credit transfer configuration (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/import-sepa-credit-transfer-configuration/)</ept></source>
+        </trans-unit>
+        <trans-unit id="203" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up a method of payment for SEPA credit transfer (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-method-of-payment-for-sepa-credit-transfer/)</ept></source>
+        </trans-unit>
+        <trans-unit id="204" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up vendors and vendor bank accounts for SEPA credit transfers (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-vendor-and-vendor-bank-account-for-sepa-payment-generation/)</ept></source>
+        </trans-unit>
+        <trans-unit id="205" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Intrastat<ept id="p1">](intrastat.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="206" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Generate an EU Intrastat declaration (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/generate-an-eu-intrastat-declaration/)</ept></source>
+        </trans-unit>
+        <trans-unit id="207" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Transfer transactions to the Intrastat (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/transfer-transactions-to-the-intrastat/)</ept></source>
+        </trans-unit>
+        <trans-unit id="208" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>VAT reporting for Europe<ept id="p1">](eu-vat-reporting.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="209" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>File formats for methods of payment<ept id="p1">](select-file-formats-for-the-method-of-payments.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="210" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Payment slip report for Europe<ept id="p1">](eur-payment-slip-report-giro.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="211" translate="yes" xml:space="preserve">
+          <source>France</source>
+        </trans-unit>
+        <trans-unit id="212" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Invoice issue deadline<ept id="p1">](invoice-issue-deadline.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="213" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Mandats de paiement in the public sector in France<ept id="p1">](mandats-de-paiement-public-sector-france.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="214" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Public sector accounting in France<ept id="p1">](public-sector-accounting-france.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="215" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Derogatory depreciation for France<ept id="p1">](derogatory-depreciation.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="216" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Penalties for past due customer payments in France<ept id="p1">](apply-penalty-customer-payment-past-due.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="217" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>NAF codes and siret numbers<ept id="p1">](naf-codes-siret-numbers.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="218" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create lump-sum depreciation assets using equally divided method (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-lump-sum-depreciation-assets-using-equally-divided-method/)</ept></source>
+        </trans-unit>
+        <trans-unit id="219" translate="yes" xml:space="preserve">
+          <source>Germany</source>
+        </trans-unit>
+        <trans-unit id="220" translate="yes" xml:space="preserve">
+          <source>Fixed assets</source>
+        </trans-unit>
+        <trans-unit id="221" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Additional acquisition depreciation<ept id="p1">](additional-acquisition-depreciation.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="222" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Depreciation adjustments for additional acquisitions in the second year<ept id="p1">](http://ax.help.dynamics.com/en/wiki/de-00002-depreciation-adjustments-for-additional-acquisitions-in-the-second-year/)</ept></source>
+        </trans-unit>
+        <trans-unit id="223" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Electronic transmission of VAT declaration (ELSTER)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/de-00003-electronic-transmission-of-vat-declaration-elster/)</ept></source>
+        </trans-unit>
+        <trans-unit id="224" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Invoice issue deadline<ept id="p1">](invoice-issue-deadline.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="225" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>German audit file (GDPdU/GoBD)<ept id="p1">](gdpdu-audit-data-export.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="226" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Import German audit file configuration (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/import-german-audit-file-configuration/)</ept></source>
+        </trans-unit>
+        <trans-unit id="227" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Generate German audit file (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/generate-german-audit-file/)</ept></source>
+        </trans-unit>
+        <trans-unit id="228" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Customize German audit file configuration (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/customize-german-audit-file-configuration/)</ept></source>
+        </trans-unit>
+        <trans-unit id="229" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>German journal list report<ept id="p1">](german-journal-list-report.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="230" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Print a separate label for credit memos that originate from sales (Task Guide)<ept id="p1">](print-separate-label-credit-memo-originating-sales-deu.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="231" translate="yes" xml:space="preserve">
+          <source>Hungary</source>
+        </trans-unit>
+        <trans-unit id="232" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Advance holders<ept id="p1">](advance-holders.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="233" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Advance payment to employee<ept id="p1">](http://ax.help.dynamics.com/en/wiki/advance-payment-to-employee/)</ept></source>
+        </trans-unit>
+        <trans-unit id="234" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Advance holder transactions<ept id="p1">](advance-holders-transactions.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="235" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Split periods in periodic journals<ept id="p1">](create-post-periodic-journals.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="236" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up signers for print forms<ept id="p1">](eeu-set-up-signers-for-printing-forms.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="237" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Update how amounts are displayed on reports and documents<ept id="p1">](eeu-amount-printing-forms.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="238" translate="yes" xml:space="preserve">
+          <source>Ireland</source>
+        </trans-unit>
+        <trans-unit id="239" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Invoice issue deadline<ept id="p1">](invoice-issue-deadline.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="240" translate="yes" xml:space="preserve">
+          <source>Italy</source>
+        </trans-unit>
+        <trans-unit id="241" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Italian black list report<ept id="p1">](italian-black-list-report.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="242" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>OIOUBL standards for electronic invoicing<ept id="p1">](oioubl-standards-electronic-invoicing.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="243" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up OIOUBL electronic invoicing (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-oioubl-electronic-invoicing/)</ept></source>
+        </trans-unit>
+        <trans-unit id="244" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Import OIOUBL electronic invoicing configurations (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/import-oioubl-electronic-invoicing-configurations/)</ept></source>
+        </trans-unit>
+        <trans-unit id="245" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up customer accounts for OIOUBL electronic invoicing (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-customer-accounts-for-oioubl-electronic-invoicing/)</ept></source>
+        </trans-unit>
+        <trans-unit id="246" translate="yes" xml:space="preserve">
+          <source>Invoices for public sector</source>
+        </trans-unit>
+        <trans-unit id="247" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create and post a customer invoice for a public sector customer (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-and-post-a-customer-invoice-for-a-public-sector-customer/)</ept></source>
+        </trans-unit>
+        <trans-unit id="248" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create and post a free text invoice for a public sector customer (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-and-post-a-free-text-invoice-for-a-public-sector-customer/)</ept></source>
+        </trans-unit>
+        <trans-unit id="249" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create and post a project invoice for a public sector customer (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-and-post-a-project-invoice-for-a-public-sector-customer/)</ept></source>
+        </trans-unit>
+        <trans-unit id="250" translate="yes" xml:space="preserve">
+          <source>Japan</source>
+        </trans-unit>
+        <trans-unit id="251" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Fixed asset depreciation<ept id="p1">](fixed-asset-depreciation-japan.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="252" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up reduction entries for fixed assets (Task Guide)<ept id="p1">](set-up-reduction-entry-fixed-assets.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="253" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Equally divided depreciation method<ept id="p1">](equally-divided-depreciation-method.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="254" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Allocation rules for fixed assets<ept id="p1">](allocation-rules-fixed-assets.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="255" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up asset retirement obligation for fixed assets (Task Guide)<ept id="p1">](set-up-asset-retirement-obligation-fixed-assets.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="256" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Fixed asset impairment management on cash generating unit<ept id="p1">](fixed-asset-impairment-accounting-cash-generate-unit.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="257" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Consolidated invoices<ept id="p1">](consolidate-invoices.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="258" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Bank payment fees covered by vendors<ept id="p1">](bank-payment-fees-vendors.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="259" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Generate the Japan consumption tax report (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/generate-the-japan-consumption-tax-report/)</ept></source>
+        </trans-unit>
+        <trans-unit id="260" translate="yes" xml:space="preserve">
+          <source>Latvia</source>
+        </trans-unit>
+        <trans-unit id="261" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Advance holders<ept id="p1">](advance-holders.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="262" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Advance payment to employee<ept id="p1">](http://ax.help.dynamics.com/en/wiki/advance-payment-to-employee/)</ept></source>
+        </trans-unit>
+        <trans-unit id="263" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Advance holder transactions<ept id="p1">](advance-holders-transactions.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="264" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Split periods in periodic journals<ept id="p1">](create-post-periodic-journals.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="265" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up signers for print forms<ept id="p1">](eeu-set-up-signers-for-printing-forms.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="266" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Update how amounts are displayed on reports and documents<ept id="p1">](eeu-amount-printing-forms.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="267" translate="yes" xml:space="preserve">
+          <source>Lithuania</source>
+        </trans-unit>
+        <trans-unit id="268" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Advance holders<ept id="p1">](advance-holders.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="269" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Advance payment to employee<ept id="p1">](http://ax.help.dynamics.com/en/wiki/advance-payment-to-employee/)</ept></source>
+        </trans-unit>
+        <trans-unit id="270" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Advance holder transactions<ept id="p1">](advance-holders-transactions.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="271" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Split periods in periodic journals<ept id="p1">](create-post-periodic-journals.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="272" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up signers for print forms <ept id="p1">](eeu-set-up-signers-for-printing-forms.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="273" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Update how amounts are displayed on reports and documents<ept id="p1">](eeu-amount-printing-forms.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="274" translate="yes" xml:space="preserve">
+          <source>Mexico</source>
+        </trans-unit>
+        <trans-unit id="275" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up the chart of accounts for a legal entity in Mexico (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/mx-00020-set-up-the-chart-of-accounts-for-a-legal-entity-in-mexico/)</ept></source>
+        </trans-unit>
+        <trans-unit id="276" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Enter tax registration IDs for Mexican legal entities (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/mx-00010-enter-tax-registration-ids-for-mexican-legal-entities/)</ept></source>
+        </trans-unit>
+        <trans-unit id="277" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Customer registration IDs and other information<ept id="p1">](http://ax.help.dynamics.com/en/wiki/mx-00007-customer-registration-ids-and-other-information/)</ept></source>
+        </trans-unit>
+        <trans-unit id="278" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Vendor registration IDs (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/mx-00008-vendor-registration-ids/)</ept></source>
+        </trans-unit>
+        <trans-unit id="279" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>DIOT declaration statement<ept id="p1">](diot-declaration-statement.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="280" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Electronic ledger accounting statements<ept id="p1">](electronic-ledger-accounting-statements-mexico.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="281" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Adjustment inflation declaration report<ept id="p1">](adjustment-inflation-declaration-report.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="282" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>ISR declaration report and supporting processes<ept id="p1">](mex-isr-declaration-report-supporting-processes.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="283" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Electronic invoices (CFDI)<ept id="p1">](electronic-invoices-mexico.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="284" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set parameters for an electronic invoice (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/mx-00010-set-parameters-for-an-electronic-invoice/)</ept></source>
+        </trans-unit>
+        <trans-unit id="285" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>E-invoicing CFDI (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/mx-00010-e-invoicing-cfdi/)</ept></source>
+        </trans-unit>
+        <trans-unit id="286" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up sales tax code (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/mx-00006-set-up-sales-tax-code/)</ept></source>
+        </trans-unit>
+        <trans-unit id="287" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Post a free text invoice (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/mx-00010-post-a-free-text-invoice/)</ept></source>
+        </trans-unit>
+        <trans-unit id="288" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Inquire and print an electronic invoice (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/mx-00010-inquire-and-print-an-electronic-invoice/)</ept></source>
+        </trans-unit>
+        <trans-unit id="289" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Cancel an electronic invoice (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/mx-00010-cancel-an-electronic-invoice/)</ept></source>
+        </trans-unit>
+        <trans-unit id="290" translate="yes" xml:space="preserve">
+          <source>Malaysia</source>
+        </trans-unit>
+        <trans-unit id="291" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Goods and services tax (GST)<ept id="p1">](gst-malaysia.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="292" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Print GST customer invoices with a relief clause (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/my-00006-02-print-gst-customer-invoices-with-a-relief-clause/)</ept></source>
+        </trans-unit>
+        <trans-unit id="293" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>GST – Generate GAF files in the required format (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/my-00010-gst-generate-gaf-files-in-the-required-format/)</ept></source>
+        </trans-unit>
+        <trans-unit id="294" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Manage customer Debit note and Credit note for GST (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/my-00003-manage-customer-debit-note-and-credit-note-for-gst/)</ept></source>
+        </trans-unit>
+        <trans-unit id="295" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Generate Customer Debit Note for Project sales (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/my-00011-02-generate-customer-debit-note-for-project-sales/)</ept></source>
+        </trans-unit>
+        <trans-unit id="296" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Print GST tax invoices (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/my-00005-print-gst-tax-invoices/)</ept></source>
+        </trans-unit>
+        <trans-unit id="297" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Print self-billed GST invoices (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/print-self-billed-gst-invoices/)</ept></source>
+        </trans-unit>
+        <trans-unit id="298" translate="yes" xml:space="preserve">
+          <source>Netherlands</source>
+        </trans-unit>
+        <trans-unit id="299" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Invoice issue deadline<ept id="p1">](invoice-issue-deadline.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="300" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Import postal codes or create postal codes manually (Task Guide)<ept id="p1">](import-create-postal-codes-manually.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="301" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Electronic tax declarations (EVAT) (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/nl-00010-electronic-tax-declarations-evat/)</ept></source>
+        </trans-unit>
+        <trans-unit id="302" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Semansys XBRL integration (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/nl-00003-semansys-xbrl-integration/)</ept></source>
+        </trans-unit>
+        <trans-unit id="303" translate="yes" xml:space="preserve">
+          <source>New Zealand</source>
+        </trans-unit>
+        <trans-unit id="304" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Bank file formats<ept id="p1">](set-up-method-of-payment-pay-vendors-australian-banks.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="305" translate="yes" xml:space="preserve">
+          <source>Norway</source>
+        </trans-unit>
+        <trans-unit id="306" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Nets import format<ept id="p1">](nor-nets-import-format.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="307" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>OIOUBL standards for electronic invoicing<ept id="p1">](oioubl-standards-electronic-invoicing.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="308" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up OIOUBL electronic invoicing (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-oioubl-electronic-invoicing/)</ept></source>
+        </trans-unit>
+        <trans-unit id="309" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Import OIOUBL electronic invoicing configurations (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/import-oioubl-electronic-invoicing-configurations/)</ept></source>
+        </trans-unit>
+        <trans-unit id="310" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up customer accounts for OIOUBL electronic invoicing (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-customer-accounts-for-oioubl-electronic-invoicing/)</ept></source>
+        </trans-unit>
+        <trans-unit id="311" translate="yes" xml:space="preserve">
+          <source>Invoices for public sector</source>
+        </trans-unit>
+        <trans-unit id="312" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create and post a customer invoice for a public sector customer (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-and-post-a-customer-invoice-for-a-public-sector-customer/)</ept></source>
+        </trans-unit>
+        <trans-unit id="313" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create and post a free text invoice for a public sector customer (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-and-post-a-free-text-invoice-for-a-public-sector-customer/)</ept></source>
+        </trans-unit>
+        <trans-unit id="314" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create and post a project invoice for a public sector customer (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-and-post-a-project-invoice-for-a-public-sector-customer/)</ept></source>
+        </trans-unit>
+        <trans-unit id="315" translate="yes" xml:space="preserve">
+          <source>Poland</source>
+        </trans-unit>
+        <trans-unit id="316" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Advance holders<ept id="p1">](advance-holders.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="317" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Advance payment to employee<ept id="p1">](http://ax.help.dynamics.com/en/wiki/advance-payment-to-employee/)</ept></source>
+        </trans-unit>
+        <trans-unit id="318" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Advance holder transactions<ept id="p1">](advance-holders-transactions.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="319" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Split periods in periodic journals<ept id="p1">](create-post-periodic-journals.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="320" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up signers for print forms<ept id="p1">](eeu-set-up-signers-for-printing-forms.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="321" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Update how amounts are displayed on reports and documents<ept id="p1">](eeu-amount-printing-forms.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="322" translate="yes" xml:space="preserve">
+          <source>Singapore</source>
+        </trans-unit>
+        <trans-unit id="323" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Generate the GST-05 report (Task Guide)<ept id="p1">](generate-gst-05-report-singapore.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="324" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Print GST tax invoices (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/my-00005-print-gst-tax-invoices/)</ept></source>
+        </trans-unit>
+        <trans-unit id="325" translate="yes" xml:space="preserve">
+          <source>Spain</source>
+        </trans-unit>
+        <trans-unit id="326" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>OIOUBL standards for electronic invoicing<ept id="p1">](oioubl-standards-electronic-invoicing.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="327" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up OIOUBL electronic invoicing (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-oioubl-electronic-invoicing/)</ept></source>
+        </trans-unit>
+        <trans-unit id="328" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Import OIOUBL electronic invoicing configurations (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/import-oioubl-electronic-invoicing-configurations/)</ept></source>
+        </trans-unit>
+        <trans-unit id="329" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up customer accounts for OIOUBL electronic invoicing (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/set-up-customer-accounts-for-oioubl-electronic-invoicing/)</ept></source>
+        </trans-unit>
+        <trans-unit id="330" translate="yes" xml:space="preserve">
+          <source>Invoices for public sector</source>
+        </trans-unit>
+        <trans-unit id="331" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create and post a customer invoice for a public sector customer (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-and-post-a-customer-invoice-for-a-public-sector-customer/)</ept></source>
+        </trans-unit>
+        <trans-unit id="332" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create and post a free text invoice for a public sector customer (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-and-post-a-free-text-invoice-for-a-public-sector-customer/)</ept></source>
+        </trans-unit>
+        <trans-unit id="333" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create and post a project invoice for a public sector customer (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/create-and-post-a-project-invoice-for-a-public-sector-customer/)</ept></source>
+        </trans-unit>
+        <trans-unit id="334" translate="yes" xml:space="preserve">
+          <source>Sweden</source>
+        </trans-unit>
+        <trans-unit id="335" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Import payment formats for Sweden (Task Guide)<ept id="p1">](sweden-payment-formats-import.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="336" translate="yes" xml:space="preserve">
+          <source>Switzerland</source>
+        </trans-unit>
+        <trans-unit id="337" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>ESR customer payments import<ept id="p1">](che-esr-customer-payments-import.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="338" translate="yes" xml:space="preserve">
+          <source>United Kingdom</source>
+        </trans-unit>
+        <trans-unit id="339" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Invoice issue deadline<ept id="p1">](invoice-issue-deadline.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="340" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up reverse charge VAT item groups, rules, and parameters (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/gb-00002-set-up-reverse-charge-vat-item-groups-rules-and-parameters/)</ept></source>
+        </trans-unit>
+        <trans-unit id="341" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create a sales order that includes items subject to reverse charge VAT (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/gb-00002-create-a-sales-order-that-includes-items-subject-to-reverse-charge-vat/)</ept></source>
+        </trans-unit>
+        <trans-unit id="342" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up item sales tax groups for reverse charge VAT (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/gb-00002-set-up-item-sales-tax-groups-for-reverse-charge-vat/)</ept></source>
+        </trans-unit>
+        <trans-unit id="343" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up sales tax groups for reverse charge VAT (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/gb-00002-set-up-sales-tax-groups-for-reverse-charge-vat/)</ept></source>
+        </trans-unit>
+        <trans-unit id="344" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create a credit note on the settlement discount (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/gb-00009-create-a-credit-note-on-the-settlement-discount/)</ept></source>
+        </trans-unit>
+        <trans-unit id="345" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up parameters for credit note on prompt payment discount (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/gb-00009-setup-parameters-for-credit-note-on-prompt-payment-discount/)</ept></source>
+        </trans-unit>
+        <trans-unit id="346" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>The Construction Industry Scheme for the United Kingdom<ept id="p1">](construction-industry-scheme.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="347" translate="yes" xml:space="preserve">
+          <source>United States</source>
+        </trans-unit>
+        <trans-unit id="348" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Year-end 1099 reporting<ept id="p1">](year-end-1099-reporting.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="349" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting up I-9 document types (Task Guide)<ept id="p1">](http://ax.help.dynamics.com/en/wiki/setting-up-i-9-document-types/)</ept></source>
+        </trans-unit>
+        <trans-unit id="350" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Form I-9 verification<ept id="p1">](form-i-9-verification.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="351" translate="yes" xml:space="preserve">
+          <source>Additional resources</source>
+        </trans-unit>
+        <trans-unit id="352" translate="yes" xml:space="preserve">
+          <source>Additional help is available as task guides inside Dynamics 365 for Operations.</source>
+        </trans-unit>
+        <trans-unit id="353" translate="yes" xml:space="preserve">
+          <source>To access task guides, click the Help button on any page.</source>
+        </trans-unit>
+        <trans-unit id="354" translate="yes" xml:space="preserve">
+          <source>For information about Microsoft Dynamics 365 for Operations training, see <bpt id="p1">[</bpt>Microsoft eLearning<ept id="p1">](https://mbspartner.microsoft.com/AX/LearningPlans)</ept> (requires a CustomerSource account).</source>
+        </trans-unit>
+        <trans-unit id="355" translate="yes" xml:space="preserve">
+          <source>See also</source>
+        </trans-unit>
+        <trans-unit id="356" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>What’s new or changed<ept id="p1">](whats-new-changed.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="357" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Inform Microsoft about country/region regulation alerts and track the status of regulatory features<ept id="p1">](inform-msft-new-countryregion-regulations.md)</ept></source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
