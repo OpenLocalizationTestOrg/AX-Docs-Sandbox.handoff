@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="es-es">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-6be57c5" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0cca097a65e73e74803f2775a884793085a69a58</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">manufacturing\cost-management\supply-chain-management-home-page.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f76479f83c94770f8eafdc8576c1cfcd68ca2802</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">513c35d45561b0495e22ad183f8895b2f1001c43</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Supply chain management home page</source>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This topic provides a list of the help topics and other resources for the supply chain management features in Microsoft Dynamics 365 for Operations.</source>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Supply chain management home page</source>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>This topic provides a list of the help topics and other resources for the supply chain management features in Microsoft Dynamics 365 for Operations.</source>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Select a feature area to learn more about it.</source>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Cost accounting home page<ept id="p1">](cost-accounting-home-page.md)</ept> <bpt id="p2">[</bpt>Cost management home page<ept id="p2">](cost-management.md)</ept> <bpt id="p3">[</bpt>Inventory management home page<ept id="p3">](inventory-management.md)</ept> <bpt id="p4">[</bpt>Master planning home page<ept id="p4">](master-plan.md)</ept> <bpt id="p5">[</bpt>Procurement and sourcing home page<ept id="p5">](procurement-sourcing.md)</ept> <bpt id="p6">[</bpt>Product information management home page<ept id="p6">](product-information.md)</ept> <bpt id="p7">[</bpt>Production control home page<ept id="p7">](production-control-home-page.md)</ept> <bpt id="p8">[</bpt>Sales home page<ept id="p8">](sales.md)</ept> <bpt id="p9">[</bpt>Transportation management home page<ept id="p9">](transportation-management.md)</ept> <bpt id="p10">[</bpt>Warehouse management home page<ept id="p10">](warehouse-management.md)</ept></source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
