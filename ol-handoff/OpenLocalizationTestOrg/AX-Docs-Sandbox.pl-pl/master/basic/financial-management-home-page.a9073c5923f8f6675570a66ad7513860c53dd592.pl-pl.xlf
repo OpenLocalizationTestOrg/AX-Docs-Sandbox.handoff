@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="pl-pl">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-6be57c5" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2ab60f1636e9f34bcb578225e2d3a8dc00dc185d</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\general-ledger\financial-management-home-page.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a47d94ce3dfc96ffb8ff6977395629c97c830f87</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">509d5c6b5d2746fca67d005990e07d4e4584d93e</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Financial management home page</source>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This topic provides a list of the help topics and other resources for the financial management features in Microsoft Dynamics 365 for Operations.</source>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Financial management home page</source>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>This topic provides a list of the help topics and other resources for the financial management features in Microsoft Dynamics 365 for Operations.</source>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Select a feature area to learn more about it.</source>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Accounts payable home page<ept id="p1">](accounts-payable.md)</ept> <bpt id="p2">[</bpt>Accounts receivable home page<ept id="p2">](accounts-receivable.md)</ept> <bpt id="p3">[</bpt>Cash and bank management home page<ept id="p3">](cash-bank-management.md)</ept> <bpt id="p4">[</bpt>General ledger and financial reporting home page<ept id="p4">](general-ledger.md)</ept> <bpt id="p5">[</bpt>Public sector home page<ept id="p5">](public-sector-functionality.md)</ept> <bpt id="p6">[</bpt>Budgeting home page<ept id="p6">](budgeting-overview.md)</ept> <bpt id="p7">[</bpt>Expense management home page<ept id="p7">](expense-management.md)</ept></source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
