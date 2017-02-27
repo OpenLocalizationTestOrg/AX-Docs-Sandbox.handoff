@@ -1,6 +1,4 @@
 ---
-# required metadata
-
 title: Master planning for site coverage, warehouse not mandatory
 description: This topic describes how an item that has the site dimension set for coverage is planned.
 author: YuyuScheller
@@ -10,16 +8,10 @@ ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-
-# optional metadata
-
 ms.search.form: EcoResStorageDimensionGroup, ReqItemTable
-# ROBOTS: 
 audience: Application User
-# ms.devlang: 
 ms.reviewer: YuyuScheller
 ms.search.scope: AX 7.0.0, Operations
-# ms.tgt_pltfrm: 
 ms.custom: 2474
 ms.assetid: 316da918-67ae-43c5-baea-00ae559e29b0
 ms.search.region: Global
@@ -27,10 +19,15 @@ ms.search.industry: Manufacturing
 ms.author: roxanad
 ms.dyn365.ops.intro: 01-02-2016
 ms.dyn365.ops.version: AX 7.0.0
+translationtype: Human Translation
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: a29e4aff82c4a0cd7caab0c4c87fd7a8b3fed939
+ms.lasthandoff: 02/22/2017
+
 
 ---
 
-# Master planning for site coverage, warehouse not mandatory
+# <a name="master-planning-for-site-coverage-warehouse-not-mandatory"></a>Master planning for site coverage, warehouse not mandatory
 
 This topic describes how an item that has the site dimension set for coverage is planned.
 
@@ -50,7 +47,7 @@ The following graphic illustrates how master planning proceeds. The parameters t
 
 
 
-See also
+<a name="see-also"></a>See also
 --------
 
 [Master planning and multisite functionality](master-plan-multisite-functionality.md)
@@ -62,4 +59,5 @@ See also
 [Master planning - site and warehouse coverage, warehouse mandatory](master-plan-site-warehouse-coverage-warehouse-mandatory.md)
 
 [Master planning - how the BOM version is determined](master-plan-bom-version-determined.md)
+
 
