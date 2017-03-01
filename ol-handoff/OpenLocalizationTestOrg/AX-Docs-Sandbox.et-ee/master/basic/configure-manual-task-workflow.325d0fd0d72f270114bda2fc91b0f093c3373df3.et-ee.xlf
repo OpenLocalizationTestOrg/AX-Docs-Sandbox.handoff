@@ -3,12 +3,12 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="et-ee">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-47f9650" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a97a5783c836155e2445ff883f7cfc63e2707b13</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">00ee9ea3dcfbe3d7be326ec02f7445760981f9bc</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">core\organization-administration\configure-manual-task-workflow.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ce896d3a25d5860092a8179bb4ed3c4171007bb1</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0c63d37047da364a8257660fffb7375a56384129</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f09117f589b6b4af7ca512035cd5942083dbaad6</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f5a9b2ddabe4b94a8624804497246e65f57a9f5b</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -22,7 +22,7 @@
           <source>Configure a manual task in a workflow</source>
         </trans-unit>
         <trans-unit id="104" translate="yes" xml:space="preserve">
-          <source>Adding this text as a test, need to check localizations tatus.xlsx file after I download ax-docs-sandbox ie replicate what LIOX would do for handoff This topic explains how to configure the properties for a manual task.</source>
+          <source>This topic explains how to configure the properties for a manual task.</source>
         </trans-unit>
         <trans-unit id="105" translate="yes" xml:space="preserve">
           <source>To configure a manual task in the workflow editor, right-click the task, and then click <bpt id="p1">**</bpt>Properties<ept id="p1">**</ept> to open the <bpt id="p2">**</bpt>Properties<ept id="p2">**</ept> page.</source>
