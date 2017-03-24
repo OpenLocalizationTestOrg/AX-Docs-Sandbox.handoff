@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="ar-sa">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-6fd5493" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">41fec74762c448793604f7623f2bba6bc3050733</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-4d810d1" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f34b14adeaa6fd416af8f5ee329ba538b088eb0b</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\accounts-payable\accounts-payable.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a3486ea8471719a32430d6b64683c878b3bf7b49</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">384dae018fe1dcfd6d308ec6893b26e4b696667f</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">04b143fa0b3c783eae0f307ddd66363f5f64c477</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">60eef9375ab826d833211be91e30864dc35cbb7a</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -22,7 +22,7 @@
           <source>Accounts payable home page</source>
         </trans-unit>
         <trans-unit id="104" translate="yes" xml:space="preserve">
-          <source>Version 2 to be placed in HO folder for test purposes.</source>
+          <source>March 24th, testing hb of new version to determine if previous V1 in HB poison folder removed Version 2 to be placed in HO folder for test purposes.</source>
         </trans-unit>
         <trans-unit id="105" translate="yes" xml:space="preserve">
           <source>This topic provides a list of the help topics and other resources that are available for Accounts payable.</source>
