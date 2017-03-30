@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="ar-sa">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-19c43bb" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9eed8fbede653866b5c29156ecfb2545ed7b0b8b</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\TOC.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">do-not-translate</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">294133d57d61f331675af8b866c8f2417980f205</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e8d2c77dcbff2b65d4622ed384252804f7807788</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Introduction<ept id="p1">](index.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Overview of Dynamics 365 for Operations<ept id="p1">](get-started/TOC.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Develop and customize using Visual Studio<ept id="p1">](dev-tools/TOC.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>User interface development<ept id="p1">](user-interface/TOC.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Release solutions using LCS</source>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Develop and release<ept id="p1">](lcs-solutions/lcs-solutions-app-source.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Stage and publish<ept id="p1">](lcs-solutions/marketing-content-lcs-solutions.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Add a methodology<ept id="p1">](lcs-solutions/methodologies-lcs-solutions.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Migrate code<ept id="p1">](lcs-solutions/code-migration-lcs-solutions.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Validate an application<ept id="p1">](lcs-solutions/app-validation-lcs-solutions.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Process and consume data packages<ept id="p1">](lcs-solutions/process-data-packages-lcs-solutions.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Back up a solution database<ept id="p1">](lcs-solutions/database-backup-lcs-solutions.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Localizations<ept id="p1">](/dynamics365/operations/localizations/country_region?toc=/dynamics365/operations/dev-itpro/toc.json)</ept></source>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Classify localization features<ept id="p1">](lcs-solutions/classify-localization-features.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Country/region context<ept id="p1">](lcs-solutions/apply-country-context.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Regulatory certifications<ept id="p1">](lcs-solutions/regulatory-certifications.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Regulatory updates<ept id="p1">](lcs-solutions/regulatory-watch-communication.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Separate localization models<ept id="p1">](lcs-solutions/separate-localization-models.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Submit a regulatory alert<ept id="p1">](lcs-solutions/submit-localization-alerts.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Analytics<ept id="p1">](analytics/TOC.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Data entities<ept id="p1">](data-entities/TOC.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Mobile apps</source>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Install and configure the warehousing app <ept id="p1">](/dynamics365/operations/scm/warehousing/install-configure-warehousing-app?toc=/dynamics365/operations/dev-itpro/toc.json)</ept></source>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Mobile platform<ept id="p1">](mobile-apps/mobile-platform.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Mobile workspace X++ APIs - NEED TO FIND THIS TOPIC IN GITHUB</source>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Office integration</source>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Office integration<ept id="p1">](office-integration/office-integration.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Tutorial<ept id="p1">](office-integration/office-integration-tutorial.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create Open in Excel experiences<ept id="p1">](office-integration/office-integration-edit-excel.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Add templates to the Open lines in Excel menu<ept id="p1">](user-interface/add-templates-open-lines-excel-menu.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Customize the Open in Microsoft Office menu<ept id="p1">](office-integration/customize-open-office-menu.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Troubleshooting<ept id="p1">](office-integration/office-integration-troubleshooting.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Financials development<ept id="p1">](financial/TOC.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Supply chain development</source>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Gantt development guide<ept id="p1">](user-interface/gantt-development-guide.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create a new transportation management engine<ept id="p1">](/dynamics365/operations/scm/transportation/create-new-transportation-management-engine?toc=/dynamics365/operations/dev-itpro/toc.json)</ept></source>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Retail development<ept id="p1">](/dynamics365/operations/retail/dev-itpro/TOC)</ept></source>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Deployment<ept id="p1">](deployment/TOC.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Upgrade and migration<ept id="p1">](migration-upgrade/TOC.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Servicing<ept id="p1">](servicing/TOC.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>System administration<ept id="p1">](sysadmin/TOC.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Lifecycle Services<ept id="p1">](lifecycle-services/TOC.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Database management<ept id="p1">](database/TOC.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Support</source>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Get support for Dynamics 365 for Operations and Lifecycle Services<ept id="p1">](lifecycle-services/lcs-support.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Submit a request to the Dynamics Service Engineering team<ept id="p1">](lifecycle-services/submit-request-dynamics-service-engineering-team.md)</ept></source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
