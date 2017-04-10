@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="pt-br">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-1266fcc" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5d1d2678f6801f161596727e573439638207e376</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\extensibility\extensibility-home-page.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">do-not-translate</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9456f775280a79c0228163c5c708df7d8712ada1</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f2f07e7ded5f8b00223d520beb20b9eb19f55faa</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Extensibility home page</source>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This topic provides links to topics about extensibility with Microsoft Dynamics 365 for Operations.</source>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Extensibility home page</source>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>This topic provides links to topics about extensibility with Microsoft Dynamics 365 for Operations.</source>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>The development approach for Dynamics 365 for Operations focuses more on extending the application than on overlayering elements to customize application flows.</source>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Customize model elements using extensions (tutorial)<ept id="p1">](customize-model-elements-extensions.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Customization: overlayering and extensions<ept id="p1">](customization-overlayering-extensions.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Class extensions<ept id="p1">](class-extensions.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Customize App Suite reports using extensions<ept id="p1">](..\analytics\customize-app-suite-reports-with-extensions.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Extend the RunBase class<ept id="p1">](extend-runbase-class.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Customize by overlayering metadata source code (Office Mix)<ept id="p1">](https://mix.office.com/watch/1ol6ov90jrd4w)</ept></source>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Blog posts</source>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Extending Dynamics 365 for Operations<ept id="p1">](https://blogs.msdn.microsoft.com/mfp/2017/01/31/extending-dynamics-365-for-operations/)</ept></source>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Static event subscription<ept id="p1">](https://blogs.msdn.microsoft.com/mfp/2015/12/10/x-in-ax7-static-event-subscription/)</ept></source>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Responding through delegates<ept id="p1">](https://blogs.msdn.microsoft.com/mfp/2017/01/31/responding-through-delegates/)</ept></source>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Subscribing to onValidatingWrite<ept id="p1">](https://blogs.msdn.microsoft.com/mfp/2017/01/31/subscribing-to-onvalidatingwrite/)</ept></source>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Extending class state<ept id="p1">](https://blogs.msdn.microsoft.com/mfp/2017/01/31/extending-class-state/)</ept></source>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Extension methods<ept id="p1">](https://blogs.msdn.microsoft.com/mfp/2015/12/15/x-in-ax7-extension-methods/)</ept></source>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Extensible base enumerations<ept id="p1">](http://kashperuk.blogspot.dk/2016/09/development-tutorial-extensible-base.html)</ept></source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
