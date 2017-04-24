@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-6af0823" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">80997565ade6d18f7f76caf81199041992570776</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\localizations\emea-cze-credit-note-cash-discount.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">885d7b6b992a1ff2601fd000fe82d996c9347ab1</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">472f2cf0cb745c5896d521ef3320585a260d49ba</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Credit note on cash discount</source>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This topic provides information that will help legal entities in the Czech Republic create, post, and print credit notes for cash discounts that are given to customers.</source>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Credit note on cash discount</source>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>"<ph id="ph1">[!include[banner](../includes/banner.md)]</ph>"</source>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>This topic provides information that will help legal entities in the Czech Republic create, post, and print credit notes for cash discounts that are given to customers.</source>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Companies in the Czech Republic must issue credit notes for cash discounts that are given to customers.</source>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>These credit notes must include the following information:</source>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Invoice number</source>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Value-added tax (VAT) base and amount from the original document</source>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Reason for a correction</source>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Prerequisites</source>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Prerequisite</source>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Information</source>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Set up number sequences.</source>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Create a continuous number sequence for a legal entity.</source>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">&lt;a href="http://ax.help.dynamics.com/en/wiki/set-up-number-sequences-on-an-individual-basis/"&gt;</bpt>Set up number sequences on an individual basis.<ept id="p1">&lt;/a&gt;</ept></source>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>On the <bpt id="p1">&lt;strong&gt;</bpt>Accounts receivable parameters<ept id="p1">&lt;/strong&gt;</ept> page, select the number sequence that you created for <bpt id="p2">&lt;strong&gt;</bpt>Sales credit note<ept id="p2">&lt;/strong&gt;</ept>.</source>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Additionally, set up a number sequence for <bpt id="p1">&lt;strong&gt;</bpt>Sales credit note voucher<ept id="p1">&lt;/strong&gt;</ept>.</source>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>You can use the same number�sequence�that you used for <bpt id="p1">&lt;strong&gt;</bpt>Sales credit note<ept id="p1">&lt;/strong&gt;</ept>.</source>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Set up sales tax codes.</source>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">&lt;a href="http://ax.help.dynamics.com/en/wiki/set-up-sales-tax-codes/"&gt;</bpt>Set up sales tax codes<ept id="p1">&lt;/a&gt;</ept>.</source>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Set up report formats for documents.</source>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Go to <bpt id="p1">&lt;strong&gt;</bpt>Accounts receivable<ept id="p1">&lt;/strong&gt;</ept> <ph id="ph1">&amp;gt;</ph> <bpt id="p2">&lt;strong&gt;</bpt>Setup<ept id="p2">&lt;/strong&gt;</ept> <ph id="ph2">&amp;gt;</ph> <bpt id="p3">&lt;strong&gt;</bpt>Forms<ept id="p3">&lt;/strong&gt;</ept> <ph id="ph3">&amp;gt;</ph> <bpt id="p4">&lt;strong&gt;</bpt>Form setup<ept id="p4">&lt;/strong&gt;</ept>.</source>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>On the <bpt id="p1">&lt;strong&gt;</bpt>General<ept id="p1">&lt;/strong&gt;</ept> tab, under <bpt id="p2">&lt;strong&gt;</bpt>Set up options for customer forms<ept id="p2">&lt;/strong&gt;</ept>, click <bpt id="p3">&lt;strong&gt;</bpt>Print management<ept id="p3">&lt;/strong&gt;</ept>.</source>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>In the tree, expand <bpt id="p1">&lt;strong&gt;</bpt>Module - accounts receivable<ept id="p1">&lt;/strong&gt;</ept> <ph id="ph1">&amp;gt;</ph> <bpt id="p2">&lt;strong&gt;</bpt>Documents<ept id="p2">&lt;/strong&gt;</ept> <ph id="ph2">&amp;gt;</ph> <bpt id="p3">&lt;strong&gt;</bpt>Customer invoice<ept id="p3">&lt;/strong&gt;</ept>.</source>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">&lt;strong&gt;</bpt>Report format<ept id="p1">&lt;/strong&gt;</ept> field, enter or select a value.</source>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>In the tree, under the <bpt id="p1">&lt;strong&gt;</bpt>Customer invoice<ept id="p1">&lt;/strong&gt;</ept> node, select <bpt id="p2">&lt;strong&gt;</bpt>Original<ept id="p2">&lt;/strong&gt;</ept>.</source>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">&lt;strong&gt;</bpt>Report format<ept id="p1">&lt;/strong&gt;</ept> field, enter or select a value.</source>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>In the tree, expand <bpt id="p1">&lt;strong&gt;</bpt>Module - accounts receivable<ept id="p1">&lt;/strong&gt;</ept> <ph id="ph1">&amp;gt;</ph> <bpt id="p2">&lt;strong&gt;</bpt>Documents<ept id="p2">&lt;/strong&gt;</ept> <ph id="ph2">&amp;gt;</ph> <bpt id="p3">&lt;strong&gt;</bpt>Free text invoice<ept id="p3">&lt;/strong&gt;</ept>.</source>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">&lt;strong&gt;</bpt>Report format<ept id="p1">&lt;/strong&gt;</ept> field, enter or select a value.</source>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>In the tree, under the <bpt id="p1">&lt;strong&gt;</bpt>Free text invoice<ept id="p1">&lt;/strong&gt;</ept> node, select <bpt id="p2">&lt;strong&gt;</bpt>Original<ept id="p2">&lt;/strong&gt;</ept>.</source>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">&lt;strong&gt;</bpt>Report format<ept id="p1">&lt;/strong&gt;</ept> field, enter or select a value.</source>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Set up customer reason codes.</source>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>On the <bpt id="p1">&lt;strong&gt;</bpt>Customer reason codes<ept id="p1">&lt;/strong&gt;</ept> page (<bpt id="p2">&lt;strong&gt;</bpt>Accounts receivable<ept id="p2">&lt;/strong&gt;</ept> <ph id="ph1">&amp;gt;</ph> <bpt id="p3">&lt;strong&gt;</bpt>Setup<ept id="p3">&lt;/strong&gt;</ept> <ph id="ph2">&amp;gt;</ph> <bpt id="p4">&lt;strong&gt;</bpt>Customer reason codes<ept id="p4">&lt;/strong&gt;</ept>), create or edit the reason codes that are used for tax corrective documents.</source>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>Set up Accounts receivable parameters.</source>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>On the <bpt id="p1">&lt;strong&gt;</bpt>Accounts receivable parameters<ept id="p1">&lt;/strong&gt;</ept> page (<bpt id="p2">&lt;strong&gt;</bpt>Accounts receivable<ept id="p2">&lt;/strong&gt;</ept> <ph id="ph1">&amp;gt;</ph> <bpt id="p3">&lt;strong&gt;</bpt>Setup<ept id="p3">&lt;/strong&gt;</ept> <ph id="ph2">&amp;gt;</ph> <bpt id="p4">&lt;strong&gt;</bpt>Accounts receivable parameters<ept id="p4">&lt;/strong&gt;</ept>), on <bpt id="p5">&lt;strong&gt;</bpt>Settlement<ept id="p5">&lt;/strong&gt;</ept> tab, on the <bpt id="p6">&lt;strong&gt;</bpt>Options<ept id="p6">&lt;/strong&gt;</ept> FastTab, set up the following parameters:</source>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Select the <bpt id="p1">&lt;strong&gt;</bpt>Require reason codes for credit notes<ept id="p1">&lt;/strong&gt;</ept> check box.</source>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Select the <bpt id="p1">&lt;strong&gt;</bpt>Post credit note for cash discount<ept id="p1">&lt;/strong&gt;</ept> check box.</source>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">&lt;strong&gt;</bpt>Reason code for cash discounts<ept id="p1">&lt;/strong&gt;</ept> field, select a default reason code to use for tax corrective documents.</source>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>Credit notes for cash discounts</source>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>Credit notes for cash discounts are posted automatically when open customer transactions (customer invoice and customer payment) are settled.</source>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>When credit notes for cash discounts are posted, they include the reason codes that you set up in Account receivable parameters, and a reference to the original invoice.</source>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>Credit notes for cash discounts are numbered by using the number sequence that you set up for credit notes.</source>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>The document printout is named <bpt id="p1">**</bpt>Tax corrective document<ept id="p1">**</ept>.</source>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>It includes the original invoice number, the VAT base and amount, and the reason why a correction was printed.</source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
