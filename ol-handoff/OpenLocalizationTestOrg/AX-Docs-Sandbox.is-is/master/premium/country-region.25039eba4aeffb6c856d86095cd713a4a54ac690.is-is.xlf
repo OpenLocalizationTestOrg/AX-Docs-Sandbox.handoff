@@ -2,10 +2,10 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="is-is">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8689f4a" tool-company="Microsoft" />
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-dc5f777" tool-company="Microsoft" />
       <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e14d0836ee16db4fba9ef49df9a49564aa4c0402</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\lcs-solutions\country-region.md</xliffext:olfilepath>
-      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">premium</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
       <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3201d6f521c5711d93f5f0c34c03b939c877b8a5</xliffext:olskeletonhash>
       <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2feced2c75b09b59213f5e1caf50198beb56f2e6</xliffext:olxliffhash>
