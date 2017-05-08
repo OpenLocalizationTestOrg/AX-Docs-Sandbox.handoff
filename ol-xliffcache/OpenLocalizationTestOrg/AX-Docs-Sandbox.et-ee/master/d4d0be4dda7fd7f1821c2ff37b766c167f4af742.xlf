@@ -2,10 +2,10 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="et-ee">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8689f4a" tool-company="Microsoft" />
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-dc5f777" tool-company="Microsoft" />
       <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d4d0be4dda7fd7f1821c2ff37b766c167f4af742</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\cash-bank-management\cash-bank-management.md</xliffext:olfilepath>
-      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">premium</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
       <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3419d9aa93150c3d31666c1c6c13dcf5e9d53a4c</xliffext:olskeletonhash>
       <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">013878c199c61beafe56ccca306b05237c14b435</xliffext:olxliffhash>
