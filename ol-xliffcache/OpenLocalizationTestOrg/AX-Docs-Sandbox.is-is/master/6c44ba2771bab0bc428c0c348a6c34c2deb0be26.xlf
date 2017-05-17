@@ -2,12 +2,12 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="is-is">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-1d2c435" tool-company="Microsoft" />
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-bb493e2" tool-company="Microsoft" />
       <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6c44ba2771bab0bc428c0c348a6c34c2deb0be26</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">core\organization-administration\configure-workflow-properties.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">655424af5760074eade76f945032159e4ed0b663</xliffext:olskeletonhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">fdedf97a58fd7e8d3377215f51de1ee12e819790</xliffext:olskeletonhash>
       <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a41f87bad969256a4918dcbb9654cac5e6189bca</xliffext:olxliffhash>
     </header>
     <body>
