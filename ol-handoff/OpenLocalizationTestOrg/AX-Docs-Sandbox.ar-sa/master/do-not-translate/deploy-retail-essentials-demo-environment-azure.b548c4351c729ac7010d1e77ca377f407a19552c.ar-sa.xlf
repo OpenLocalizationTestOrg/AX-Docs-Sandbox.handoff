@@ -2,12 +2,12 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="ar-sa">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-1d2c435" tool-company="Microsoft" />
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-bb493e2" tool-company="Microsoft" />
       <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">7712c025e0fa1c9ea84f905394b67e2cb37ec5fb</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\lifecycle-services\ax-2012\deploy-retail-essentials-demo-environment-azure.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">do-not-translate</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d9aa2a2051768ed796138499aaac7a54592278fd</xliffext:olskeletonhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2bef616475f739d0811a16b451abaffd7118432b</xliffext:olskeletonhash>
       <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">88bdda2a82c6d2b0492d0391d09888915c11548f</xliffext:olxliffhash>
     </header>
     <body>
@@ -271,7 +271,7 @@
           <source>Select the name of the existing virtual network that you want to use.</source>
         </trans-unit>
         <trans-unit id="187" translate="yes" xml:space="preserve">
-          <source>The <bpt id="p1">&lt;span class="label"&gt;</bpt><bpt id="p2">&lt;strong&gt;</bpt>Application subnet<ept id="p2">&lt;/strong&gt;</ept> <bpt id="p3">&lt;strong&gt;</bpt>name<ept id="p3">&lt;/strong&gt;</ept><ept id="p1">&lt;/span&gt;</ept> and <bpt id="p4">&lt;strong&gt;</bpt><bpt id="p5">&lt;span class="label"&gt;</bpt>Address space<ept id="p5">&lt;/span&gt;</ept><ept id="p4">&lt;/strong&gt;</ept> fields will automatically display the appropriate information based on the virtual network that you selected.</source>
+          <source>The <bpt id="p1">&lt;span class="label"&gt;</bpt><bpt id="p2">&lt;strong&gt;</bpt>Application subnet<ept id="p2">&lt;/strong&gt;</ept><bpt id="p3"> &lt;strong&gt;</bpt>name<ept id="p3">&lt;/strong&gt;</ept><ept id="p1">&lt;/span&gt;</ept> and <bpt id="p4">&lt;strong&gt;</bpt><bpt id="p5">&lt;span class="label"&gt;</bpt>Address space<ept id="p5">&lt;/span&gt;</ept><ept id="p4">&lt;/strong&gt;</ept> fields will automatically display the appropriate information based on the virtual network that you selected.</source>
         </trans-unit>
         <trans-unit id="188" translate="yes" xml:space="preserve">
           <source>If you want to verify the information in these fields, do this:</source>
