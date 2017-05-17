@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="ru-ru">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-1d2c435" tool-company="Microsoft" />
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-bb493e2" tool-company="Microsoft" />
       <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a62b56bd2ac0a7484471190c5f342a1db335ab07</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">core\organization-administration\configure-manual-task-workflow.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">35f0e846aa91a7c1262d30f4601818b9ed0361c4</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f5a9b2ddabe4b94a8624804497246e65f57a9f5b</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dba15c8f8494430efa0383166e14b2df0f49be92</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e9ece311cf01a0c2172fb6ef08d0d8de44981724</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -280,8 +280,8 @@
           <source>In the <bpt id="p1">&lt;strong&gt;</bpt>Queue name<ept id="p1">&lt;/strong&gt;</ept> list, select <bpt id="p2">&lt;strong&gt;</bpt>Conditional queue<ept id="p2">&lt;/strong&gt;</ept>.</source>
         </trans-unit>
         <trans-unit id="190" translate="yes" xml:space="preserve">
-          <source><ph id="ph1">
-</ph><bpt id="p1">&lt;strong&gt;</bpt>Note:<ept id="p1">&lt;/strong&gt;</ept> This option is used for only a few workflows, such as Case management.</source>
+          <source><bpt id="p1">
+    &lt;strong&gt;</bpt>Note:<ept id="p1">&lt;/strong&gt;</ept> This option is used for only a few workflows, such as Case management.</source>
         </trans-unit>
         <trans-unit id="191" translate="yes" xml:space="preserve">
           <source>On the <bpt id="p1">**</bpt>Time limit<ept id="p1">**</ept> tab, in the <bpt id="p2">**</bpt>Duration<ept id="p2">**</ept> field, specify how much time the user has to complete the task.</source>
