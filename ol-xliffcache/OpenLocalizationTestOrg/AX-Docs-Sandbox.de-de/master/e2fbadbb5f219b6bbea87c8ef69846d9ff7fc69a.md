@@ -1,62 +1,62 @@
-# [Human resources home page](index.md)
-# Develop Human resources strategy
-## [Organize your workforce using departments, jobs, and positions](departments-jobs-positions.md)
-## [Set up job components](create-job.md)
-## [Create a department and associate it with the department hierarchy](create-department-add-department-hierarchy.md)
-## [Set up company-specific HR parameters](set-up-company-specific-hr-parameters.md)
-## [Set up HR parameters across legal entities](set-up-hr-parameters-across-legal-entities.md)
-## [Use workflow to manage employee information](workflow-manage-employee-information.md)
-# Recruit, hire, and motivate employees
-## [Manage a recruiting process](manage-recruiting-process.md)
-## [Mass hire projects](mass-hire-projects.md)
-## [Compensation plans](compensation-plans.md)
-## [Create fixed compensation plans](create-fixed-compensation-plans.md)
-## [Create variable compensation plans](create-variable-compensation-plans.md)
-# Develop and train employees
-## [Performance management overview](performance-management-overview.md)
-## [Align workforce skills with business needs](skills.md)
-## [Set up training courses](courses.md)
-# Create and maintain benefits
-## [Manage a benefits program](manage-benefit-program.md)
-## [Benefit eligibility policies](benefit-eligibility-policies.md)
-## [Manage items lent to workers](loan-items.md)
-# Gather information using questionnaires
-## [Questionnaires](questionnaires.md)
-## [Design a questionnaire](design-questionnaires.md)
-## [Distribute and complete a questionnaire](distribute-questionnaires.md)
-## [Evaluate the results of a questionnaire](evaluate-questionnaire-results.md)
-# United States features
-## Workplace safety and compliance
-### [Form I-9 employment verification](localizations/noam-usa-form-i-9-verification.md)
-### [Comply with the ADA](localizations/noam-usa-comply-ada.md)
-## [Payroll](localizations/noam-usa-payroll.md)
-### Payroll setup
-#### [Set up payroll for workers](localizations/noam-usa-worker-position-payroll-tasks.md)
-#### [Set up work cycles and work periods](localizations/noam-usa-work-cycle-work-period-tasks.md)
-#### [Set up benefit accrual plans ](localizations/noam-usa-benefit-accrual-plan-tasks.md)
-#### [Set up benefits](localizations/noam-usa-benefit-set-up-tasks.md)
-### Frequencies and cycles
-### [Pay cycle and pay period tasks](localizations/noam-usa-pay-cycle-pay-period-tasks-sample.md)
-### [Payroll calculation and frequency tasks](localizations/noam-usa-payroll-calculation-frequencies-tasks.md)
-### [Work schedule and leave tasks](localizations/noam-usa-work-schedule-leave-tasks.md)
-### Codes and taxes
-#### [Earning code and earning code group tasks](localizations/noam-usa-earning-code-group-tasks.md)
-#### [Tax information tasks](localizations/noam-usa-tax-information-tasks.md)
-### Garnishments, tax levies, and premium pay
-#### [Set up garnishments and tax levies](localizations/noam-usa-garnishment-tax-levy-set-up-tasks.md)
-#### [Enroll workers in garnishment and tax levies](localizations/noam-usa-garnishment-tax-levy-enrollment-tasks.md)
-#### [Set up premium earnings ](localizations/noam-usa-premium-earning-setup-tasks.md)
-#### [Garnishments, tax levies, and administrative fees FAQ](localizations/noam-usa-garnishment-tax-levy-administrative-fees.md)
-### Payroll processing tasks
-#### [Generate earnings](localizations/noam-usa-earnings-generation-process.md)
-#### [Issue worker payments](localizations/noam-usa-issue-worker-payments.md)
-#### [Post payroll and generate vendor invoices](localizations/noam-usa-post-payroll-generate-vendor-invoices.md)
-#### [Pay statements and generating payments FAQ](localizations/noam-usa-pay-statements-payment-generation-process.md)
-### Complete the payment process
-#### [Process existing payroll payments](localizations/noam-usa-existing-payroll-payments.md)
-#### [Process existing earnings](localizations/noam-usa-existing-earnings.md)
-#### [Process pay statements](localizations/noam-usa-pay-statements.md)
-### Maintenance and reporting
-#### [Payroll data updates FAQ](localizations/noam-usa-payroll-data-updates.md)
-#### [Generate payroll reports](localizations/noam-usa-generate-payroll-reports.md)
+# <a name="human-resources-home-pageindexmd"></a>[Human resources home page](index.md)
+# <a name="develop-human-resources-strategy"></a>Develop Human resources strategy
+## <a name="organize-your-workforce-using-departments-jobs-and-positionsdepartments-jobs-positionsmd"></a>[Organize your workforce using departments, jobs, and positions](departments-jobs-positions.md)
+## <a name="set-up-job-componentscreate-jobmd"></a>[Set up job components](create-job.md)
+## <a name="create-a-department-and-associate-it-with-the-department-hierarchycreate-department-add-department-hierarchymd"></a>[Create a department and associate it with the department hierarchy](create-department-add-department-hierarchy.md)
+## <a name="set-up-company-specific-hr-parametersset-up-company-specific-hr-parametersmd"></a>[Set up company-specific HR parameters](set-up-company-specific-hr-parameters.md)
+## <a name="set-up-hr-parameters-across-legal-entitiesset-up-hr-parameters-across-legal-entitiesmd"></a>[Set up HR parameters across legal entities](set-up-hr-parameters-across-legal-entities.md)
+## <a name="use-workflow-to-manage-employee-informationworkflow-manage-employee-informationmd"></a>[Use workflow to manage employee information](workflow-manage-employee-information.md)
+# <a name="recruit-hire-and-motivate-employees"></a>Recruit, hire, and motivate employees
+## <a name="manage-a-recruiting-processmanage-recruiting-processmd"></a>[Manage a recruiting process](manage-recruiting-process.md)
+## <a name="mass-hire-projectsmass-hire-projectsmd"></a>[Mass hire projects](mass-hire-projects.md)
+## <a name="compensation-planscompensation-plansmd"></a>[Compensation plans](compensation-plans.md)
+## <a name="create-fixed-compensation-planscreate-fixed-compensation-plansmd"></a>[Create fixed compensation plans](create-fixed-compensation-plans.md)
+## <a name="create-variable-compensation-planscreate-variable-compensation-plansmd"></a>[Create variable compensation plans](create-variable-compensation-plans.md)
+# <a name="develop-and-train-employees"></a>Develop and train employees
+## <a name="performance-management-overviewperformance-management-overviewmd"></a>[Performance management overview](performance-management-overview.md)
+## <a name="align-workforce-skills-with-business-needsskillsmd"></a>[Align workforce skills with business needs](skills.md)
+## <a name="set-up-training-coursescoursesmd"></a>[Set up training courses](courses.md)
+# <a name="create-and-maintain-benefits"></a>Create and maintain benefits
+## <a name="manage-a-benefits-programmanage-benefit-programmd"></a>[Manage a benefits program](manage-benefit-program.md)
+## <a name="benefit-eligibility-policiesbenefit-eligibility-policiesmd"></a>[Benefit eligibility policies](benefit-eligibility-policies.md)
+## <a name="manage-items-lent-to-workersloan-itemsmd"></a>[Manage items lent to workers](loan-items.md)
+# <a name="gather-information-using-questionnaires"></a>Gather information using questionnaires
+## <a name="questionnairesquestionnairesmd"></a>[Questionnaires](questionnaires.md)
+## <a name="design-a-questionnairedesign-questionnairesmd"></a>[Design a questionnaire](design-questionnaires.md)
+## <a name="distribute-and-complete-a-questionnairedistribute-questionnairesmd"></a>[Distribute and complete a questionnaire](distribute-questionnaires.md)
+## <a name="evaluate-the-results-of-a-questionnaireevaluate-questionnaire-resultsmd"></a>[Evaluate the results of a questionnaire](evaluate-questionnaire-results.md)
+# <a name="united-states-features"></a>United States features
+## <a name="workplace-safety-and-compliance"></a>Workplace safety and compliance
+### <a name="form-i-9-employment-verificationlocalizationsnoam-usa-form-i-9-verificationmd"></a>[Form I-9 employment verification](localizations/noam-usa-form-i-9-verification.md)
+### <a name="comply-with-the-adalocalizationsnoam-usa-comply-adamd"></a>[Comply with the ADA](localizations/noam-usa-comply-ada.md)
+## <a name="payrolllocalizationsnoam-usa-payrollmd"></a>[Payroll](localizations/noam-usa-payroll.md)
+### <a name="payroll-setup"></a>Payroll setup
+#### <a name="set-up-payroll-for-workerslocalizationsnoam-usa-worker-position-payroll-tasksmd"></a>[Set up payroll for workers](localizations/noam-usa-worker-position-payroll-tasks.md)
+#### <a name="set-up-work-cycles-and-work-periodslocalizationsnoam-usa-work-cycle-work-period-tasksmd"></a>[Set up work cycles and work periods](localizations/noam-usa-work-cycle-work-period-tasks.md)
+#### <a name="set-up-benefit-accrual-plans-localizationsnoam-usa-benefit-accrual-plan-tasksmd"></a>[Set up benefit accrual plans ](localizations/noam-usa-benefit-accrual-plan-tasks.md)
+#### <a name="set-up-benefitslocalizationsnoam-usa-benefit-set-up-tasksmd"></a>[Set up benefits](localizations/noam-usa-benefit-set-up-tasks.md)
+### <a name="frequencies-and-cycles"></a>Frequencies and cycles
+### <a name="pay-cycle-and-pay-period-taskslocalizationsnoam-usa-pay-cycle-pay-period-tasks-samplemd"></a>[Pay cycle and pay period tasks](localizations/noam-usa-pay-cycle-pay-period-tasks-sample.md)
+### <a name="payroll-calculation-and-frequency-taskslocalizationsnoam-usa-payroll-calculation-frequencies-tasksmd"></a>[Payroll calculation and frequency tasks](localizations/noam-usa-payroll-calculation-frequencies-tasks.md)
+### <a name="work-schedule-and-leave-taskslocalizationsnoam-usa-work-schedule-leave-tasksmd"></a>[Work schedule and leave tasks](localizations/noam-usa-work-schedule-leave-tasks.md)
+### <a name="codes-and-taxes"></a>Codes and taxes
+#### <a name="earning-code-and-earning-code-group-taskslocalizationsnoam-usa-earning-code-group-tasksmd"></a>[Earning code and earning code group tasks](localizations/noam-usa-earning-code-group-tasks.md)
+#### <a name="tax-information-taskslocalizationsnoam-usa-tax-information-tasksmd"></a>[Tax information tasks](localizations/noam-usa-tax-information-tasks.md)
+### <a name="garnishments-tax-levies-and-premium-pay"></a>Garnishments, tax levies, and premium pay
+#### <a name="set-up-garnishments-and-tax-levieslocalizationsnoam-usa-garnishment-tax-levy-set-up-tasksmd"></a>[Set up garnishments and tax levies](localizations/noam-usa-garnishment-tax-levy-set-up-tasks.md)
+#### <a name="enroll-workers-in-garnishment-and-tax-levieslocalizationsnoam-usa-garnishment-tax-levy-enrollment-tasksmd"></a>[Enroll workers in garnishment and tax levies](localizations/noam-usa-garnishment-tax-levy-enrollment-tasks.md)
+#### <a name="set-up-premium-earnings-localizationsnoam-usa-premium-earning-setup-tasksmd"></a>[Set up premium earnings ](localizations/noam-usa-premium-earning-setup-tasks.md)
+#### <a name="garnishments-tax-levies-and-administrative-fees-faqlocalizationsnoam-usa-garnishment-tax-levy-administrative-feesmd"></a>[Garnishments, tax levies, and administrative fees FAQ](localizations/noam-usa-garnishment-tax-levy-administrative-fees.md)
+### <a name="payroll-processing-tasks"></a>Payroll processing tasks
+#### <a name="generate-earningslocalizationsnoam-usa-earnings-generation-processmd"></a>[Generate earnings](localizations/noam-usa-earnings-generation-process.md)
+#### <a name="issue-worker-paymentslocalizationsnoam-usa-issue-worker-paymentsmd"></a>[Issue worker payments](localizations/noam-usa-issue-worker-payments.md)
+#### <a name="post-payroll-and-generate-vendor-invoiceslocalizationsnoam-usa-post-payroll-generate-vendor-invoicesmd"></a>[Post payroll and generate vendor invoices](localizations/noam-usa-post-payroll-generate-vendor-invoices.md)
+#### <a name="pay-statements-and-generating-payments-faqlocalizationsnoam-usa-pay-statements-payment-generation-processmd"></a>[Pay statements and generating payments FAQ](localizations/noam-usa-pay-statements-payment-generation-process.md)
+### <a name="complete-the-payment-process"></a>Complete the payment process
+#### <a name="process-existing-payroll-paymentslocalizationsnoam-usa-existing-payroll-paymentsmd"></a>[Process existing payroll payments](localizations/noam-usa-existing-payroll-payments.md)
+#### <a name="process-existing-earningslocalizationsnoam-usa-existing-earningsmd"></a>[Process existing earnings](localizations/noam-usa-existing-earnings.md)
+#### <a name="process-pay-statementslocalizationsnoam-usa-pay-statementsmd"></a>[Process pay statements](localizations/noam-usa-pay-statements.md)
+### <a name="maintenance-and-reporting"></a>Maintenance and reporting
+#### <a name="payroll-data-updates-faqlocalizationsnoam-usa-payroll-data-updatesmd"></a>[Payroll data updates FAQ](localizations/noam-usa-payroll-data-updates.md)
+#### <a name="generate-payroll-reportslocalizationsnoam-usa-generate-payroll-reportsmd"></a>[Generate payroll reports](localizations/noam-usa-generate-payroll-reports.md)
 

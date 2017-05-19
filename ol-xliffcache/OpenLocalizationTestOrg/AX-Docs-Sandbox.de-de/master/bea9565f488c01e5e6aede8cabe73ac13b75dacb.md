@@ -1,45 +1,45 @@
 ---
-# required metadata
-
 title: Take a cash discount outside the cash discount period
 description: This article provides two scenarios that show how a cash discount can be taken even if the payment is made outside the cash discount period.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 23 - 21 - 36
+ms.date: 04/04/2017
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-
-# optional metadata
-
 ms.search.form: LedgerJournalTransVendPaym, VendOpenTrans
-# ROBOTS: 
 audience: Application User
-# ms.devlang: 
 ms.reviewer: twheeloc
 ms.search.scope: AX 7.0.0, Operations, Core
-# ms.tgt_pltfrm: 
 ms.custom: 14301
 ms.assetid: bad10b7f-e550-4742-9261-8a094c9c624d
 ms.search.region: Global
-# ms.search.industry: 
 ms.author: kweekley
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
+ms.translationtype: Human Translation
+ms.sourcegitcommit: 5c0c34d84dbba3a71480d50cf5d4fcd83dddedc6
+ms.openlocfilehash: bea9565f488c01e5e6aede8cabe73ac13b75dacb
+ms.contentlocale: de-de
+ms.lasthandoff: 03/30/2017
+
 
 ---
 
-# Take a cash discount outside the cash discount period
+# <a name="take-a-cash-discount-outside-the-cash-discount-period"></a>Take a cash discount outside the cash discount period
+
+[!include[banner](../includes/banner.md)]
+
 
 This article provides two scenarios that show how a cash discount can be taken even if the payment is made outside the cash discount period.
 
 On June 28, April creates an invoice for 2,000.00 for vendor 3052. The invoice has a cash discount of 1 percent if the invoice is paid in 14 days.
 
-## Use cash discount option = Always
+## <a name="use-cash-discount-option--always"></a>Use cash discount option = Always
 April creates a payment on July 1, which is after the discount date. April opens the **Settle transactions** page to view the transactions that can be settled. 
 
-April marks the invoice for payment. No cash discount is taken, because the payment is after the discount date. However, the vendor has given April approval to take the cash discount anyway. Therefore, April changes the value in the **Use cash discount** field to **Always**.
+April marks the invoice for payment. No cash discount is taken, because the payment is after the discount date. However, the vendor has given April approval to take the cash discount anyway. Therefore, April changes the value in the **Use cash discount** field to **Always**.
 
 | Mark     | Use cash discount | Voucher   | Account | Cash discount date | Due date  | Invoice | Amount in transaction currency | Currency | Amount to settle |
 |----------|-------------------|-----------|---------|--------------------|-----------|---------|--------------------------------|----------|------------------|
@@ -55,8 +55,8 @@ Discount information appears at the bottom of the **Settle transactions** page.
 | Cash discount taken          | 0.00      |
 | Cash discount amount to take | -20.00    |
 
-## Date to use for calculating discounts = Selected date
-If both the invoice and the payment have been posted, the cash discount can still be taken when the transactions are settled on the **Settle transactions** page. April changes the value in the **Date to use for calculating discounts** field to **Selected date**. She then enters a date of June 28, which is in the cash discount period for the invoice. That date is used to calculate a cash discount for the transaction. On the **Settle open transactions** page, April sees that, by default, the full discount of 20.00 appears. The invoice line shows that the amount to settle is 1,980.00.
+## <a name="date-to-use-for-calculating-discounts--selected-date"></a>Date to use for calculating discounts = Selected date
+If both the invoice and the payment have been posted, the cash discount can still be taken when the transactions are settled on the **Settle transactions** page. April changes the value in the **Date to use for calculating discounts** field to **Selected date**. She then enters a date of June 28, which is in the cash discount period for the invoice. That date is used to calculate a cash discount for the transaction. On the **Settle open transactions** page, April sees that, by default, the full discount of 20.00 appears. The invoice line shows that the amount to settle is 1,980.00.
 
 | Mark                     | Use cash discount | Voucher   | Account | Cash discount date | Due date  | Invoice | Amount in transaction currency | Currency | Amount to settle |
 |--------------------------|-------------------|-----------|---------|--------------------|-----------|---------|--------------------------------|----------|------------------|
@@ -89,6 +89,9 @@ Discount information appears at the bottom of the **Settle open transactions** p
 | Use cash discount            | Normal    |
 | Cash discount taken          | 0.00      |
 | Cash discount amount to take | -5.05     |
+
+
+
 
 
 

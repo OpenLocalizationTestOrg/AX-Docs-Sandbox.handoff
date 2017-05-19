@@ -1,36 +1,34 @@
 ---
-# required metadata
-
 title: Settlement overview for centralized payments
-description: Organizations that include multiple legal entities can create and manage payments by using a legal entity that handles all payments. This eliminates the need to enter the same transaction in multiple legal entities and saves time by streamlining the payment proposal process, the settlement process, open transaction editing, and closed transaction editing for centralized payments. 
+description: Organizations that include multiple legal entities can create and manage payments by using a legal entity that handles all payments. This eliminates the need to enter the same transaction in multiple legal entities and saves time by streamlining the payment proposal process, the settlement process, open transaction editing, and closed transaction editing for centralized payments.
 author: twheeloc
 manager: AnnBe
-ms.date: 2016-10-31 18 - 23 - 48
+ms.date: 04/04/2017
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-
-# optional metadata
-
-# ms.search.form: 
-# ROBOTS: 
 audience: Application User
-# ms.devlang: 
-# ms.reviewer: 101
 ms.search.scope: AX 7.0.0, Operations, Core
-# ms.tgt_pltfrm: 
 ms.custom: 222414
 ms.assetid: 610f6858-0f37-4d0f-8c68-bab5a971ef4a
 ms.search.region: Global
-# ms.search.industry: 
 ms.author: abruer
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
+ms.translationtype: Human Translation
+ms.sourcegitcommit: 5c0c34d84dbba3a71480d50cf5d4fcd83dddedc6
+ms.openlocfilehash: 08c0af5eabc31dca0b36a2dc62ce2f739b808cde
+ms.contentlocale: de-de
+ms.lasthandoff: 03/30/2017
+
 
 ---
 
-# Settlement overview for centralized payments
+# <a name="settlement-overview-for-centralized-payments"></a>Settlement overview for centralized payments
+
+[!include[banner](../includes/banner.md)]
+
 
 Organizations that include multiple legal entities can create and manage payments by using a legal entity that handles all payments. This eliminates the need to enter the same transaction in multiple legal entities and saves time by streamlining the payment proposal process, the settlement process, open transaction editing, and closed transaction editing for centralized payments. 
 
@@ -52,7 +50,7 @@ The following transaction types are available for use in single-company and cros
 
 You can also define default descriptions for intercompany settlement vouchers.
 
-Currency exchange gains or losses
+<a name="currency-exchange-gains-or-losses"></a>Currency exchange gains or losses
 ---------------------------------
 
 The exchange rate that is used for customer or vendor transactions is stored with the transaction. Realized gains or losses for currency exchanges are posted to either the legal entity of the invoice or the legal entity of the payment, depending on the option that is selected in the **Post currency exchange gain or loss** field on the **Intercompany accounting** page for the legal entity of the payment. The following examples use these currencies:
@@ -61,7 +59,7 @@ The exchange rate that is used for customer or vendor transactions is stored wit
 -   Payment transaction currency: DKK
 -   Invoice transaction currency: CAD
 
-#### Currency calculations
+#### <a name="currency-calculations"></a>Currency calculations
 
 When settling an invoice that is entered in one legal entity with a payment that is entered in another legal entity, the transaction currency of the payment (DKK) is converted in three steps:
 1.  Converted to the accounting currency of the payment (EUR), using the exchange rates from the legal entity of the payment.
@@ -77,16 +75,16 @@ When the **Settle open transactions** page is opened from a payment journal wher
 
 The resulting payment amount is transferred to the payment journal line when you close the **Settle open transactions** page.
 
-#### Posting for gain or loss because of different accounting currencies
+#### <a name="posting-for-gain-or-loss-because-of-different-accounting-currencies"></a>Posting for gain or loss because of different accounting currencies
 
 If there is a currency exchange gain or loss, the gain or loss is posted to the legal entity that is specified for the **Post currency exchange gain or loss** field on the **Intercompany accounting** page for the legal entity of the payment. The gain or loss amount is converted to the accounting currency of the legal entity where the gain or loss amount is posted, using the exchange rate that is defined for that legal entity.
 
-Cash discounts
+<a name="cash-discounts"></a>Cash discounts
 --------------
 
 Cash discounts that are generated during the cross-company settlement process are posted to either the legal entity of the invoice or the legal entity of the payment, depending on the option that is selected for the **Post cash discount** field on the **Intercompany accounting** page for the legal entity of the payment. A corresponding settlement transaction is generated in the legal entity of the invoice.
 
-Overpayments and underpayments
+<a name="overpayments-and-underpayments"></a>Overpayments and underpayments
 ------------------------------
 
 Overpayment, underpayment, and penny difference tolerances are determined based on the legal entity of the payment for overpayments, and on the legal entity of the invoice for underpayments. The posting account that is used is determined by the setting in the **Cash discount administration** field on the **Accounts receivable parameters** page for customers, and the **Cash discount administration** field on the **Accounts payable parameters** page for vendors.
@@ -102,18 +100,21 @@ If the cash discount administration selection is Unspecific, unspecific payment 
 
 In all other situations, overpayments or underpayments are posted to the automatic account for Customer cash discount, Vendor cash discount, or Penny difference in accounting currency.
 
-## Sales tax
+## <a name="sales-tax"></a>Sales tax
 Sales tax transactions remain in the legal entity where they were originally posted. 
 
 If sales tax was posted for a prepayment, the cross-company settlement reverses the sales tax on the prepayment in the legal entity of the prepayment. The taxes in the legal entity of the invoice remain in the legal entity of the invoice.
 
-## Financial dimensions
+## <a name="financial-dimensions"></a>Financial dimensions
 For customer payments, the due-to and due-from transactions in the legal entity of the payment use the financial dimensions that are specified for the accounts receivable summary account from the payment that is being settled. In the legal entity of the invoice, due-to and due-from transactions use the financial dimensions that are specified for the accounts receivable summary account from the invoice that is being settled. 
 
 For vendor payments, the due-to and due-from transactions in the legal entity of the payment use the financial dimensions that are specified for the accounts payable summary account from the payment that is being settled. In the legal entity of the invoice, due-to and due-from transactions use the financial dimensions that are specified for the accounts payable summary account from the invoice that is being settled.
 
-## Withholding tax
+## <a name="withholding-tax"></a>Withholding tax
 The vendor account that is associated with the invoice is used to determine whether withholding tax should be calculated. If withholding tax applies, it is calculated in the legal entity that is associated with the invoice. If the legal entities use different currencies, the exchange rate from the legal entity that is associated with the invoice is used.
+
+
+
 
 
 

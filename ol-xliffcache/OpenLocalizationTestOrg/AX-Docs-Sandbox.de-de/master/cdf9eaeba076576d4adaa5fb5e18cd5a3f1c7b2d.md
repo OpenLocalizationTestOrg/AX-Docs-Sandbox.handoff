@@ -1,25 +1,16 @@
 ---
-# required metadata
-
 title: Inventory locations
 description: Inventory locations are used with basic warehousing (WMS I) to determine where items are stored and where items are picked from in a WMS I warehouse.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-09-10 08 - 08 - 37
+ms.date: 04/04/2017
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-
-# optional metadata
-
 ms.search.form: WMSLocation
-# ROBOTS: 
 audience: Application User
-# ms.devlang: 
-# ms.reviewer: 2084
 ms.search.scope: AX 7.0.0, Operations, Core
-# ms.tgt_pltfrm: 
 ms.custom: 2134
 ms.assetid: 69bf6922-4151-447f-b678-4ba95637f54c
 ms.search.region: Global
@@ -27,10 +18,19 @@ ms.search.industry: Distribution
 ms.author: perlynne
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
+ms.translationtype: Human Translation
+ms.sourcegitcommit: f15e1f9bcf426ca6b9081c7260858c354d799786
+ms.openlocfilehash: cdf9eaeba076576d4adaa5fb5e18cd5a3f1c7b2d
+ms.contentlocale: de-de
+ms.lasthandoff: 03/30/2017
+
 
 ---
 
-# Inventory locations
+# <a name="inventory-locations"></a>Inventory locations
+
+[!include[banner](../includes/banner.md)]
+
 
 Inventory locations are used with basic warehousing (WMS I) to determine where items are stored and where items are picked from in a WMS I warehouse.
 
@@ -43,30 +43,33 @@ Location properties
 -------------------
 
 A location has the following characteristics:
--   Size (height, width, depth, and thereby volume)
+-   Size (height, width, depth, and thereby volume)
 -   Warehouse, aisle, rack, shelf, and bin position
--   Location type (bulk location, picking location, inbound dock, outbound dock, production input location, inspection location, or kanban supermarket)
+-   Location type (bulk location, picking location, inbound dock, outbound dock, production input location, inspection location, or kanban supermarket)
 
 Check text can be used in online systems to verify that the operator has selected the correct location for a specific item. This check text can be created manually or by default.
 
-## Sort codes
+## <a name="sort-codes"></a>Sort codes
 Use sort codes to optimize the handling of picking lines, which describe the information that is required for picking items from inventory, including the picking order. Sort codes can be specified by the aisle and other coordinates, or assigned manually for the location.
 
-## Blocked locations
+## <a name="blocked-locations"></a>Blocked locations
 Occasionally, you might want to indicate that a location is blocked for a period of time, for example, to allow for repairs. At other times, you may want to indicate blocking of only the input or only output.
 Tree structure
 --------------
 
-In the Inventory locations page, you can view the warehouse layout in a tree structure based on the coordinates of inventory locations, in a defined display format.
+In the Inventory locations page, you can view the warehouse layout in a tree structure based on the coordinates of inventory locations, in a defined display format.
 Maintain inventory locations via the warehouse form
 ---------------------------------------------------
 
-It is possible to copy locations from one warehouse to another and to create locations via a wizard. Before you run the wizard you should make sure that you have defined the default location names on the Warehouse page.
+It is possible to copy locations from one warehouse to another and to create locations via a wizard. Before you run the wizard you should make sure that you have defined the default location names on the Warehouse page.
 
 
 
-See also
+<a name="see-also"></a>See also
 --------
 
 [Create a new warehouse layout (task guide)](https://ax.help.dynamics.com/en/wiki/create-a-new-warehouse-layout/)
+
+
+
 
