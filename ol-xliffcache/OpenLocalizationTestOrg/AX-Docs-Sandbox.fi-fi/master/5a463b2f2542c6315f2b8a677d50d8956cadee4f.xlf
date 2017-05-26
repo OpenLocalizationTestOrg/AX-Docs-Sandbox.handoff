@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="fi-fi">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-aa43c9f" tool-company="Microsoft" />
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-ffc129d" tool-company="Microsoft" />
       <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5a463b2f2542c6315f2b8a677d50d8956cadee4f</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\user-interface\powerapps-host-control.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">do-not-translate</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1582d6f139a65945caa37ab05b1ab6f5335338a8</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">04353e07a92f5fa0e9b2d32dc3b6ba13bb255b56</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">bdfb0f3723c364a9f7c01b6e3b8700e47d1378e2</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">cb753f9e158cfbef6279f520f861c7a46661c927</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -28,48 +28,51 @@
           <source>Apps run on <bpt id="p1">[</bpt>mobile devices such as phones<ept id="p1">](https://powerapps.microsoft.com/en-us/tutorials/run-app-client/)</ept>, or you can run them <bpt id="p2">[</bpt>in a browser<ept id="p2">](https://powerapps.microsoft.com/en-us/tutorials/run-app-browser/)</ept> by starting Microsoft Dynamics 365 for Operations.</source>
         </trans-unit>
         <trans-unit id="106" translate="yes" xml:space="preserve">
-          <source>You can create many types of apps without having to learn a programming language such as C<ph id="ph1">\#</ph>. By using the PowerApps Host control that is available to Dynamics 365 for Operations developers who use Microsoft Visual Studio, you can embed a PowerApps app that you’ve created or a shared PowerApps app.</source>
+          <source>You can create many types of apps without having to learn a programming language such as C<ph id="ph1">\#</ph>.</source>
         </trans-unit>
         <trans-unit id="107" translate="yes" xml:space="preserve">
-          <source>To learn more about PowerApps, see <bpt id="p1">[</bpt>https://powerapps.microsoft.com<ept id="p1">](https://powerapps.microsoft.com/)</ept>.</source>
+          <source>By using the PowerApps Host control that is available to Dynamics 365 for Operations developers who use Microsoft Visual Studio, you can embed a PowerApps app that you’ve created or a shared PowerApps app.</source>
         </trans-unit>
         <trans-unit id="108" translate="yes" xml:space="preserve">
-          <source>Host a PowerApps app on a page</source>
+          <source>To learn more about PowerApps, see <bpt id="p1">[</bpt>https://powerapps.microsoft.com<ept id="p1">](https://powerapps.microsoft.com/)</ept>.</source>
         </trans-unit>
         <trans-unit id="109" translate="yes" xml:space="preserve">
-          <source>In PowerApps, find the web-based PowerApps app that you want to host, and record or copy the <bpt id="p1">**</bpt>App ID<ept id="p1">**</ept> value.</source>
+          <source>Host a PowerApps app on a page</source>
         </trans-unit>
         <trans-unit id="110" translate="yes" xml:space="preserve">
-          <source>PowerApps app id</source>
+          <source>In PowerApps, find the web-based PowerApps app that you want to host, and record or copy the <bpt id="p1">**</bpt>App ID<ept id="p1">**</ept> value.</source>
         </trans-unit>
         <trans-unit id="111" translate="yes" xml:space="preserve">
-          <source>In Visual Studio, open your project, and then, in the form designer, add an instance of a PowerApps Host control to your page.</source>
+          <source>PowerApps app id</source>
         </trans-unit>
         <trans-unit id="112" translate="yes" xml:space="preserve">
-          <source>In the <bpt id="p1">**</bpt>Properties<ept id="p1">**</ept> pane, enter the <bpt id="p2">**</bpt>App ID<ept id="p2">**</ept> value.</source>
+          <source>In Visual Studio, open your project, and then, in the form designer, add an instance of a PowerApps Host control to your page.</source>
         </trans-unit>
         <trans-unit id="113" translate="yes" xml:space="preserve">
-          <source>If your PowerApps app shares or is linked to the current data source on your page, you should pass the ID of the primary or linked key field for the data that you want your PowerApps app to show.</source>
+          <source>In the <bpt id="p1">**</bpt>Properties<ept id="p1">**</ept> pane, enter the <bpt id="p2">**</bpt>App ID<ept id="p2">**</ept> value.</source>
         </trans-unit>
         <trans-unit id="114" translate="yes" xml:space="preserve">
-          <source>In this case, provide the ID as the value of the <bpt id="p1">**</bpt>Entity ID<ept id="p1">**</ept>, <bpt id="p2">**</bpt>Entity ID Data Source/Field<ept id="p2">**</ept>, or <bpt id="p3">**</bpt>DataMethod<ept id="p3">**</ept> property.</source>
+          <source>If your PowerApps app shares or is linked to the current data source on your page, you should pass the ID of the primary or linked key field for the data that you want your PowerApps app to show.</source>
         </trans-unit>
         <trans-unit id="115" translate="yes" xml:space="preserve">
-          <source>This value will then be passed to your PowerApps app as a parm value, and your PowerApps app must use that value to obtain the linked data.</source>
+          <source>In this case, provide the ID as the value of the <bpt id="p1">**</bpt>Entity ID<ept id="p1">**</ept>, <bpt id="p2">**</bpt>Entity ID Data Source/Field<ept id="p2">**</ept>, or <bpt id="p3">**</bpt>DataMethod<ept id="p3">**</ept> property.</source>
         </trans-unit>
         <trans-unit id="116" translate="yes" xml:space="preserve">
-          <source>PowerApps Host control properties window</source>
+          <source>This value will then be passed to your PowerApps app as a parm value, and your PowerApps app must use that value to obtain the linked data.</source>
         </trans-unit>
         <trans-unit id="117" translate="yes" xml:space="preserve">
-          <source>In some cases, your PowerApps app might be hosted in a development or sandbox PowerApps environment that is provided by Microsoft.</source>
+          <source>PowerApps Host control properties window</source>
         </trans-unit>
         <trans-unit id="118" translate="yes" xml:space="preserve">
-          <source>In this case, you must supply that override URL as the value of the <bpt id="p1">**</bpt>PowerApps Environment Override<ept id="p1">**</ept> property.</source>
+          <source>In some cases, your PowerApps app might be hosted in a development or sandbox PowerApps environment that is provided by Microsoft.</source>
         </trans-unit>
         <trans-unit id="119" translate="yes" xml:space="preserve">
-          <source>Sizing is determined by the container that you put your control in.</source>
+          <source>In this case, you must supply that override URL as the value of the <bpt id="p1">**</bpt>PowerApps Environment Override<ept id="p1">**</ept> property.</source>
         </trans-unit>
         <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Sizing is determined by the container that you put your control in.</source>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
           <source>If you put your control in a form pattern that has limited available space, and your PowerApps app has been designed to be larger than the available space, your PowerApps app will have scroll bars.</source>
         </trans-unit>
       </group>
