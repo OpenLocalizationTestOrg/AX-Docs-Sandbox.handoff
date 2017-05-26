@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="it-it">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-aa43c9f" tool-company="Microsoft" />
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-ffc129d" tool-company="Microsoft" />
       <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">82c14dad73b3688b08df6da68c91c472fab142d8</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\dev-ref\xpp-statements-loops.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">do-not-translate</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a934c586c62c0cf6accfd17a17b9b8f9d498ce11</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">69063dc44d84325cc43b5462765c610c706a5f65</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e9113ac3b653ad0d21b32710bbc0adc4a0db2c5e</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2a58482a22e1c3e9994699ee2db9d010af0d9e5c</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -37,232 +37,232 @@
           <source>Comments are ignored when the program is compiled.</source>
         </trans-unit>
         <trans-unit id="109" translate="yes" xml:space="preserve">
-          <source>Your comments can use either the <bpt id="p1">**</bpt><ph id="ph1">//</ph><ept id="p1">**</ept> style or the <bpt id="p2">**</bpt><ph id="ph2">/</ph><ph id="ph3">\*</ph><ept id="p2">**</ept>…<bpt id="p3">**</bpt><ph id="ph4">\*</ph><ph id="ph5">/</ph><ept id="p3">**</ept></source>
+          <source>Your comments can use either the <bpt id="p1">**</bpt><ph id="ph1">//</ph><ept id="p1">**</ept> style or the <bpt id="p2">**</bpt><ph id="ph2">/</ph><ph id="ph3">\*</ph><ept id="p2">**</ept>…<bpt id="p3">**</bpt><ph id="ph4">\*</ph><ph id="ph5">/</ph><ept id="p3">**</ept> style.</source>
         </trans-unit>
         <trans-unit id="110" translate="yes" xml:space="preserve">
-          <source>style.</source>
-        </trans-unit>
-        <trans-unit id="111" translate="yes" xml:space="preserve">
           <source>However, a best practice is to use the <bpt id="p1">**</bpt><ph id="ph1">//</ph><ept id="p1">**</ept> style for comments, and even for multiline comments.</source>
         </trans-unit>
-        <trans-unit id="112" translate="yes" xml:space="preserve">
+        <trans-unit id="111" translate="yes" xml:space="preserve">
           <source>Conditional statements: if, if...else, switch, and ternary operator (?)</source>
         </trans-unit>
-        <trans-unit id="113" translate="yes" xml:space="preserve">
+        <trans-unit id="112" translate="yes" xml:space="preserve">
           <source>The conditional statements are <bpt id="p1">**</bpt>if<ept id="p1">**</ept>, <bpt id="p2">**</bpt>if<ept id="p2">**</ept>...<bpt id="p3">**</bpt>else<ept id="p3">**</ept>, <bpt id="p4">**</bpt>switch<ept id="p4">**</ept>, and the ternary operator (<bpt id="p5">**</bpt>?<ept id="p5">**</ept>).</source>
         </trans-unit>
-        <trans-unit id="114" translate="yes" xml:space="preserve">
+        <trans-unit id="113" translate="yes" xml:space="preserve">
           <source>You use conditional statements to specify whether a block of code is executed.</source>
         </trans-unit>
-        <trans-unit id="115" translate="yes" xml:space="preserve">
+        <trans-unit id="114" translate="yes" xml:space="preserve">
           <source>Different conditional statements offer advantages in different situations.</source>
         </trans-unit>
-        <trans-unit id="116" translate="yes" xml:space="preserve">
+        <trans-unit id="115" translate="yes" xml:space="preserve">
           <source>if and if...else statements</source>
         </trans-unit>
-        <trans-unit id="117" translate="yes" xml:space="preserve">
+        <trans-unit id="116" translate="yes" xml:space="preserve">
           <source>The <bpt id="p1">**</bpt>if<ept id="p1">**</ept> statement evaluates a conditional expression, and then executes a statement or a set of statements if the conditional expression is evaluated as <bpt id="p2">**</bpt>true<ept id="p2">**</ept>.</source>
         </trans-unit>
-        <trans-unit id="118" translate="yes" xml:space="preserve">
+        <trans-unit id="117" translate="yes" xml:space="preserve">
           <source>You can use the <bpt id="p1">**</bpt>else<ept id="p1">**</ept> clause to provide an alternative statement or set of statements that is executed if the condition is evaluated as <bpt id="p2">**</bpt>false<ept id="p2">**</ept>.</source>
         </trans-unit>
-        <trans-unit id="119" translate="yes" xml:space="preserve">
+        <trans-unit id="118" translate="yes" xml:space="preserve">
           <source>Here is the syntax for an <bpt id="p1">**</bpt>if<ept id="p1">**</ept>...<bpt id="p2">**</bpt>else<ept id="p2">**</ept> statement:</source>
         </trans-unit>
-        <trans-unit id="120" translate="yes" xml:space="preserve">
+        <trans-unit id="119" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>if (<ept id="p1">**</ept> <bpt id="p2">*</bpt>expression<ept id="p2">*</ept> <bpt id="p3">**</bpt>)<ept id="p3">**</ept> <bpt id="p4">*</bpt>statement<ept id="p4">*</ept> <bpt id="p5">**</bpt><ph id="ph1">\[</ph> else<ept id="p5">**</ept> <bpt id="p6">*</bpt>statement<ept id="p6">*</ept> <bpt id="p7">**</bpt><ph id="ph2">\]</ph><ept id="p7">**</ept></source>
         </trans-unit>
-        <trans-unit id="121" translate="yes" xml:space="preserve">
+        <trans-unit id="120" translate="yes" xml:space="preserve">
           <source>In this syntax, both occurrences of <bpt id="p1">*</bpt>statement<ept id="p1">*</ept> can be compound statements.</source>
         </trans-unit>
-        <trans-unit id="122" translate="yes" xml:space="preserve">
+        <trans-unit id="121" translate="yes" xml:space="preserve">
           <source>The <bpt id="p1">*</bpt>expression<ept id="p1">*</ept> in the parentheses (the conditional expression) can be any valid expression that is evaluated as <bpt id="p2">**</bpt>true<ept id="p2">**</ept> or <bpt id="p3">**</bpt>false<ept id="p3">**</ept>.</source>
         </trans-unit>
-        <trans-unit id="123" translate="yes" xml:space="preserve">
+        <trans-unit id="122" translate="yes" xml:space="preserve">
           <source>All numbers except 0 (zero) are <bpt id="p1">**</bpt>true<ept id="p1">**</ept>.</source>
         </trans-unit>
-        <trans-unit id="124" translate="yes" xml:space="preserve">
+        <trans-unit id="123" translate="yes" xml:space="preserve">
           <source>All non-empty strings are also <bpt id="p1">**</bpt>true<ept id="p1">**</ept>.</source>
         </trans-unit>
-        <trans-unit id="125" translate="yes" xml:space="preserve">
+        <trans-unit id="124" translate="yes" xml:space="preserve">
           <source>You can nest <bpt id="p1">**</bpt>if<ept id="p1">**</ept> statements.</source>
         </trans-unit>
-        <trans-unit id="126" translate="yes" xml:space="preserve">
+        <trans-unit id="125" translate="yes" xml:space="preserve">
           <source>However, if the nesting of <bpt id="p1">**</bpt>if<ept id="p1">**</ept> statements becomes too deep, you should consider using a <bpt id="p2">**</bpt>switch<ept id="p2">**</ept> statement instead.</source>
         </trans-unit>
-        <trans-unit id="127" translate="yes" xml:space="preserve">
+        <trans-unit id="126" translate="yes" xml:space="preserve">
           <source>Examples of if and if...else statements</source>
         </trans-unit>
-        <trans-unit id="128" translate="yes" xml:space="preserve">
+        <trans-unit id="127" translate="yes" xml:space="preserve">
           <source>switch statements</source>
         </trans-unit>
-        <trans-unit id="129" translate="yes" xml:space="preserve">
+        <trans-unit id="128" translate="yes" xml:space="preserve">
           <source>The <bpt id="p1">**</bpt>switch<ept id="p1">**</ept> statement is a multibranch language construct, unlike the <bpt id="p2">**</bpt>if<ept id="p2">**</ept> statement, where you must nest <bpt id="p3">**</bpt>if<ept id="p3">**</ept> statements to create the same effect.</source>
         </trans-unit>
-        <trans-unit id="130" translate="yes" xml:space="preserve">
+        <trans-unit id="129" translate="yes" xml:space="preserve">
           <source>The conditional expression of the <bpt id="p1">**</bpt>switch<ept id="p1">**</ept> statement is evaluated and checked against each case value.</source>
         </trans-unit>
-        <trans-unit id="131" translate="yes" xml:space="preserve">
+        <trans-unit id="130" translate="yes" xml:space="preserve">
           <source>The case values must be constants that the compiler can evaluate.</source>
         </trans-unit>
-        <trans-unit id="132" translate="yes" xml:space="preserve">
+        <trans-unit id="131" translate="yes" xml:space="preserve">
           <source>If a case constant matches the <bpt id="p1">**</bpt>switch<ept id="p1">**</ept> expression, the <bpt id="p2">**</bpt>case<ept id="p2">**</ept> statement is executed.</source>
         </trans-unit>
-        <trans-unit id="133" translate="yes" xml:space="preserve">
+        <trans-unit id="132" translate="yes" xml:space="preserve">
           <source>If the case also contains a <bpt id="p1">**</bpt>break<ept id="p1">**</ept> statement, the program then jumps out of the switch.</source>
         </trans-unit>
-        <trans-unit id="134" translate="yes" xml:space="preserve">
+        <trans-unit id="133" translate="yes" xml:space="preserve">
           <source>If the case doesn't contain a <bpt id="p1">**</bpt>break<ept id="p1">**</ept> statement, the program continues and executes the next set of <bpt id="p2">**</bpt>case<ept id="p2">**</ept> statements.</source>
         </trans-unit>
-        <trans-unit id="135" translate="yes" xml:space="preserve">
+        <trans-unit id="134" translate="yes" xml:space="preserve">
           <source>If no matches are found, the <bpt id="p1">**</bpt>default<ept id="p1">**</ept> statement is executed.</source>
         </trans-unit>
-        <trans-unit id="136" translate="yes" xml:space="preserve">
+        <trans-unit id="135" translate="yes" xml:space="preserve">
           <source>If there are no matches and no <bpt id="p1">**</bpt>default<ept id="p1">**</ept> statement, none of the statements inside the <bpt id="p2">**</bpt>switch<ept id="p2">**</ept> statement are executed.</source>
         </trans-unit>
-        <trans-unit id="137" translate="yes" xml:space="preserve">
+        <trans-unit id="136" translate="yes" xml:space="preserve">
           <source>Here is the syntax for a <bpt id="p1">**</bpt>switch<ept id="p1">**</ept> statement:</source>
         </trans-unit>
-        <trans-unit id="138" translate="yes" xml:space="preserve">
+        <trans-unit id="137" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>switch (<ept id="p1">**</ept> <bpt id="p2">*</bpt>expression<ept id="p2">*</ept> <bpt id="p3">**</bpt>) { { case } <ph id="ph1">\[</ph> default:<ept id="p3">**</ept> <bpt id="p4">*</bpt>statement<ept id="p4">*</ept> <bpt id="p5">**</bpt><ph id="ph2">\]</ph> }<ept id="p5">**</ept></source>
         </trans-unit>
-        <trans-unit id="139" translate="yes" xml:space="preserve">
+        <trans-unit id="138" translate="yes" xml:space="preserve">
           <source>Here is the syntax for a <bpt id="p1">**</bpt>case<ept id="p1">**</ept> statement:</source>
         </trans-unit>
-        <trans-unit id="140" translate="yes" xml:space="preserve">
+        <trans-unit id="139" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>case<ept id="p1">**</ept> <bpt id="p2">*</bpt>expression<ept id="p2">*</ept> <bpt id="p3">**</bpt>{ ,<ept id="p3">**</ept> <bpt id="p4">*</bpt>expression<ept id="p4">*</ept> <bpt id="p5">**</bpt>} :<ept id="p5">**</ept> <bpt id="p6">*</bpt>statement<ept id="p6">*</ept></source>
         </trans-unit>
-        <trans-unit id="141" translate="yes" xml:space="preserve">
+        <trans-unit id="140" translate="yes" xml:space="preserve">
           <source>In the syntax for both a <bpt id="p1">**</bpt>switch<ept id="p1">**</ept> statement and a <bpt id="p2">**</bpt>case<ept id="p2">**</ept> statement, every occurrence of s<bpt id="p3">*</bpt>tatement<ept id="p3">*</ept> can be replaced with a block of statements by enclosing the block in braces ({}).</source>
         </trans-unit>
-        <trans-unit id="142" translate="yes" xml:space="preserve">
+        <trans-unit id="141" translate="yes" xml:space="preserve">
           <source>Examples of switch statements</source>
         </trans-unit>
-        <trans-unit id="143" translate="yes" xml:space="preserve">
+        <trans-unit id="142" translate="yes" xml:space="preserve">
           <source>Ternary operator (?)</source>
         </trans-unit>
-        <trans-unit id="144" translate="yes" xml:space="preserve">
+        <trans-unit id="143" translate="yes" xml:space="preserve">
           <source>The ternary operator (<bpt id="p1">**</bpt>?<ept id="p1">**</ept>) is a conditional statement that is resolved to one of two expressions.</source>
         </trans-unit>
-        <trans-unit id="145" translate="yes" xml:space="preserve">
+        <trans-unit id="144" translate="yes" xml:space="preserve">
           <source>The result can be assigned to a variable.</source>
         </trans-unit>
-        <trans-unit id="146" translate="yes" xml:space="preserve">
+        <trans-unit id="145" translate="yes" xml:space="preserve">
           <source>By contrast, an <bpt id="p1">**</bpt>if<ept id="p1">**</ept> statement provides conditional branching of the program flow but can't be assigned to a variable.</source>
         </trans-unit>
-        <trans-unit id="147" translate="yes" xml:space="preserve">
+        <trans-unit id="146" translate="yes" xml:space="preserve">
           <source>Here is the syntax for the ternary operator:</source>
         </trans-unit>
-        <trans-unit id="148" translate="yes" xml:space="preserve">
+        <trans-unit id="147" translate="yes" xml:space="preserve">
           <source><bpt id="p1">*</bpt>expression1<ept id="p1">*</ept> <bpt id="p2">**</bpt>?<ept id="p2">**</ept></source>
         </trans-unit>
-        <trans-unit id="149" translate="yes" xml:space="preserve">
+        <trans-unit id="148" translate="yes" xml:space="preserve">
           <source><bpt id="p1">*</bpt>expression2<ept id="p1">*</ept> <bpt id="p2">**</bpt>:<ept id="p2">**</ept> <bpt id="p3">*</bpt>expression3<ept id="p3">*</ept></source>
         </trans-unit>
-        <trans-unit id="150" translate="yes" xml:space="preserve">
+        <trans-unit id="149" translate="yes" xml:space="preserve">
           <source>In this syntax, <bpt id="p1">*</bpt>expression1<ept id="p1">*</ept> must return a value of <bpt id="p2">**</bpt>true<ept id="p2">**</ept> or <bpt id="p3">**</bpt>false<ept id="p3">**</ept>.</source>
         </trans-unit>
-        <trans-unit id="151" translate="yes" xml:space="preserve">
+        <trans-unit id="150" translate="yes" xml:space="preserve">
           <source>If <bpt id="p1">*</bpt>expression1<ept id="p1">*</ept> is <bpt id="p2">**</bpt>true<ept id="p2">**</ept>, the whole ternary statement returns <bpt id="p3">*</bpt>expression2<ept id="p3">*</ept>.</source>
         </trans-unit>
-        <trans-unit id="152" translate="yes" xml:space="preserve">
+        <trans-unit id="151" translate="yes" xml:space="preserve">
           <source>Otherwise, the statement returns <bpt id="p1">*</bpt>expression3<ept id="p1">*</ept>.</source>
         </trans-unit>
-        <trans-unit id="153" translate="yes" xml:space="preserve">
+        <trans-unit id="152" translate="yes" xml:space="preserve">
           <source>Both <bpt id="p1">*</bpt>expression2<ept id="p1">*</ept> and <bpt id="p2">*</bpt>expression3<ept id="p2">*</ept> must have the same type.</source>
         </trans-unit>
-        <trans-unit id="154" translate="yes" xml:space="preserve">
+        <trans-unit id="153" translate="yes" xml:space="preserve">
           <source>Examples of the ternary operator (?)</source>
         </trans-unit>
-        <trans-unit id="155" translate="yes" xml:space="preserve">
+        <trans-unit id="154" translate="yes" xml:space="preserve">
           <source>Exception handling: throw, try...catch, finally, and retry</source>
         </trans-unit>
-        <trans-unit id="156" translate="yes" xml:space="preserve">
+        <trans-unit id="155" translate="yes" xml:space="preserve">
           <source>You handle errors by using the <bpt id="p1">**</bpt>throw<ept id="p1">**</ept>, <bpt id="p2">**</bpt>try<ept id="p2">**</ept>...<bpt id="p3">**</bpt>catch<ept id="p3">**</ept>, <bpt id="p4">**</bpt>finally<ept id="p4">**</ept>, and <bpt id="p5">**</bpt>retry<ept id="p5">**</ept> statements to generate and handle exceptions.</source>
         </trans-unit>
-        <trans-unit id="157" translate="yes" xml:space="preserve">
+        <trans-unit id="156" translate="yes" xml:space="preserve">
           <source>An <bpt id="p1">*</bpt>exception<ept id="p1">*</ept> is a regulated jump away from the sequence of program execution.</source>
         </trans-unit>
-        <trans-unit id="158" translate="yes" xml:space="preserve">
+        <trans-unit id="157" translate="yes" xml:space="preserve">
           <source>The instruction where program execution resumes is determined by <bpt id="p1">**</bpt>try<ept id="p1">**</ept>...<bpt id="p2">**</bpt>catch<ept id="p2">**</ept> blocks and the type of exception that is thrown.</source>
         </trans-unit>
-        <trans-unit id="159" translate="yes" xml:space="preserve">
+        <trans-unit id="158" translate="yes" xml:space="preserve">
           <source>An exception is represented by a value of the <bpt id="p1">**</bpt>Exception<ept id="p1">**</ept> enumeration.</source>
         </trans-unit>
-        <trans-unit id="160" translate="yes" xml:space="preserve">
+        <trans-unit id="159" translate="yes" xml:space="preserve">
           <source>One exception that is often thrown is the <bpt id="p1">**</bpt>Exception::error<ept id="p1">**</ept> enum value.</source>
         </trans-unit>
-        <trans-unit id="161" translate="yes" xml:space="preserve">
+        <trans-unit id="160" translate="yes" xml:space="preserve">
           <source>A common practice is to write diagnostic information to the Infolog before the exception is thrown.</source>
         </trans-unit>
-        <trans-unit id="162" translate="yes" xml:space="preserve">
+        <trans-unit id="161" translate="yes" xml:space="preserve">
           <source>The <bpt id="p1">**</bpt>Global::error<ept id="p1">**</ept> method is often the best way to write diagnostic information to the Infolog.</source>
         </trans-unit>
-        <trans-unit id="163" translate="yes" xml:space="preserve">
+        <trans-unit id="162" translate="yes" xml:space="preserve">
           <source>For example, your method might receive an input parameter value that isn't valid.</source>
         </trans-unit>
-        <trans-unit id="164" translate="yes" xml:space="preserve">
+        <trans-unit id="163" translate="yes" xml:space="preserve">
           <source>In this case, the method can throw an exception to immediately transfer control to a <bpt id="p1">**</bpt>catch<ept id="p1">**</ept> code block that contains logic for handling this error situation.</source>
         </trans-unit>
-        <trans-unit id="165" translate="yes" xml:space="preserve">
+        <trans-unit id="164" translate="yes" xml:space="preserve">
           <source>You don't necessarily have to know the location of the <bpt id="p1">**</bpt>catch<ept id="p1">**</ept> block that will receive control when the exception is thrown.</source>
         </trans-unit>
-        <trans-unit id="166" translate="yes" xml:space="preserve">
+        <trans-unit id="165" translate="yes" xml:space="preserve">
           <source>throw statements</source>
         </trans-unit>
-        <trans-unit id="167" translate="yes" xml:space="preserve">
+        <trans-unit id="166" translate="yes" xml:space="preserve">
           <source>You use the <bpt id="p1">**</bpt>throw<ept id="p1">**</ept> keyword to throw an <bpt id="p2">**</bpt>Exception<ept id="p2">**</ept> enum value.</source>
         </trans-unit>
-        <trans-unit id="168" translate="yes" xml:space="preserve">
+        <trans-unit id="167" translate="yes" xml:space="preserve">
           <source>For example, the following statement throws an error exception.</source>
         </trans-unit>
-        <trans-unit id="169" translate="yes" xml:space="preserve">
+        <trans-unit id="168" translate="yes" xml:space="preserve">
           <source>Instead of throwing an enum value, a best practice is to use the output of the <bpt id="p1">**</bpt>Global::error<ept id="p1">**</ept> method as the operand for <bpt id="p2">**</bpt>throw<ept id="p2">**</ept>.</source>
         </trans-unit>
-        <trans-unit id="170" translate="yes" xml:space="preserve">
+        <trans-unit id="169" translate="yes" xml:space="preserve">
           <source>The <bpt id="p1">**</bpt>Global::error<ept id="p1">**</ept> method can automatically convert a label into the corresponding text.</source>
         </trans-unit>
-        <trans-unit id="171" translate="yes" xml:space="preserve">
+        <trans-unit id="170" translate="yes" xml:space="preserve">
           <source>This functionality helps you write code that can be localized more easily.</source>
         </trans-unit>
-        <trans-unit id="172" translate="yes" xml:space="preserve">
+        <trans-unit id="171" translate="yes" xml:space="preserve">
           <source>The static methods on the <bpt id="p1">**</bpt>Global<ept id="p1">**</ept> class can be called without the <bpt id="p2">**</bpt>Global::<ept id="p2">**</ept> prefix.</source>
         </trans-unit>
-        <trans-unit id="173" translate="yes" xml:space="preserve">
+        <trans-unit id="172" translate="yes" xml:space="preserve">
           <source>For example, the <bpt id="p1">**</bpt>Global::error<ept id="p1">**</ept> method can be called like this.</source>
         </trans-unit>
-        <trans-unit id="174" translate="yes" xml:space="preserve">
+        <trans-unit id="173" translate="yes" xml:space="preserve">
           <source>try, catch, finally, and retry statements</source>
         </trans-unit>
-        <trans-unit id="175" translate="yes" xml:space="preserve">
+        <trans-unit id="174" translate="yes" xml:space="preserve">
           <source>When an exception is thrown, it's first processed through the <bpt id="p1">**</bpt>catch<ept id="p1">**</ept> list of the innermost <bpt id="p2">**</bpt>try<ept id="p2">**</ept> block.</source>
         </trans-unit>
-        <trans-unit id="176" translate="yes" xml:space="preserve">
+        <trans-unit id="175" translate="yes" xml:space="preserve">
           <source>If a <bpt id="p1">**</bpt>catch<ept id="p1">**</ept> block is found that handles the kind of exception that is being thrown, program control jumps to that <bpt id="p2">**</bpt>catch<ept id="p2">**</ept> block.</source>
         </trans-unit>
-        <trans-unit id="177" translate="yes" xml:space="preserve">
+        <trans-unit id="176" translate="yes" xml:space="preserve">
           <source>If the <bpt id="p1">**</bpt>catch<ept id="p1">**</ept> list has no block that specifies the exception, the system passes the exception to the <bpt id="p2">**</bpt>catch<ept id="p2">**</ept> list of the next-innermost <bpt id="p3">**</bpt>try<ept id="p3">**</ept> block.</source>
         </trans-unit>
-        <trans-unit id="178" translate="yes" xml:space="preserve">
+        <trans-unit id="177" translate="yes" xml:space="preserve">
           <source>The <bpt id="p1">**</bpt>catch<ept id="p1">**</ept> statements are processed in the same sequence as they appear in the code.</source>
         </trans-unit>
-        <trans-unit id="179" translate="yes" xml:space="preserve">
+        <trans-unit id="178" translate="yes" xml:space="preserve">
           <source>It's a common practice to have the first <bpt id="p1">**</bpt>catch<ept id="p1">**</ept> statement handle the <bpt id="p2">**</bpt>Exception::Error<ept id="p2">**</ept> enum value.</source>
         </trans-unit>
-        <trans-unit id="180" translate="yes" xml:space="preserve">
+        <trans-unit id="179" translate="yes" xml:space="preserve">
           <source>One strategy is to have the last <bpt id="p1">**</bpt>catch<ept id="p1">**</ept> statement leave the exception type unspecified.</source>
         </trans-unit>
-        <trans-unit id="181" translate="yes" xml:space="preserve">
+        <trans-unit id="180" translate="yes" xml:space="preserve">
           <source>In this case, the last <bpt id="p1">**</bpt>catch<ept id="p1">**</ept> statement handles all exceptions that aren't handled by any earlier <bpt id="p2">**</bpt>catch<ept id="p2">**</ept> statement.</source>
         </trans-unit>
-        <trans-unit id="182" translate="yes" xml:space="preserve">
+        <trans-unit id="181" translate="yes" xml:space="preserve">
           <source>This strategy is appropriate for the outermost <bpt id="p1">**</bpt>try<ept id="p1">**</ept>...<bpt id="p2">**</bpt>catch<ept id="p2">**</ept> blocks.</source>
         </trans-unit>
-        <trans-unit id="183" translate="yes" xml:space="preserve">
+        <trans-unit id="182" translate="yes" xml:space="preserve">
           <source>An optional ****finally**** clause can be included in <bpt id="p1">**</bpt>try<ept id="p1">**</ept>...<bpt id="p2">**</bpt>catch<ept id="p2">**</ept> statements.</source>
         </trans-unit>
+        <trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>The semantics of a <bpt id="p1">**</bpt>finally<ept id="p1">**</ept> clause are the same as they are in C<ph id="ph1">\#</ph>.</source>
+        </trans-unit>
         <trans-unit id="184" translate="yes" xml:space="preserve">
-          <source>The semantics of a <bpt id="p1">**</bpt>finally<ept id="p1">**</ept> clause are the same as they are in C<ph id="ph1">\#</ph>. The statements in the <bpt id="p2">**</bpt>finally<ept id="p2">**</ept> clause are executed when control leaves the <bpt id="p3">**</bpt>try<ept id="p3">**</ept> block, either normally or through an exception.</source>
+          <source>The statements in the <bpt id="p1">**</bpt>finally<ept id="p1">**</ept> clause are executed when control leaves the <bpt id="p2">**</bpt>try<ept id="p2">**</ept> block, either normally or through an exception.</source>
         </trans-unit>
         <trans-unit id="185" translate="yes" xml:space="preserve">
           <source>The <bpt id="p1">**</bpt>retry<ept id="p1">**</ept> statement can be written only in a <bpt id="p2">**</bpt>catch<ept id="p2">**</ept> block.</source>
