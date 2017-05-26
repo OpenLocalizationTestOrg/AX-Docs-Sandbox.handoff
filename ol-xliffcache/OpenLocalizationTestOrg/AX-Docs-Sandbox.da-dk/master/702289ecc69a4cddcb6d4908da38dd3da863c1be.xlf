@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="da-dk">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-aa43c9f" tool-company="Microsoft" />
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-ffc129d" tool-company="Microsoft" />
       <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">702289ecc69a4cddcb6d4908da38dd3da863c1be</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\lifecycle-services\ax-2012\run-test-data-transfer-tool-beta.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">do-not-translate</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0ed2bc2f8441a22d87f44532af1e5dfb64343fc8</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">000cdc95671e455e4075853ee86204d51ead3c09</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f442f8d19675c5d3a6e8fbe6faabbf94321586ea</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8456491d1f0834684a75ab34af68b05b746bd515</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -580,60 +580,57 @@
           <source>Match the start of the string.</source>
         </trans-unit>
         <trans-unit id="290" translate="yes" xml:space="preserve">
-          <source>To specify tables, first define a regular expression that starts with .<ph id="ph1">\*</ph></source>
+          <source>To specify tables, first define a regular expression that starts with .<ph id="ph1">\*</ph> to match all tables.</source>
         </trans-unit>
         <trans-unit id="291" translate="yes" xml:space="preserve">
-          <source>to match all tables.</source>
-        </trans-unit>
-        <trans-unit id="292" translate="yes" xml:space="preserve">
           <source>Then append a zero-width negative lookbehind assertion for each table that you want to export.</source>
         </trans-unit>
-        <trans-unit id="293" translate="yes" xml:space="preserve">
+        <trans-unit id="292" translate="yes" xml:space="preserve">
           <source>The subexpression in each assertion is the name of the table that is anchored to the start of the string.</source>
         </trans-unit>
-        <trans-unit id="294" translate="yes" xml:space="preserve">
+        <trans-unit id="293" translate="yes" xml:space="preserve">
           <source>For example, to export only the InventTable and DocuRef tables, use the following regular expression.</source>
         </trans-unit>
-        <trans-unit id="295" translate="yes" xml:space="preserve">
+        <trans-unit id="294" translate="yes" xml:space="preserve">
           <source>// Match all tables except InventTable and DocuRef .*(?&lt;!^InventTable)(?&lt;!^DocuRef)</source>
         </trans-unit>
-        <trans-unit id="296" translate="yes" xml:space="preserve">
+        <trans-unit id="295" translate="yes" xml:space="preserve">
           <source>For each additional table that you want to export, append (?<ph id="ph1">&amp;lt;</ph>!^NameOfTable) to the same regular expression.</source>
         </trans-unit>
-        <trans-unit id="297" translate="yes" xml:space="preserve">
+        <trans-unit id="296" translate="yes" xml:space="preserve">
           <source>Exclude columns from the export</source>
         </trans-unit>
-        <trans-unit id="298" translate="yes" xml:space="preserve">
+        <trans-unit id="297" translate="yes" xml:space="preserve">
           <source>To exclude a column or columns from the exported data, follow these steps.</source>
         </trans-unit>
-        <trans-unit id="299" translate="yes" xml:space="preserve">
+        <trans-unit id="298" translate="yes" xml:space="preserve">
           <source>Open <bpt id="p1">**</bpt><ph id="ph1">\[</ph>Lists<ph id="ph2">\]</ph>Filters.xml<ept id="p1">**</ept>.</source>
         </trans-unit>
-        <trans-unit id="300" translate="yes" xml:space="preserve">
+        <trans-unit id="299" translate="yes" xml:space="preserve">
           <source>Add a <ph id="ph1">&amp;lt;</ph>table<ph id="ph2">&amp;gt;</ph> element that has a <bpt id="p1">**</bpt>name<ept id="p1">**</ept> attribute.</source>
         </trans-unit>
-        <trans-unit id="301" translate="yes" xml:space="preserve">
+        <trans-unit id="300" translate="yes" xml:space="preserve">
           <source>The value of the <bpt id="p1">**</bpt>name<ept id="p1">**</ept> attribute is the name of the table that contains the columns to exclude.</source>
         </trans-unit>
-        <trans-unit id="302" translate="yes" xml:space="preserve">
+        <trans-unit id="301" translate="yes" xml:space="preserve">
           <source>Add an <ph id="ph1">&amp;lt;</ph>exclude<ph id="ph2">&amp;gt;</ph> element in the <ph id="ph3">&amp;lt;</ph>table<ph id="ph4">&amp;gt;</ph> element.</source>
         </trans-unit>
-        <trans-unit id="303" translate="yes" xml:space="preserve">
+        <trans-unit id="302" translate="yes" xml:space="preserve">
           <source>For each column that you want to exclude from the export for this table, add a <ph id="ph1">&amp;lt;</ph>field<ph id="ph2">&amp;gt;</ph> element.</source>
         </trans-unit>
-        <trans-unit id="304" translate="yes" xml:space="preserve">
+        <trans-unit id="303" translate="yes" xml:space="preserve">
           <source>The content of the <ph id="ph1">&amp;lt;</ph>field<ph id="ph2">&amp;gt;</ph> element is the name of the column to exclude.</source>
         </trans-unit>
-        <trans-unit id="305" translate="yes" xml:space="preserve">
+        <trans-unit id="304" translate="yes" xml:space="preserve">
           <source>There can be only one <ph id="ph1">&amp;lt;</ph>exclude<ph id="ph2">&amp;gt;</ph> element per table.</source>
         </trans-unit>
-        <trans-unit id="306" translate="yes" xml:space="preserve">
+        <trans-unit id="305" translate="yes" xml:space="preserve">
           <source>Example of excluding columns from the export</source>
         </trans-unit>
-        <trans-unit id="307" translate="yes" xml:space="preserve">
+        <trans-unit id="306" translate="yes" xml:space="preserve">
           <source>To exclude the <bpt id="p1">**</bpt>BackingEntityTableId<ept id="p1">**</ept>, <bpt id="p2">**</bpt>BackingEntityKeyFieldId<ept id="p2">**</ept>, and <bpt id="p3">**</bpt>BackingEntityValueFieldId<ept id="p3">**</ept> columns when you export the <bpt id="p4">**</bpt>DimensionAttribute<ept id="p4">**</ept> table, include an entry such as this in Filters.xml.</source>
         </trans-unit>
-        <trans-unit id="308" translate="yes" xml:space="preserve">
+        <trans-unit id="307" translate="yes" xml:space="preserve">
           <source><ph id="ph1">
 </ph><bpt id="p1">        &lt;exclude&gt;</bpt><ph id="ph2">
 </ph><bpt id="p2">          &lt;field&gt;</bpt>BackingEntityTableId<ept id="p2">&lt;/field&gt;</ept><ph id="ph3">
@@ -642,254 +639,254 @@
 </ph><ept id="p1">        &lt;/exclude&gt;</ept><ph id="ph6">
 </ph><ph id="ph7">      </ph></source>
         </trans-unit>
-        <trans-unit id="309" translate="yes" xml:space="preserve">
+        <trans-unit id="308" translate="yes" xml:space="preserve">
           <source>Exclude rows from the export</source>
         </trans-unit>
-        <trans-unit id="310" translate="yes" xml:space="preserve">
+        <trans-unit id="309" translate="yes" xml:space="preserve">
           <source>To exclude rows from the exported data, follow these steps.</source>
         </trans-unit>
-        <trans-unit id="311" translate="yes" xml:space="preserve">
+        <trans-unit id="310" translate="yes" xml:space="preserve">
           <source>Open <ph id="ph1">\[</ph>Lists<ph id="ph2">\]</ph>Filters.xml.</source>
         </trans-unit>
-        <trans-unit id="312" translate="yes" xml:space="preserve">
+        <trans-unit id="311" translate="yes" xml:space="preserve">
           <source>Add a <ph id="ph1">&amp;lt;</ph>table<ph id="ph2">&amp;gt;</ph> element that has a <bpt id="p1">**</bpt>name<ept id="p1">**</ept> attribute.</source>
         </trans-unit>
-        <trans-unit id="313" translate="yes" xml:space="preserve">
+        <trans-unit id="312" translate="yes" xml:space="preserve">
           <source>The value of the <bpt id="p1">**</bpt>name<ept id="p1">**</ept> attribute is the name of the table that contains the columns to exclude.</source>
         </trans-unit>
-        <trans-unit id="314" translate="yes" xml:space="preserve">
+        <trans-unit id="313" translate="yes" xml:space="preserve">
           <source>Add a <ph id="ph1">&amp;lt;</ph>filter<ph id="ph2">&amp;gt;</ph> element in the <ph id="ph3">&amp;lt;</ph>table<ph id="ph4">&amp;gt;</ph> element.</source>
         </trans-unit>
-        <trans-unit id="315" translate="yes" xml:space="preserve">
+        <trans-unit id="314" translate="yes" xml:space="preserve">
           <source>The content of the <ph id="ph1">&amp;lt;</ph>filter<ph id="ph2">&amp;gt;</ph> element should be an SQL statement that describes the rows to export.</source>
         </trans-unit>
-        <trans-unit id="316" translate="yes" xml:space="preserve">
+        <trans-unit id="315" translate="yes" xml:space="preserve">
           <source>The <ph id="ph1">&amp;lt;</ph>filter<ph id="ph2">&amp;gt;</ph> element is like an SQL WHERE clause, but each column name should be wrapped in a <ph id="ph3">&amp;lt;</ph>field<ph id="ph4">&amp;gt;</ph> element.</source>
         </trans-unit>
-        <trans-unit id="317" translate="yes" xml:space="preserve">
+        <trans-unit id="316" translate="yes" xml:space="preserve">
           <source>There can be only one <ph id="ph1">&amp;lt;</ph>filter<ph id="ph2">&amp;gt;</ph> element per table.</source>
         </trans-unit>
-        <trans-unit id="318" translate="yes" xml:space="preserve">
+        <trans-unit id="317" translate="yes" xml:space="preserve">
           <source>You can filter based on multiple columns in the table.</source>
         </trans-unit>
-        <trans-unit id="319" translate="yes" xml:space="preserve">
+        <trans-unit id="318" translate="yes" xml:space="preserve">
           <source>You cannot filter based on data in other tables.</source>
         </trans-unit>
-        <trans-unit id="320" translate="yes" xml:space="preserve">
+        <trans-unit id="319" translate="yes" xml:space="preserve">
           <source>Users often want to exclude all rows from the export.</source>
         </trans-unit>
-        <trans-unit id="321" translate="yes" xml:space="preserve">
+        <trans-unit id="320" translate="yes" xml:space="preserve">
           <source>You can easily exclude all rows by using a filter that always evaluates to false.</source>
         </trans-unit>
-        <trans-unit id="322" translate="yes" xml:space="preserve">
+        <trans-unit id="321" translate="yes" xml:space="preserve">
           <source>In the standard filters that we supply, a filter of 0 = 1 is the idiom for tables that we want to export as empty.</source>
         </trans-unit>
-        <trans-unit id="323" translate="yes" xml:space="preserve">
+        <trans-unit id="322" translate="yes" xml:space="preserve">
           <source>However, when this technique is used, the Test Data Transfer Tool (beta) still creates files for the table during export, even if the .out file does not contain any data.</source>
         </trans-unit>
-        <trans-unit id="324" translate="yes" xml:space="preserve">
+        <trans-unit id="323" translate="yes" xml:space="preserve">
           <source>This behavior is unlike the behavior when you exclude the whole table by using an entry in an exclude file.</source>
         </trans-unit>
-        <trans-unit id="325" translate="yes" xml:space="preserve">
+        <trans-unit id="324" translate="yes" xml:space="preserve">
           <source>Examples of excluding rows from the export</source>
         </trans-unit>
-        <trans-unit id="326" translate="yes" xml:space="preserve">
+        <trans-unit id="325" translate="yes" xml:space="preserve">
           <source>To export only those rows in <bpt id="p1">**</bpt>SysLastValue<ept id="p1">**</ept> where the <bpt id="p2">**</bpt>UserID<ept id="p2">**</ept> is blank, include the following entry in Filters.xml.</source>
         </trans-unit>
-        <trans-unit id="327" translate="yes" xml:space="preserve">
+        <trans-unit id="326" translate="yes" xml:space="preserve">
           <source><ph id="ph1">
 </ph><bpt id="p1">        &lt;filter&gt;</bpt><bpt id="p2">&lt;field&gt;</bpt>UserID<ept id="p2">&lt;/field&gt;</ept> = ''<ept id="p1">&lt;/filter&gt;</ept><ph id="ph2">
 </ph><ph id="ph3">      </ph></source>
         </trans-unit>
-        <trans-unit id="328" translate="yes" xml:space="preserve">
+        <trans-unit id="327" translate="yes" xml:space="preserve">
           <source>In this case, you can imagine that the SQL query that defines the rows to export is SELECT <ph id="ph1">\*</ph> FROM SysLastValue WHERE UserID = ''.</source>
         </trans-unit>
-        <trans-unit id="329" translate="yes" xml:space="preserve">
+        <trans-unit id="328" translate="yes" xml:space="preserve">
           <source>To prevent all rows in SysPersonalization from being exported, include the following entry in Filters.xml.</source>
         </trans-unit>
-        <trans-unit id="330" translate="yes" xml:space="preserve">
+        <trans-unit id="329" translate="yes" xml:space="preserve">
           <source><ph id="ph1">
 </ph><bpt id="p1">        &lt;filter&gt;</bpt>0 = 1<ept id="p1">&lt;/filter&gt;</ept><ph id="ph2">
 </ph><ph id="ph3">      </ph></source>
         </trans-unit>
-        <trans-unit id="331" translate="yes" xml:space="preserve">
+        <trans-unit id="330" translate="yes" xml:space="preserve">
           <source>In this case, you can imagine that the SQL query that defines the rows to export is SELECT <ph id="ph1">\*</ph> FROM SysPersonalization WHERE 0 = 1.</source>
         </trans-unit>
-        <trans-unit id="332" translate="yes" xml:space="preserve">
+        <trans-unit id="331" translate="yes" xml:space="preserve">
           <source>Importing data</source>
         </trans-unit>
-        <trans-unit id="333" translate="yes" xml:space="preserve">
+        <trans-unit id="332" translate="yes" xml:space="preserve">
           <source>The Test Data Transfer Tool (beta) is designed to try to import all the data in the directory that you specify.</source>
         </trans-unit>
-        <trans-unit id="334" translate="yes" xml:space="preserve">
+        <trans-unit id="333" translate="yes" xml:space="preserve">
           <source>The tool does not perform any filtering during import.</source>
         </trans-unit>
-        <trans-unit id="335" translate="yes" xml:space="preserve">
+        <trans-unit id="334" translate="yes" xml:space="preserve">
           <source>The only exception to this rule is the <bpt id="p1">**</bpt>SystemSequences<ept id="p1">**</ept> table.</source>
         </trans-unit>
-        <trans-unit id="336" translate="yes" xml:space="preserve">
+        <trans-unit id="335" translate="yes" xml:space="preserve">
           <source>The tool exports the <bpt id="p1">**</bpt>SystemSequences<ept id="p1">**</ept> table just like any other table.</source>
         </trans-unit>
-        <trans-unit id="337" translate="yes" xml:space="preserve">
+        <trans-unit id="336" translate="yes" xml:space="preserve">
           <source>However, during import, the tool ignores any data that you supply for this table.</source>
         </trans-unit>
-        <trans-unit id="338" translate="yes" xml:space="preserve">
+        <trans-unit id="337" translate="yes" xml:space="preserve">
           <source>Instead, the tool updates the <bpt id="p1">**</bpt>SystemSequences<ept id="p1">**</ept> table in the database for each table that is imported if the next <bpt id="p2">**</bpt>RecID<ept id="p2">**</ept> value for that table in the <bpt id="p3">**</bpt>SystemSequences<ept id="p3">**</ept> table is less than the maximum <bpt id="p4">**</bpt>RecID<ept id="p4">**</ept> in the table that is being imported.</source>
         </trans-unit>
-        <trans-unit id="339" translate="yes" xml:space="preserve">
+        <trans-unit id="338" translate="yes" xml:space="preserve">
           <source>As each table is imported, the tool also makes any adjustments that are required to the other ID values that are stored in the <bpt id="p1">**</bpt>SystemSequences<ept id="p1">**</ept> table.</source>
         </trans-unit>
-        <trans-unit id="340" translate="yes" xml:space="preserve">
+        <trans-unit id="339" translate="yes" xml:space="preserve">
           <source>You can import a table that has no rows in the .out file.</source>
         </trans-unit>
-        <trans-unit id="341" translate="yes" xml:space="preserve">
+        <trans-unit id="340" translate="yes" xml:space="preserve">
           <source>You can also not import a table at all.</source>
         </trans-unit>
-        <trans-unit id="342" translate="yes" xml:space="preserve">
+        <trans-unit id="341" translate="yes" xml:space="preserve">
           <source>These two operations are not the same.</source>
         </trans-unit>
-        <trans-unit id="343" translate="yes" xml:space="preserve">
+        <trans-unit id="342" translate="yes" xml:space="preserve">
           <source>When you import a table that has no rows, the existing data in that table is deleted.</source>
         </trans-unit>
-        <trans-unit id="344" translate="yes" xml:space="preserve">
+        <trans-unit id="343" translate="yes" xml:space="preserve">
           <source>However, if you do not import a table at all, the existing data in that table is untouched.</source>
         </trans-unit>
-        <trans-unit id="345" translate="yes" xml:space="preserve">
+        <trans-unit id="344" translate="yes" xml:space="preserve">
           <source>For each table that must be imported, the tool performs the following actions:</source>
         </trans-unit>
-        <trans-unit id="346" translate="yes" xml:space="preserve">
+        <trans-unit id="345" translate="yes" xml:space="preserve">
           <source>The tool searches for a table in the target database that has the same origin GUID.</source>
         </trans-unit>
-        <trans-unit id="347" translate="yes" xml:space="preserve">
+        <trans-unit id="346" translate="yes" xml:space="preserve">
           <source>If such a table exists, the tool uses that table as the target of the import.</source>
         </trans-unit>
-        <trans-unit id="348" translate="yes" xml:space="preserve">
+        <trans-unit id="347" translate="yes" xml:space="preserve">
           <source>If no such table exists, the tool tries to find a table in the target database that has the same name.</source>
         </trans-unit>
-        <trans-unit id="349" translate="yes" xml:space="preserve">
+        <trans-unit id="348" translate="yes" xml:space="preserve">
           <source>If such a table exists, the tool uses that table as the target of the import.</source>
         </trans-unit>
-        <trans-unit id="350" translate="yes" xml:space="preserve">
+        <trans-unit id="349" translate="yes" xml:space="preserve">
           <source>If no target table can be found, the table is not imported, and no error is produced.</source>
         </trans-unit>
-        <trans-unit id="351" translate="yes" xml:space="preserve">
+        <trans-unit id="350" translate="yes" xml:space="preserve">
           <source>When a target table has been identified, the tool creates a new temporary version of the .out file that matches the columns in the target table.</source>
         </trans-unit>
-        <trans-unit id="352" translate="yes" xml:space="preserve">
+        <trans-unit id="351" translate="yes" xml:space="preserve">
           <source>For each column in the source table, the tool first searches for the matching column in the target table by using the origin GUID of the field.</source>
         </trans-unit>
-        <trans-unit id="353" translate="yes" xml:space="preserve">
+        <trans-unit id="352" translate="yes" xml:space="preserve">
           <source>If no origin-based match is found, columns are matched by using the field names.</source>
         </trans-unit>
-        <trans-unit id="354" translate="yes" xml:space="preserve">
+        <trans-unit id="353" translate="yes" xml:space="preserve">
           <source>If there are columns in the source table that do not have matching columns in the target table, the data for those columns is ignored, and no error is produced.</source>
         </trans-unit>
-        <trans-unit id="355" translate="yes" xml:space="preserve">
+        <trans-unit id="354" translate="yes" xml:space="preserve">
           <source>If there are columns in the target table that do not have matching columns in the source table, default values are used.</source>
         </trans-unit>
-        <trans-unit id="356" translate="yes" xml:space="preserve">
+        <trans-unit id="355" translate="yes" xml:space="preserve">
           <source>In most cases, the default values are 0 (zero) or empty values that match the data type of the target column.</source>
         </trans-unit>
-        <trans-unit id="357" translate="yes" xml:space="preserve">
+        <trans-unit id="356" translate="yes" xml:space="preserve">
           <source>However, if the target column is named <bpt id="p1">**</bpt>InstanceRelationType<ept id="p1">**</ept>, the default value is the table ID of the target table.</source>
         </trans-unit>
-        <trans-unit id="358" translate="yes" xml:space="preserve">
+        <trans-unit id="357" translate="yes" xml:space="preserve">
           <source>For any column that is known to refer to a Microsoft Dynamics AX entity by the entity’s table ID, class ID, or extended data type ID, the tool updates the ID to match the ID of the same entity in the target database.</source>
         </trans-unit>
-        <trans-unit id="359" translate="yes" xml:space="preserve">
+        <trans-unit id="358" translate="yes" xml:space="preserve">
           <source>The tool first maps the ID in the source data to the origin of the entity at the time of export.</source>
         </trans-unit>
-        <trans-unit id="360" translate="yes" xml:space="preserve">
+        <trans-unit id="359" translate="yes" xml:space="preserve">
           <source>The tool then uses the origin of the entity to obtain the ID in the target database.</source>
         </trans-unit>
-        <trans-unit id="361" translate="yes" xml:space="preserve">
+        <trans-unit id="360" translate="yes" xml:space="preserve">
           <source>If the entity cannot be found in the target system, the original ID is used, and no error is produced.</source>
         </trans-unit>
-        <trans-unit id="362" translate="yes" xml:space="preserve">
+        <trans-unit id="361" translate="yes" xml:space="preserve">
           <source>During import, if data is not imported because of an index violation in a non-clustered index, the tool tries to disable the index and then retries the import.</source>
         </trans-unit>
-        <trans-unit id="363" translate="yes" xml:space="preserve">
+        <trans-unit id="362" translate="yes" xml:space="preserve">
           <source>In this case, an error is reported in the log file, even if the data is successfully imported after the index was disabled.</source>
         </trans-unit>
-        <trans-unit id="364" translate="yes" xml:space="preserve">
+        <trans-unit id="363" translate="yes" xml:space="preserve">
           <source>Import example</source>
         </trans-unit>
-        <trans-unit id="365" translate="yes" xml:space="preserve">
+        <trans-unit id="364" translate="yes" xml:space="preserve">
           <source>The following example shows how to import all files in the <bpt id="p1">**</bpt>Import<ph id="ph1">\_</ph>March2013<ept id="p1">**</ept> directory.</source>
         </trans-unit>
-        <trans-unit id="366" translate="yes" xml:space="preserve">
+        <trans-unit id="365" translate="yes" xml:space="preserve">
           <source>DP.exe IMPORT Import_March2013 AXTestDB</source>
         </trans-unit>
-        <trans-unit id="367" translate="yes" xml:space="preserve">
+        <trans-unit id="366" translate="yes" xml:space="preserve">
           <source>Files used during import</source>
         </trans-unit>
-        <trans-unit id="368" translate="yes" xml:space="preserve">
+        <trans-unit id="367" translate="yes" xml:space="preserve">
           <source>This section describes the files that are used by the Test Data Transfer Tool (beta) during the import process.</source>
         </trans-unit>
-        <trans-unit id="369" translate="yes" xml:space="preserve">
+        <trans-unit id="368" translate="yes" xml:space="preserve">
           <source>Temporary files</source>
         </trans-unit>
-        <trans-unit id="370" translate="yes" xml:space="preserve">
+        <trans-unit id="369" translate="yes" xml:space="preserve">
           <source>The Test Data Transfer Tool (beta) can import data into tables that have many kinds of changes, such as columns that have been added, removed, or renamed.</source>
         </trans-unit>
-        <trans-unit id="371" translate="yes" xml:space="preserve">
+        <trans-unit id="370" translate="yes" xml:space="preserve">
           <source>To enable this functionality, the tool writes a modified version of the .out file to a temporary location on disk and passes this file to bcp to import.</source>
         </trans-unit>
-        <trans-unit id="372" translate="yes" xml:space="preserve">
+        <trans-unit id="371" translate="yes" xml:space="preserve">
           <source>Then, when the import is completed, the tool deletes the temporary file.</source>
         </trans-unit>
-        <trans-unit id="373" translate="yes" xml:space="preserve">
+        <trans-unit id="372" translate="yes" xml:space="preserve">
           <source>The name of the temporary file is generated by calling <bpt id="p1">**</bpt>Path.GetTempPath()<ept id="p1">**</ept> and <bpt id="p2">**</bpt>Path.GetRandomFileName()<ept id="p2">**</ept>.</source>
         </trans-unit>
-        <trans-unit id="374" translate="yes" xml:space="preserve">
+        <trans-unit id="373" translate="yes" xml:space="preserve">
           <source>Typically, the temporary files are deleted even when run-time errors occur.</source>
         </trans-unit>
-        <trans-unit id="375" translate="yes" xml:space="preserve">
+        <trans-unit id="374" translate="yes" xml:space="preserve">
           <source>However, in very rare situations, such as when a power outage occurs during import, the temporary files can be written and not deleted.</source>
         </trans-unit>
-        <trans-unit id="376" translate="yes" xml:space="preserve">
+        <trans-unit id="375" translate="yes" xml:space="preserve">
           <source>Because the files are written to the current user’s temporary path, this issue should not cause unexpected information disclosure.</source>
         </trans-unit>
-        <trans-unit id="377" translate="yes" xml:space="preserve">
+        <trans-unit id="376" translate="yes" xml:space="preserve">
           <source>However, depending on the importance of the information that you are importing and on your organization’s data handling policies, you might have to know about this risk.</source>
         </trans-unit>
-        <trans-unit id="378" translate="yes" xml:space="preserve">
+        <trans-unit id="377" translate="yes" xml:space="preserve">
           <source>.sql files</source>
         </trans-unit>
-        <trans-unit id="379" translate="yes" xml:space="preserve">
+        <trans-unit id="378" translate="yes" xml:space="preserve">
           <source>The Test Data Transfer Tool (beta) lets you execute arbitrary SQL statements in your user context by adding .sql files to the <ph id="ph1">\[</ph>Import<ph id="ph2">\]</ph> folder.</source>
         </trans-unit>
-        <trans-unit id="380" translate="yes" xml:space="preserve">
+        <trans-unit id="379" translate="yes" xml:space="preserve">
           <source>Add only .sql files that come from a trusted source.</source>
         </trans-unit>
-        <trans-unit id="381" translate="yes" xml:space="preserve">
+        <trans-unit id="380" translate="yes" xml:space="preserve">
           <source>.out files, .outmodel files, and .xml files</source>
         </trans-unit>
-        <trans-unit id="382" translate="yes" xml:space="preserve">
+        <trans-unit id="381" translate="yes" xml:space="preserve">
           <source>The Test Data Transfer Tool (beta) generates SQL statements from the names of the .out files and from the content of the other files in the directory that contains the data to import.</source>
         </trans-unit>
-        <trans-unit id="383" translate="yes" xml:space="preserve">
+        <trans-unit id="382" translate="yes" xml:space="preserve">
           <source>The content that is pulled from those files and used to generate SQL statements is expected to represent table names.</source>
         </trans-unit>
-        <trans-unit id="384" translate="yes" xml:space="preserve">
+        <trans-unit id="383" translate="yes" xml:space="preserve">
           <source>To prevent SQL injection attacks, the tool validates and escapes the data before that data is used to create the SQL queries.</source>
         </trans-unit>
-        <trans-unit id="385" translate="yes" xml:space="preserve">
+        <trans-unit id="384" translate="yes" xml:space="preserve">
           <source>However, we still recommend that you accept data only from trusted sources.</source>
         </trans-unit>
-        <trans-unit id="386" translate="yes" xml:space="preserve">
+        <trans-unit id="385" translate="yes" xml:space="preserve">
           <source>Run SQL scripts after import</source>
         </trans-unit>
-        <trans-unit id="387" translate="yes" xml:space="preserve">
+        <trans-unit id="386" translate="yes" xml:space="preserve">
           <source>The Test Data Transfer Tool (beta) lets you run SQL scripts after you complete the import.</source>
         </trans-unit>
-        <trans-unit id="388" translate="yes" xml:space="preserve">
+        <trans-unit id="387" translate="yes" xml:space="preserve">
           <source>Any modifications that you have to make to imported data can be completed by using the SQL scripts.</source>
         </trans-unit>
-        <trans-unit id="389" translate="yes" xml:space="preserve">
+        <trans-unit id="388" translate="yes" xml:space="preserve">
           <source>Before you complete your data import, write the SQL script, and then save the file as an .sql file in the <ph id="ph1">\[</ph>Import<ph id="ph2">\]</ph> subfolder in the same location as the tool.</source>
         </trans-unit>
-        <trans-unit id="390" translate="yes" xml:space="preserve">
+        <trans-unit id="389" translate="yes" xml:space="preserve">
           <source>When the import is completed, the tool automatically runs the SQL script file that you have stored in the <ph id="ph1">\[</ph>Import<ph id="ph2">\]</ph> folder.</source>
         </trans-unit>
       </group>
