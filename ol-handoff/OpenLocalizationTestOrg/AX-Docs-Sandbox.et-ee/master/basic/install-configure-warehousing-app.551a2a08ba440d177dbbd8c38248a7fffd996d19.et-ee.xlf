@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="et-ee">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-aa43c9f" tool-company="Microsoft" />
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-ffc129d" tool-company="Microsoft" />
       <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">46b4809ae89f90295766e95ce78a8f019de0cdae</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">scm\warehousing\install-configure-warehousing-app.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">774430ef7333c92dffb8074fcec08c3884976bb3</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ed4dc382ab967ff7b0364f27494f8d79b42378b2</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2e519ede9aad68581c8990fc73b93febbd22b47c</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1a82fd097b49a8fb3cdc7e2964c3338537f481d1</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -259,16 +259,16 @@
           <source>Enter the following information: - <bpt id="p1">**</bpt>Azure Active directory client ID<ept id="p1">**</ept> - The client ID is obtained in step 13 in "Create a web service application in Active Directory".</source>
         </trans-unit>
         <trans-unit id="183" translate="yes" xml:space="preserve">
-          <source>- <bpt id="p1">**</bpt>Azure Active directory client secret<ept id="p1">**</ept> - The client secret is obtained in step 13 in "Create a web service application in Active Directory".</source>
+          <source><ph id="ph1"> - </ph><bpt id="p1">**</bpt>Azure Active directory client secret<ept id="p1">**</ept> - The client secret is obtained in step 13 in "Create a web service application in Active Directory".</source>
         </trans-unit>
         <trans-unit id="184" translate="yes" xml:space="preserve">
-          <source>- <bpt id="p1">**</bpt>Azure Active directory resource<ept id="p1">**</ept> - The Azure AD directory resource depicts the Dynamics 365 for Operations root URL.</source>
+          <source><ph id="ph1"> - </ph><bpt id="p1">**</bpt>Azure Active directory resource<ept id="p1">**</ept> - The Azure AD directory resource depicts the Dynamics 365 for Operations root URL.</source>
         </trans-unit>
         <trans-unit id="185" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>Note<ept id="p1">**</ept>: Do not end this field with a forward slash character (/).</source>
         </trans-unit>
         <trans-unit id="186" translate="yes" xml:space="preserve">
-          <source>- <bpt id="p1">**</bpt>Azure Active directory tenant<ept id="p1">**</ept> - The Azure AD directory tenant used with the Dynamics 365 for Operations server: https://login.windows.net/<ph id="ph1">&amp;lt;</ph>your-AD-tenant-ID<ph id="ph2">&amp;gt;</ph>.</source>
+          <source><ph id="ph1"> - </ph><bpt id="p1">**</bpt>Azure Active directory tenant<ept id="p1">**</ept> - The Azure AD directory tenant used with the Dynamics 365 for Operations server: https://login.windows.net/<ph id="ph2">&amp;lt;</ph>your-AD-tenant-ID<ph id="ph3">&amp;gt;</ph>.</source>
         </trans-unit>
         <trans-unit id="187" translate="yes" xml:space="preserve">
           <source>For example: https://login.windows.net/contosooperations.onmicrosoft.com.</source>
@@ -277,7 +277,7 @@
           <source><bpt id="p1">**</bpt>Note<ept id="p1">**</ept>: Do not end this field with a forward slash character (/).</source>
         </trans-unit>
         <trans-unit id="189" translate="yes" xml:space="preserve">
-          <source>- <bpt id="p1">**</bpt>Company<ept id="p1">**</ept> - Enter the legal entity in Dynamics 365 for Operations to which you want the application to connect.</source>
+          <source><ph id="ph1"> - </ph><bpt id="p1">**</bpt>Company<ept id="p1">**</ept> - Enter the legal entity in Dynamics 365 for Operations to which you want the application to connect.</source>
         </trans-unit>
         <trans-unit id="190" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt><ph id="ph1">![</ph>wh-12-app-connection-settings<ept id="p1">](./media/wh-12-app-connection-settings-169x300.png)](./media/wh-12-app-connection-settings.png)</ept></source>

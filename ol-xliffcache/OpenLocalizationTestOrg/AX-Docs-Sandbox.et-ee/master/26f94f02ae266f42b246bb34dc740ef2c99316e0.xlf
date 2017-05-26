@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="et-ee">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-aa43c9f" tool-company="Microsoft" />
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-ffc129d" tool-company="Microsoft" />
       <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">26f94f02ae266f42b246bb34dc740ef2c99316e0</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\user-interface\extensible-control-programming-reference.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">do-not-translate</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b6f682fc192eea9415828807a728a3bd47da3f6a</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2b087e4be3cee4b68865f62d33f6094fba8888f5</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">83736b1343d1ff8fb2a0c68ea9f9b2468440b7a0</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ee4ab5b48094104d20881e9348abb95cc75c22b9</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -85,7 +85,7 @@
           <source>Declare an X++ class that extends <bpt id="p1">**</bpt>FormTemplateControl<ept id="p1">**</ept> or a type derived from <bpt id="p2">**</bpt>FormTemplateControl<ept id="p2">**</ept>*.</source>
         </trans-unit>
         <trans-unit id="125" translate="yes" xml:space="preserve">
-          <source>*<bpt id="p1">**</bpt>FormTemplateControl<ept id="p1">**</ept> contains basic properties that are necessary for every control, such as the Template ID and the Resource Bundle.</source>
+          <source><ph id="ph1"> *</ph><bpt id="p1">**</bpt>FormTemplateControl<ept id="p1">**</ept> contains basic properties that are necessary for every control, such as the Template ID and the Resource Bundle.</source>
         </trans-unit>
         <trans-unit id="126" translate="yes" xml:space="preserve">
           <source>The following example extends the base control class, <bpt id="p1">**</bpt>FormTemplateControl<ept id="p1">**</ept>.</source>
