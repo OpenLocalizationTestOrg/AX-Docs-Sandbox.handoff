@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="pt-br">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-aa43c9f" tool-company="Microsoft" />
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-ffc129d" tool-company="Microsoft" />
       <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">79cf196bae117c1e005fcd445c39ae26f7202fef</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">retail\dev-itpro\retail-sdk\retail-sdk-overview.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">do-not-translate</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">85b748ff69a6dd8f10c1f33d289de5a54093fe74</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8cc87de28f0057a3dda416a379469ce613638766</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">880854e0f0201479f4bd29e9115fb53b0c73771a</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">02bd8e18520a67a25ae2baecb3888110fe75e724</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -739,15 +739,12 @@
           <source>The first version is the Microsoft version of the Retail SDK that the current branch is based on, and the second version is the version that is set by the <bpt id="p1">**</bpt>CustomVersion<ept id="p1">**</ept> property.</source>
         </trans-unit>
         <trans-unit id="343" translate="yes" xml:space="preserve">
-          <source>In the previous illustration, the current file version of the customization branch is 1.0.2.<ph id="ph1">\*</ph></source>
+          <source>In the previous illustration, the current file version of the customization branch is 1.0.2.<ph id="ph1">\*</ph> (based on Microsoft version 7.0.2200.3).</source>
         </trans-unit>
         <trans-unit id="344" translate="yes" xml:space="preserve">
-          <source>(based on Microsoft version 7.0.2200.3).</source>
-        </trans-unit>
-        <trans-unit id="345" translate="yes" xml:space="preserve">
           <source>The file version of the first rolled-out release was 1.0.0.40 (based on 7.0.2000.0).</source>
         </trans-unit>
-        <trans-unit id="346" translate="yes" xml:space="preserve">
+        <trans-unit id="345" translate="yes" xml:space="preserve">
           <source>When a testing phase is completed, and the final packages are being deployed with that version, it's important that you increment the version (or create a source control label).</source>
         </trans-unit>
       </group>

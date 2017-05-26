@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="pt-br">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-aa43c9f" tool-company="Microsoft" />
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-ffc129d" tool-company="Microsoft" />
       <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ec4ae146e9f0ddf68fb1c931c4714ae7aa644f7e</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\user-interface\enable-accessibility.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">do-not-translate</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">10a18da227043ac518ec8301cce976ec531335e8</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e11ac7d71247cc2026c4e1c240a93caaf9568305</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3cbac8de5219c6c925dff89b938e49f44755dc55</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">06b5b84b1411bfcfd3b8574b90fd6111d8b65a59</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -304,129 +304,126 @@
           <source>Make sure your descriptive text is supplied via a framework label for localization.</source>
         </trans-unit>
         <trans-unit id="198" translate="yes" xml:space="preserve">
-          <source>******</source>
-        </trans-unit>
-        <trans-unit id="199" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>aria-describedby<ept id="p1">](http://www.w3.org/TR/wai-aria/states_and_properties#aria-describedby)</ept> - Identifies the element (or elements) that describes the object.</source>
         </trans-unit>
-        <trans-unit id="200" translate="yes" xml:space="preserve">
+        <trans-unit id="199" translate="yes" xml:space="preserve">
           <source><bpt id="p1">***</bpt>Example<ept id="p1">***</ept></source>
         </trans-unit>
-        <trans-unit id="201" translate="yes" xml:space="preserve">
+        <trans-unit id="200" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>Indicate when it is busy<ept id="p1">**</ept> It may not always be clear to the visually-impaired user why the control isn’t responsive.</source>
         </trans-unit>
-        <trans-unit id="202" translate="yes" xml:space="preserve">
+        <trans-unit id="201" translate="yes" xml:space="preserve">
           <source>Providing a “busy” message helps in these cases.</source>
         </trans-unit>
-        <trans-unit id="203" translate="yes" xml:space="preserve">
+        <trans-unit id="202" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>aria-busy (state)<ept id="p1">](http://www.w3.org/TR/wai-aria/states_and_properties#aria-busy)</ept> - Indicates whether an element, and its subtree, are currently being updated.</source>
         </trans-unit>
-        <trans-unit id="204" translate="yes" xml:space="preserve">
+        <trans-unit id="203" translate="yes" xml:space="preserve">
           <source><bpt id="p1">***</bpt>Example<ept id="p1">***</ept></source>
         </trans-unit>
-        <trans-unit id="205" translate="yes" xml:space="preserve">
+        <trans-unit id="204" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>Indicate that the contents have been validated and are invalid<ept id="p1">**</ept> The async nature of Dynamics 365 for Operations will result in a dynamic field state change.</source>
         </trans-unit>
-        <trans-unit id="206" translate="yes" xml:space="preserve">
+        <trans-unit id="205" translate="yes" xml:space="preserve">
           <source>The message bar will introduce itself to the visually-impaired user, and the control itself should express an invalid state.</source>
         </trans-unit>
-        <trans-unit id="207" translate="yes" xml:space="preserve">
+        <trans-unit id="206" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>aria-invalid (state)<ept id="p1">](http://www.w3.org/TR/wai-aria/states_and_properties#aria-invalid)</ept> - Indicates the entered value does not conform to the format expected by the application.</source>
         </trans-unit>
-        <trans-unit id="208" translate="yes" xml:space="preserve">
+        <trans-unit id="207" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>Indicate when a field is readonly<ept id="p1">**</ept></source>
         </trans-unit>
-        <trans-unit id="209" translate="yes" xml:space="preserve">
+        <trans-unit id="208" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>aria-readonly<ept id="p1">](http://www.w3.org/TR/wai-aria/states_and_properties#aria-readonly)</ept> - Indicates that the element is not editable, but is otherwise operable.</source>
         </trans-unit>
-        <trans-unit id="210" translate="yes" xml:space="preserve">
+        <trans-unit id="209" translate="yes" xml:space="preserve">
           <source>See related aria-disabled.</source>
         </trans-unit>
-        <trans-unit id="211" translate="yes" xml:space="preserve">
+        <trans-unit id="210" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>Indicate that the field requires input (mandatory)<ept id="p1">**</ept> The sighted user understands that a field is mandatory through a visual symbol.</source>
         </trans-unit>
-        <trans-unit id="212" translate="yes" xml:space="preserve">
+        <trans-unit id="211" translate="yes" xml:space="preserve">
           <source>The non-sighted user will need an identifying tag.</source>
         </trans-unit>
-        <trans-unit id="213" translate="yes" xml:space="preserve">
+        <trans-unit id="212" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>aria-required<ept id="p1">](http://www.w3.org/TR/wai-aria/states_and_properties#aria-required)</ept> indicates that user input is required on the element before a form may be submitted.</source>
         </trans-unit>
-        <trans-unit id="214" translate="yes" xml:space="preserve">
+        <trans-unit id="213" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>Describe the state of a toggled value<ept id="p1">**</ept> A toggle control has a toggled state.</source>
         </trans-unit>
-        <trans-unit id="215" translate="yes" xml:space="preserve">
+        <trans-unit id="214" translate="yes" xml:space="preserve">
           <source>This tag will express that state.</source>
         </trans-unit>
-        <trans-unit id="216" translate="yes" xml:space="preserve">
+        <trans-unit id="215" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>aria-pressed (state)<ept id="p1">](http://www.w3.org/TR/wai-aria/states_and_properties#aria-pressed)</ept> - Indicates the current "pressed" state of toggle buttons.</source>
         </trans-unit>
-        <trans-unit id="217" translate="yes" xml:space="preserve">
+        <trans-unit id="216" translate="yes" xml:space="preserve">
           <source>See related aria-checked and aria-selected.</source>
         </trans-unit>
-        <trans-unit id="218" translate="yes" xml:space="preserve">
+        <trans-unit id="217" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>aria-valuenow<ept id="p1">](http://www.w3.org/TR/wai-aria/states_and_properties#aria-valuenow)</ept> - Defines the current value for a range widget.</source>
         </trans-unit>
-        <trans-unit id="219" translate="yes" xml:space="preserve">
+        <trans-unit id="218" translate="yes" xml:space="preserve">
           <source>See related aria-valuetext.</source>
         </trans-unit>
-        <trans-unit id="220" translate="yes" xml:space="preserve">
+        <trans-unit id="219" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>aria-valuetext<ept id="p1">](http://www.w3.org/TR/wai-aria/states_and_properties#aria-valuetext)</ept> - Defines the human readable text alternative of aria-valuenow for a range widget.</source>
         </trans-unit>
-        <trans-unit id="221" translate="yes" xml:space="preserve">
+        <trans-unit id="220" translate="yes" xml:space="preserve">
           <source>Control could</source>
         </trans-unit>
-        <trans-unit id="222" translate="yes" xml:space="preserve">
+        <trans-unit id="221" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>Indicate an expanded state<ept id="p1">**</ept> Complex interactions can be learned, but current state isn’t always easy to determine without experimentation.</source>
         </trans-unit>
-        <trans-unit id="223" translate="yes" xml:space="preserve">
+        <trans-unit id="222" translate="yes" xml:space="preserve">
           <source>When using an aria-expanded tag, the control describes its current state.</source>
         </trans-unit>
-        <trans-unit id="224" translate="yes" xml:space="preserve">
+        <trans-unit id="223" translate="yes" xml:space="preserve">
           <source>An example is tabbing to a tab or FastTab section of a control.</source>
         </trans-unit>
-        <trans-unit id="225" translate="yes" xml:space="preserve">
+        <trans-unit id="224" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>aria-expanded (state)<ept id="p1">](http://www.w3.org/TR/wai-aria/states_and_properties#aria-expanded)</ept> - Indicates whether the element, or another grouping element it controls, is currently expanded or collapsed.</source>
         </trans-unit>
-        <trans-unit id="226" translate="yes" xml:space="preserve">
+        <trans-unit id="225" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>Describe applicable context menu<ept id="p1">**</ept> Dynamics Dynamics 365 for Operations provides a context menu.</source>
         </trans-unit>
-        <trans-unit id="227" translate="yes" xml:space="preserve">
+        <trans-unit id="226" translate="yes" xml:space="preserve">
           <source>When the application author has provided functionality to the current control or context, you can announce that functionality.</source>
         </trans-unit>
-        <trans-unit id="228" translate="yes" xml:space="preserve">
+        <trans-unit id="227" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>aria-haspopup<ept id="p1">](http://www.w3.org/TR/wai-aria/states_and_properties#aria-haspopup)</ept> - Indicates that the element has a pop-up context menu or sub-level menu.</source>
         </trans-unit>
-        <trans-unit id="229" translate="yes" xml:space="preserve">
+        <trans-unit id="228" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>Other Misc<ept id="p1">**</ept></source>
         </trans-unit>
-        <trans-unit id="230" translate="yes" xml:space="preserve">
+        <trans-unit id="229" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>aria-live<ept id="p1">](http://www.w3.org/TR/wai-aria/states_and_properties#aria-live)</ept> indicates that an element will be updated, and describes the types of updates the user agents, assistive technologies, and user can expect from the live region.</source>
         </trans-unit>
-        <trans-unit id="231" translate="yes" xml:space="preserve">
+        <trans-unit id="230" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>aria-multiline<ept id="p1">](http://www.w3.org/TR/wai-aria/states_and_properties#aria-multiline)</ept> - Indicates whether a text box accepts multiple lines of input or only a single line.</source>
         </trans-unit>
-        <trans-unit id="232" translate="yes" xml:space="preserve">
+        <trans-unit id="231" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>aria-multiselectable<ept id="p1">](http://www.w3.org/TR/wai-aria/states_and_properties#aria-multiselectable)</ept> - Indicates that the user may select more than one item from the current selectable descendants.</source>
         </trans-unit>
-        <trans-unit id="233" translate="yes" xml:space="preserve">
+        <trans-unit id="232" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>aria-orientation<ept id="p1">](http://www.w3.org/TR/wai-aria/states_and_properties#aria-orientation)</ept> - Indicates whether the element and orientation is horizontal or vertical.</source>
         </trans-unit>
-        <trans-unit id="234" translate="yes" xml:space="preserve">
+        <trans-unit id="233" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>aria-setsize<ept id="p1">](http://www.w3.org/TR/wai-aria/states_and_properties#aria-setsize)</ept> - Defines the number of items in the current set of listitems or treeitems.</source>
         </trans-unit>
-        <trans-unit id="235" translate="yes" xml:space="preserve">
+        <trans-unit id="234" translate="yes" xml:space="preserve">
           <source>Not required if all elements in the set are present in the DOM.</source>
         </trans-unit>
-        <trans-unit id="236" translate="yes" xml:space="preserve">
+        <trans-unit id="235" translate="yes" xml:space="preserve">
           <source>See related aria-posinset.</source>
         </trans-unit>
-        <trans-unit id="237" translate="yes" xml:space="preserve">
+        <trans-unit id="236" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>aria-sort-<ept id="p1">](http://www.w3.org/TR/wai-aria/states_and_properties#aria-sort)</ept> Indicates if items in a table or grid are sorted in ascending or descending order.</source>
         </trans-unit>
-        <trans-unit id="238" translate="yes" xml:space="preserve">
+        <trans-unit id="237" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>aria-valuemax<ept id="p1">](http://www.w3.org/TR/wai-aria/states_and_properties#aria-valuemax)</ept> - Defines the maximum allowed value for a range widget.</source>
         </trans-unit>
-        <trans-unit id="239" translate="yes" xml:space="preserve">
+        <trans-unit id="238" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>aria-valuemin<ept id="p1">](http://www.w3.org/TR/wai-aria/states_and_properties#aria-valuemin)</ept> - Defines the minimum allowed value for a range widget.</source>
         </trans-unit>
       </group>
