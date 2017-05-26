@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="nb-no">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-aa43c9f" tool-company="Microsoft" />
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-ffc129d" tool-company="Microsoft" />
       <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b7c232dc7f502b5c49f1995522d37d9d18034f8d</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\lifecycle-services\ax-2012\install-dixf.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">do-not-translate</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">7a73c68d2c77ce9db55de23642f1f125d043f2cf</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">044c89dd24c19fcb103677a7cd8b31bde97fcc37</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2b3ab20231e39f726659f6e5ecdd863707e148bb</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3e8b1e47af73d722e01ba90c15d002073b990e5b</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -271,7 +271,7 @@
           <source>System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.</source>
         </trans-unit>
         <trans-unit id="187" translate="yes" xml:space="preserve">
-          <source>---<ph id="ph1">&amp;gt;</ph> System.InvalidOperationException</source>
+          <source><ph id="ph1"> ---</ph><ph id="ph2">&amp;gt;</ph> System.InvalidOperationException</source>
         </trans-unit>
         <trans-unit id="188" translate="yes" xml:space="preserve">
           <source>Verify that the following files are present in the C:Program Files (x86)Microsoft Dynamics AX60ServerBin folder on the server that is running the AOS instance:</source>
