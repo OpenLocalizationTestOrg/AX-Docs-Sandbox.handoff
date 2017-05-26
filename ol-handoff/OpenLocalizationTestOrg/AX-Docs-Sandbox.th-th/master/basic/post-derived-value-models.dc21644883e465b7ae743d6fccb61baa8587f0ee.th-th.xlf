@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="th-th">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-aa43c9f" tool-company="Microsoft" />
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-ffc129d" tool-company="Microsoft" />
       <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0afefcbdbea963bf110555bdc80235e071ea4c3e</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\fixed-assets\post-derived-value-models.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">45e64b3259547d46d2d39cd1ad2cecd13de1b9e5</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">671774a160a3204fd20c92e7bb830f19d57874bc</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0e39c5d9151ce59c03b7abb7c93b2659bcb7a90f</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d62070022766277be8ce06e9bec58b8d45b28141</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -55,42 +55,39 @@
           <source>If the depreciation methods are different between the books, you should not generate depreciation transactions using the derived process.</source>
         </trans-unit>
         <trans-unit id="115" translate="yes" xml:space="preserve">
-          <source>|</source>
-        </trans-unit>
-        <trans-unit id="116" translate="yes" xml:space="preserve">
           <source>Example</source>
         </trans-unit>
-        <trans-unit id="117" translate="yes" xml:space="preserve">
+        <trans-unit id="116" translate="yes" xml:space="preserve">
           <source>The following information describes how to set up acquisition transactions with the derived book functionality.</source>
         </trans-unit>
-        <trans-unit id="118" translate="yes" xml:space="preserve">
+        <trans-unit id="117" translate="yes" xml:space="preserve">
           <source>Create the books on the Books page.</source>
         </trans-unit>
-        <trans-unit id="119" translate="yes" xml:space="preserve">
+        <trans-unit id="118" translate="yes" xml:space="preserve">
           <source>The book for accounting: VM 1, Current posting layer</source>
         </trans-unit>
-        <trans-unit id="120" translate="yes" xml:space="preserve">
+        <trans-unit id="119" translate="yes" xml:space="preserve">
           <source>The book for tax purposes: VM 2, Tax posting layer</source>
         </trans-unit>
-        <trans-unit id="121" translate="yes" xml:space="preserve">
+        <trans-unit id="120" translate="yes" xml:space="preserve">
           <source>On VM 1, click the Derived books tab.</source>
         </trans-unit>
-        <trans-unit id="122" translate="yes" xml:space="preserve">
+        <trans-unit id="121" translate="yes" xml:space="preserve">
           <source>Select VM 2 in the Book field, and Acquisition in the Transaction type field.</source>
         </trans-unit>
-        <trans-unit id="123" translate="yes" xml:space="preserve">
+        <trans-unit id="122" translate="yes" xml:space="preserve">
           <source>The books then can be attached to specific fixed assets.</source>
         </trans-unit>
-        <trans-unit id="124" translate="yes" xml:space="preserve">
+        <trans-unit id="123" translate="yes" xml:space="preserve">
           <source>When an acquisition is posted for a fixed asset with book VM 1, the acquisition is posted not only on VM 1, but also on the derived book VM 2.</source>
         </trans-unit>
-        <trans-unit id="125" translate="yes" xml:space="preserve">
+        <trans-unit id="124" translate="yes" xml:space="preserve">
           <source>The status of both fixed asset books is updated to Open.</source>
         </trans-unit>
-        <trans-unit id="126" translate="yes" xml:space="preserve">
+        <trans-unit id="125" translate="yes" xml:space="preserve">
           <source>If you do not use derived books, you must post the acquisition of the fixed asset both for book VM 1 and book VM 2.</source>
         </trans-unit>
-        <trans-unit id="127" translate="yes" xml:space="preserve">
+        <trans-unit id="126" translate="yes" xml:space="preserve">
           <source>For more information, see <bpt id="p1">[</bpt>Derived books<ept id="p1">](derived-books.md)</ept></source>
         </trans-unit>
       </group>

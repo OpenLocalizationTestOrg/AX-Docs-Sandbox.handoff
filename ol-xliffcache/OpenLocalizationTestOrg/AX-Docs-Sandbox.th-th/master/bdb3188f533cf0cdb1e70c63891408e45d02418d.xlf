@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="th-th">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-aa43c9f" tool-company="Microsoft" />
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-ffc129d" tool-company="Microsoft" />
       <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">bdb3188f533cf0cdb1e70c63891408e45d02418d</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\general-ledger\indirect-taxes-overview.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a1a924bb30ac7e2e53a858f6a87908c180fca357</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1b472e4b842fe506bf7b9f9d4ec0f680e63ae119</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8dc4bcd162be9eee59151ff29f041b7545d7cf6f</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">7bf0f83e5238847d50b5a14d17ecf89afbc7366b</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -274,27 +274,24 @@
           <source>When you select the Conditional sales tax check box, you must set up sales tax codes and sales tax groups, and also create ledger posting groups, to support the functionality.</source>
         </trans-unit>
         <trans-unit id="188" translate="yes" xml:space="preserve">
-          <source>|</source>
-        </trans-unit>
-        <trans-unit id="189" translate="yes" xml:space="preserve">
           <source>Example</source>
         </trans-unit>
-        <trans-unit id="190" translate="yes" xml:space="preserve">
+        <trans-unit id="189" translate="yes" xml:space="preserve">
           <source>You settle sales taxes each month.</source>
         </trans-unit>
-        <trans-unit id="191" translate="yes" xml:space="preserve">
+        <trans-unit id="190" translate="yes" xml:space="preserve">
           <source>On June 15, you create a customer invoice of 10,000, plus sales tax.</source>
         </trans-unit>
-        <trans-unit id="192" translate="yes" xml:space="preserve">
+        <trans-unit id="191" translate="yes" xml:space="preserve">
           <source>The sales tax is 25 percent, or 2,500.</source>
         </trans-unit>
-        <trans-unit id="193" translate="yes" xml:space="preserve">
+        <trans-unit id="192" translate="yes" xml:space="preserve">
           <source>The invoice payment is due July 30.</source>
         </trans-unit>
-        <trans-unit id="194" translate="yes" xml:space="preserve">
+        <trans-unit id="193" translate="yes" xml:space="preserve">
           <source>You typically would have to settle and pay 2,500 to the tax authority when the invoice is posted in June, even though you have not received the payment from the customer.</source>
         </trans-unit>
-        <trans-unit id="195" translate="yes" xml:space="preserve">
+        <trans-unit id="194" translate="yes" xml:space="preserve">
           <source>However, if you are using a conditional sales tax, you settle with the tax authority when you receive the payment from the customer on July 30.</source>
         </trans-unit>
       </group>
