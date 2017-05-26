@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sv-se">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-aa43c9f" tool-company="Microsoft" />
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-ffc129d" tool-company="Microsoft" />
       <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ca82d24f591aaeb0d675716857cf94a4696785ad</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\analytics\column-definitions-financial-reports.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">24b3071a033ff5c75813ebaedd49a90efd2decdb</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9f86bddf8ef57d5ad3e03bdc3f267c8c146bf7fc</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8f571cda76be486e1948a6e0d1c3946db643a247</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4660be410f31ade097557191c3c85c8b89310dd6</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -1984,342 +1984,339 @@
           <source>You can use a wildcard character (<ph id="ph1">\*</ph> or ?) in any position.</source>
         </trans-unit>
         <trans-unit id="758" translate="yes" xml:space="preserve">
-          <source>When you specify multiple accounts, put a comma between accounts, as in the following example: +Account=<ph id="ph1">\[</ph>1200<ph id="ph2">\]</ph>, +Account=<ph id="ph3">\[</ph>1100<ph id="ph4">\]</ph>, Department=<ph id="ph5">\[</ph>01?<ph id="ph6">\]</ph></source>
+          <source>When you specify multiple accounts, put a comma between accounts, as in the following example: +Account=<ph id="ph1">\[</ph>1200<ph id="ph2">\]</ph>, +Account=<ph id="ph3">\[</ph>1100<ph id="ph4">\]</ph>, Department=<ph id="ph5">\[</ph>01?<ph id="ph6">\]</ph> To receive all departments for a specific account, you can exclude the Department dimension from the dimension filter.</source>
         </trans-unit>
         <trans-unit id="759" translate="yes" xml:space="preserve">
-          <source>To receive all departments for a specific account, you can exclude the Department dimension from the dimension filter.</source>
-        </trans-unit>
-        <trans-unit id="760" translate="yes" xml:space="preserve">
           <source>For example, both of the following dimension filters are handled in the same way:</source>
         </trans-unit>
-        <trans-unit id="761" translate="yes" xml:space="preserve">
+        <trans-unit id="760" translate="yes" xml:space="preserve">
           <source>+Account=<ph id="ph1">\[</ph>1100<ph id="ph2">\]</ph>,Department</source>
         </trans-unit>
-        <trans-unit id="762" translate="yes" xml:space="preserve">
+        <trans-unit id="761" translate="yes" xml:space="preserve">
           <source>+Account=<ph id="ph1">\[</ph>1100<ph id="ph2">\]</ph></source>
         </trans-unit>
-        <trans-unit id="763" translate="yes" xml:space="preserve">
+        <trans-unit id="762" translate="yes" xml:space="preserve">
           <source>You can also use any combination of alphanumeric characters for exact matching, and you can define partial dimensions.</source>
         </trans-unit>
-        <trans-unit id="764" translate="yes" xml:space="preserve">
+        <trans-unit id="763" translate="yes" xml:space="preserve">
           <source>For example, <bpt id="p1">**</bpt>Location = <ph id="ph1">\[</ph>10<ph id="ph2">\*</ph><ph id="ph3">\]</ph><ept id="p1">**</ept> includes all location dimension values that begin with 10.</source>
         </trans-unit>
-        <trans-unit id="765" translate="yes" xml:space="preserve">
+        <trans-unit id="764" translate="yes" xml:space="preserve">
           <source>Apply a dimension filter for a column on a report</source>
         </trans-unit>
-        <trans-unit id="766" translate="yes" xml:space="preserve">
+        <trans-unit id="765" translate="yes" xml:space="preserve">
           <source>In Report Designer, open the column definition to modify.</source>
         </trans-unit>
-        <trans-unit id="767" translate="yes" xml:space="preserve">
+        <trans-unit id="766" translate="yes" xml:space="preserve">
           <source>Double-click the <bpt id="p1">**</bpt>Dimension Filter<ept id="p1">**</ept> cell for an <bpt id="p2">**</bpt>FD<ept id="p2">**</ept> column.</source>
         </trans-unit>
-        <trans-unit id="768" translate="yes" xml:space="preserve">
+        <trans-unit id="767" translate="yes" xml:space="preserve">
           <source>In the <bpt id="p1">**</bpt>Dimensions<ept id="p1">**</ept> dialog box, enter the filters to apply.</source>
         </trans-unit>
-        <trans-unit id="769" translate="yes" xml:space="preserve">
+        <trans-unit id="768" translate="yes" xml:space="preserve">
           <source>Click <bpt id="p1">**</bpt>OK<ept id="p1">**</ept>.</source>
         </trans-unit>
-        <trans-unit id="770" translate="yes" xml:space="preserve">
+        <trans-unit id="769" translate="yes" xml:space="preserve">
           <source>Format a multiple-currency report in a column definition</source>
         </trans-unit>
-        <trans-unit id="771" translate="yes" xml:space="preserve">
+        <trans-unit id="770" translate="yes" xml:space="preserve">
           <source>A multiple-currency report can display amounts in the natural (local) currency, the functional (default) currency, or the reporting currency.</source>
         </trans-unit>
-        <trans-unit id="772" translate="yes" xml:space="preserve">
+        <trans-unit id="771" translate="yes" xml:space="preserve">
           <source>A company’s functional currency is defined in the Microsoft Dynamics ERP system.</source>
         </trans-unit>
-        <trans-unit id="773" translate="yes" xml:space="preserve">
+        <trans-unit id="772" translate="yes" xml:space="preserve">
           <source>Don't confuse this ERP setting with the operating system's regional options setting, where you can configure the default currency symbols that are used on reports.</source>
         </trans-unit>
-        <trans-unit id="774" translate="yes" xml:space="preserve">
+        <trans-unit id="773" translate="yes" xml:space="preserve">
           <source>The following currency-related cells are available in the column definition:</source>
         </trans-unit>
-        <trans-unit id="775" translate="yes" xml:space="preserve">
+        <trans-unit id="774" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>Currency Display<ept id="p1">**</ept> – Specify the type of currency (natural, functional, or reporting) that the transactions are displayed in.</source>
         </trans-unit>
-        <trans-unit id="776" translate="yes" xml:space="preserve">
+        <trans-unit id="775" translate="yes" xml:space="preserve">
           <source>This functionality is sometimes referred to as currency translation.</source>
         </trans-unit>
-        <trans-unit id="777" translate="yes" xml:space="preserve">
+        <trans-unit id="776" translate="yes" xml:space="preserve">
           <source>Currency translation is the ability to report general ledger amounts in a currency that might not be the functional currency of the company or the currency that the transaction was entered in.</source>
         </trans-unit>
-        <trans-unit id="778" translate="yes" xml:space="preserve">
+        <trans-unit id="777" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>Currency Filter<ept id="p1">**</ept> – Specify a currency filter.</source>
         </trans-unit>
-        <trans-unit id="779" translate="yes" xml:space="preserve">
+        <trans-unit id="778" translate="yes" xml:space="preserve">
           <source>Only transactions that are entered in the selected currency are displayed on the report.</source>
         </trans-unit>
-        <trans-unit id="780" translate="yes" xml:space="preserve">
+        <trans-unit id="779" translate="yes" xml:space="preserve">
           <source>To create reports that use multiple currencies, you must select the <bpt id="p1">**</bpt>Include all reporting currencies<ept id="p1">**</ept> check box on the <bpt id="p2">**</bpt>Report<ept id="p2">**</ept> tab of the report definition.</source>
         </trans-unit>
-        <trans-unit id="781" translate="yes" xml:space="preserve">
+        <trans-unit id="780" translate="yes" xml:space="preserve">
           <source>To determine a company’s functional currency, follow these steps.</source>
         </trans-unit>
-        <trans-unit id="782" translate="yes" xml:space="preserve">
+        <trans-unit id="781" translate="yes" xml:space="preserve">
           <source>In Report Designer, on the <bpt id="p1">**</bpt>Company<ept id="p1">**</ept> menu, click <bpt id="p2">**</bpt>Companies<ept id="p2">**</ept>.</source>
         </trans-unit>
-        <trans-unit id="783" translate="yes" xml:space="preserve">
+        <trans-unit id="782" translate="yes" xml:space="preserve">
           <source>In the <bpt id="p1">**</bpt>Companies<ept id="p1">**</ept> dialog box, select a company, and then click <bpt id="p2">**</bpt>View<ept id="p2">**</ept>.</source>
         </trans-unit>
-        <trans-unit id="784" translate="yes" xml:space="preserve">
+        <trans-unit id="783" translate="yes" xml:space="preserve">
           <source>In the <bpt id="p1">**</bpt>View Company<ept id="p1">**</ept> dialog box, under <bpt id="p2">**</bpt>Regional options<ept id="p2">**</ept>, you can view the currency that is defined for the selected company.</source>
         </trans-unit>
-        <trans-unit id="785" translate="yes" xml:space="preserve">
+        <trans-unit id="784" translate="yes" xml:space="preserve">
           <source>Specify the currency on a multiple-currency report</source>
         </trans-unit>
-        <trans-unit id="786" translate="yes" xml:space="preserve">
+        <trans-unit id="785" translate="yes" xml:space="preserve">
           <source>In Report Designer, open the column definition to modify.</source>
         </trans-unit>
-        <trans-unit id="787" translate="yes" xml:space="preserve">
+        <trans-unit id="786" translate="yes" xml:space="preserve">
           <source>Double-click the <bpt id="p1">**</bpt>Currency Display<ept id="p1">**</ept> cell in the appropriate <bpt id="p2">**</bpt>FD<ept id="p2">**</ept> column, and then select the option for displaying currency information: <bpt id="p3">**</bpt>Natural/originating currency<ept id="p3">**</ept>, <bpt id="p4">**</bpt>Functional currency from company information<ept id="p4">**</ept>, or the reporting currency.</source>
         </trans-unit>
-        <trans-unit id="788" translate="yes" xml:space="preserve">
+        <trans-unit id="787" translate="yes" xml:space="preserve">
           <source>Double-click the <bpt id="p1">**</bpt>Currency Filter<ept id="p1">**</ept> cell in the appropriate <bpt id="p2">**</bpt>FD<ept id="p2">**</ept> column, and then select the appropriate currency code in the list.</source>
         </trans-unit>
-        <trans-unit id="789" translate="yes" xml:space="preserve">
+        <trans-unit id="788" translate="yes" xml:space="preserve">
           <source>Only transactions that are entered in this currency are displayed on the report.</source>
         </trans-unit>
-        <trans-unit id="790" translate="yes" xml:space="preserve">
+        <trans-unit id="789" translate="yes" xml:space="preserve">
           <source>The options that are described here might differ, depending on the ERP system.</source>
         </trans-unit>
-        <trans-unit id="791" translate="yes" xml:space="preserve">
+        <trans-unit id="790" translate="yes" xml:space="preserve">
           <source>For more information, see your <bpt id="p1">[</bpt>Microsoft ERP system documentation<ept id="p1">](https://www.microsoft.com/en-us/download/details.aspx?id=5916)</ept>.</source>
         </trans-unit>
-        <trans-unit id="792" translate="yes" xml:space="preserve">
+        <trans-unit id="791" translate="yes" xml:space="preserve">
           <source>Example for Currency Display and Currency Filter cells</source>
         </trans-unit>
-        <trans-unit id="793" translate="yes" xml:space="preserve">
+        <trans-unit id="792" translate="yes" xml:space="preserve">
           <source>Phyllis has made the following currency selections in her column definition:</source>
         </trans-unit>
-        <trans-unit id="794" translate="yes" xml:space="preserve">
+        <trans-unit id="793" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>Currency Filter:<ept id="p1">**</ept> Yen</source>
         </trans-unit>
-        <trans-unit id="795" translate="yes" xml:space="preserve">
+        <trans-unit id="794" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>Currency Display:<ept id="p1">**</ept> Functional (U.S. dollars)</source>
         </trans-unit>
-        <trans-unit id="796" translate="yes" xml:space="preserve">
+        <trans-unit id="795" translate="yes" xml:space="preserve">
           <source>Because of the currency filter that Phyllis selected, the report includes only transactions that were entered in Japanese yen (JPY).</source>
         </trans-unit>
-        <trans-unit id="797" translate="yes" xml:space="preserve">
+        <trans-unit id="796" translate="yes" xml:space="preserve">
           <source>Because of the currency display that she selected, the report displays those transactions in the functional currency, U.S. dollars (USD).</source>
         </trans-unit>
-        <trans-unit id="798" translate="yes" xml:space="preserve">
+        <trans-unit id="797" translate="yes" xml:space="preserve">
           <source>Currency Filter and Currency Display combinations</source>
         </trans-unit>
-        <trans-unit id="799" translate="yes" xml:space="preserve">
+        <trans-unit id="798" translate="yes" xml:space="preserve">
           <source>The following table shows the report results that can occur for various combinations of the options in <bpt id="p1">**</bpt>Currency Display<ept id="p1">**</ept> and <bpt id="p2">**</bpt>Currency Filter<ept id="p2">**</ept> cells because of the selections that Phyllis made.</source>
         </trans-unit>
-        <trans-unit id="800" translate="yes" xml:space="preserve">
+        <trans-unit id="799" translate="yes" xml:space="preserve">
           <source>The functional currency is USD.</source>
         </trans-unit>
-        <trans-unit id="801" translate="yes" xml:space="preserve">
+        <trans-unit id="800" translate="yes" xml:space="preserve">
           <source>Currency Display cell</source>
         </trans-unit>
-        <trans-unit id="802" translate="yes" xml:space="preserve">
+        <trans-unit id="801" translate="yes" xml:space="preserve">
           <source>Currency Filter cell</source>
         </trans-unit>
-        <trans-unit id="803" translate="yes" xml:space="preserve">
+        <trans-unit id="802" translate="yes" xml:space="preserve">
           <source>Report result</source>
         </trans-unit>
-        <trans-unit id="804" translate="yes" xml:space="preserve">
+        <trans-unit id="803" translate="yes" xml:space="preserve">
           <source>Natural/originating currency</source>
+        </trans-unit>
+        <trans-unit id="804" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>YEN<ept id="p1">**</ept></source>
         </trans-unit>
         <trans-unit id="805" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">**</bpt>YEN<ept id="p1">**</ept></source>
-        </trans-unit>
-        <trans-unit id="806" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>Y6,000<ept id="p1">**</ept> – The result shows only transactions that were entered in JPY.</source>
         </trans-unit>
-        <trans-unit id="807" translate="yes" xml:space="preserve">
+        <trans-unit id="806" translate="yes" xml:space="preserve">
           <source>Functional currency from company information</source>
         </trans-unit>
-        <trans-unit id="808" translate="yes" xml:space="preserve">
+        <trans-unit id="807" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>YEN<ept id="p1">**</ept></source>
         </trans-unit>
-        <trans-unit id="809" translate="yes" xml:space="preserve">
+        <trans-unit id="808" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>$60<ept id="p1">**</ept> – The result shows only transactions that were entered in JPY and displays those transactions in USD.</source>
         </trans-unit>
-        <trans-unit id="810" translate="yes" xml:space="preserve">
+        <trans-unit id="809" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> The conversion rate is approximately 100 JPY per USD.</source>
         </trans-unit>
-        <trans-unit id="811" translate="yes" xml:space="preserve">
+        <trans-unit id="810" translate="yes" xml:space="preserve">
           <source>Functional currency from company information</source>
         </trans-unit>
-        <trans-unit id="812" translate="yes" xml:space="preserve">
+        <trans-unit id="811" translate="yes" xml:space="preserve">
           <source>Empty</source>
         </trans-unit>
-        <trans-unit id="813" translate="yes" xml:space="preserve">
+        <trans-unit id="812" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>$2,310<ph id="ph1">\*</ph><ph id="ph2">\*</ph><ept id="p1">**</ept> – The result shows all data in the functional currency that is specified in the company information.</source>
         </trans-unit>
-        <trans-unit id="814" translate="yes" xml:space="preserve">
+        <trans-unit id="813" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> This amount is the sum of all transactions in functional currency.</source>
         </trans-unit>
-        <trans-unit id="815" translate="yes" xml:space="preserve">
+        <trans-unit id="814" translate="yes" xml:space="preserve">
           <source>Natural/originating currency</source>
         </trans-unit>
-        <trans-unit id="816" translate="yes" xml:space="preserve">
+        <trans-unit id="815" translate="yes" xml:space="preserve">
           <source>Empty</source>
         </trans-unit>
-        <trans-unit id="817" translate="yes" xml:space="preserve">
+        <trans-unit id="816" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>$2,250<ept id="p1">**</ept> – The result shows all amounts in the currency that the transaction was performed in.</source>
         </trans-unit>
-        <trans-unit id="818" translate="yes" xml:space="preserve">
+        <trans-unit id="817" translate="yes" xml:space="preserve">
           <source>Calculation column in a column definition</source>
         </trans-unit>
-        <trans-unit id="819" translate="yes" xml:space="preserve">
+        <trans-unit id="818" translate="yes" xml:space="preserve">
           <source>A column type of <bpt id="p1">**</bpt>CALC<ept id="p1">**</ept> in a column definition supports complex calculations in the <bpt id="p2">**</bpt>Formula<ept id="p2">**</ept> cell, and can include the <bpt id="p3">**</bpt><ph id="ph1">+</ph><ept id="p3">**</ept>, <bpt id="p4">**</bpt><ph id="ph2">-</ph><ept id="p4">**</ept>, <bpt id="p5">**</bpt><ph id="ph3">\*</ph><ept id="p5">**</ept>, and <bpt id="p6">**</bpt><ph id="ph4">/</ph><ept id="p6">**</ept> operators, and also <bpt id="p7">**</bpt>IF/THEN/ELSE<ept id="p7">**</ept> statements.</source>
         </trans-unit>
-        <trans-unit id="820" translate="yes" xml:space="preserve">
+        <trans-unit id="819" translate="yes" xml:space="preserve">
           <source>A calculation column can also refer to any other column, even subsequent columns.</source>
         </trans-unit>
-        <trans-unit id="821" translate="yes" xml:space="preserve">
+        <trans-unit id="820" translate="yes" xml:space="preserve">
           <source>Additionally, a calculation column can also include the fiscal year and period to support headers for the column.</source>
         </trans-unit>
-        <trans-unit id="822" translate="yes" xml:space="preserve">
+        <trans-unit id="821" translate="yes" xml:space="preserve">
           <source>The calculation formula can be up to 1,024 characters long.</source>
         </trans-unit>
-        <trans-unit id="823" translate="yes" xml:space="preserve">
+        <trans-unit id="822" translate="yes" xml:space="preserve">
           <source>To express the calculation result as a percentage, use a special format override.</source>
         </trans-unit>
-        <trans-unit id="824" translate="yes" xml:space="preserve">
+        <trans-unit id="823" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> The results of calculation formulas don't include the values in non-printing column ranges.</source>
         </trans-unit>
-        <trans-unit id="825" translate="yes" xml:space="preserve">
+        <trans-unit id="824" translate="yes" xml:space="preserve">
           <source>For example, <bpt id="p1">**</bpt>A:D<ept id="p1">**</ept> prints <bpt id="p2">**</bpt>0<ept id="p2">**</ept> (zero), whereas <bpt id="p3">**</bpt>A+B+C<ept id="p3">**</ept> for non-printing values calculates the value.</source>
         </trans-unit>
-        <trans-unit id="826" translate="yes" xml:space="preserve">
+        <trans-unit id="825" translate="yes" xml:space="preserve">
           <source>Operators in calculation columns</source>
         </trans-unit>
-        <trans-unit id="827" translate="yes" xml:space="preserve">
+        <trans-unit id="826" translate="yes" xml:space="preserve">
           <source>To add, subtract, multiply, or divide columns, enter the column letters in the order of computation, and then use the appropriate operator to separate each column letter.</source>
         </trans-unit>
-        <trans-unit id="828" translate="yes" xml:space="preserve">
+        <trans-unit id="827" translate="yes" xml:space="preserve">
           <source>The following table explains the operators that you can use in a calculation column.</source>
         </trans-unit>
-        <trans-unit id="829" translate="yes" xml:space="preserve">
+        <trans-unit id="828" translate="yes" xml:space="preserve">
           <source>Operator</source>
         </trans-unit>
-        <trans-unit id="830" translate="yes" xml:space="preserve">
+        <trans-unit id="829" translate="yes" xml:space="preserve">
           <source>Example calculation</source>
         </trans-unit>
-        <trans-unit id="831" translate="yes" xml:space="preserve">
+        <trans-unit id="830" translate="yes" xml:space="preserve">
           <source>Description</source>
         </trans-unit>
-        <trans-unit id="832" translate="yes" xml:space="preserve">
+        <trans-unit id="831" translate="yes" xml:space="preserve">
           <source>A+C</source>
         </trans-unit>
-        <trans-unit id="833" translate="yes" xml:space="preserve">
+        <trans-unit id="832" translate="yes" xml:space="preserve">
           <source>Add the amount in column A to the amount in column C.</source>
         </trans-unit>
-        <trans-unit id="834" translate="yes" xml:space="preserve">
+        <trans-unit id="833" translate="yes" xml:space="preserve">
           <source>:</source>
         </trans-unit>
-        <trans-unit id="835" translate="yes" xml:space="preserve">
+        <trans-unit id="834" translate="yes" xml:space="preserve">
           <source>A:C A:C-D</source>
         </trans-unit>
-        <trans-unit id="836" translate="yes" xml:space="preserve">
+        <trans-unit id="835" translate="yes" xml:space="preserve">
           <source>Add a range of consecutive columns.</source>
         </trans-unit>
-        <trans-unit id="837" translate="yes" xml:space="preserve">
+        <trans-unit id="836" translate="yes" xml:space="preserve">
           <source>For example, the formula <bpt id="p1">**</bpt>A:C<ept id="p1">**</ept> adds the sums of columns A through C, and the formula <bpt id="p2">**</bpt>A:C-D<ept id="p2">**</ept> adds the sums of columns A through C, and then subtracts the amount in column D.</source>
         </trans-unit>
-        <trans-unit id="838" translate="yes" xml:space="preserve">
+        <trans-unit id="837" translate="yes" xml:space="preserve">
           <source>A-C</source>
         </trans-unit>
-        <trans-unit id="839" translate="yes" xml:space="preserve">
+        <trans-unit id="838" translate="yes" xml:space="preserve">
           <source>Subtract the amount in column A from the amount in column C. <bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> You can also use the minus sign (-) to reverse the signs in a column.</source>
         </trans-unit>
-        <trans-unit id="840" translate="yes" xml:space="preserve">
+        <trans-unit id="839" translate="yes" xml:space="preserve">
           <source>For example, use <bpt id="p1">**</bpt>-A+B<ept id="p1">**</ept> to add the reverse of the amount in column A to the amount in column B.</source>
         </trans-unit>
-        <trans-unit id="841" translate="yes" xml:space="preserve">
+        <trans-unit id="840" translate="yes" xml:space="preserve">
           <source>A<ph id="ph1">\*</ph>C</source>
         </trans-unit>
-        <trans-unit id="842" translate="yes" xml:space="preserve">
+        <trans-unit id="841" translate="yes" xml:space="preserve">
           <source>Multiply the amount in column A by the amount in column C.</source>
         </trans-unit>
-        <trans-unit id="843" translate="yes" xml:space="preserve">
+        <trans-unit id="842" translate="yes" xml:space="preserve">
           <source>A/C</source>
         </trans-unit>
-        <trans-unit id="844" translate="yes" xml:space="preserve">
+        <trans-unit id="843" translate="yes" xml:space="preserve">
           <source>Divide the amount in column A by the amount in column C.</source>
         </trans-unit>
-        <trans-unit id="845" translate="yes" xml:space="preserve">
+        <trans-unit id="844" translate="yes" xml:space="preserve">
           <source>Use a calculation formula in a column definition</source>
         </trans-unit>
-        <trans-unit id="846" translate="yes" xml:space="preserve">
+        <trans-unit id="845" translate="yes" xml:space="preserve">
           <source>In Report Designer, open the column definition to modify.</source>
         </trans-unit>
-        <trans-unit id="847" translate="yes" xml:space="preserve">
+        <trans-unit id="846" translate="yes" xml:space="preserve">
           <source>In the appropriate <bpt id="p1">**</bpt>CALC<ept id="p1">**</ept> column, enter a formula in the <bpt id="p2">**</bpt>Formula<ept id="p2">**</ept> cell.</source>
         </trans-unit>
-        <trans-unit id="848" translate="yes" xml:space="preserve">
+        <trans-unit id="847" translate="yes" xml:space="preserve">
           <source>Complex calculations</source>
         </trans-unit>
-        <trans-unit id="849" translate="yes" xml:space="preserve">
+        <trans-unit id="848" translate="yes" xml:space="preserve">
           <source>A complex calculation can contain any combination of cell references, operators, values, and levels of nested parentheses.</source>
         </trans-unit>
-        <trans-unit id="850" translate="yes" xml:space="preserve">
+        <trans-unit id="849" translate="yes" xml:space="preserve">
           <source>For example, to compute the average of columns A and B, use the calculation formula <bpt id="p1">**</bpt>((A+B)/2)<ept id="p1">**</ept>.</source>
         </trans-unit>
-        <trans-unit id="851" translate="yes" xml:space="preserve">
+        <trans-unit id="850" translate="yes" xml:space="preserve">
           <source>Specify report cells in a column calculation</source>
         </trans-unit>
-        <trans-unit id="852" translate="yes" xml:space="preserve">
+        <trans-unit id="851" translate="yes" xml:space="preserve">
           <source>You can refer to a specific report cell by entering a column letter and a row code.</source>
         </trans-unit>
-        <trans-unit id="853" translate="yes" xml:space="preserve">
+        <trans-unit id="852" translate="yes" xml:space="preserve">
           <source>For example, <bpt id="p1">**</bpt>B.100<ept id="p1">**</ept> refers to row code 100 in column B. You can divide a whole column by a specific report cell amount that is in the same column.</source>
         </trans-unit>
-        <trans-unit id="854" translate="yes" xml:space="preserve">
+        <trans-unit id="853" translate="yes" xml:space="preserve">
           <source>For example, the calculation <bpt id="p1">**</bpt>B/B.100<ept id="p1">**</ept> means that the amount in column B should be divided by the value in row code 100 in column B. If the calculation refers to a column that depends on another column, the dependent column is resolved first.</source>
         </trans-unit>
-        <trans-unit id="855" translate="yes" xml:space="preserve">
+        <trans-unit id="854" translate="yes" xml:space="preserve">
           <source>If you refer a column to another column that refers back to the first column, you will cause a circular reference error.</source>
         </trans-unit>
-        <trans-unit id="856" translate="yes" xml:space="preserve">
+        <trans-unit id="855" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> The calculation might be incorrect if you change the calculation priority for the report.</source>
         </trans-unit>
-        <trans-unit id="857" translate="yes" xml:space="preserve">
+        <trans-unit id="856" translate="yes" xml:space="preserve">
           <source>You can set the calculation priority on the <bpt id="p1">**</bpt>Settings<ept id="p1">**</ept> tab of the report definition.</source>
         </trans-unit>
-        <trans-unit id="858" translate="yes" xml:space="preserve">
+        <trans-unit id="857" translate="yes" xml:space="preserve">
           <source>Multiply or divide a column by a base row</source>
         </trans-unit>
-        <trans-unit id="859" translate="yes" xml:space="preserve">
+        <trans-unit id="858" translate="yes" xml:space="preserve">
           <source>You can create a column that displays all the values in a specified column as a percentage of a base number.</source>
         </trans-unit>
-        <trans-unit id="860" translate="yes" xml:space="preserve">
+        <trans-unit id="859" translate="yes" xml:space="preserve">
           <source>Therefore, you can show relationships between rows, such as a percentage of a sales row or a percentage of a total expenses row.</source>
         </trans-unit>
-        <trans-unit id="861" translate="yes" xml:space="preserve">
+        <trans-unit id="860" translate="yes" xml:space="preserve">
           <source>To multiply or divide each row in a specific column by a base row, enter the column to use in the calculation, and then enter <bpt id="p1">**</bpt><ph id="ph1">\*</ph>BASEROW<ept id="p1">**</ept> or <bpt id="p2">**</bpt>/BASEROW<ept id="p2">**</ept>.</source>
         </trans-unit>
-        <trans-unit id="862" translate="yes" xml:space="preserve">
+        <trans-unit id="861" translate="yes" xml:space="preserve">
           <source>For example, enter <bpt id="p1">**</bpt>C<ph id="ph1">\*</ph>BASEROW<ept id="p1">**</ept> or <bpt id="p2">**</bpt>C/BASEROW<ept id="p2">**</ept>.</source>
         </trans-unit>
-        <trans-unit id="863" translate="yes" xml:space="preserve">
+        <trans-unit id="862" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> When you use a base row calculation in a column definition, make sure that each row definition that is used with this column definition contains at least one base row for calculations.</source>
         </trans-unit>
-        <trans-unit id="864" translate="yes" xml:space="preserve">
+        <trans-unit id="863" translate="yes" xml:space="preserve">
           <source>Divide the amount in a column by the number of periods</source>
         </trans-unit>
-        <trans-unit id="865" translate="yes" xml:space="preserve">
+        <trans-unit id="864" translate="yes" xml:space="preserve">
           <source>You can divide the amount in a column by a specified number of periods.</source>
         </trans-unit>
-        <trans-unit id="866" translate="yes" xml:space="preserve">
+        <trans-unit id="865" translate="yes" xml:space="preserve">
           <source>For example, the formula <bpt id="p1">**</bpt>B/Periods<ept id="p1">**</ept> divides the value in column B by the number of periods in column B. If the calculation spans multiple columns, specify the number of periods to use in the calculation.</source>
         </trans-unit>
-        <trans-unit id="867" translate="yes" xml:space="preserve">
+        <trans-unit id="866" translate="yes" xml:space="preserve">
           <source>For example, the formula <bpt id="p1">**</bpt>(B+C)/Periods<ept id="p1">**</ept> adds the amounts in column B and column C, and then divides the result by the period value.</source>
         </trans-unit>
-        <trans-unit id="868" translate="yes" xml:space="preserve">
+        <trans-unit id="867" translate="yes" xml:space="preserve">
           <source>See also</source>
         </trans-unit>
-        <trans-unit id="869" translate="yes" xml:space="preserve">
+        <trans-unit id="868" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Row definitions in financial reporting<ept id="p1">](row-definitions-financial-reporting.md)</ept></source>
         </trans-unit>
-        <trans-unit id="870" translate="yes" xml:space="preserve">
+        <trans-unit id="869" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Advanced formatting options in financial reporting<ept id="p1">](advanced-formatting-options-financial-reporting.md)</ept></source>
         </trans-unit>
       </group>
