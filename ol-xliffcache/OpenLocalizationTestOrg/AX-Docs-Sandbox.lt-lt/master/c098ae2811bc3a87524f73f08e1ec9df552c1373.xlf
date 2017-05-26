@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="lt-lt">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-aa43c9f" tool-company="Microsoft" />
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-ffc129d" tool-company="Microsoft" />
       <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c098ae2811bc3a87524f73f08e1ec9df552c1373</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">hr\localizations\noam-usa-benefit-set-up-tasks.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">do-not-translate</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">fd0dcb4545296427dfd8b0f60eceb468a3b11b1d</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">33541a0f927f0a9de0ffc20286d645b75521c395</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0e93b3ce5b6c4e867aa387fa4cae3885e23f3cf7</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">7472aab6e34e8d22172cb765afa295dd498cd092</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -929,78 +929,75 @@
           <source>To set up a worker's compensation plan, follow the steps in the preceding section, "Creating new benefits," and use the values in the following table.</source>
         </trans-unit>
         <trans-unit id="406" translate="yes" xml:space="preserve">
-          <source>``</source>
-        </trans-unit>
-        <trans-unit id="407" translate="yes" xml:space="preserve">
           <source>Field</source>
         </trans-unit>
-        <trans-unit id="408" translate="yes" xml:space="preserve">
+        <trans-unit id="407" translate="yes" xml:space="preserve">
           <source>Enter this value</source>
         </trans-unit>
-        <trans-unit id="409" translate="yes" xml:space="preserve">
+        <trans-unit id="408" translate="yes" xml:space="preserve">
           <source>Type</source>
         </trans-unit>
-        <trans-unit id="410" translate="yes" xml:space="preserve">
+        <trans-unit id="409" translate="yes" xml:space="preserve">
           <source>The benefit type that you created to use with worker's compensation plans</source>
         </trans-unit>
-        <trans-unit id="411" translate="yes" xml:space="preserve">
+        <trans-unit id="410" translate="yes" xml:space="preserve">
           <source>Concurrent enrollment</source>
         </trans-unit>
-        <trans-unit id="412" translate="yes" xml:space="preserve">
+        <trans-unit id="411" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>Multiple enrollments per type<ept id="p1">**</ept></source>
         </trans-unit>
-        <trans-unit id="413" translate="yes" xml:space="preserve">
+        <trans-unit id="412" translate="yes" xml:space="preserve">
           <source>Payroll category</source>
         </trans-unit>
-        <trans-unit id="414" translate="yes" xml:space="preserve">
+        <trans-unit id="413" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>Worker's compensation<ept id="p1">**</ept></source>
         </trans-unit>
-        <trans-unit id="415" translate="yes" xml:space="preserve">
+        <trans-unit id="414" translate="yes" xml:space="preserve">
           <source>Payroll impact</source>
         </trans-unit>
-        <trans-unit id="416" translate="yes" xml:space="preserve">
+        <trans-unit id="415" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>Contribution only<ept id="p1">**</ept></source>
         </trans-unit>
-        <trans-unit id="417" translate="yes" xml:space="preserve">
+        <trans-unit id="416" translate="yes" xml:space="preserve">
           <source>Pretax basis</source>
         </trans-unit>
-        <trans-unit id="418" translate="yes" xml:space="preserve">
+        <trans-unit id="417" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>None<ept id="p1">**</ept></source>
         </trans-unit>
-        <trans-unit id="419" translate="yes" xml:space="preserve">
+        <trans-unit id="418" translate="yes" xml:space="preserve">
           <source>Limit period</source>
         </trans-unit>
-        <trans-unit id="420" translate="yes" xml:space="preserve">
+        <trans-unit id="419" translate="yes" xml:space="preserve">
           <source>Leave this field blank.</source>
         </trans-unit>
-        <trans-unit id="421" translate="yes" xml:space="preserve">
+        <trans-unit id="420" translate="yes" xml:space="preserve">
           <source>Limit amount</source>
         </trans-unit>
-        <trans-unit id="422" translate="yes" xml:space="preserve">
+        <trans-unit id="421" translate="yes" xml:space="preserve">
           <source>Leave this field blank.</source>
         </trans-unit>
-        <trans-unit id="423" translate="yes" xml:space="preserve">
+        <trans-unit id="422" translate="yes" xml:space="preserve">
           <source>On the <bpt id="p1">**</bpt>Worker's compensation<ept id="p1">**</ept> FastTab, specify the state that each benefit applies to.</source>
         </trans-unit>
-        <trans-unit id="424" translate="yes" xml:space="preserve">
+        <trans-unit id="423" translate="yes" xml:space="preserve">
           <source>Next step</source>
         </trans-unit>
-        <trans-unit id="425" translate="yes" xml:space="preserve">
+        <trans-unit id="424" translate="yes" xml:space="preserve">
           <source>The next step is to set up payroll information for positions and workers.</source>
         </trans-unit>
-        <trans-unit id="426" translate="yes" xml:space="preserve">
+        <trans-unit id="425" translate="yes" xml:space="preserve">
           <source>For more information, see <bpt id="p1">[</bpt>Worker and position payroll tasks<ept id="p1">](noam-usa-worker-position-payroll-tasks.md)</ept>.</source>
         </trans-unit>
-        <trans-unit id="427" translate="yes" xml:space="preserve">
+        <trans-unit id="426" translate="yes" xml:space="preserve">
           <source>See also</source>
         </trans-unit>
-        <trans-unit id="428" translate="yes" xml:space="preserve">
+        <trans-unit id="427" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Worker and position payroll tasks<ept id="p1">](noam-usa-worker-position-payroll-tasks.md)</ept></source>
         </trans-unit>
-        <trans-unit id="429" translate="yes" xml:space="preserve">
+        <trans-unit id="428" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Payroll calculation frequency tasks<ept id="p1">](noam-usa-payroll-calculation-frequencies-tasks.md)</ept></source>
         </trans-unit>
-        <trans-unit id="430" translate="yes" xml:space="preserve">
+        <trans-unit id="429" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Garnishment and tax levy setup tasks<ept id="p1">](noam-usa-garnishment-tax-levy-set-up-tasks.md)</ept></source>
         </trans-unit>
       </group>
