@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="da-dk">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ab36ba1248ba797cbedbc76c6abdc5d089d91103</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\localizations\emea-oioubl-standards-electronic-invoicing.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6e6afa902d31cededfc169af60e8a1f4d1f13386</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">83b3a92fa6b2429697bdca6e167eb7a15ba81936</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>OIOUBL standards for electronic invoicing</source>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This topic explains what level of coverage we have for electronic invoicing in Microsoft Dynamics 365 for Operations in the European region.</source>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>OIOUBL standards for electronic invoicing</source>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>This topic explains what level of coverage we have for electronic invoicing in Microsoft Dynamics 365 for Operations in the European region.</source>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>The <bpt id="p1">[</bpt>European Commission<ept id="p1">](http://ec.europa.eu/finance/payments/einvoicing/index_en.htm)</ept> describes electronic reporting network in following terms: “Electronic invoicing – e-invoicing – is electronic transfer of invoicing information (billing and payment) between business partners (supplier and buyer).</source>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>It is an essential part of an efficient financial supply chain and it links the internal processes of enterprises to the payment systems."</source>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Implementation and adoption of European Union wide electronic invoicing is regulated <bpt id="p1">[</bpt>Council Directive 2010/45/EU<ept id="p1">](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:189:0001:0008:EN:PDF)</ept>, which affects all EU member states.</source>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Companies willing to take benefit from electronic invoicing must submit sales order invoices, free text invoices, project invoices, sales order credit notes, and project invoice credit notes as .xml files to the government or other trading parties that mandate use of electronic invoicing.</source>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>These .xml files must comply with certain standards.</source>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>The country-specific requirements and their implementation may differ across EU member states but commonly they are using Universal Business Language (<bpt id="p1">[</bpt>UBL<ept id="p1">](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=ubl)</ept>) in different versions with customizations as well as <bpt id="p2">[</bpt>PEPPOL<ept id="p2">](http://www.peppol.eu)</ept> specifications and access points for validation and transportation.</source>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>The primary advantage of UBL is that business documents can be standardized for different purposes.</source>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Because UBL is a flexible, international standard that supports many business requirements, these business documents can be exchanged across national borders.</source>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>What electronic invoice formats are currently supported in Dynamics 365 for Operations?</source>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Dynamics 365 for Operations (1611) offers implementation of electronic invoicing based on <bpt id="p1">[</bpt>electronic reporting<ept id="p1">](/dynamics365/operations/dev-itpro/analytics/general-electronic-reporting)</ept>.</source>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>There is a <bpt id="p1">**</bpt>Customer invoice model<ept id="p1">**</ept> data model and a number of country-specific electronic reporting format configurations created for Austria, Denmark, Italy, Norway and Spain:</source>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>OIOUBL Sales &amp; Project invoice (AT, DK, NO)</source>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>OIOUBL Sales &amp; Project credit note (AT, DK, NO)</source>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Sales &amp; Project invoice (ES)</source>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Sales &amp; Project invoice (IT)</source>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>The electronic invoices and credit notes that you generate include required information, such as a European Article Numbering (EAN) number, contact person, dimension account number, and address information for the customer.</source>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>In Microsoft Dynamics 365 for Operations, validation rules are applied when invoices are generated so you can verify that the correct information has been entered.</source>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>The set of required information may differ from country to country.</source>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>As the requirements as well as supported countries and formats is subject to change, you should always go to the Shared asset library on Microsoft Dynamics Lifecycle services (LCS) and view the most up-to-date list of available files that have an asset type of <bpt id="p1">**</bpt>GER configuration<ept id="p1">**</ept>.</source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

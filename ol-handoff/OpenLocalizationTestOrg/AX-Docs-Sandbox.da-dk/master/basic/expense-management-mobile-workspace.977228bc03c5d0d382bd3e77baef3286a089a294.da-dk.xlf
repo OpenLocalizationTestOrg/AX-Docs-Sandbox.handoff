@@ -1,0 +1,291 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="da-dk">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4e3202de8e5288bbd52e8c28922374de147cc99f</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\expense-management\expense-management-mobile-workspace.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">07b4b46bc866907ee34330b62962a00f7956b1c4</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6f5e72e6b545235f51e8c97dca56b2ef945c3014</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Expense management mobile workspace</source>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This topic provides information about the Expense management mobile workspace that is available for the Microsoft Dynamics 365 for Operations mobile app.</source>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>This workspace lets users capture and upload a receipt, so that they can attach it to an expense report later.</source>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>The mobile workspace also lets users quickly create an expense line by using an attached receipt.</source>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Expense management mobile workspace</source>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>This topic provides information about the Expense management mobile workspace that is available for the Microsoft Dynamics 365 for Operations mobile app.</source>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>This workspace lets users capture and upload a receipt, so that they can attach it to an expense report later.</source>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>The mobile workspace also lets users quickly create an expense line by using an attached receipt.</source>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Overview of the Expense management mobile workspace</source>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Many organizations require that a copy of a receipt be attached to a travel-related or business-related expense report that an employee submits for reimbursement.</source>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>The <bpt id="p1">**</bpt>Expense management<ept id="p1">**</ept> mobile workspace lets users quickly create new expense lines on the mobile device of their choice by using an attached photo of a receipt.</source>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Alternatively, users can capture a photo of a receipt and then attach it to an expense report later.</source>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Specifically, the <bpt id="p1">**</bpt>Expense management<ept id="p1">**</ept> mobile workspace enables a user to:</source>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Take a photo of a receipt, and upload it to Microsoft Dynamics 365 for Operations.</source>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>A user can then attach that photo to an expense report later.</source>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Upload a file as a captured receipt.</source>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>A user can then attach that file to an expense report later.</source>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Create a new expense line by using an attached receipt.</source>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>A user can then add the line item to an expense report later, and submit it for approval and reimbursement.</source>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>The remaining sections of this topic explain how to implement and use the <bpt id="p1">**</bpt>Expense management<ept id="p1">**</ept> mobile workspace.</source>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>Prerequisites</source>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Before you implement the <bpt id="p1">**</bpt>Expense management<ept id="p1">**</ept> mobile workspace, make sure that your system administrator has completed the following prerequisites.</source>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Prerequisite</source>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Role</source>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Description</source>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Microsoft Dynamics 365 for Operations version 1611 with platform update 3 or later must be implemented.</source>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>System administrator</source>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>If you don't already have Dynamics 365 for Operations deployed in your organization, your system administrator should see <bpt id="p1">&lt;a href="/dynamics365/operations/dev-itpro/deployment/deploy-demo-environment"&gt;</bpt>Deploy a Microsoft Dynamics 365 for Operations demo environment<ept id="p1">&lt;/a&gt;</ept>.</source>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>KB 4019015 must be implemented.</source>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>System administrator</source>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>KB 4019015 (an X++ update or metadata hotfix) contains four mobile workspaces for supply chain management.</source>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>To implement KB 4019015, your system administrator must follow these steps:</source>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Download KB 4019015 from Microsoft Dynamics Lifecycle Services (LCS).</source>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">&lt;a href="/dynamics365/operations/dev-itpro/migration-upgrade/install-metadata-hotfix-package"&gt;</bpt>Install the metadata hotfix<ept id="p1">&lt;/a&gt;</ept>.</source>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">&lt;a href="/dynamics365/operations/dev-itpro/deployment/create-apply-deployable-package"&gt;</bpt>Create a deployable package<ept id="p1">&lt;/a&gt;</ept> that contains the <bpt id="p2">&lt;strong&gt;</bpt>ApplicationSuite<ept id="p2">&lt;/strong&gt;</ept> and <bpt id="p3">&lt;strong&gt;</bpt>ExpenseMobile<ept id="p3">&lt;/strong&gt;</ept> model, and then upload the deployable package to LCS.</source>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">&lt;a href="/dynamics365/operations/dev-itpro/deployment/apply-deployable-package-system"&gt;</bpt>Apply the deployable package<ept id="p1">&lt;/a&gt;</ept> to your Dynamics 365 for Operations system.</source>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>The <bpt id="p1">&lt;strong&gt;</bpt>Expense management<ept id="p1">&lt;/strong&gt;</ept> mobile workspace must be published to the Dynamics 365 for Operations mobile app.</source>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>System administrator</source>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>Start Dynamics 365 for Operations in your browser.</source>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>On the <bpt id="p1">&lt;strong&gt;</bpt>System parameters<ept id="p1">&lt;/strong&gt;</ept> page, select <bpt id="p2">&lt;strong&gt;</bpt>Manage mobile workspaces<ept id="p2">&lt;/strong&gt;</ept>.</source>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>Select the <bpt id="p1">&lt;strong&gt;</bpt>Expense management<ept id="p1">&lt;/strong&gt;</ept> workspace.</source>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>Click <bpt id="p1">&lt;strong&gt;</bpt>Publish mobile workspace<ept id="p1">&lt;/strong&gt;</ept>.</source>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>Download and install the Dynamics 365 for Operations mobile app</source>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Download and install the Dynamics 365 for Operations mobile app from your mobile app store.</source>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>For Android: <bpt id="p1">[</bpt>Dynamics 365 for Operations on the Google Play Store<ept id="p1">](https://play.google.com/store/apps/details?id=com.microsoft.dynamics365.operations.mobile)</ept></source>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>For iPhone: <bpt id="p1">[</bpt>Dynamics 365 for Operations on the iTunes apps store<ept id="p1">](https://itunes.apple.com/us/app/dynamics-365-for-operations/id1180836730?mt=8)</ept></source>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>Sign in to the Dynamics 365 for Operations mobile app</source>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>Start the app on your mobile device.</source>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>Enter your Dynamics 365 for Operations URL.</source>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>Enter the company to sign in to.</source>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>For example, enter <bpt id="p1">**</bpt>USMF<ept id="p1">**</ept>.</source>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>The first time that you sign in, you re prompted for the user name and password for your Dynamics 365 for Operations account.</source>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>Enter your credentials.</source>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>After you sign in, you see the available workspaces for your company.</source>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>Note that if your system administrator publishes a new workspace later, you can pull to refresh the list of mobile workspaces.</source>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt><ph id="ph1">![</ph>Pull to refresh<ept id="p1">](./media/pull-to-refresh-list-of-workspaces-183x300.png)](./media/pull-to-refresh-list-of-workspaces.png)</ept></source>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>Capture a receipt by using the Expense management mobile workspace</source>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>On your mobile device, select the <bpt id="p1">**</bpt>Expense management<ept id="p1">**</ept> workspace.</source>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>Select <bpt id="p1">**</bpt>Capture receipt<ept id="p1">**</ept>.</source>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>Select <bpt id="p1">**</bpt>Take photo<ept id="p1">**</ept> or <bpt id="p2">**</bpt>Choose image<ept id="p2">**</ept>.</source>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>If you selected <bpt id="p1">**</bpt>Take photo<ept id="p1">**</ept>, follow these steps:</source>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>You're taken to the camera on your mobile device, so that you can take a photo of the receipt.</source>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>When you've finished taking a photo, click <bpt id="p1">**</bpt>OK<ept id="p1">**</ept> to accept the photo.</source>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>Optional: Enter a name for the photo, and enter any notes.</source>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Or:<ept id="p1">**</ept>  If you selected <bpt id="p2">**</bpt>Choose image<ept id="p2">**</ept>, follow these steps:</source>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>Select an image in the list.</source>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>Optional: Enter a name for the image, and enter any notes.</source>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>Select <bpt id="p1">**</bpt>Done<ept id="p1">**</ept>.</source>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>Quick expense entry by using the Expense management mobile workspace</source>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>On your mobile device, select the <bpt id="p1">**</bpt>Expense management<ept id="p1">**</ept> workspace.</source>
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>Select <bpt id="p1">**</bpt>Quick expense entry<ept id="p1">**</ept>.</source>
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>Select the category for the expense.</source>
+        </trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>You see a list of expense categories that are loaded into your app for offline use.</source>
+        </trans-unit>
+        <trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>By default, up to 50 items are loaded, but a developer can change this number.</source>
+        </trans-unit>
+        <trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>For more information, developers should see <bpt id="p1">[</bpt>Dynamics 365 for Operations mobile platform<ept id="p1">](/dynamics365/operations/dev-itpro/mobile-apps/mobile-platform)</ept>.</source>
+        </trans-unit>
+        <trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>If your category isn't in the list, select <bpt id="p1">**</bpt>Search<ept id="p1">**</ept> to do an online search in Dynamics 365 for Operations.</source>
+        </trans-unit>
+        <trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>Search by expense category, or switch to search by expense type.</source>
+        </trans-unit>
+        <trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>Enter the transaction date of the expense.</source>
+        </trans-unit>
+        <trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>Optional: Enter the merchant for the expense.</source>
+        </trans-unit>
+        <trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>Enter the amount of the expense.</source>
+        </trans-unit>
+        <trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>Select the currency of the expense.</source>
+        </trans-unit>
+        <trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>You see a list of the currency codes that are loaded into your app for offline use.</source>
+        </trans-unit>
+        <trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>By default, up to 400 currencies are loaded, but a developer can change this number.</source>
+        </trans-unit>
+        <trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>For more information, developers should see <bpt id="p1">[</bpt>Dynamics 365 for Operations mobile platform<ept id="p1">](/dynamics365/operations/dev-itpro/mobile-apps/mobile-platform)</ept>.</source>
+        </trans-unit>
+        <trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>If your currency isn't in the list, select <bpt id="p1">**</bpt>Search<ept id="p1">**</ept> to do an online search in Dynamics 365 for Operations.</source>
+        </trans-unit>
+        <trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>Search by currency, or switch to search by name.</source>
+        </trans-unit>
+        <trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>Select to <bpt id="p1">**</bpt>Take photo<ept id="p1">**</ept> or <bpt id="p2">**</bpt>Choose image<ept id="p2">**</ept>.</source>
+        </trans-unit>
+        <trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>If you selected <bpt id="p1">**</bpt>Take photo<ept id="p1">**</ept>, you're taken to the camera on your mobile device, so that you can take a photo of the receipt.</source>
+        </trans-unit>
+        <trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>When you've finished taking a photo, click <bpt id="p1">**</bpt>OK<ept id="p1">**</ept> to accept the photo.</source>
+        </trans-unit>
+        <trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>or  If you selected <bpt id="p1">**</bpt>Choose image<ept id="p1">**</ept>, select an image in the list.</source>
+        </trans-unit>
+        <trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>Select <bpt id="p1">**</bpt>Done<ept id="p1">**</ept>.</source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

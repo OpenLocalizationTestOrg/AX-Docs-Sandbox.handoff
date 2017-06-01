@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="da-dk">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">272856c01074a352e3945f29e9cdf7655aaf22ba</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">core\get-started\recently-added-editing-features-in-task-recorder.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">61ef5cfb11b38db69d4ca2b5c9c6c92a82af19f4</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">cf2fef5d0906aa85ce9e0b6ad88a21664fe47770</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Recently added editing features in task recorder</source>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>If you use task recorder to create task guides, you can edit your files more efficiently using the functionality described in this topic.</source>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Recently added editing features in task recorder</source>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>If you use task recorder to create task guides, you can edit your files more efficiently using the functionality described in this topic.</source>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>These features are available on the <bpt id="p1">**</bpt>Settings <ph id="ph1">&amp;gt;</ph> Task recorder <ph id="ph2">&amp;gt;</ph> Edit recording<ept id="p1">**</ept> menu.</source>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Insert steps without re-recording the entire file.</source>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Move steps under a sub-task without re-recording the entire file.</source>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Collapse Recording name and description fields.</source>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Insert steps without rerecording the entire file</source>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>You can now add a step anywhere in a task guide without playing back or re-recording the entire file.</source>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Select the step after which you want the new step to be inserted.</source>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Make sure the step is highlighted.</source>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>In order for task recorder to insert a step, you must have the correct page open.</source>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>The correct page is the page on which the new step occurs.</source>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Task recorder has a mechanism that determines what the active page is, and will disable the functionality if the correct page isn’t open.</source>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt><ph id="ph1">![</ph>tg1<ept id="p1">](./media/tg1.png)](./media/tg1.png)</ept></source>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>When you are on the correct page, <bpt id="p1">**</bpt>Insert step<ept id="p1">**</ept> becomes available.</source>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt><ph id="ph1">![</ph>tg2<ept id="p1">](./media/tg2-231x300.png)](./media/tg2.png)</ept></source>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Click <bpt id="p1">**</bpt>Insert step<ept id="p1">**</ept>.</source>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>When you click <bpt id="p1">**</bpt>Insert step<ept id="p1">**</ept>, Task recorder switches to record mode.</source>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>Any action taken in the UI will now be recorded and added in-place as steps.</source>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Click <bpt id="p1">**</bpt>Stop<ept id="p1">**</ept>.</source>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>You can repeat the process, adding as many steps or moving as many sub-tasks as needed (see below for sub-tasks).</source>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>When you are done editing the task guide, click <bpt id="p1">**</bpt>Done editing<ept id="p1">**</ept>, and then choose one of the options to save or publish the task guide.</source>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Move steps under a subtask without rerecording the entire file</source>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>You can move steps under a sub-task without playing back or re-recording the entire file.</source>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>You can also move the sub-task step or the end sub-task step if you want to group an existing block of steps.</source>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Select the step or sub-task step that you want to move.</source>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Make sure that the step is highlighted.</source>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>Click the ellipsis, then click <bpt id="p1">**</bpt>Move step after<ept id="p1">**</ept>.</source>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt><ph id="ph1">![</ph>tg3<ept id="p1">](./media/tg3.png)](./media/tg3.png)</ept></source>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Select the step or sub-task step that you want to move the step or sub-task step after.</source>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Task recorder will move the step.</source>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>To move the end sub-task step, select it, click the ellipsis, click <bpt id="p1">**</bpt>Move step after<ept id="p1">**</ept>, and then select the step after which you want the end sub-task step to be.</source>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>If you want the first step in the task guide to be within a sub-task, create a sub-task step as the second step, and then move the first step into it.</source>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>You can add or move as many steps or sub-tasks as needed.</source>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>When you are done editing the task guide, click <bpt id="p1">**</bpt>Done editing<ept id="p1">**</ept>, and then choose one of the options to save or publish the task guide.</source>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Collapse Recording name and description</source>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>You can expand and collapse the <bpt id="p1">**</bpt>Recording name<ept id="p1">**</ept> and <bpt id="p2">**</bpt>Recording description<ept id="p2">**</ept> fields.</source>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>When these fields are collapsed, more steps will be visible in the Task recorder editing pane.</source>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt><ph id="ph1">![</ph>tg4<ept id="p1">](./media/tg4-300x252.png)](./media/tg4.png)</ept></source>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>See also</source>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create documentation or training using Task recordings<ept id="p1">](/dynamics365/operations/dev-itpro/user-interface/task-recorder)</ept></source>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Task recorder quick reference<ept id="p1">](/dynamics365/operations/dev-itpro/user-interface/task-recorder-quick-reference)</ept></source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
