@@ -1,0 +1,333 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="fr-fr">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e19fee87dae6e5d425f36dac0db4ea89534a8510</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">scm\procurement\vendor-collaboration-mobile-workspace.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">84227f3818ae0af27c951f20d328630e38bde181</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">038d037a80bdbaef0d39ffefa4bee1b0f56d39a7</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Vendor collaboration mobile workspace for Microsoft Dynamics 365 for Operations app</source>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>With the vendor collaboration mobile workspace, your vendors can stay up-to-date on the purchase orders that have been sent to them for approval and view information about new and updated purchase orders and contacts.</source>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Vendor collaboration mobile workspace for Microsoft Dynamics 365 for Operations app</source>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>With the vendor collaboration mobile workspace, your vendors can stay up-to-date on the purchase orders that have been sent to them for approval and view information about new and updated purchase orders and contacts.</source>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Prerequisites</source>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Prerequisite</source>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Description</source>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Read about the Microsoft Dynamics 365 for Operations mobile platform</source>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">&lt;a href="https://ax.help.dynamics.com/en/wiki/mobile-development-handbook/"&gt;</bpt>Dynamics 365 for Operations mobile platform<ept id="p1">&lt;/a&gt;</ept></source>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Dynamics 365 for Operations</source>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Be sure that you are using an environment that has Microsoft Dynamics 365 for Operations version 1611 and Microsoft Dynamics for Operations platform update 3 (November 2016).</source>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">&lt;span style="color: #000000"&gt;</bpt>Mobile device that has the Dynamics 365 for Operations app installed<ept id="p1">&lt;/span&gt;</ept></source>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">&lt;span style="color: #000000"&gt;</bpt>Download the Dynamics 365 for Operations app from your mobile app store.<ept id="p1">&lt;/span&gt;</ept></source>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Hotfix KB 4013633</source>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Install the hotfix to enable the workspaces that are provided in Dynamics 365 for Operations.</source>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">&lt;span style="color: #ff0000"&gt;</bpt><bpt id="p2">&lt;span style="color: #000000"&gt;</bpt>Hotfix KB 3216943<ept id="p2">&lt;/span&gt;</ept><ept id="p1"> &lt;/span&gt;</ept></source>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Install the hotfix to enable the vendor collaboration mobile workspace.</source>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>The vendor user must have access to the vendor collaboration web interface in Dynamics 365 for Operations and set up a vendor collaboration user.</source>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Follow the steps described in the following topics to set up and work with the vendor collaboration web interface.</source>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">&lt;a href="https://ax.help.dynamics.com/en/wiki/using-vendor-collaboration-to-work-with-external-vendors/"&gt;</bpt>Use vendor collaboration to work with external vendors<ept id="p1">&lt;/a&gt;</ept></source>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">&lt;a href="https://ax.help.dynamics.com/en/wiki/manage-vendor-collaboration-users/"&gt;</bpt>Manage vendor collaboration users<ept id="p1">&lt;/a&gt;</ept></source>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">&lt;a href="https://ax.help.dynamics.com/en/wiki/set-up-and-maintain-vendor-collaboration/"&gt;</bpt>Set up and maintain vendor collaboration<ept id="p1">&lt;/a&gt;</ept></source>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">&lt;a href="https://ax.help.dynamics.com/en/wiki/using-vendor-collaboration-to-work-with-customers-in-dynamics-365-for-operations/"&gt;</bpt>Use vendor collaboration to work with customers in Dynamics 365 for Operations<ept id="p1">&lt;/a&gt;</ept></source>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Overview</source>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>The Vendor collaboration mobile workspace keeps vendors informed about new purchase orders so that they can see and respond to purchase orders in the Dynamics 365 for Operations web client.</source>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> The mobile workspace should be used as a supplement to the vendor collaboration web interface, but not a replacement.</source>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>With the Vendor collaboration mobile workspace, your vendors can view new purchase orders that are sent for approval.</source>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>It displays purchase order information, such as products, quantity, and requested delivery dates.</source>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Price information is available, depending on the configuration for each vendor.</source>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>When a user logs in as a vendor, they will see which purchase orders have been responded to, or which purchase orders are still awaiting customer action.</source>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>The vendor might have suggested another delivery date that is not yet agreed with the customer so the purchase order is awaiting customer action.</source>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>The vendor will also see a list of purchase orders that are confirmed but not yet delivered.</source>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>To respond to a purchase order, the vendor has to use the vendor collaboration web interface that is available in the Dynamics 365 for Operations web client.</source>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>This is also where the vendor will get more information about the order, such as document attachments, delivery address per line, and charges that are associated with the vendor.</source>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>With a special security role, the vendor can view which contact persons are registered for a vendor account.</source>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>With the same security role, the vendor can view the status of any user request that has been submitted.</source>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Creating new contacts and submitting new user requests must be done in the vendor collaboration interface that is available in the Dynamics 365 for Operations web client.</source>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>With the mobile workspace, your vendor can:</source>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>View new purchase orders sent to the vendor.</source>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>View purchase orders that the vendor has responded to and are awaiting customer action.</source>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>View purchase orders that are in a confirmed state and have not been fully received.</source>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>View contact person information that is registered for the vendor account (requires an additional security role).</source>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>View information and follow the status of a user request submitted by the vendor (requires an additional security role).</source>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Get started</source>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>To get started on your mobile device:</source>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>On your mobile app store, download and install the Microsoft Dynamics 365 for Operations app.</source>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>Start the app on your device.</source>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>Enter your Dynamics 365 URL.</source>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>Enter the company to sign in to.</source>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>For example, enter <bpt id="p1">**</bpt>USMF<ept id="p1">**</ept>.</source>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>The first time that you sign in, you are prompted for the user name and password for your Microsoft Dynamics 365 for Operations account.</source>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>After you log in the app, no workspaces are visible.</source>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>To view workspaces on your mobile app, you must first publish the desired workspaces to the Dynamics 365 for Operations app.</source>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>You need system administration permission to publish the workspace.</source>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>Start Dynamics 365 for Operations.</source>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>Go to <bpt id="p1">**</bpt>System administration<ept id="p1">**</ept> <ph id="ph1">&amp;gt;</ph> <bpt id="p2">**</bpt>Setup<ept id="p2">**</ept> <ph id="ph2">&amp;gt;</ph> <bpt id="p3">**</bpt>system parameters<ept id="p3">**</ept>.</source>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>Select <bpt id="p1">**</bpt>Manage mobile app<ept id="p1">**</ept>.</source>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>Select the workspace <bpt id="p1">**</bpt>Vendor collaboration<ept id="p1">**</ept> to publish to the mobile platform.</source>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>Select <bpt id="p1">**</bpt>Publish workspace<ept id="p1">**</ept>.</source>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>Refresh your device to see the published workspaces.</source>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>Select the <bpt id="p1">**</bpt>Vendor collaboration<ept id="p1">**</ept> workspace.</source>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>You will the following page.</source>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt><ph id="ph1">![</ph>vendor-collaboration-mobile-app<ept id="p1">](./media/vendor-collaboration-mobile-app.png)](./media/vendor-collaboration-mobile-app.png)</ept></source>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>Contacts</source>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>The <bpt id="p1">**</bpt>Contacts<ept id="p1">**</ept> page lets you see all the contacts that have been set up for the vendor account.</source>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>It shows the contact person name, primary email, and the users alias, if available.</source>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>It also shows whether the contact person's user account is active.</source>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>When you select a contact, you see contact details, such as which legal entities the person is a contact for, and contact information such as phone number or a different email address.</source>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>User requests</source>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>The <bpt id="p1">**</bpt>User requests<ept id="p1">**</ept> page lets you see all the user requests that you have submitted via the vendor collaboration web interface and follow the status.</source>
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>When you select a user request, you can see what was requested, add or inactivate a user, change security, and see which security roles were requested for the user.</source>
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>Purchase orders ready for review</source>
+        </trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>The <bpt id="p1">**</bpt>Purchase orders ready for review<ept id="p1">**</ept> page lets you see all the purchase orders that were sent by the customer and have not been answered.</source>
+        </trans-unit>
+        <trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>You can view selected information about the order, such as which products have been requested and when to deliver.</source>
+        </trans-unit>
+        <trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>Price information is only available if this is configured for the vendor.</source>
+        </trans-unit>
+        <trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>You can see whether the purchase order has notes or attachments.</source>
+        </trans-unit>
+        <trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>To open attachments, you need to use vendor collaboration in the web client.</source>
+        </trans-unit>
+        <trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>Select <bpt id="p1">**</bpt>Purchase order line<ept id="p1">**</ept> to see all the lines with details.</source>
+        </trans-unit>
+        <trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>Note that for each line, an indicator will show whether there are notes or attachments or if there's a delivery address that's different than what's shown on the header.</source>
+        </trans-unit>
+        <trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>To respond to the purchase order, you must use the vendor collaboration web client.</source>
+        </trans-unit>
+        <trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>Awaiting customer action</source>
+        </trans-unit>
+        <trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>The <bpt id="p1">**</bpt>Awaiting customer action<ept id="p1">**</ept> page lets you find purchase orders that you, or someone in your company who also has access to vendor collaboration, have responded to.</source>
+        </trans-unit>
+        <trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>The purchase orders are only visible in this list if the customer needs to perform one of the following actions on the purchase order.</source>
+        </trans-unit>
+        <trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>If the purchase order was rejected, the customer would either need to update the sent order and send again, or cancel the order and resend.</source>
+        </trans-unit>
+        <trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>When the purchase order is sent again, it will disappear from the <bpt id="p1">**</bpt>Awaiting customer action<ept id="p1">**</ept> page.</source>
+        </trans-unit>
+        <trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>If the purchase order was accepted with changes, the customer would need to update the original order and resend for review, or update it according to the changes and confirm it immediately.</source>
+        </trans-unit>
+        <trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>In both cases, the purchase order will disappear from the <bpt id="p1">**</bpt>Awaiting customer action<ept id="p1">**</ept> page.</source>
+        </trans-unit>
+        <trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>If the purchase order was accepted and appears in the <bpt id="p1">**</bpt>Awaiting customer action<ept id="p1">**</ept> page, it is because the purchase order was not automatically confirmed when the acceptance was done.</source>
+        </trans-unit>
+        <trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>It is waiting for a purchasing agent to change the order to Confirmed.</source>
+        </trans-unit>
+        <trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>Typically, the purchase order would be regarded as an agreement between the customer and vendor as soon as the vendor accepts the order.</source>
+        </trans-unit>
+        <trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>Moving the purchase order to the Confirmed state would be a formality.</source>
+        </trans-unit>
+        <trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>By selecting the purchase order, additional details appear about the response.</source>
+        </trans-unit>
+        <trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>You can see the line details and response for every line.</source>
+        </trans-unit>
+        <trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>The line status shows which of the following responses has been given.</source>
+        </trans-unit>
+        <trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>Accepted</source>
+        </trans-unit>
+        <trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>Rejected</source>
+        </trans-unit>
+        <trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>Accepted with changes</source>
+        </trans-unit>
+        <trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>Substituted/Substitute</source>
+        </trans-unit>
+        <trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>Split into schedule/Schedule line</source>
+        </trans-unit>
+        <trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>Note that an indicator shows <bpt id="p1">**</bpt>Delivering<ept id="p1">**</ept>=yes/no, which is used to indicate that the lines will not be delivered.</source>
+        </trans-unit>
+        <trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>This could be because the line was rejected, or substituted where the original lines are not expected to be delivered, or a line that has been split into multiple schedule lines and the original line is not expected to be delivered as requested in the received order.</source>
+        </trans-unit>
+        <trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>Any changes made to the order line response are displayed, except for the uploaded notes and attachments, which you can see by using the vendor collaboration web interface.</source>
+        </trans-unit>
+        <trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>Open confirmed orders</source>
+        </trans-unit>
+        <trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>When the purchase order is confirmed by the customer, which means the purchase order is changed to the Confirmed state, it will appear in the open confirmed order.</source>
+        </trans-unit>
+        <trans-unit id="205" translate="yes" xml:space="preserve">
+          <source>It will stay in the list until it is registered as received by the customer.</source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
