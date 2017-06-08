@@ -1,6 +1,4 @@
 ---
-# required metadata
-
 title: Fixed asset mass update
 description: If you use books, you can change the depreciation conventions for groups of assets that are part of the same book.
 author: twheeloc
@@ -10,27 +8,25 @@ ms.topic: article
 ms.prod: 
 ms.service: dynamics-ax-applications
 ms.technology: 
-
-# optional metadata
-
-# ms.search.form: 
-# ROBOTS: 
 audience: Application User
-# ms.devlang: 
 ms.reviewer: twheeloc
 ms.search.scope: AX 7.0.0, Operations, Core
-# ms.tgt_pltfrm: 
 ms.custom: 3521
 ms.assetid: 50207ffb-6b89-4fb9-92e9-928bc0729489
 ms.search.region: Global
-# ms.search.industry: 
 ms.author: saraschi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
+ms.translationtype: Human Translation
+ms.sourcegitcommit: d421b161216d700f7819f1da8c0ca8ad089b5670
+ms.openlocfilehash: a16bae8f13dd53b5bbe380f03f6ca399bd6dbd9a
+ms.contentlocale: da-dk
+ms.lasthandoff: 06/01/2017
+
 
 ---
 
-# Fixed asset mass update
+# <a name="fixed-asset-mass-update"></a>Fixed asset mass update
 
 [!include[banner](../includes/banner.md)]
 
@@ -44,6 +40,7 @@ When you update the depreciation convention for assets, you delete all depreciat
 To update the depreciation convention for assets that have already been disposed of, you must first delete the existing disposal transactions. You must also delete all transactions that were generated because of the disposal process. 
 
 After you update the depreciation convention for assets, you can process depreciation and extraordinary depreciation for each asset. You can also make manual depreciation adjustments, if any adjustments are required.
+
 
 
 

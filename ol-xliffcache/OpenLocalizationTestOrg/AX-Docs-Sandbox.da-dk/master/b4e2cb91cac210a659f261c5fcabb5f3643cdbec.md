@@ -1,8 +1,6 @@
 ---
-# required metadata
-
 title: Manage warehouse workers
-description: This article describes how you can use Microsoft Dynamics AX to help control and monitor the work that's carried out by employees in your warehouses.
+description: This article describes how you can use Microsoft Dynamics AX to help control and monitor the work that&quot;s carried out by employees in your warehouses.
 author: YuyuScheller
 manager: AnnBe
 ms.date: 04/04/2017
@@ -10,27 +8,25 @@ ms.topic: article
 ms.prod: 
 ms.service: dynamics-ax-applications
 ms.technology: 
-
-# optional metadata
-
 ms.search.form: HcmWorker, InventLocation, WHSLaborStandards, WHSWorker, WHSWorkTable, WHSWorkTableListPage
-# ROBOTS: 
 audience: Application User
-# ms.devlang: 
-# ms.reviewer: 2084
 ms.search.scope: AX 7.0.0, Operations, Core
-# ms.tgt_pltfrm: 
 ms.custom: 72891
 ms.assetid: feaa6f15-49d2-41f5-9b87-453463c52e4e
 ms.search.region: Global
-# ms.search.industry: 
 ms.author: perlynne
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
+ms.translationtype: Human Translation
+ms.sourcegitcommit: d421b161216d700f7819f1da8c0ca8ad089b5670
+ms.openlocfilehash: b4e2cb91cac210a659f261c5fcabb5f3643cdbec
+ms.contentlocale: da-dk
+ms.lasthandoff: 06/01/2017
+
 
 ---
 
-# Manage warehouse workers
+# <a name="manage-warehouse-workers"></a>Manage warehouse workers
 
 [!include[banner](../includes/banner.md)]
 
@@ -43,12 +39,12 @@ To create a new work user, on the **Workers** page, on the **General** tab, in t
 
 As part of the setup for each work user, you can also define specific process workflows. For example, you can use the **Is a cycle count supervisor** field to specify whether the user can process adjustments to cycle counting discrepancies during a counting operation, or whether these adjustments must first be reviewed by another person.
 
-## Defining labor standards
-The **Labor standards** page lets you define the calculation methods that the system uses to calculate the estimated time that a particular type of work should require. This definition can be set on a generic level or on a specific level. For example, you can define the time that should be required in order to process a sales order pick per weight for a specific unit definition when a specific picking process is used. At the same time, you can record the time, based on another calculation method, for the put operation of the on-hand inventory that is picked. 
+## <a name="defining-labor-standards"></a>Defining labor standards
+The **Labor standards** page lets you define the calculation methods that the system uses to calculate the estimated time that a particular type of work should require. This definition can be set on a generic level or on a specific level. For example, you can define the time that should be required in order to process a sales order pick per weight for a specific unit definition when a specific picking process is used. At the same time, you can record the time, based on another calculation method, for the put operation of the on-hand inventory that is picked. 
 
 To enable the labor standards that you've defined, you must select the **Allow labor standards** option for each warehouse where labor standards will be used.
 
-## Monitoring and controlling warehouse work
+## <a name="monitoring-and-controlling-warehouse-work"></a>Monitoring and controlling warehouse work
 The **All work** page lets you monitor and maintain all work that is planned, in progress, and completed. From this page, you can update various processes, such as warehouse work user assignments and work priority. You can also drill down into the details that are related to the work header and work lines to gain an understanding of the expected or completed work processes. 
 
 If you enable the **Labor standards** option, you can see the calculated estimated time for the work. Then, when the work is processed, the actual time will also be shown for each work operation. In this way, you can compare the estimated time calculations to the actual time. 
@@ -59,6 +55,7 @@ Analysis of the time that is used to process work items can help drive improveme
 
 -   **Labor by user** – This report shows worker productivity, based on actual times against expected times.
 -   **Labor by work transaction type** – You can use this report to investigate inefficiencies in specific warehouse processes. For example, you notice that picks for transfer orders are taking longer this week than in previous weeks. You can then use this information for further investigation.
+
 
 
 

@@ -1,6 +1,4 @@
 ---
-# required metadata
-
 title: New or updated Task guides (November 2016)
 description: This topic lists the new or updated Task guides that were released to the Microsoft (November 2016 - all languages) APQC Unified Library for Microsoft Dynamics 365 for Operations. No new Getting Started Library was released.
 author: josaw1
@@ -10,36 +8,33 @@ ms.topic: article
 ms.prod: 
 ms.service: dynamics-ax-platform
 ms.technology: 
-
-# optional metadata
-
-# ms.search.form: 
-# ROBOTS: 
 audience: Application User, IT Pro
-# ms.devlang: 
-# ms.reviewer: 41
 ms.search.scope: Operations
-# ms.tgt_pltfrm: 
 ms.custom: 270894
 ms.assetid: 1b90768d-8bf7-4e35-90c0-65962fea5d26
 ms.search.region: global
-# ms.search.industry: 
 ms.author: josaw
 ms.search.validFrom: 2016-11-30
 ms.dyn365.ops.version: Version 1611
+ms.translationtype: Human Translation
+ms.sourcegitcommit: d421b161216d700f7819f1da8c0ca8ad089b5670
+ms.openlocfilehash: bea93ea1e8d17d4d4d31b21e1fad6f3eaa31b3e2
+ms.contentlocale: da-dk
+ms.lasthandoff: 06/01/2017
+
 
 ---
 
-# New or updated Task guides (November 2016)
+# <a name="new-or-updated-task-guides-november-2016"></a>New or updated Task guides (November 2016)
 
 [!include[banner](../includes/banner.md)]
 
 
 This topic lists the new or updated Task guides that were released to the Microsoft (November 2016 - all languages) APQC Unified Library for Microsoft Dynamics 365 for Operations. No new Getting Started Library was released.
 
-The (November 2016 -- all languages) APQC Unified Library contains the Task guides that are intended to be used for Help with Microsoft Dynamics 365 for Operations, Microsoft Dynamics 365 for Operations platform update 3, Microsoft Dynamics AX Platform update 2, the Dynamics AX May 2016 update, and the Microsoft Dynamics AX February 2016 release. For more information about these releases, see [What’s new or changed](whats-new-changed.md). Localized versions of the Task guides are available in this library. For more information about how to connect the Help system to a Task guide library, see [Get started with Help](help-overview.md). **Note:** An asterisk (**\***) next to the title of a Business process modeler (BPM) line indicates that the Task guide for that business process was created for Dynamics 365 for Operations November 2016 update and isn’t supported in earlier versions of Microsoft Dynamics AX.
+The (November 2016 -- all languages) APQC Unified Library contains the Task guides that are intended to be used for Help with Microsoft Dynamics 365 for Operations, Microsoft Dynamics 365 for Operations platform update 3, Microsoft Dynamics AX Platform update 2, the Dynamics AX May 2016 update, and the Microsoft Dynamics AX February 2016 release. For more information about these releases, see [What’s new or changed](whats-new-changed.md). Localized versions of the Task guides are available in this library. For more information about how to connect the Help system to a Task guide library, see [Get started with Help](help-overview.md). **Note:** An asterisk (**\***) next to the title of a Business process modeler (BPM) line indicates that the Task guide for that business process was created for Dynamics 365 for Operations November 2016 update and isn’t supported in earlier versions of Microsoft Dynamics AX.
 
-### Accounts payable
+### <a name="accounts-payable"></a>Accounts payable
 
 | BPM line                                                                                           | Country/region |
 |----------------------------------------------------------------------------------------------------|----------------|
@@ -53,7 +48,7 @@ The (November 2016 -- all languages) APQC Unified Library contains the Task guid
 
 ### 
 
-### Accounts receivable
+### <a name="accounts-receivable"></a>Accounts receivable
 
 | BPM line                                                                           | Country/region |
 |------------------------------------------------------------------------------------|----------------|
@@ -73,7 +68,7 @@ The (November 2016 -- all languages) APQC Unified Library contains the Task guid
 
 ### 
 
-### Address book
+### <a name="address-book"></a>Address book
 
 | BPM line                          | Country/region |
 |-----------------------------------|----------------|
@@ -82,7 +77,7 @@ The (November 2016 -- all languages) APQC Unified Library contains the Task guid
 
 ### 
 
-### Budget
+### <a name="budget"></a>Budget
 
 | BPM line                    | Country/region |
 |-----------------------------|----------------|
@@ -90,7 +85,7 @@ The (November 2016 -- all languages) APQC Unified Library contains the Task guid
 
 ### 
 
-### Cash management
+### <a name="cash-management"></a>Cash management
 
 | BPM line                                                             | Country/region |
 |----------------------------------------------------------------------|----------------|
@@ -117,7 +112,7 @@ The (November 2016 -- all languages) APQC Unified Library contains the Task guid
 
 ### 
 
-### Chart of accounts
+### <a name="chart-of-accounts"></a>Chart of accounts
 
 | BPM line                                   | Country/region |
 |--------------------------------------------|----------------|
@@ -125,7 +120,7 @@ The (November 2016 -- all languages) APQC Unified Library contains the Task guid
 
 ### 
 
-### Compliance
+### <a name="compliance"></a>Compliance
 
 | BPM line                                   | Country/region |
 |--------------------------------------------|----------------|
@@ -133,7 +128,7 @@ The (November 2016 -- all languages) APQC Unified Library contains the Task guid
 
 ### 
 
-### Cost accounting
+### <a name="cost-accounting"></a>Cost accounting
 
 | BPM line             | Country/region |
 |----------------------|----------------|
@@ -142,7 +137,7 @@ The (November 2016 -- all languages) APQC Unified Library contains the Task guid
 
 ### 
 
-### Country/region functionality
+### <a name="countryregion-functionality"></a>Country/region functionality
 
 | BPM line                                                                                                                             | Country/region                    |
 |--------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|
@@ -333,7 +328,7 @@ The (November 2016 -- all languages) APQC Unified Library contains the Task guid
 
 ### 
 
-### Expense management
+### <a name="expense-management"></a>Expense management
 
 | BPM line                     | Country/region |
 |------------------------------|----------------|
@@ -341,7 +336,7 @@ The (November 2016 -- all languages) APQC Unified Library contains the Task guid
 
 ### 
 
-### Fixed assets
+### <a name="fixed-assets"></a>Fixed assets
 
 | BPM line                                                  | Country/region |
 |-----------------------------------------------------------|----------------|
@@ -366,7 +361,7 @@ The (November 2016 -- all languages) APQC Unified Library contains the Task guid
 
 ### 
 
-### General ledger
+### <a name="general-ledger"></a>General ledger
 
 | BPM line                                       | Country/region |
 |------------------------------------------------|----------------|
@@ -392,7 +387,7 @@ The (November 2016 -- all languages) APQC Unified Library contains the Task guid
 
 ### 
 
-### Inbound consignment
+### <a name="inbound-consignment"></a>Inbound consignment
 
 | BPM line                                                                       | Country/region |
 |--------------------------------------------------------------------------------|----------------|
@@ -402,7 +397,7 @@ The (November 2016 -- all languages) APQC Unified Library contains the Task guid
 
 ### 
 
-### Inventory
+### <a name="inventory"></a>Inventory
 
 | BPM line                                | Country/region |
 |-----------------------------------------|----------------|
@@ -412,7 +407,7 @@ The (November 2016 -- all languages) APQC Unified Library contains the Task guid
 
 ### 
 
-### Master planning
+### <a name="master-planning"></a>Master planning
 
 | BPM line                                  | Country/region |
 |-------------------------------------------|----------------|
@@ -421,7 +416,7 @@ The (November 2016 -- all languages) APQC Unified Library contains the Task guid
 
 ### 
 
-### Performance management
+### <a name="performance-management"></a>Performance management
 
 | BPM line                                                         | Country/region |
 |------------------------------------------------------------------|----------------|
@@ -431,7 +426,7 @@ The (November 2016 -- all languages) APQC Unified Library contains the Task guid
 
 ### 
 
-### Procurement
+### <a name="procurement"></a>Procurement
 
 | BPM line                                          | Country/region |
 |---------------------------------------------------|----------------|
@@ -444,7 +439,7 @@ The (November 2016 -- all languages) APQC Unified Library contains the Task guid
 
 ### 
 
-### Products
+### <a name="products"></a>Products
 
 | BPM line                                                                | Country/region |
 |-------------------------------------------------------------------------|----------------|
@@ -461,7 +456,7 @@ The (November 2016 -- all languages) APQC Unified Library contains the Task guid
 
 ### 
 
-### Production
+### <a name="production"></a>Production
 
 | BPM line                                              | Country/region |
 |-------------------------------------------------------|----------------|
@@ -472,7 +467,7 @@ The (November 2016 -- all languages) APQC Unified Library contains the Task guid
 
 ### 
 
-### Public sector
+### <a name="public-sector"></a>Public sector
 
 | BPM line                                                                      | Country/region |
 |-------------------------------------------------------------------------------|----------------|
@@ -497,7 +492,7 @@ The (November 2016 -- all languages) APQC Unified Library contains the Task guid
 
 ### 
 
-### Retail and commerce
+### <a name="retail-and-commerce"></a>Retail and commerce
 
 | BPM line                                                         | Country/region |
 |------------------------------------------------------------------|----------------|
@@ -521,7 +516,7 @@ The (November 2016 -- all languages) APQC Unified Library contains the Task guid
 
 ### 
 
-### Sales
+### <a name="sales"></a>Sales
 
 | BPM line                                   | Country/region |
 |--------------------------------------------|----------------|
@@ -545,7 +540,7 @@ The (November 2016 -- all languages) APQC Unified Library contains the Task guid
 
 ### 
 
-### Sales tax
+### <a name="sales-tax"></a>Sales tax
 
 | BPM line                                           | Country/region |
 |----------------------------------------------------|----------------|
@@ -563,7 +558,7 @@ The (November 2016 -- all languages) APQC Unified Library contains the Task guid
 
 ### 
 
-### Supply relationship management
+### <a name="supply-relationship-management"></a>Supply relationship management
 
 | BPM line                                                           | Country/region |
 |--------------------------------------------------------------------|----------------|
@@ -579,7 +574,7 @@ The (November 2016 -- all languages) APQC Unified Library contains the Task guid
 
 ### 
 
-### Warehouse and transportation
+### <a name="warehouse-and-transportation"></a>Warehouse and transportation
 
 | BPM line                                                                    | Country/region |
 |-----------------------------------------------------------------------------|----------------|
@@ -595,7 +590,7 @@ The (November 2016 -- all languages) APQC Unified Library contains the Task guid
 
 
 
-See also
+<a name="see-also"></a>See also
 --------
 
 [New task guides available (February 2016)](new-task-guides-available-february-2016.md)
@@ -603,6 +598,7 @@ See also
 [New or updated task guides available (May 2016)](new-updated-task-guides-available-may-2016.md)
 
 [New or updated task guides available (August 2016)](new-updated-task-guides-available-august-2016.md)
+
 
 
 
