@@ -1,6 +1,4 @@
 ---
-# required metadata
-
 title: Weighted average with physical value and marking
 description: 
 author: YuyuScheller
@@ -10,16 +8,10 @@ ms.topic: article
 ms.prod: 
 ms.service: dynamics-ax-applications
 ms.technology: 
-
-# optional metadata
-
 ms.search.form: InventJournalLossProfit, InventMarking, InventModelGroup, SalesTable
-# ROBOTS: 
 audience: Application User
-# ms.devlang: 
 ms.reviewer: YuyuScheller
 ms.search.scope: AX 7.0.0, Operations, Core
-# ms.tgt_pltfrm: 
 ms.custom: 65501
 ms.assetid: 25041ff0-bafe-484d-a94a-e1772ad43204
 ms.search.region: Global
@@ -27,10 +19,16 @@ ms.search.industry: Retail
 ms.author: yuyus
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
+ms.translationtype: Human Translation
+ms.sourcegitcommit: d421b161216d700f7819f1da8c0ca8ad089b5670
+ms.openlocfilehash: cdbca6d9c71c901a1f4e7a8e5a2f9be1d3efb355
+ms.contentlocale: de-de
+ms.lasthandoff: 06/01/2017
+
 
 ---
 
-# Weighted average with physical value and marking
+# <a name="weighted-average-with-physical-value-and-marking"></a>Weighted average with physical value and marking
 
 [!include[banner](../includes/banner.md)]
 
@@ -59,7 +57,7 @@ Settlements are inventory close postings that adjust the issues to the correct w
 -   Weighted average summarized settlement with the Include physical value option
 -   Weighted average with marking
 
-## Weighted average direct settlement without Include physical value
+## <a name="weighted-average-direct-settlement-without-include-physical-value"></a>Weighted average direct settlement without Include physical value
 The direct settlement principle is the same used for weighted average in earlier versions. The system will settle directly between receipts and issues. The system uses this direct settlement principle in certain specific situations:
 -   One receipt and one or several issues has been posted in the period
 -   Only issues have been posted in the period and the inventory contains on-hand items from a previous closing
@@ -87,7 +85,7 @@ The following diagram illustrates this series of transactions with the effects o
 -   Inventory closings are represented by a red vertical dashed line and the label Inventory Close.
 -   Settlements that are performed by inventory close are represented by dotted red arrows going diagonally from a receipt to an issue.
 
-## Weighted average summarized settlement without the Include physical value option
+## <a name="weighted-average-summarized-settlement-without-the-include-physical-value-option"></a>Weighted average summarized settlement without the Include physical value option
 Weighted average uses the settlement principle that all receipts within in a closing period are summarized into a transaction called Weighted average inventory closing. All the receipts for the period will be settled against the issue of the newly created inventory transfer transaction. All issues for the period will be settled against the receipt of the new inventory transfer transaction. If the on-hand inventory is positive after the inventory close, that on-hand inventory and value of the inventory are summarized on the new inventory transfer transaction (receipt). If the inventory on-hand is negative after the inventory close, the on-hand inventory and value of the inventory is the sum of individual issues that have not been fully settled. In the scenario below, several financially updated receipts and one issue have been posted. 
 
 During inventory close, the system will generate and post the summarized inventory transfer transaction and settle the receipts for the period against the summarized inventory transfer issue transaction. All the issues posted for the period will be settled against the summarized inventory transfer receipt transaction. The weighted average is calculated to be USD 15.00. The issue was originally posted with an estimated cost price of USD 14.67. Therefore, an adjustment of negative USD 0.33 will be created and posted on the issue. As of the inventory closing date, the on-hand inventory is 3 pieces with a value of USD 45.00. 
@@ -123,7 +121,7 @@ The following diagram illustrates this series of transactions with the effects o
 -   Red arrows illustrate the receipt transactions being settled to the issue transaction created by the system.
 -   The green arrow represents the offsetting system-generated receipt transaction to which the originally posted issue transaction is settled
 
-## Weighted average direct settlement with the Include physical value option
+## <a name="weighted-average-direct-settlement-with-the-include-physical-value-option"></a>Weighted average direct settlement with the Include physical value option
 The parameter Include physical value works differently with the weighted average inventory model than in earlier versions of the product. Select the Include physical value box for an item in the Item model group form. Then the system will use physically updated receipts when calculating the estimated cost price, or running average. Issues will be posted based on this estimated cost price during the period. During the inventory close, financially updated receipts only will be considered in the weighted average calculation. We recommend a monthly inventory close when you use the weighted average inventory model. In this weighted average direct settlement example, the item model group is marked to include physical value. 
 
 The following transactions are illustrated in the graphic below:
@@ -150,7 +148,7 @@ The following diagram illustrates this series of transactions with the effects o
 -   Inventory closings are represented by a red vertical dashed line and the label Inventory Close.
 -   Settlements that are performed by inventory close are represented by dotted red arrows going diagonally from a receipt to an issue.
 
-## Weighted average summarized settlement with the Include physical value option
+## <a name="weighted-average-summarized-settlement-with-the-include-physical-value-option"></a>Weighted average summarized settlement with the Include physical value option
 The Include physical value parameter works differently with weighted average than in earlier versions. Select the Include physical value box for an item in the Item model group page. Then the system will use physically updated receipts in the calculation of estimated cost price, or running average. Issues will be posted based on this estimated cost price during the period. During the inventory close financially updated receipts only will be considered in the weighted average calculation. We recommend a monthly inventory close when you use the weighted average inventory model. In this weighted average summarized settlement example, the inventory model is marked to include physical value. 
 
 The following transactions are illustrated in the graphic below:
@@ -185,7 +183,7 @@ The following diagram illustrates this series of transactions with the effects o
 -   Red arrows illustrate the receipt transactions being settled to the issue transaction created by the system.
 -   The green arrow represents the offsetting system-generated receipt transaction to which the originally posted issue transaction is settled
 
-## Weighted average with marking
+## <a name="weighted-average-with-marking"></a>Weighted average with marking
 Marking is a process that lets you link, or mark, an issue transaction to a receipt transaction. Marking can occur either before or after a transaction is posted. You can use marking when you want to make sure of the exact cost of the inventory when the transaction is posted or when the inventory close is performed. 
 
 For example, your Customer Service department accepted a rush order from an important customer. Because this is a rush order, you will have to pay more for this item to service your customer’s request. You must be certain the cost of this inventory item is reflected in the margin, or cost of goods sold (COGS), for this sales order invoice. 
@@ -230,6 +228,7 @@ The following diagram illustrates this series of transactions with the effects o
 -   Each vertical arrow is labeled with a sequential identifier, such as *1a*. The identifiers indicate the sequence of inventory transaction postings in the timeline.
 -   Inventory closings are represented by a red vertical dashed line and the label Inventory Close.
 -   Settlements that are performed by inventory close are represented by dotted red arrows going diagonally from a receipt to an issue.
+
 
 
 

@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-6fd5493" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e9ba7239b9ff8b9b97c9dabc06fb2c68760d19d4</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">46a6f054f1cc5162e19d962964eb6eeb780087a6</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\migration-upgrade\deprecated-features.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">be56f02d058fa72cfd9d18ada601954c5b0b86e4</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">16ec4542cac793a9491f9f18552c14f04c527ae8</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">fd934c52f37e97fafe771484896422df0171ae8f</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1aa214ddaf279a4c8e34a84dd143c9a6c7aa2d93</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -1255,822 +1255,888 @@
           <source>All</source>
         </trans-unit>
         <trans-unit id="515" translate="yes" xml:space="preserve">
-          <source>Dutch SWIFT MT940</source>
+          <source>Direct database connection</source>
         </trans-unit>
         <trans-unit id="516" translate="yes" xml:space="preserve">
-          <source>Reason for deprecation</source>
+          <source>In Dynamics AX 2012 R3, Retail Modern POS could connect directly to the Channel DB in similar fashion to Enterprise POS.</source>
         </trans-unit>
         <trans-unit id="517" translate="yes" xml:space="preserve">
-          <source>Generic functionality is now used instead of localized functionality.</source>
+          <source>This was in addition to the standard communication method of Retail Modern POS communicating through Retail Server.</source>
         </trans-unit>
         <trans-unit id="518" translate="yes" xml:space="preserve">
-          <source>Replaced by another feature?</source>
+          <source>Reason for deprecation</source>
         </trans-unit>
         <trans-unit id="519" translate="yes" xml:space="preserve">
-          <source>Yes, this functionality has been replaced by Advanced bank reconciliation functionality.</source>
+          <source>Direct database connectivity required lower security protocols and was primarily used to achieve the highest levels of performance.</source>
         </trans-unit>
         <trans-unit id="520" translate="yes" xml:space="preserve">
-          <source>Additionally, implementation of camt.053 ISO20022 account statement import is planned for General journal in the next update of Dynamics AX.</source>
+          <source>Due to the performance and security enhancements that have occurred in Dynamics 365 for Operations, this functionality now causes more issues than it solves.</source>
         </trans-unit>
         <trans-unit id="521" translate="yes" xml:space="preserve">
-          <source>Modules affected</source>
+          <source>Replaced by another feature?</source>
         </trans-unit>
         <trans-unit id="522" translate="yes" xml:space="preserve">
-          <source>All</source>
+          <source>No.</source>
         </trans-unit>
         <trans-unit id="523" translate="yes" xml:space="preserve">
-          <source>eBilanz (XBRL for Germany)</source>
+          <source>Only standard Retail Server communication is now supported.</source>
         </trans-unit>
         <trans-unit id="524" translate="yes" xml:space="preserve">
-          <source>This functionality provided eXtensible Business Reporting Language (XBRL) output that is intended specifically for the German eBilanz taxonomy.</source>
+          <source>Modules affected</source>
         </trans-unit>
         <trans-unit id="525" translate="yes" xml:space="preserve">
-          <source>Reason for deprecation</source>
+          <source>Channel DB/Retail Modern POS</source>
         </trans-unit>
         <trans-unit id="526" translate="yes" xml:space="preserve">
-          <source>Lack of customer usage</source>
+          <source>Dutch SWIFT MT940</source>
         </trans-unit>
         <trans-unit id="527" translate="yes" xml:space="preserve">
-          <source>Replaced by another feature?</source>
+          <source>Reason for deprecation</source>
         </trans-unit>
         <trans-unit id="528" translate="yes" xml:space="preserve">
-          <source>This feature hasn't been replaced by another feature, but multiple specialized XBRL packages that provide rich XBRL functionality are available for the German market.</source>
-        </trans-unit>
-        <trans-unit id="529" translate="yes" xml:space="preserve">
-          <source>Modules affected</source>
-        </trans-unit>
-        <trans-unit id="530" translate="yes" xml:space="preserve">
-          <source>Management Reporter</source>
-        </trans-unit>
-        <trans-unit id="531" translate="yes" xml:space="preserve">
-          <source>Enterprise Portal client</source>
-        </trans-unit>
-        <trans-unit id="532" translate="yes" xml:space="preserve">
-          <source>Reason for deprecation</source>
-        </trans-unit>
-        <trans-unit id="533" translate="yes" xml:space="preserve">
-          <source>A single client platform has been provided.</source>
-        </trans-unit>
-        <trans-unit id="534" translate="yes" xml:space="preserve">
-          <source>Replaced by another feature?</source>
-        </trans-unit>
-        <trans-unit id="535" translate="yes" xml:space="preserve">
-          <source>The new web client is based on the desktop form metadata and programming model that have been modified to provide a rich web platform.</source>
-        </trans-unit>
-        <trans-unit id="536" translate="yes" xml:space="preserve">
-          <source>Modules affected</source>
-        </trans-unit>
-        <trans-unit id="537" translate="yes" xml:space="preserve">
-          <source>All</source>
-        </trans-unit>
-        <trans-unit id="538" translate="yes" xml:space="preserve">
-          <source>Environmental sustainability</source>
-        </trans-unit>
-        <trans-unit id="539" translate="yes" xml:space="preserve">
-          <source>Reason for deprecation</source>
-        </trans-unit>
-        <trans-unit id="540" translate="yes" xml:space="preserve">
-          <source>Low customer usage and a limited feature set</source>
-        </trans-unit>
-        <trans-unit id="541" translate="yes" xml:space="preserve">
-          <source>Replaced by another feature?</source>
-        </trans-unit>
-        <trans-unit id="542" translate="yes" xml:space="preserve">
-          <source>No</source>
-        </trans-unit>
-        <trans-unit id="543" translate="yes" xml:space="preserve">
-          <source>Modules affected</source>
-        </trans-unit>
-        <trans-unit id="544" translate="yes" xml:space="preserve">
-          <source>Compliance and internal controls, Accounts payable</source>
-        </trans-unit>
-        <trans-unit id="545" translate="yes" xml:space="preserve">
-          <source>Form ActiveX and Managed Host controls</source>
-        </trans-unit>
-        <trans-unit id="546" translate="yes" xml:space="preserve">
-          <source>Reason for deprecation</source>
-        </trans-unit>
-        <trans-unit id="547" translate="yes" xml:space="preserve">
-          <source>The ActiveX and Managed Host controls are based on the deprecated desktop client.</source>
-        </trans-unit>
-        <trans-unit id="548" translate="yes" xml:space="preserve">
-          <source>Replaced by another feature?</source>
-        </trans-unit>
-        <trans-unit id="549" translate="yes" xml:space="preserve">
-          <source>The extensible control framework supports building new controls that are based on HTML, CSS, and JavaScript, and is a first-class control in the Microsoft Visual Studio Tooling environment.</source>
-        </trans-unit>
-        <trans-unit id="550" translate="yes" xml:space="preserve">
-          <source>Modules affected</source>
-        </trans-unit>
-        <trans-unit id="551" translate="yes" xml:space="preserve">
-          <source>All</source>
-        </trans-unit>
-        <trans-unit id="552" translate="yes" xml:space="preserve">
-          <source>Generate prenotes by using a batch</source>
-        </trans-unit>
-        <trans-unit id="553" translate="yes" xml:space="preserve">
-          <source>Prenote generation can't be done by using a batch, but it can still be done by a user.</source>
-        </trans-unit>
-        <trans-unit id="554" translate="yes" xml:space="preserve">
-          <source>Reason for deprecation</source>
-        </trans-unit>
-        <trans-unit id="555" translate="yes" xml:space="preserve">
-          <source>No form exists to persist and display the resulting prenote file when it's generated by using a batch.</source>
-        </trans-unit>
-        <trans-unit id="556" translate="yes" xml:space="preserve">
-          <source>Replaced by another feature?</source>
-        </trans-unit>
-        <trans-unit id="557" translate="yes" xml:space="preserve">
-          <source>Prenotes can still be generated, and the user has control over the location where the file is saved.</source>
-        </trans-unit>
-        <trans-unit id="558" translate="yes" xml:space="preserve">
-          <source>Modules affected</source>
-        </trans-unit>
-        <trans-unit id="559" translate="yes" xml:space="preserve">
-          <source>Accounts payable, Accounts receivable, Cash and bank management</source>
-        </trans-unit>
-        <trans-unit id="560" translate="yes" xml:space="preserve">
-          <source>German DTAUS payment export and account statement import (totals and transactions)</source>
-        </trans-unit>
-        <trans-unit id="561" translate="yes" xml:space="preserve">
-          <source>Reason for deprecation</source>
-        </trans-unit>
-        <trans-unit id="562" translate="yes" xml:space="preserve">
-          <source>The format is no longer applicable in Germany, because it has been replaced by Single Euro Payments Area (SEPA) functionality.</source>
-        </trans-unit>
-        <trans-unit id="563" translate="yes" xml:space="preserve">
-          <source>Replaced by another feature?</source>
-        </trans-unit>
-        <trans-unit id="564" translate="yes" xml:space="preserve">
-          <source>Yes, this functionality has been replaced by SEPA payment export and advanced bank reconciliation functionality for importing account statements.</source>
-        </trans-unit>
-        <trans-unit id="565" translate="yes" xml:space="preserve">
-          <source>Additionally, implementation of camt.053 ISO20022 account statement import is planned for General journal in the next update of Dynamics AX.</source>
-        </trans-unit>
-        <trans-unit id="566" translate="yes" xml:space="preserve">
-          <source>Modules affected</source>
-        </trans-unit>
-        <trans-unit id="567" translate="yes" xml:space="preserve">
-          <source>All</source>
-        </trans-unit>
-        <trans-unit id="568" translate="yes" xml:space="preserve">
-          <source>German DTAZV payment format</source>
-        </trans-unit>
-        <trans-unit id="569" translate="yes" xml:space="preserve">
-          <source>Reason for deprecation</source>
-        </trans-unit>
-        <trans-unit id="570" translate="yes" xml:space="preserve">
-          <source>The format is no longer applicable in Germany, because it has been replaced by SEPA functionality.</source>
-        </trans-unit>
-        <trans-unit id="571" translate="yes" xml:space="preserve">
-          <source>Replaced by another feature?</source>
-        </trans-unit>
-        <trans-unit id="572" translate="yes" xml:space="preserve">
-          <source>SEPA payments export</source>
-        </trans-unit>
-        <trans-unit id="573" translate="yes" xml:space="preserve">
-          <source>Modules affected</source>
-        </trans-unit>
-        <trans-unit id="574" translate="yes" xml:space="preserve">
-          <source>All</source>
-        </trans-unit>
-        <trans-unit id="575" translate="yes" xml:space="preserve">
-          <source>German MT940 import</source>
-        </trans-unit>
-        <trans-unit id="576" translate="yes" xml:space="preserve">
-          <source>Reason for deprecation</source>
-        </trans-unit>
-        <trans-unit id="577" translate="yes" xml:space="preserve">
           <source>Generic functionality is now used instead of localized functionality.</source>
         </trans-unit>
-        <trans-unit id="578" translate="yes" xml:space="preserve">
+        <trans-unit id="529" translate="yes" xml:space="preserve">
           <source>Replaced by another feature?</source>
         </trans-unit>
-        <trans-unit id="579" translate="yes" xml:space="preserve">
+        <trans-unit id="530" translate="yes" xml:space="preserve">
           <source>Yes, this functionality has been replaced by Advanced bank reconciliation functionality.</source>
         </trans-unit>
-        <trans-unit id="580" translate="yes" xml:space="preserve">
+        <trans-unit id="531" translate="yes" xml:space="preserve">
           <source>Additionally, implementation of camt.053 ISO20022 account statement import is planned for General journal in the next update of Dynamics AX.</source>
         </trans-unit>
-        <trans-unit id="581" translate="yes" xml:space="preserve">
+        <trans-unit id="532" translate="yes" xml:space="preserve">
           <source>Modules affected</source>
         </trans-unit>
-        <trans-unit id="582" translate="yes" xml:space="preserve">
+        <trans-unit id="533" translate="yes" xml:space="preserve">
           <source>All</source>
         </trans-unit>
-        <trans-unit id="583" translate="yes" xml:space="preserve">
-          <source>German XML EU Sales list</source>
+        <trans-unit id="534" translate="yes" xml:space="preserve">
+          <source>eBilanz (XBRL for Germany)</source>
         </trans-unit>
-        <trans-unit id="584" translate="yes" xml:space="preserve">
+        <trans-unit id="535" translate="yes" xml:space="preserve">
+          <source>This functionality provided eXtensible Business Reporting Language (XBRL) output that is intended specifically for the German eBilanz taxonomy.</source>
+        </trans-unit>
+        <trans-unit id="536" translate="yes" xml:space="preserve">
           <source>Reason for deprecation</source>
         </trans-unit>
-        <trans-unit id="585" translate="yes" xml:space="preserve">
-          <source>The XML format for German EU Sales List reporting is no longer supported.</source>
+        <trans-unit id="537" translate="yes" xml:space="preserve">
+          <source>Lack of customer usage</source>
         </trans-unit>
-        <trans-unit id="586" translate="yes" xml:space="preserve">
-          <source>Only the ELMA5 text file format can be used to submit the EU Sales List report to the German Tax Office.</source>
-        </trans-unit>
-        <trans-unit id="587" translate="yes" xml:space="preserve">
+        <trans-unit id="538" translate="yes" xml:space="preserve">
           <source>Replaced by another feature?</source>
         </trans-unit>
-        <trans-unit id="588" translate="yes" xml:space="preserve">
+        <trans-unit id="539" translate="yes" xml:space="preserve">
+          <source>This feature hasn't been replaced by another feature, but multiple specialized XBRL packages that provide rich XBRL functionality are available for the German market.</source>
+        </trans-unit>
+        <trans-unit id="540" translate="yes" xml:space="preserve">
+          <source>Modules affected</source>
+        </trans-unit>
+        <trans-unit id="541" translate="yes" xml:space="preserve">
+          <source>Management Reporter</source>
+        </trans-unit>
+        <trans-unit id="542" translate="yes" xml:space="preserve">
+          <source>Enterprise Portal client</source>
+        </trans-unit>
+        <trans-unit id="543" translate="yes" xml:space="preserve">
+          <source>Reason for deprecation</source>
+        </trans-unit>
+        <trans-unit id="544" translate="yes" xml:space="preserve">
+          <source>A single client platform has been provided.</source>
+        </trans-unit>
+        <trans-unit id="545" translate="yes" xml:space="preserve">
+          <source>Replaced by another feature?</source>
+        </trans-unit>
+        <trans-unit id="546" translate="yes" xml:space="preserve">
+          <source>The new web client is based on the desktop form metadata and programming model that have been modified to provide a rich web platform.</source>
+        </trans-unit>
+        <trans-unit id="547" translate="yes" xml:space="preserve">
+          <source>Modules affected</source>
+        </trans-unit>
+        <trans-unit id="548" translate="yes" xml:space="preserve">
+          <source>All</source>
+        </trans-unit>
+        <trans-unit id="549" translate="yes" xml:space="preserve">
+          <source>Environmental sustainability</source>
+        </trans-unit>
+        <trans-unit id="550" translate="yes" xml:space="preserve">
+          <source>Reason for deprecation</source>
+        </trans-unit>
+        <trans-unit id="551" translate="yes" xml:space="preserve">
+          <source>Low customer usage and a limited feature set</source>
+        </trans-unit>
+        <trans-unit id="552" translate="yes" xml:space="preserve">
+          <source>Replaced by another feature?</source>
+        </trans-unit>
+        <trans-unit id="553" translate="yes" xml:space="preserve">
           <source>No</source>
         </trans-unit>
-        <trans-unit id="589" translate="yes" xml:space="preserve">
+        <trans-unit id="554" translate="yes" xml:space="preserve">
           <source>Modules affected</source>
         </trans-unit>
-        <trans-unit id="590" translate="yes" xml:space="preserve">
-          <source>Tax</source>
+        <trans-unit id="555" translate="yes" xml:space="preserve">
+          <source>Compliance and internal controls, Accounts payable</source>
         </trans-unit>
-        <trans-unit id="591" translate="yes" xml:space="preserve">
-          <source>GL SSRS reports</source>
+        <trans-unit id="556" translate="yes" xml:space="preserve">
+          <source>Form ActiveX and Managed Host controls</source>
         </trans-unit>
-        <trans-unit id="592" translate="yes" xml:space="preserve">
-          <source>Reports that include the following menu items have been removed: <bpt id="p1">**</bpt>Summary trial balance<ept id="p1">**</ept>, <bpt id="p2">**</bpt>Detailed trial balance<ept id="p2">**</ept>, <bpt id="p3">**</bpt>Chart of accounts<ept id="p3">**</ept>, <bpt id="p4">**</bpt>Audit trail<ept id="p4">**</ept>, <bpt id="p5">**</bpt>Balances<ept id="p5">**</ept>, and <bpt id="p6">**</bpt>Balance list<ept id="p6">**</ept>.</source>
-        </trans-unit>
-        <trans-unit id="593" translate="yes" xml:space="preserve">
+        <trans-unit id="557" translate="yes" xml:space="preserve">
           <source>Reason for deprecation</source>
         </trans-unit>
-        <trans-unit id="594" translate="yes" xml:space="preserve">
-          <source>Financial Microsoft SQL Server Reporting Services (SSRS) reports have been replaced by Management Reporter capabilities and default reports.</source>
+        <trans-unit id="558" translate="yes" xml:space="preserve">
+          <source>The ActiveX and Managed Host controls are based on the deprecated desktop client.</source>
         </trans-unit>
-        <trans-unit id="595" translate="yes" xml:space="preserve">
+        <trans-unit id="559" translate="yes" xml:space="preserve">
           <source>Replaced by another feature?</source>
         </trans-unit>
-        <trans-unit id="596" translate="yes" xml:space="preserve">
-          <source>Management Reporter (labeled <bpt id="p1">**</bpt>Financial reporting<ept id="p1">**</ept> in the current version of Dynamics AX)</source>
+        <trans-unit id="560" translate="yes" xml:space="preserve">
+          <source>The extensible control framework supports building new controls that are based on HTML, CSS, and JavaScript, and is a first-class control in the Microsoft Visual Studio Tooling environment.</source>
         </trans-unit>
-        <trans-unit id="597" translate="yes" xml:space="preserve">
+        <trans-unit id="561" translate="yes" xml:space="preserve">
           <source>Modules affected</source>
         </trans-unit>
-        <trans-unit id="598" translate="yes" xml:space="preserve">
-          <source>General ledger</source>
-        </trans-unit>
-        <trans-unit id="599" translate="yes" xml:space="preserve">
-          <source>InfoPart and FormPart metadata</source>
-        </trans-unit>
-        <trans-unit id="600" translate="yes" xml:space="preserve">
-          <source>Reason for deprecation</source>
-        </trans-unit>
-        <trans-unit id="601" translate="yes" xml:space="preserve">
-          <source>InfoPart and FormPart metadata enabled the creation of FactBoxes for two different clients.</source>
-        </trans-unit>
-        <trans-unit id="602" translate="yes" xml:space="preserve">
-          <source>Replaced by another feature?</source>
-        </trans-unit>
-        <trans-unit id="603" translate="yes" xml:space="preserve">
-          <source>InfoPart metadata, which was a simplified form definition, is converted into a Form by upgrade tooling.</source>
-        </trans-unit>
-        <trans-unit id="604" translate="yes" xml:space="preserve">
-          <source>FormPart metadata, which referenced a Form, is replaced by a more direct reference that is created by upgrade tooling.</source>
-        </trans-unit>
-        <trans-unit id="605" translate="yes" xml:space="preserve">
-          <source>Modules affected</source>
-        </trans-unit>
-        <trans-unit id="606" translate="yes" xml:space="preserve">
+        <trans-unit id="562" translate="yes" xml:space="preserve">
           <source>All</source>
         </trans-unit>
+        <trans-unit id="563" translate="yes" xml:space="preserve">
+          <source>Generate prenotes by using a batch</source>
+        </trans-unit>
+        <trans-unit id="564" translate="yes" xml:space="preserve">
+          <source>Prenote generation can't be done by using a batch, but it can still be done by a user.</source>
+        </trans-unit>
+        <trans-unit id="565" translate="yes" xml:space="preserve">
+          <source>Reason for deprecation</source>
+        </trans-unit>
+        <trans-unit id="566" translate="yes" xml:space="preserve">
+          <source>No form exists to persist and display the resulting prenote file when it's generated by using a batch.</source>
+        </trans-unit>
+        <trans-unit id="567" translate="yes" xml:space="preserve">
+          <source>Replaced by another feature?</source>
+        </trans-unit>
+        <trans-unit id="568" translate="yes" xml:space="preserve">
+          <source>Prenotes can still be generated, and the user has control over the location where the file is saved.</source>
+        </trans-unit>
+        <trans-unit id="569" translate="yes" xml:space="preserve">
+          <source>Modules affected</source>
+        </trans-unit>
+        <trans-unit id="570" translate="yes" xml:space="preserve">
+          <source>Accounts payable, Accounts receivable, Cash and bank management</source>
+        </trans-unit>
+        <trans-unit id="571" translate="yes" xml:space="preserve">
+          <source>German DTAUS payment export and account statement import (totals and transactions)</source>
+        </trans-unit>
+        <trans-unit id="572" translate="yes" xml:space="preserve">
+          <source>Reason for deprecation</source>
+        </trans-unit>
+        <trans-unit id="573" translate="yes" xml:space="preserve">
+          <source>The format is no longer applicable in Germany, because it has been replaced by Single Euro Payments Area (SEPA) functionality.</source>
+        </trans-unit>
+        <trans-unit id="574" translate="yes" xml:space="preserve">
+          <source>Replaced by another feature?</source>
+        </trans-unit>
+        <trans-unit id="575" translate="yes" xml:space="preserve">
+          <source>Yes, this functionality has been replaced by SEPA payment export and advanced bank reconciliation functionality for importing account statements.</source>
+        </trans-unit>
+        <trans-unit id="576" translate="yes" xml:space="preserve">
+          <source>Additionally, implementation of camt.053 ISO20022 account statement import is planned for General journal in the next update of Dynamics AX.</source>
+        </trans-unit>
+        <trans-unit id="577" translate="yes" xml:space="preserve">
+          <source>Modules affected</source>
+        </trans-unit>
+        <trans-unit id="578" translate="yes" xml:space="preserve">
+          <source>All</source>
+        </trans-unit>
+        <trans-unit id="579" translate="yes" xml:space="preserve">
+          <source>German DTAZV payment format</source>
+        </trans-unit>
+        <trans-unit id="580" translate="yes" xml:space="preserve">
+          <source>Reason for deprecation</source>
+        </trans-unit>
+        <trans-unit id="581" translate="yes" xml:space="preserve">
+          <source>The format is no longer applicable in Germany, because it has been replaced by SEPA functionality.</source>
+        </trans-unit>
+        <trans-unit id="582" translate="yes" xml:space="preserve">
+          <source>Replaced by another feature?</source>
+        </trans-unit>
+        <trans-unit id="583" translate="yes" xml:space="preserve">
+          <source>SEPA payments export</source>
+        </trans-unit>
+        <trans-unit id="584" translate="yes" xml:space="preserve">
+          <source>Modules affected</source>
+        </trans-unit>
+        <trans-unit id="585" translate="yes" xml:space="preserve">
+          <source>All</source>
+        </trans-unit>
+        <trans-unit id="586" translate="yes" xml:space="preserve">
+          <source>German MT940 import</source>
+        </trans-unit>
+        <trans-unit id="587" translate="yes" xml:space="preserve">
+          <source>Reason for deprecation</source>
+        </trans-unit>
+        <trans-unit id="588" translate="yes" xml:space="preserve">
+          <source>Generic functionality is now used instead of localized functionality.</source>
+        </trans-unit>
+        <trans-unit id="589" translate="yes" xml:space="preserve">
+          <source>Replaced by another feature?</source>
+        </trans-unit>
+        <trans-unit id="590" translate="yes" xml:space="preserve">
+          <source>Yes, this functionality has been replaced by Advanced bank reconciliation functionality.</source>
+        </trans-unit>
+        <trans-unit id="591" translate="yes" xml:space="preserve">
+          <source>Additionally, implementation of camt.053 ISO20022 account statement import is planned for General journal in the next update of Dynamics AX.</source>
+        </trans-unit>
+        <trans-unit id="592" translate="yes" xml:space="preserve">
+          <source>Modules affected</source>
+        </trans-unit>
+        <trans-unit id="593" translate="yes" xml:space="preserve">
+          <source>All</source>
+        </trans-unit>
+        <trans-unit id="594" translate="yes" xml:space="preserve">
+          <source>German XML EU Sales list</source>
+        </trans-unit>
+        <trans-unit id="595" translate="yes" xml:space="preserve">
+          <source>Reason for deprecation</source>
+        </trans-unit>
+        <trans-unit id="596" translate="yes" xml:space="preserve">
+          <source>The XML format for German EU Sales List reporting is no longer supported.</source>
+        </trans-unit>
+        <trans-unit id="597" translate="yes" xml:space="preserve">
+          <source>Only the ELMA5 text file format can be used to submit the EU Sales List report to the German Tax Office.</source>
+        </trans-unit>
+        <trans-unit id="598" translate="yes" xml:space="preserve">
+          <source>Replaced by another feature?</source>
+        </trans-unit>
+        <trans-unit id="599" translate="yes" xml:space="preserve">
+          <source>No</source>
+        </trans-unit>
+        <trans-unit id="600" translate="yes" xml:space="preserve">
+          <source>Modules affected</source>
+        </trans-unit>
+        <trans-unit id="601" translate="yes" xml:space="preserve">
+          <source>Tax</source>
+        </trans-unit>
+        <trans-unit id="602" translate="yes" xml:space="preserve">
+          <source>GL SSRS reports</source>
+        </trans-unit>
+        <trans-unit id="603" translate="yes" xml:space="preserve">
+          <source>Reports that include the following menu items have been removed: <bpt id="p1">**</bpt>Summary trial balance<ept id="p1">**</ept>, <bpt id="p2">**</bpt>Detailed trial balance<ept id="p2">**</ept>, <bpt id="p3">**</bpt>Chart of accounts<ept id="p3">**</ept>, <bpt id="p4">**</bpt>Audit trail<ept id="p4">**</ept>, <bpt id="p5">**</bpt>Balances<ept id="p5">**</ept>, and <bpt id="p6">**</bpt>Balance list<ept id="p6">**</ept>.</source>
+        </trans-unit>
+        <trans-unit id="604" translate="yes" xml:space="preserve">
+          <source>Reason for deprecation</source>
+        </trans-unit>
+        <trans-unit id="605" translate="yes" xml:space="preserve">
+          <source>Financial Microsoft SQL Server Reporting Services (SSRS) reports have been replaced by Management Reporter capabilities and default reports.</source>
+        </trans-unit>
+        <trans-unit id="606" translate="yes" xml:space="preserve">
+          <source>Replaced by another feature?</source>
+        </trans-unit>
         <trans-unit id="607" translate="yes" xml:space="preserve">
-          <source>Main account list page</source>
+          <source>Management Reporter (labeled <bpt id="p1">**</bpt>Financial reporting<ept id="p1">**</ept> in the current version of Dynamics AX)</source>
         </trans-unit>
         <trans-unit id="608" translate="yes" xml:space="preserve">
-          <source>A list of accounts for the legal entity and related balance information</source>
+          <source>Modules affected</source>
         </trans-unit>
         <trans-unit id="609" translate="yes" xml:space="preserve">
-          <source>Reason for deprecation</source>
-        </trans-unit>
-        <trans-unit id="610" translate="yes" xml:space="preserve">
-          <source>Balance information is available on the <bpt id="p1">**</bpt>Trial balance<ept id="p1">**</ept> list page by account and dimension.</source>
-        </trans-unit>
-        <trans-unit id="611" translate="yes" xml:space="preserve">
-          <source>Replaced by another feature?</source>
-        </trans-unit>
-        <trans-unit id="612" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">**</bpt>Main accounts<ept id="p1">**</ept> contains the same list of accounts that the <bpt id="p2">**</bpt>Main account<ept id="p2">**</ept> list page contained.</source>
-        </trans-unit>
-        <trans-unit id="613" translate="yes" xml:space="preserve">
-          <source>The grid view in <bpt id="p1">**</bpt>Main accounts<ept id="p1">**</ept> also shows an even smaller, grid-like view.</source>
-        </trans-unit>
-        <trans-unit id="614" translate="yes" xml:space="preserve">
-          <source>Modules affected</source>
-        </trans-unit>
-        <trans-unit id="615" translate="yes" xml:space="preserve">
           <source>General ledger</source>
         </trans-unit>
-        <trans-unit id="616" translate="yes" xml:space="preserve">
-          <source>Malaysia and Singapore bank cash flow report</source>
+        <trans-unit id="610" translate="yes" xml:space="preserve">
+          <source>InfoPart and FormPart metadata</source>
         </trans-unit>
-        <trans-unit id="617" translate="yes" xml:space="preserve">
-          <source>This feature let the user print a cash flow report that shows transactions and details of the cash inflows and outflows for a specific date range for selected bank accounts.</source>
-        </trans-unit>
-        <trans-unit id="618" translate="yes" xml:space="preserve">
+        <trans-unit id="611" translate="yes" xml:space="preserve">
           <source>Reason for deprecation</source>
         </trans-unit>
-        <trans-unit id="619" translate="yes" xml:space="preserve">
-          <source>The same information can be obtained from the Inquiry bank transaction.</source>
+        <trans-unit id="612" translate="yes" xml:space="preserve">
+          <source>InfoPart and FormPart metadata enabled the creation of FactBoxes for two different clients.</source>
         </trans-unit>
-        <trans-unit id="620" translate="yes" xml:space="preserve">
+        <trans-unit id="613" translate="yes" xml:space="preserve">
           <source>Replaced by another feature?</source>
         </trans-unit>
-        <trans-unit id="621" translate="yes" xml:space="preserve">
-          <source>The Inquiry bank transaction</source>
+        <trans-unit id="614" translate="yes" xml:space="preserve">
+          <source>InfoPart metadata, which was a simplified form definition, is converted into a Form by upgrade tooling.</source>
         </trans-unit>
-        <trans-unit id="622" translate="yes" xml:space="preserve">
+        <trans-unit id="615" translate="yes" xml:space="preserve">
+          <source>FormPart metadata, which referenced a Form, is replaced by a more direct reference that is created by upgrade tooling.</source>
+        </trans-unit>
+        <trans-unit id="616" translate="yes" xml:space="preserve">
           <source>Modules affected</source>
         </trans-unit>
-        <trans-unit id="623" translate="yes" xml:space="preserve">
-          <source>Cash and bank management</source>
+        <trans-unit id="617" translate="yes" xml:space="preserve">
+          <source>All</source>
         </trans-unit>
-        <trans-unit id="624" translate="yes" xml:space="preserve">
-          <source>Mexican CFD electronic invoice</source>
+        <trans-unit id="618" translate="yes" xml:space="preserve">
+          <source>Main account list page</source>
         </trans-unit>
-        <trans-unit id="625" translate="yes" xml:space="preserve">
-          <source>This feature enabled the generation of Mexican electronic invoices by using the Comprobante Fiscal Digital (CFD) method, where the company signs the invoice by requesting the related authorization from the government.</source>
+        <trans-unit id="619" translate="yes" xml:space="preserve">
+          <source>A list of accounts for the legal entity and related balance information</source>
         </trans-unit>
-        <trans-unit id="626" translate="yes" xml:space="preserve">
-          <source>This feature also provides a monthly report that includes all electronics invoices that were issued in the period.</source>
-        </trans-unit>
-        <trans-unit id="627" translate="yes" xml:space="preserve">
+        <trans-unit id="620" translate="yes" xml:space="preserve">
           <source>Reason for deprecation</source>
         </trans-unit>
+        <trans-unit id="621" translate="yes" xml:space="preserve">
+          <source>Balance information is available on the <bpt id="p1">**</bpt>Trial balance<ept id="p1">**</ept> list page by account and dimension.</source>
+        </trans-unit>
+        <trans-unit id="622" translate="yes" xml:space="preserve">
+          <source>Replaced by another feature?</source>
+        </trans-unit>
+        <trans-unit id="623" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Main accounts<ept id="p1">**</ept> contains the same list of accounts that the <bpt id="p2">**</bpt>Main account<ept id="p2">**</ept> list page contained.</source>
+        </trans-unit>
+        <trans-unit id="624" translate="yes" xml:space="preserve">
+          <source>The grid view in <bpt id="p1">**</bpt>Main accounts<ept id="p1">**</ept> also shows an even smaller, grid-like view.</source>
+        </trans-unit>
+        <trans-unit id="625" translate="yes" xml:space="preserve">
+          <source>Modules affected</source>
+        </trans-unit>
+        <trans-unit id="626" translate="yes" xml:space="preserve">
+          <source>General ledger</source>
+        </trans-unit>
+        <trans-unit id="627" translate="yes" xml:space="preserve">
+          <source>Malaysia and Singapore bank cash flow report</source>
+        </trans-unit>
         <trans-unit id="628" translate="yes" xml:space="preserve">
-          <source>The method is no longer applicable.</source>
+          <source>This feature let the user print a cash flow report that shows transactions and details of the cash inflows and outflows for a specific date range for selected bank accounts.</source>
         </trans-unit>
         <trans-unit id="629" translate="yes" xml:space="preserve">
-          <source>The generation of electronic invoices by using the CFD method was deprecated by the tax authorities and replaced by the Comprobante Fiscal Digital a través de Internet (CFDI) method, where the signing is delegated to the third-party provider (PAC).</source>
+          <source>Reason for deprecation</source>
         </trans-unit>
         <trans-unit id="630" translate="yes" xml:space="preserve">
-          <source>The monthly report has been removed, and an inquiry option lets users inquire about historical transactions.</source>
+          <source>The same information can be obtained from the Inquiry bank transaction.</source>
         </trans-unit>
         <trans-unit id="631" translate="yes" xml:space="preserve">
           <source>Replaced by another feature?</source>
         </trans-unit>
         <trans-unit id="632" translate="yes" xml:space="preserve">
-          <source>No</source>
+          <source>The Inquiry bank transaction</source>
         </trans-unit>
         <trans-unit id="633" translate="yes" xml:space="preserve">
           <source>Modules affected</source>
         </trans-unit>
         <trans-unit id="634" translate="yes" xml:space="preserve">
-          <source>Account receivables, Project</source>
+          <source>Cash and bank management</source>
         </trans-unit>
         <trans-unit id="635" translate="yes" xml:space="preserve">
-          <source>Mexico realized and unrealized VAT</source>
+          <source>Mexican CFD electronic invoice</source>
         </trans-unit>
         <trans-unit id="636" translate="yes" xml:space="preserve">
-          <source>Microsoft Dynamics AX 2012 managed unrealized value-added tax (VAT) by using Mexico-specific functionality for “unrealized tax.”</source>
+          <source>This feature enabled the generation of Mexican electronic invoices by using the Comprobante Fiscal Digital (CFD) method, where the company signs the invoice by requesting the related authorization from the government.</source>
         </trans-unit>
         <trans-unit id="637" translate="yes" xml:space="preserve">
-          <source>Reason for deprecation</source>
+          <source>This feature also provides a monthly report that includes all electronics invoices that were issued in the period.</source>
         </trans-unit>
         <trans-unit id="638" translate="yes" xml:space="preserve">
-          <source>Duplicate functionality</source>
+          <source>Reason for deprecation</source>
         </trans-unit>
         <trans-unit id="639" translate="yes" xml:space="preserve">
-          <source>Replaced by another feature?</source>
+          <source>The method is no longer applicable.</source>
         </trans-unit>
         <trans-unit id="640" translate="yes" xml:space="preserve">
-          <source>Yes, this functionality has been replaced by standard conditional sales tax functionality that is provided by Core.</source>
+          <source>The generation of electronic invoices by using the CFD method was deprecated by the tax authorities and replaced by the Comprobante Fiscal Digital a través de Internet (CFDI) method, where the signing is delegated to the third-party provider (PAC).</source>
         </trans-unit>
         <trans-unit id="641" translate="yes" xml:space="preserve">
-          <source>Modules affected</source>
+          <source>The monthly report has been removed, and an inquiry option lets users inquire about historical transactions.</source>
         </trans-unit>
         <trans-unit id="642" translate="yes" xml:space="preserve">
-          <source>Tax</source>
+          <source>Replaced by another feature?</source>
         </trans-unit>
         <trans-unit id="643" translate="yes" xml:space="preserve">
-          <source>Microsoft Outlook integration</source>
+          <source>No</source>
         </trans-unit>
         <trans-unit id="644" translate="yes" xml:space="preserve">
-          <source>Reason for deprecation</source>
+          <source>Modules affected</source>
         </trans-unit>
         <trans-unit id="645" translate="yes" xml:space="preserve">
-          <source>This functionality has been replaced by Microsoft Exchange Server integration.</source>
+          <source>Account receivables, Project</source>
         </trans-unit>
         <trans-unit id="646" translate="yes" xml:space="preserve">
-          <source>Replaced by another feature?</source>
+          <source>Mexico realized and unrealized VAT</source>
         </trans-unit>
         <trans-unit id="647" translate="yes" xml:space="preserve">
-          <source>Yes</source>
+          <source>Microsoft Dynamics AX 2012 managed unrealized value-added tax (VAT) by using Mexico-specific functionality for “unrealized tax.”</source>
         </trans-unit>
         <trans-unit id="648" translate="yes" xml:space="preserve">
-          <source>Modules affected</source>
+          <source>Reason for deprecation</source>
         </trans-unit>
         <trans-unit id="649" translate="yes" xml:space="preserve">
-          <source>Sales and marketing</source>
+          <source>Duplicate functionality</source>
         </trans-unit>
         <trans-unit id="650" translate="yes" xml:space="preserve">
-          <source>Payroll information in Human Resources</source>
+          <source>Replaced by another feature?</source>
         </trans-unit>
         <trans-unit id="651" translate="yes" xml:space="preserve">
-          <source>Human Resources Payroll information</source>
+          <source>Yes, this functionality has been replaced by standard conditional sales tax functionality that is provided by Core.</source>
         </trans-unit>
         <trans-unit id="652" translate="yes" xml:space="preserve">
-          <source>Reason for deprecation</source>
+          <source>Modules affected</source>
         </trans-unit>
         <trans-unit id="653" translate="yes" xml:space="preserve">
-          <source>This functionality has been replaced by core Payroll and Human Resources pages.</source>
+          <source>Tax</source>
         </trans-unit>
         <trans-unit id="654" translate="yes" xml:space="preserve">
-          <source>Replaced by another feature?</source>
+          <source>Microsoft Outlook integration</source>
         </trans-unit>
         <trans-unit id="655" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">**</bpt>Benefits<ept id="p1">**</ept>, <bpt id="p2">**</bpt>Earnings<ept id="p2">**</ept>, and other related pages that were previously in US Payroll have been reconfigured, and are now part of the core Human Resources configuration to help support external payroll processing.</source>
+          <source>Reason for deprecation</source>
         </trans-unit>
         <trans-unit id="656" translate="yes" xml:space="preserve">
-          <source>This functionality is accessed by using the <bpt id="p1">**</bpt>Human Resources 1<ept id="p1">**</ept> <ph id="ph1">&amp;gt;</ph> <bpt id="p2">**</bpt>Payroll<ept id="p2">**</ept> configuration key.</source>
+          <source>This functionality has been replaced by Microsoft Exchange Server integration.</source>
         </trans-unit>
         <trans-unit id="657" translate="yes" xml:space="preserve">
-          <source>Modules affected</source>
+          <source>Replaced by another feature?</source>
         </trans-unit>
         <trans-unit id="658" translate="yes" xml:space="preserve">
-          <source>Human Resources, Payroll</source>
+          <source>Yes</source>
         </trans-unit>
         <trans-unit id="659" translate="yes" xml:space="preserve">
-          <source>Private blocking of inventory and warehouse management journals</source>
+          <source>Modules affected</source>
         </trans-unit>
         <trans-unit id="660" translate="yes" xml:space="preserve">
-          <source>The inventory and warehouse journals no longer support the ability to mark a journal as private for a selected user.</source>
+          <source>Sales and marketing</source>
         </trans-unit>
         <trans-unit id="661" translate="yes" xml:space="preserve">
-          <source>Only the process of blocking journals as private for user groups and blocking during editing is supported.</source>
+          <source>Payroll information in Human Resources</source>
         </trans-unit>
         <trans-unit id="662" translate="yes" xml:space="preserve">
-          <source>Reason for deprecation</source>
+          <source>Human Resources Payroll information</source>
         </trans-unit>
         <trans-unit id="663" translate="yes" xml:space="preserve">
-          <source>No use of the functionality was found.</source>
+          <source>Reason for deprecation</source>
         </trans-unit>
         <trans-unit id="664" translate="yes" xml:space="preserve">
-          <source>Replaced by another feature?</source>
+          <source>This functionality has been replaced by core Payroll and Human Resources pages.</source>
         </trans-unit>
         <trans-unit id="665" translate="yes" xml:space="preserve">
-          <source>No</source>
+          <source>Replaced by another feature?</source>
         </trans-unit>
         <trans-unit id="666" translate="yes" xml:space="preserve">
-          <source>Modules affected</source>
+          <source><bpt id="p1">**</bpt>Benefits<ept id="p1">**</ept>, <bpt id="p2">**</bpt>Earnings<ept id="p2">**</ept>, and other related pages that were previously in US Payroll have been reconfigured, and are now part of the core Human Resources configuration to help support external payroll processing.</source>
         </trans-unit>
         <trans-unit id="667" translate="yes" xml:space="preserve">
-          <source>Inventory management</source>
+          <source>This functionality is accessed by using the <bpt id="p1">**</bpt>Human Resources 1<ept id="p1">**</ept> <ph id="ph1">&amp;gt;</ph> <bpt id="p2">**</bpt>Payroll<ept id="p2">**</ept> configuration key.</source>
         </trans-unit>
         <trans-unit id="668" translate="yes" xml:space="preserve">
-          <source>Product builder</source>
+          <source>Modules affected</source>
         </trans-unit>
         <trans-unit id="669" translate="yes" xml:space="preserve">
-          <source>Product builder was used to dynamically configure items from a sales order, purchase order, production order, sales quotation, project quotation, or item requirement.</source>
+          <source>Human Resources, Payroll</source>
         </trans-unit>
         <trans-unit id="670" translate="yes" xml:space="preserve">
-          <source>Based on a product model that had modeling variables, the user could select values to meet the customer requirements and get a unique product variant that had a BOM and route.</source>
+          <source>Private blocking of inventory and warehouse management journals</source>
         </trans-unit>
         <trans-unit id="671" translate="yes" xml:space="preserve">
-          <source>Reason for deprecation</source>
+          <source>The inventory and warehouse journals no longer support the ability to mark a journal as private for a selected user.</source>
         </trans-unit>
         <trans-unit id="672" translate="yes" xml:space="preserve">
-          <source>Product builder exposed X++ code to end users and isn't supported in the current version of Dynamics AX.</source>
+          <source>Only the process of blocking journals as private for user groups and blocking during editing is supported.</source>
         </trans-unit>
         <trans-unit id="673" translate="yes" xml:space="preserve">
-          <source>It has been removed to avoid duplicate maintenance efforts on overlapping, sizeable codebases.</source>
+          <source>Reason for deprecation</source>
         </trans-unit>
         <trans-unit id="674" translate="yes" xml:space="preserve">
-          <source>Replaced by another feature?</source>
+          <source>No use of the functionality was found.</source>
         </trans-unit>
         <trans-unit id="675" translate="yes" xml:space="preserve">
-          <source>Product configuration</source>
+          <source>Replaced by another feature?</source>
         </trans-unit>
         <trans-unit id="676" translate="yes" xml:space="preserve">
-          <source>Modules affected</source>
+          <source>No</source>
         </trans-unit>
         <trans-unit id="677" translate="yes" xml:space="preserve">
-          <source>Product information management, Sales and marketing</source>
+          <source>Modules affected</source>
         </trans-unit>
         <trans-unit id="678" translate="yes" xml:space="preserve">
-          <source>Rename product dimension</source>
+          <source>Inventory management</source>
         </trans-unit>
         <trans-unit id="679" translate="yes" xml:space="preserve">
-          <source>This feature let you change the name of one of the three standard product dimensions (size, color, or style) to a name that better suited your business requirements.</source>
+          <source>Product builder</source>
         </trans-unit>
         <trans-unit id="680" translate="yes" xml:space="preserve">
-          <source>Renaming included all the labels where the product dimension name was used.</source>
+          <source>Product builder was used to dynamically configure items from a sales order, purchase order, production order, sales quotation, project quotation, or item requirement.</source>
         </trans-unit>
         <trans-unit id="681" translate="yes" xml:space="preserve">
-          <source>Reason for deprecation</source>
+          <source>Based on a product model that had modeling variables, the user could select values to meet the customer requirements and get a unique product variant that had a BOM and route.</source>
         </trans-unit>
         <trans-unit id="682" translate="yes" xml:space="preserve">
-          <source>The current version of Dynamics AX doesn't support label changes at run time.</source>
+          <source>Reason for deprecation</source>
         </trans-unit>
         <trans-unit id="683" translate="yes" xml:space="preserve">
-          <source>Replaced by another feature?</source>
+          <source>Product builder exposed X++ code to end users and isn't supported in the current version of Dynamics AX.</source>
         </trans-unit>
         <trans-unit id="684" translate="yes" xml:space="preserve">
-          <source>No</source>
+          <source>It has been removed to avoid duplicate maintenance efforts on overlapping, sizeable codebases.</source>
         </trans-unit>
         <trans-unit id="685" translate="yes" xml:space="preserve">
-          <source>Modules affected</source>
+          <source>Replaced by another feature?</source>
         </trans-unit>
         <trans-unit id="686" translate="yes" xml:space="preserve">
-          <source>Product information management</source>
+          <source>Product configuration</source>
         </trans-unit>
         <trans-unit id="687" translate="yes" xml:space="preserve">
-          <source>Role Center pages</source>
+          <source>Modules affected</source>
         </trans-unit>
         <trans-unit id="688" translate="yes" xml:space="preserve">
-          <source>Reason for deprecation</source>
+          <source>Product information management, Sales and marketing</source>
         </trans-unit>
         <trans-unit id="689" translate="yes" xml:space="preserve">
-          <source>Role Center pages were built on the deprecated Enterprise Portal platform, which has been replaced by the new web client platform in the current version of Dynamics AX.</source>
+          <source>Rename product dimension</source>
         </trans-unit>
         <trans-unit id="690" translate="yes" xml:space="preserve">
-          <source>Replaced by another feature?</source>
+          <source>This feature let you change the name of one of the three standard product dimensions (size, color, or style) to a name that better suited your business requirements.</source>
         </trans-unit>
         <trans-unit id="691" translate="yes" xml:space="preserve">
-          <source>The new Workspace form pattern provides users with a process-centered design that provides easy access to commonly used tasks within that process.</source>
+          <source>Renaming included all the labels where the product dimension name was used.</source>
         </trans-unit>
         <trans-unit id="692" translate="yes" xml:space="preserve">
-          <source>Modules affected</source>
+          <source>Reason for deprecation</source>
         </trans-unit>
         <trans-unit id="693" translate="yes" xml:space="preserve">
-          <source>All</source>
+          <source>The current version of Dynamics AX doesn't support label changes at run time.</source>
         </trans-unit>
         <trans-unit id="694" translate="yes" xml:space="preserve">
-          <source>Sales tax jurisdictions</source>
-        </trans-unit>
-        <trans-unit id="695" translate="yes" xml:space="preserve">
-          <source>Reason for deprecation</source>
-        </trans-unit>
-        <trans-unit id="696" translate="yes" xml:space="preserve">
-          <source>Low customer usage and a limited feature set</source>
-        </trans-unit>
-        <trans-unit id="697" translate="yes" xml:space="preserve">
           <source>Replaced by another feature?</source>
         </trans-unit>
-        <trans-unit id="698" translate="yes" xml:space="preserve">
+        <trans-unit id="695" translate="yes" xml:space="preserve">
           <source>No</source>
         </trans-unit>
-        <trans-unit id="699" translate="yes" xml:space="preserve">
+        <trans-unit id="696" translate="yes" xml:space="preserve">
           <source>Modules affected</source>
         </trans-unit>
+        <trans-unit id="697" translate="yes" xml:space="preserve">
+          <source>Product information management</source>
+        </trans-unit>
+        <trans-unit id="698" translate="yes" xml:space="preserve">
+          <source>Retail Server connectivity using HTTP</source>
+        </trans-unit>
+        <trans-unit id="699" translate="yes" xml:space="preserve">
+          <source>In Dynamics AX 2012 R3, the Retail Server could function using HTTP communication (non-secured).</source>
+        </trans-unit>
         <trans-unit id="700" translate="yes" xml:space="preserve">
-          <source>US sales tax</source>
+          <source>This was in addition to the standard communication using HTTPS.</source>
         </trans-unit>
         <trans-unit id="701" translate="yes" xml:space="preserve">
-          <source>Shipping carrier interface</source>
-        </trans-unit>
-        <trans-unit id="702" translate="yes" xml:space="preserve">
           <source>Reason for deprecation</source>
         </trans-unit>
+        <trans-unit id="702" translate="yes" xml:space="preserve">
+          <source>Due to new security requirements, only secured communication using TLS 1.2 (or above, as available) is now supported.</source>
+        </trans-unit>
         <trans-unit id="703" translate="yes" xml:space="preserve">
-          <source>Duplicate functionality</source>
+          <source>The self-service installer will automatically configure the computer for this communication.</source>
         </trans-unit>
         <trans-unit id="704" translate="yes" xml:space="preserve">
           <source>Replaced by another feature?</source>
         </trans-unit>
         <trans-unit id="705" translate="yes" xml:space="preserve">
-          <source>Yes, this feature has been partially replaced by Transportation management, but hasn't yet been replaced by basic Warehouse management (WMS I).</source>
+          <source>No.</source>
         </trans-unit>
         <trans-unit id="706" translate="yes" xml:space="preserve">
-          <source>Modules affected</source>
+          <source>Only standard HTTPS communication is now supported.</source>
         </trans-unit>
         <trans-unit id="707" translate="yes" xml:space="preserve">
-          <source>Sales and marketing, Inventory management</source>
+          <source>Modules affected</source>
         </trans-unit>
         <trans-unit id="708" translate="yes" xml:space="preserve">
-          <source>Sites Services</source>
+          <source>Retail Server</source>
         </trans-unit>
         <trans-unit id="709" translate="yes" xml:space="preserve">
-          <source>Sites Services let you build websites that extend your business processes to the Internet without IT support.</source>
+          <source>Role Center pages</source>
         </trans-unit>
         <trans-unit id="710" translate="yes" xml:space="preserve">
           <source>Reason for deprecation</source>
         </trans-unit>
         <trans-unit id="711" translate="yes" xml:space="preserve">
-          <source>The Microsoft Azure infrastructure that is used by Dynamics AX has new capabilities that can be used instead (for example, Azure sites).</source>
+          <source>Role Center pages were built on the deprecated Enterprise Portal platform, which has been replaced by the new web client platform in the current version of Dynamics AX.</source>
         </trans-unit>
         <trans-unit id="712" translate="yes" xml:space="preserve">
           <source>Replaced by another feature?</source>
         </trans-unit>
         <trans-unit id="713" translate="yes" xml:space="preserve">
-          <source>No</source>
+          <source>The new Workspace form pattern provides users with a process-centered design that provides easy access to commonly used tasks within that process.</source>
         </trans-unit>
         <trans-unit id="714" translate="yes" xml:space="preserve">
           <source>Modules affected</source>
         </trans-unit>
         <trans-unit id="715" translate="yes" xml:space="preserve">
-          <source>HR recruiting, Case management, Request for quotes, Vendor registration</source>
+          <source>All</source>
         </trans-unit>
         <trans-unit id="716" translate="yes" xml:space="preserve">
-          <source>SSAS demand forecasting strategy</source>
+          <source>Sales tax jurisdictions</source>
         </trans-unit>
         <trans-unit id="717" translate="yes" xml:space="preserve">
           <source>Reason for deprecation</source>
         </trans-unit>
         <trans-unit id="718" translate="yes" xml:space="preserve">
-          <source>The design of the feature cannot be supported in the new cloud architecture.</source>
+          <source>Low customer usage and a limited feature set</source>
         </trans-unit>
         <trans-unit id="719" translate="yes" xml:space="preserve">
           <source>Replaced by another feature?</source>
         </trans-unit>
         <trans-unit id="720" translate="yes" xml:space="preserve">
-          <source>Azure Machine Learning demand forecasting strategy</source>
+          <source>No</source>
         </trans-unit>
         <trans-unit id="721" translate="yes" xml:space="preserve">
           <source>Modules affected</source>
         </trans-unit>
         <trans-unit id="722" translate="yes" xml:space="preserve">
-          <source>Planning</source>
+          <source>US sales tax</source>
         </trans-unit>
         <trans-unit id="723" translate="yes" xml:space="preserve">
-          <source>Travel requisitions</source>
+          <source>Shipping carrier interface</source>
         </trans-unit>
         <trans-unit id="724" translate="yes" xml:space="preserve">
           <source>Reason for deprecation</source>
         </trans-unit>
         <trans-unit id="725" translate="yes" xml:space="preserve">
-          <source>Low usage, and most functionality existed in Enterprise Portal.</source>
+          <source>Duplicate functionality</source>
         </trans-unit>
         <trans-unit id="726" translate="yes" xml:space="preserve">
           <source>Replaced by another feature?</source>
         </trans-unit>
         <trans-unit id="727" translate="yes" xml:space="preserve">
-          <source>No</source>
+          <source>Yes, this feature has been partially replaced by Transportation management, but hasn't yet been replaced by basic Warehouse management (WMS I).</source>
         </trans-unit>
         <trans-unit id="728" translate="yes" xml:space="preserve">
           <source>Modules affected</source>
         </trans-unit>
         <trans-unit id="729" translate="yes" xml:space="preserve">
-          <source>Expense management</source>
+          <source>Sales and marketing, Inventory management</source>
         </trans-unit>
         <trans-unit id="730" translate="yes" xml:space="preserve">
-          <source>Vendor invoice pool excluding posting details</source>
+          <source>Sites Services</source>
         </trans-unit>
         <trans-unit id="731" translate="yes" xml:space="preserve">
-          <source>Reason for deprecation</source>
+          <source>Sites Services let you build websites that extend your business processes to the Internet without IT support.</source>
         </trans-unit>
         <trans-unit id="732" translate="yes" xml:space="preserve">
-          <source>Low usage.</source>
+          <source>Reason for deprecation</source>
         </trans-unit>
         <trans-unit id="733" translate="yes" xml:space="preserve">
-          <source>This functionality has been replaced by the Invoice journal that has workflow functionality.</source>
+          <source>The Microsoft Azure infrastructure that is used by Dynamics AX has new capabilities that can be used instead (for example, Azure sites).</source>
         </trans-unit>
         <trans-unit id="734" translate="yes" xml:space="preserve">
           <source>Replaced by another feature?</source>
         </trans-unit>
         <trans-unit id="735" translate="yes" xml:space="preserve">
-          <source>Workflow capabilities of the Invoice journal.</source>
+          <source>No</source>
         </trans-unit>
         <trans-unit id="736" translate="yes" xml:space="preserve">
           <source>Modules affected</source>
         </trans-unit>
         <trans-unit id="737" translate="yes" xml:space="preserve">
-          <source>Accounts payable</source>
+          <source>HR recruiting, Case management, Request for quotes, Vendor registration</source>
         </trans-unit>
         <trans-unit id="738" translate="yes" xml:space="preserve">
-          <source>Virtual company accounts</source>
+          <source>SSAS demand forecasting strategy</source>
         </trans-unit>
         <trans-unit id="739" translate="yes" xml:space="preserve">
-          <source>The virtual companies feature is no longer supported in Dynamics AX.</source>
+          <source>Reason for deprecation</source>
         </trans-unit>
         <trans-unit id="740" translate="yes" xml:space="preserve">
-          <source>The virtual companies feature let users set up tables that could be shared by a set of companies.</source>
+          <source>The design of the feature cannot be supported in the new cloud architecture.</source>
         </trans-unit>
         <trans-unit id="741" translate="yes" xml:space="preserve">
-          <source>For a description of the feature, see <bpt id="p1">[</bpt>Company accounts and Virtual company accounts<ept id="p1">](https://msdn.microsoft.com/en-us/library/aa834382(v=ax.10).aspx)</ept>.</source>
+          <source>Replaced by another feature?</source>
         </trans-unit>
         <trans-unit id="742" translate="yes" xml:space="preserve">
-          <source>The feature works by grouping tables into collections that are assigned to virtual companies, which are groups of existing “real” companies.</source>
+          <source>Azure Machine Learning demand forecasting strategy</source>
         </trans-unit>
         <trans-unit id="743" translate="yes" xml:space="preserve">
-          <source>Queries are created so that all the companies in the virtual company can access the data in the tables of the associated table collections.</source>
+          <source>Modules affected</source>
         </trans-unit>
         <trans-unit id="744" translate="yes" xml:space="preserve">
-          <source>Reason for deprecation</source>
+          <source>Planning</source>
         </trans-unit>
         <trans-unit id="745" translate="yes" xml:space="preserve">
-          <source>Virtual companies must be set up before data is stored in the tables.</source>
+          <source>Travel requisitions</source>
         </trans-unit>
         <trans-unit id="746" translate="yes" xml:space="preserve">
-          <source>Retrofitting virtual companies onto an existing implementation is very difficult.</source>
+          <source>Reason for deprecation</source>
         </trans-unit>
         <trans-unit id="747" translate="yes" xml:space="preserve">
-          <source>Because there has been so much data normalization in the current version of Dynamics AX, it has become difficult to know what to add to the table collections.</source>
+          <source>Low usage, and most functionality existed in Enterprise Portal.</source>
         </trans-unit>
         <trans-unit id="748" translate="yes" xml:space="preserve">
-          <source>For example, it's difficult to know which tables to share.</source>
+          <source>Replaced by another feature?</source>
         </trans-unit>
         <trans-unit id="749" translate="yes" xml:space="preserve">
-          <source>All the tables referenced from tables that are in a virtual company must also added.</source>
-        </trans-unit>
-        <trans-unit id="750" translate="yes" xml:space="preserve">
-          <source>Because of table normalization, even simple master data that is spread across multiple tables must be part of the virtual company.</source>
-        </trans-unit>
-        <trans-unit id="751" translate="yes" xml:space="preserve">
-          <source>Any mistake that is made here will cause functional issues.</source>
-        </trans-unit>
-        <trans-unit id="752" translate="yes" xml:space="preserve">
-          <source>When a table is part of a virtual company, it loses information about the origin of the data, and only the virtual company is recorded.</source>
-        </trans-unit>
-        <trans-unit id="753" translate="yes" xml:space="preserve">
-          <source>Replaced by another feature?</source>
-        </trans-unit>
-        <trans-unit id="754" translate="yes" xml:space="preserve">
-          <source>Global tables can be used to make tables accessible from all companies.</source>
-        </trans-unit>
-        <trans-unit id="755" translate="yes" xml:space="preserve">
-          <source>Currently, there is no replacement.</source>
-        </trans-unit>
-        <trans-unit id="756" translate="yes" xml:space="preserve">
-          <source>Modules affected</source>
-        </trans-unit>
-        <trans-unit id="757" translate="yes" xml:space="preserve">
-          <source>Not applicable</source>
-        </trans-unit>
-        <trans-unit id="758" translate="yes" xml:space="preserve">
-          <source>Warehouse management II</source>
-        </trans-unit>
-        <trans-unit id="759" translate="yes" xml:space="preserve">
-          <source>Reason for deprecation</source>
-        </trans-unit>
-        <trans-unit id="760" translate="yes" xml:space="preserve">
-          <source>The Warehouse management II solution (WMS II) that was available in the <bpt id="p1">**</bpt>Inventory management<ept id="p1">**</ept> module duplicates functionality that is in the <bpt id="p2">**</bpt>Warehouse management<ept id="p2">**</ept> module that was released in Microsoft Dynamics AX 2012 R3.</source>
-        </trans-unit>
-        <trans-unit id="761" translate="yes" xml:space="preserve">
-          <source>Replaced by another feature?</source>
-        </trans-unit>
-        <trans-unit id="762" translate="yes" xml:space="preserve">
-          <source>The <bpt id="p1">**</bpt>Warehouse management<ept id="p1">**</ept> module that was released in AX 2012 R3, Microsoft Dynamics AX 2012 R3 CU8, and Dynamics AX 2012 R3 CU9 replaces the Warehouse management II features.</source>
-        </trans-unit>
-        <trans-unit id="763" translate="yes" xml:space="preserve">
-          <source>The new module has more advanced features and more flexible warehouse management processes than Warehouse management II.</source>
-        </trans-unit>
-        <trans-unit id="764" translate="yes" xml:space="preserve">
-          <source>Modules affected</source>
-        </trans-unit>
-        <trans-unit id="765" translate="yes" xml:space="preserve">
-          <source>Inventory management, Sales and marketing, Procurement and sourcing</source>
-        </trans-unit>
-        <trans-unit id="766" translate="yes" xml:space="preserve">
-          <source>Worker reminders in Human Resources</source>
-        </trans-unit>
-        <trans-unit id="767" translate="yes" xml:space="preserve">
-          <source>Human Resources Payroll information</source>
-        </trans-unit>
-        <trans-unit id="768" translate="yes" xml:space="preserve">
-          <source>Reason for deprecation</source>
-        </trans-unit>
-        <trans-unit id="769" translate="yes" xml:space="preserve">
-          <source>Low usage</source>
-        </trans-unit>
-        <trans-unit id="770" translate="yes" xml:space="preserve">
-          <source>Replaced by another feature?</source>
-        </trans-unit>
-        <trans-unit id="771" translate="yes" xml:space="preserve">
           <source>No</source>
         </trans-unit>
-        <trans-unit id="772" translate="yes" xml:space="preserve">
+        <trans-unit id="750" translate="yes" xml:space="preserve">
           <source>Modules affected</source>
+        </trans-unit>
+        <trans-unit id="751" translate="yes" xml:space="preserve">
+          <source>Expense management</source>
+        </trans-unit>
+        <trans-unit id="752" translate="yes" xml:space="preserve">
+          <source>Vendor invoice pool excluding posting details</source>
+        </trans-unit>
+        <trans-unit id="753" translate="yes" xml:space="preserve">
+          <source>Reason for deprecation</source>
+        </trans-unit>
+        <trans-unit id="754" translate="yes" xml:space="preserve">
+          <source>Low usage.</source>
+        </trans-unit>
+        <trans-unit id="755" translate="yes" xml:space="preserve">
+          <source>This functionality has been replaced by the Invoice journal that has workflow functionality.</source>
+        </trans-unit>
+        <trans-unit id="756" translate="yes" xml:space="preserve">
+          <source>Replaced by another feature?</source>
+        </trans-unit>
+        <trans-unit id="757" translate="yes" xml:space="preserve">
+          <source>Workflow capabilities of the Invoice journal.</source>
+        </trans-unit>
+        <trans-unit id="758" translate="yes" xml:space="preserve">
+          <source>Modules affected</source>
+        </trans-unit>
+        <trans-unit id="759" translate="yes" xml:space="preserve">
+          <source>Accounts payable</source>
+        </trans-unit>
+        <trans-unit id="760" translate="yes" xml:space="preserve">
+          <source>Virtual company accounts</source>
+        </trans-unit>
+        <trans-unit id="761" translate="yes" xml:space="preserve">
+          <source>The virtual companies feature is no longer supported in Dynamics AX.</source>
+        </trans-unit>
+        <trans-unit id="762" translate="yes" xml:space="preserve">
+          <source>The virtual companies feature let users set up tables that could be shared by a set of companies.</source>
+        </trans-unit>
+        <trans-unit id="763" translate="yes" xml:space="preserve">
+          <source>For a description of the feature, see <bpt id="p1">[</bpt>Company accounts and Virtual company accounts<ept id="p1">](https://msdn.microsoft.com/en-us/library/aa834382(v=ax.10).aspx)</ept>.</source>
+        </trans-unit>
+        <trans-unit id="764" translate="yes" xml:space="preserve">
+          <source>The feature works by grouping tables into collections that are assigned to virtual companies, which are groups of existing “real” companies.</source>
+        </trans-unit>
+        <trans-unit id="765" translate="yes" xml:space="preserve">
+          <source>Queries are created so that all the companies in the virtual company can access the data in the tables of the associated table collections.</source>
+        </trans-unit>
+        <trans-unit id="766" translate="yes" xml:space="preserve">
+          <source>Reason for deprecation</source>
+        </trans-unit>
+        <trans-unit id="767" translate="yes" xml:space="preserve">
+          <source>Virtual companies must be set up before data is stored in the tables.</source>
+        </trans-unit>
+        <trans-unit id="768" translate="yes" xml:space="preserve">
+          <source>Retrofitting virtual companies onto an existing implementation is very difficult.</source>
+        </trans-unit>
+        <trans-unit id="769" translate="yes" xml:space="preserve">
+          <source>Because there has been so much data normalization in the current version of Dynamics AX, it has become difficult to know what to add to the table collections.</source>
+        </trans-unit>
+        <trans-unit id="770" translate="yes" xml:space="preserve">
+          <source>For example, it's difficult to know which tables to share.</source>
+        </trans-unit>
+        <trans-unit id="771" translate="yes" xml:space="preserve">
+          <source>All the tables referenced from tables that are in a virtual company must also added.</source>
+        </trans-unit>
+        <trans-unit id="772" translate="yes" xml:space="preserve">
+          <source>Because of table normalization, even simple master data that is spread across multiple tables must be part of the virtual company.</source>
         </trans-unit>
         <trans-unit id="773" translate="yes" xml:space="preserve">
-          <source>Human resources</source>
+          <source>Any mistake that is made here will cause functional issues.</source>
         </trans-unit>
         <trans-unit id="774" translate="yes" xml:space="preserve">
-          <source>Workplanner</source>
+          <source>When a table is part of a virtual company, it loses information about the origin of the data, and only the virtual company is recorded.</source>
         </trans-unit>
         <trans-unit id="775" translate="yes" xml:space="preserve">
-          <source>Reason for deprecation</source>
+          <source>Replaced by another feature?</source>
         </trans-unit>
         <trans-unit id="776" translate="yes" xml:space="preserve">
-          <source>Low usage</source>
+          <source>Global tables can be used to make tables accessible from all companies.</source>
         </trans-unit>
         <trans-unit id="777" translate="yes" xml:space="preserve">
-          <source>Replaced by another feature?</source>
+          <source>Currently, there is no replacement.</source>
         </trans-unit>
         <trans-unit id="778" translate="yes" xml:space="preserve">
-          <source>No, but the <bpt id="p1">**</bpt>Profile relation<ept id="p1">**</ept> page, which is opened from the <bpt id="p2">**</bpt>Profile groups<ept id="p2">**</ept> page, supports the same business scenario as the deprecated <bpt id="p3">**</bpt>Workplanner<ept id="p3">**</ept> page.</source>
-        </trans-unit>
-        <trans-unit id="779" translate="yes" xml:space="preserve">
           <source>Modules affected</source>
         </trans-unit>
+        <trans-unit id="779" translate="yes" xml:space="preserve">
+          <source>Not applicable</source>
+        </trans-unit>
         <trans-unit id="780" translate="yes" xml:space="preserve">
-          <source>Time and attendance</source>
+          <source>Warehouse management II</source>
         </trans-unit>
         <trans-unit id="781" translate="yes" xml:space="preserve">
-          <source>X++ financial statements</source>
-        </trans-unit>
-        <trans-unit id="782" translate="yes" xml:space="preserve">
           <source>Reason for deprecation</source>
         </trans-unit>
-        <trans-unit id="783" translate="yes" xml:space="preserve">
-          <source>This functionality has been replaced by another feature.</source>
+        <trans-unit id="782" translate="yes" xml:space="preserve">
+          <source>The Warehouse management II solution (WMS II) that was available in the <bpt id="p1">**</bpt>Inventory management<ept id="p1">**</ept> module duplicates functionality that is in the <bpt id="p2">**</bpt>Warehouse management<ept id="p2">**</ept> module that was released in Microsoft Dynamics AX 2012 R3.</source>
         </trans-unit>
-        <trans-unit id="784" translate="yes" xml:space="preserve">
+        <trans-unit id="783" translate="yes" xml:space="preserve">
           <source>Replaced by another feature?</source>
         </trans-unit>
+        <trans-unit id="784" translate="yes" xml:space="preserve">
+          <source>The <bpt id="p1">**</bpt>Warehouse management<ept id="p1">**</ept> module that was released in AX 2012 R3, Microsoft Dynamics AX 2012 R3 CU8, and Dynamics AX 2012 R3 CU9 replaces the Warehouse management II features.</source>
+        </trans-unit>
         <trans-unit id="785" translate="yes" xml:space="preserve">
-          <source>Management Reporter (labeled <bpt id="p1">**</bpt>Financial reporting<ept id="p1">**</ept> in the current version of Dynamics AX)</source>
+          <source>The new module has more advanced features and more flexible warehouse management processes than Warehouse management II.</source>
         </trans-unit>
         <trans-unit id="786" translate="yes" xml:space="preserve">
           <source>Modules affected</source>
         </trans-unit>
         <trans-unit id="787" translate="yes" xml:space="preserve">
+          <source>Inventory management, Sales and marketing, Procurement and sourcing</source>
+        </trans-unit>
+        <trans-unit id="788" translate="yes" xml:space="preserve">
+          <source>Worker reminders in Human Resources</source>
+        </trans-unit>
+        <trans-unit id="789" translate="yes" xml:space="preserve">
+          <source>Human Resources Payroll information</source>
+        </trans-unit>
+        <trans-unit id="790" translate="yes" xml:space="preserve">
+          <source>Reason for deprecation</source>
+        </trans-unit>
+        <trans-unit id="791" translate="yes" xml:space="preserve">
+          <source>Low usage</source>
+        </trans-unit>
+        <trans-unit id="792" translate="yes" xml:space="preserve">
+          <source>Replaced by another feature?</source>
+        </trans-unit>
+        <trans-unit id="793" translate="yes" xml:space="preserve">
+          <source>No</source>
+        </trans-unit>
+        <trans-unit id="794" translate="yes" xml:space="preserve">
+          <source>Modules affected</source>
+        </trans-unit>
+        <trans-unit id="795" translate="yes" xml:space="preserve">
+          <source>Human resources</source>
+        </trans-unit>
+        <trans-unit id="796" translate="yes" xml:space="preserve">
+          <source>Workplanner</source>
+        </trans-unit>
+        <trans-unit id="797" translate="yes" xml:space="preserve">
+          <source>Reason for deprecation</source>
+        </trans-unit>
+        <trans-unit id="798" translate="yes" xml:space="preserve">
+          <source>Low usage</source>
+        </trans-unit>
+        <trans-unit id="799" translate="yes" xml:space="preserve">
+          <source>Replaced by another feature?</source>
+        </trans-unit>
+        <trans-unit id="800" translate="yes" xml:space="preserve">
+          <source>No, but the <bpt id="p1">**</bpt>Profile relation<ept id="p1">**</ept> page, which is opened from the <bpt id="p2">**</bpt>Profile groups<ept id="p2">**</ept> page, supports the same business scenario as the deprecated <bpt id="p3">**</bpt>Workplanner<ept id="p3">**</ept> page.</source>
+        </trans-unit>
+        <trans-unit id="801" translate="yes" xml:space="preserve">
+          <source>Modules affected</source>
+        </trans-unit>
+        <trans-unit id="802" translate="yes" xml:space="preserve">
+          <source>Time and attendance</source>
+        </trans-unit>
+        <trans-unit id="803" translate="yes" xml:space="preserve">
+          <source>X++ financial statements</source>
+        </trans-unit>
+        <trans-unit id="804" translate="yes" xml:space="preserve">
+          <source>Reason for deprecation</source>
+        </trans-unit>
+        <trans-unit id="805" translate="yes" xml:space="preserve">
+          <source>This functionality has been replaced by another feature.</source>
+        </trans-unit>
+        <trans-unit id="806" translate="yes" xml:space="preserve">
+          <source>Replaced by another feature?</source>
+        </trans-unit>
+        <trans-unit id="807" translate="yes" xml:space="preserve">
+          <source>Management Reporter (labeled <bpt id="p1">**</bpt>Financial reporting<ept id="p1">**</ept> in the current version of Dynamics AX)</source>
+        </trans-unit>
+        <trans-unit id="808" translate="yes" xml:space="preserve">
+          <source>Modules affected</source>
+        </trans-unit>
+        <trans-unit id="809" translate="yes" xml:space="preserve">
           <source>General ledger</source>
         </trans-unit>
       </group>
