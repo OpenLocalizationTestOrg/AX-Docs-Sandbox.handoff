@@ -2,27 +2,27 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="es-es">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4f3015ed4f8dc165d988b2b63ed9ad89d6d6f578</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-d137d50" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dbad1a054d69c463bf7fbc8ee76050e91ac18769</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">core\get-started\glossary.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">premium</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d980d1d61614b44d9e337cfbde27a3072e05cea8</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0d98b065276233f52839307924fc2b6b804aa8dc</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6ec3fb227c713a25b2ff7efac94f1c0dcd8ff168</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f6503cbc3e0eb656d0bb7c0f4a64fec071ee7da8</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Dynamics 365 for Operations glossary</source>
+          <source>Finance and Operations glossary</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>The Microsoft Dynamics 365 for Operations glossary defines key terms and concepts in the Dynamics 365 for Operations product.</source>
+          <source>The Microsoft Dynamics 365 for Finance and Operations glossary defines key terms and concepts in the Finance and Operations product.</source>
         </trans-unit>
         <trans-unit id="103" translate="yes" xml:space="preserve">
-          <source>Dynamics 365 for Operations glossary</source>
+          <source>Finance and Operations glossary</source>
         </trans-unit>
         <trans-unit id="104" translate="yes" xml:space="preserve">
-          <source>The Microsoft Dynamics 365 for Operations glossary defines key terms and concepts in the Dynamics 365 for Operations product.</source>
+          <source>The Microsoft Dynamics 365 for Finance and Operations glossary defines key terms and concepts in the Finance and Operations product.</source>
         </trans-unit>
         <trans-unit id="105" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>A<ept id="p1">**</ept></source>
@@ -316,7 +316,7 @@
           <source><bpt id="p1">**</bpt>dashboard<ept id="p1">**</ept></source>
         </trans-unit>
         <trans-unit id="202" translate="yes" xml:space="preserve">
-          <source>The typical start page in Dynamics 365 for Operations.</source>
+          <source>The typical start page in Finance and Operations.</source>
         </trans-unit>
         <trans-unit id="203" translate="yes" xml:space="preserve">
           <source>On the dashboard, users see a section for each workspace that they have access to.</source>
@@ -772,7 +772,7 @@
           <source>A unique grouping of items, services, or rights that either participates in the same production or delivery activities or that are offered to the same market segments.</source>
         </trans-unit>
         <trans-unit id="354" translate="yes" xml:space="preserve">
-          <source>In Dynamics 365 for Operations, the grouping is represented by using a forecast allocation key.</source>
+          <source>In Finance and Operations, the grouping is represented by using a forecast allocation key.</source>
         </trans-unit>
         <trans-unit id="355" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>product master<ept id="p1">**</ept></source>
@@ -1033,16 +1033,16 @@
           <source><bpt id="p1">**</bpt>Task recorder<ept id="p1">**</ept></source>
         </trans-unit>
         <trans-unit id="441" translate="yes" xml:space="preserve">
-          <source>A tool that is pre-installed in Dynamics 365 for Operations.</source>
+          <source>A tool that is pre-installed in Finance and Operations.</source>
         </trans-unit>
         <trans-unit id="442" translate="yes" xml:space="preserve">
-          <source>When recording, it records all events that the user enters in the Dynamics 365 for Operations user interface that get executed against the server—including values added, settings changed, data removed, etc.</source>
+          <source>When recording, it records all events that the user enters in the Finance and Operations user interface that get executed against the server—including values added, settings changed, data removed, etc.</source>
         </trans-unit>
         <trans-unit id="443" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>Task recording<ept id="p1">**</ept></source>
         </trans-unit>
         <trans-unit id="444" translate="yes" xml:space="preserve">
-          <source>A file that contains the actions and annotations that are captured when Task recorder is run in Microsoft Dynamics 365 for Operations.</source>
+          <source>A file that contains the actions and annotations that are captured when Task recorder is run in Microsoft Dynamics 365 for Finance and Operations.</source>
         </trans-unit>
         <trans-unit id="445" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>three-way matching policy<ept id="p1">**</ept></source>
