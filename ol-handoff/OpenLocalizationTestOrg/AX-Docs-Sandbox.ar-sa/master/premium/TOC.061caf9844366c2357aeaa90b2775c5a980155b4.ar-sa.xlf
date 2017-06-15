@@ -16,7 +16,7 @@
           <source>Power BI content pack</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Cost management content pack<ept id="p1">](/dynamics365/unified-operations/dev-itpro/analytics/cost-management-content-pack?toc=/dynamics365/unified-operations/supply-chain/toc.json)</ept></source>
+          <source><bpt id="p1">[</bpt>TEST CHANGE TO FILE FOR GIT FETCH TEST Cost management content pack<ept id="p1">](/dynamics365/unified-operations/dev-itpro/analytics/cost-management-content-pack?toc=/dynamics365/unified-operations/supply-chain/toc.json)</ept></source>
         </trans-unit>
         <trans-unit id="103" translate="yes" xml:space="preserve">
           <source>Predetermined cost</source>
