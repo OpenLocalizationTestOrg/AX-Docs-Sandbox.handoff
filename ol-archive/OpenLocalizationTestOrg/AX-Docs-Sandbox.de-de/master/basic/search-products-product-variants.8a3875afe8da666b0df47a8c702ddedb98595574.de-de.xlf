@@ -2,12 +2,12 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3960cc3eb9b8d488973d258db45aa0ab9f1dd988</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-c4f8ee6" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6cd2d30983f7aa3e84adcc344746db971d163fd2</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">scm\pim\search-products-product-variants.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">89a6d8200c77ee83aa6cb763e328aecec87a9382</xliffext:olskeletonhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9d49329fab4b6df40a623a5573f7cef50092cf94</xliffext:olskeletonhash>
       <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e5b292de95e6d7395d206c5faf5526d06b29e0f4</xliffext:olxliffhash>
     </header>
     <body>
@@ -16,7 +16,7 @@
           <source>Search for products and product variants during order entry</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>Use the <bpt id="p1">&lt;strong&gt;</bpt>Item number <ept id="p1">&lt;/strong&gt;</ept>field to search for products and product variants when you manually create a sales order line or a purchase order line.</source>
+          <source>Use the &lt;strong&gt;Item number &lt;/strong&gt;field to search for products and product variants when you manually create a sales order line or a purchase order line.</source>
         </trans-unit>
         <trans-unit id="103" translate="yes" xml:space="preserve">
           <source>This lets you quickly find product variants when you only have the configuration string or one of the product dimensions available.</source>

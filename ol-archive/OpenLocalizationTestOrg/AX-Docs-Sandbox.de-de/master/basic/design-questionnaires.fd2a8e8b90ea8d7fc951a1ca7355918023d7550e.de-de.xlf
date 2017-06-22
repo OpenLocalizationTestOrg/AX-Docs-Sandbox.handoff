@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0cac68f90f724777cfe8c3b7ac742d94b34ecd6b</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-c4f8ee6" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dbe27b7d1b5e0af00a745634b1b8eced9bca9dce</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">hr\design-questionnaires.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6cca920ce2ec6caf4e1dc87250646179185ff59e</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1983948b1e2ebe057cb90549c92776944d05153b</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">528669b3ae1c62bd7a077f1905792d3d7f635703</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8c3400d7f29a8306d0b4ead9be7741a094c12c99</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -253,7 +253,7 @@
           <source>An answer group can be used for more than one question on the same questionnaire, and can also be used on more than one questionnaire.</source>
         </trans-unit>
         <trans-unit id="181" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">**</bpt>Note<ept id="p1">**</ept> If you modify answer text in answer groups that have already been used on completed questionnaires, data can become difficult to evaluate, and questionnaire results might no longer be valid.</source>
+          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> If you modify answer text in answer groups that have already been used on completed questionnaires, data can become difficult to evaluate, and questionnaire results might no longer be valid.</source>
         </trans-unit>
         <trans-unit id="182" translate="yes" xml:space="preserve">
           <source>If you must change an answer group, consider creating a new answer group instead of changing an existing one.</source>
@@ -280,7 +280,7 @@
           <source>Questions should be designed to elicit specific information from a respondent and must be linked to an answer group that provides the response options for each closed-ended question.</source>
         </trans-unit>
         <trans-unit id="190" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">**</bpt>Note<ept id="p1">**</ept> Before you can set up closed-ended questions, you must create answer groups and answers.</source>
+          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> Before you can set up closed-ended questions, you must create answer groups and answers.</source>
         </trans-unit>
         <trans-unit id="191" translate="yes" xml:space="preserve">
           <source>Questions can be arranged in a conditional question hierarchy, so that secondary questions depend on the answer that the respondent selects for the previous question.</source>
@@ -292,8 +292,7 @@
           <source>Setting up questionnaires</source>
         </trans-unit>
         <trans-unit id="194" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">**</bpt>Note<ept id="p1">**</ept><ph id="ph1">
-</ph> Before you can set up a questionnaire, you must set up answers, questions, and prerequisites.</source>
+          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> Before you can set up a questionnaire, you must set up answers, questions, and prerequisites.</source>
         </trans-unit>
         <trans-unit id="195" translate="yes" xml:space="preserve">
           <source>For each questionnaire, you can specify the following information:</source>
@@ -377,7 +376,7 @@
           <source>Make changes in the result groups and sequence number.</source>
         </trans-unit>
         <trans-unit id="222" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">**</bpt>Caution<ept id="p1">**</ept> Be careful when you change questionnaires that have already been answered.</source>
+          <source><bpt id="p1">**</bpt>Caution:<ept id="p1">**</ept> Be careful when you change questionnaires that have already been answered.</source>
         </trans-unit>
         <trans-unit id="223" translate="yes" xml:space="preserve">
           <source>Changes can reduce the accuracy of statistics and therefore make them a poor basis for evaluation.</source>
@@ -419,8 +418,7 @@
           <source>Print a report that shows results for each result group, and also optional points/texts that are based on points that are earned in each result group.</source>
         </trans-unit>
         <trans-unit id="236" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">**</bpt>Note<ept id="p1">**</ept><ph id="ph1">
-</ph>  Before you can set up result groups, you must complete the following tasks:</source>
+          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> Before you can set up result groups, you must complete the following tasks:</source>
         </trans-unit>
         <trans-unit id="237" translate="yes" xml:space="preserve">
           <source>Set up closed-ended questions.</source>
@@ -447,8 +445,7 @@
           <source>After a questionnaire is completed, you can view the points that have been achieved for each result group.</source>
         </trans-unit>
         <trans-unit id="245" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">**</bpt>Tip<ept id="p1">**</ept><ph id="ph1">
-</ph>   To evaluate a questionnaire by using points but not separate categories, you can add all questions to a single result group.</source>
+          <source><bpt id="p1">**</bpt>Tip:<ept id="p1">**</ept> To evaluate a questionnaire by using points but not separate categories, you can add all questions to a single result group.</source>
         </trans-unit>
         <trans-unit id="246" translate="yes" xml:space="preserve">
           <source>For each result group, you can also set up one or more point-based messages that respondents receive after they complete a questionnaire.</source>
@@ -532,8 +529,7 @@
           <source>Texts that correspond to each respondent’s score are displayed for each result group.</source>
         </trans-unit>
         <trans-unit id="273" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">**</bpt>Note<ept id="p1">**</ept><ph id="ph1">
-</ph>  You can change intervals and texts.</source>
+          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> You can change intervals and texts.</source>
         </trans-unit>
         <trans-unit id="274" translate="yes" xml:space="preserve">
           <source>However, if a questionnaire has been completed, changes might cause differences between previous and new result reports.</source>
@@ -545,8 +541,7 @@
           <source>Conditional question hierarchies are optional when you set up a questionnaire.</source>
         </trans-unit>
         <trans-unit id="277" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">**</bpt>Note<ept id="p1">**</ept><ph id="ph1">
-</ph>  Before you can set up a conditional question hierarchy, you must attach questions that have assigned answer groups to the questionnaire.</source>
+          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> Before you can set up a conditional question hierarchy, you must attach questions that have assigned answer groups to the questionnaire.</source>
         </trans-unit>
         <trans-unit id="278" translate="yes" xml:space="preserve">
           <source>To use conditional questions to create a question hierarchy in a questionnaire, you can make the sequence that questions are presented in depend on the answer that a respondent selects for each question.</source>
