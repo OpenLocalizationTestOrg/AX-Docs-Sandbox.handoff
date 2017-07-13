@@ -2,12 +2,12 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="fr-fr">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e19fee87dae6e5d425f36dac0db4ea89534a8510</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-57a3028" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d5157e6f4b10b6158aa08279a9f68dae676f5666</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">scm\procurement\vendor-collaboration-mobile-workspace.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
-      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">84227f3818ae0af27c951f20d328630e38bde181</xliffext:olskeletonhash>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1da5abb04a276e84b962bfc14329ed1e9a540972</xliffext:olskeletonhash>
       <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">038d037a80bdbaef0d39ffefa4bee1b0f56d39a7</xliffext:olxliffhash>
     </header>
     <body>
@@ -58,7 +58,7 @@
           <source>Install the hotfix to enable the workspaces that are provided in Dynamics 365 for Operations.</source>
         </trans-unit>
         <trans-unit id="116" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">&lt;span style="color: #ff0000"&gt;</bpt><bpt id="p2">&lt;span style="color: #000000"&gt;</bpt>Hotfix KB 3216943<ept id="p2">&lt;/span&gt;</ept><ept id="p1"> &lt;/span&gt;</ept></source>
+          <source><bpt id="p1">&lt;span style="color: #ff0000"&gt;</bpt><bpt id="p2">&lt;span style="color: #000000"&gt;</bpt>Hotfix KB 3216943<ept id="p2">&lt;/span&gt;</ept> <ept id="p1">&lt;/span&gt;</ept></source>
         </trans-unit>
         <trans-unit id="117" translate="yes" xml:space="preserve">
           <source>Install the hotfix to enable the vendor collaboration mobile workspace.</source>
