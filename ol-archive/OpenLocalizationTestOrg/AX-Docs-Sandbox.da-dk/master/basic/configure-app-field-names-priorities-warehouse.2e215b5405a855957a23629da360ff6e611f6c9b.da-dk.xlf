@@ -2,12 +2,12 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="da-dk">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">edcbf8a0921e0eb08d0f970e681c9d098b354c0b</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-57a3028" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">73fcc19b9ee17a691206019efbff29c4967f4e2f</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">scm\warehousing\configure-app-field-names-priorities-warehouse.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
-      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b8370d6adfaf46a913f1fa56eb2dbc1ba06ac825</xliffext:olskeletonhash>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">18ddf9be68f127bd2115aa39ee67354224b86ac8</xliffext:olskeletonhash>
       <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8583ea1571df9540a5b4b5bcf98fdec4a481b53e</xliffext:olxliffhash>
     </header>
     <body>
@@ -82,13 +82,13 @@
           <source>Four options are available:</source>
         </trans-unit>
         <trans-unit id="124" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">&lt;strong&gt;</bpt>Selection<ept id="p1">&lt;/strong&gt;</ept><ph id="ph1"> -</ph> Contains a list of options to choose from.</source>
+          <source><bpt id="p1">&lt;strong&gt;</bpt>Selection<ept id="p1">&lt;/strong&gt;</ept> <ph id="ph1">-</ph> Contains a list of options to choose from.</source>
         </trans-unit>
         <trans-unit id="125" translate="yes" xml:space="preserve">
           <source>Field names with this option are not editable.</source>
         </trans-unit>
         <trans-unit id="126" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">&lt;strong&gt;</bpt>Date<ept id="p1">&lt;/strong&gt;</ept><ph id="ph1"> -</ph> Field names specified as date will show a date format with the label.</source>
+          <source><bpt id="p1">&lt;strong&gt;</bpt>Date<ept id="p1">&lt;/strong&gt;</ept> <ph id="ph1">-</ph> Field names specified as date will show a date format with the label.</source>
         </trans-unit>
         <trans-unit id="127" translate="yes" xml:space="preserve">
           <source>This helps warehouse workers see in which format to enter the date.</source>
@@ -97,13 +97,13 @@
           <source>Field names with this option are not editable.</source>
         </trans-unit>
         <trans-unit id="129" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">&lt;strong&gt;</bpt>Alpha<ept id="p1">&lt;/strong&gt;</ept><ph id="ph1"> -</ph> If selected, the device keyboard will be used when entering information manually in the app.</source>
+          <source><bpt id="p1">&lt;strong&gt;</bpt>Alpha<ept id="p1">&lt;/strong&gt;</ept> <ph id="ph1">-</ph> If selected, the device keyboard will be used when entering information manually in the app.</source>
         </trans-unit>
         <trans-unit id="130" translate="yes" xml:space="preserve">
           <source>The keyboard experience can be changed depending on which device is used.</source>
         </trans-unit>
         <trans-unit id="131" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">&lt;strong&gt;</bpt>Numeric<ept id="p1">&lt;/strong&gt;</ept><ph id="ph1"> -</ph> For field names that use numeric input only, you can select this option to display a custom numeric keypad with the input field instead of the device keyboard.</source>
+          <source><bpt id="p1">&lt;strong&gt;</bpt>Numeric<ept id="p1">&lt;/strong&gt;</ept> <ph id="ph1">-</ph> For field names that use numeric input only, you can select this option to display a custom numeric keypad with the input field instead of the device keyboard.</source>
         </trans-unit>
         <trans-unit id="132" translate="yes" xml:space="preserve">
           <source>Configure warehouse app field priority</source>

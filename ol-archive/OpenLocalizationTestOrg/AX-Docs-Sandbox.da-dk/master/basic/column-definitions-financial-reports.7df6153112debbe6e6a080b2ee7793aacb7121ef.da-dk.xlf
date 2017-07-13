@@ -2,12 +2,12 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="da-dk">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ca82d24f591aaeb0d675716857cf94a4696785ad</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-57a3028" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">bf42b287e2e9235fd50f78a6fadc3f9efbd1fbe5</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\analytics\column-definitions-financial-reports.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
-      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8f571cda76be486e1948a6e0d1c3946db643a247</xliffext:olskeletonhash>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c40bf32f7edaf6a3d029e2b0ef43f1a00cfbce58</xliffext:olskeletonhash>
       <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4660be410f31ade097557191c3c85c8b89310dd6</xliffext:olxliffhash>
     </header>
     <body>
@@ -1573,7 +1573,7 @@
           <source>If you don't enter a character, the column is empty.</source>
         </trans-unit>
         <trans-unit id="621" translate="yes" xml:space="preserve">
-          <source>For example, to fill a column with an ellipsis (...), enter <bpt id="p1">&lt;strong&gt;</bpt>FILL<ept id="p1">&lt;/strong&gt;</ept><bpt id="p2"> &lt;strong&gt;</bpt>'.'<ept id="p2">&lt;/strong&gt;</ept>.</source>
+          <source>For example, to fill a column with an ellipsis (...), enter <bpt id="p1">&lt;strong&gt;</bpt>FILL<ept id="p1">&lt;/strong&gt;</ept> <bpt id="p2">&lt;strong&gt;</bpt>'.'<ept id="p2">&lt;/strong&gt;</ept>.</source>
         </trans-unit>
         <trans-unit id="622" translate="yes" xml:space="preserve">
           <source>PAGE</source>

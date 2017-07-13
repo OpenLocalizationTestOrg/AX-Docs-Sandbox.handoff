@@ -2,12 +2,12 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="da-dk">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-c4f8ee6" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">bd9ee5468d95cfbe347af59fd151ad5811b82953</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-57a3028" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">809b853634aa4a44b8aa3aebea317f6bc47da697</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">scm\pim\translations-product-related-information.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
-      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1fa87bdceebac7ef83fadfb1b75c40ec93413d85</xliffext:olskeletonhash>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">81f2feb72234b98094f7e87a6739edeaf7f8897e</xliffext:olskeletonhash>
       <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">feca2ccc080dff262bae0397fff6cd1837897a88</xliffext:olxliffhash>
     </header>
     <body>
@@ -163,7 +163,7 @@
           <source>To set the preferred language of a customer, follow these steps:</source>
         </trans-unit>
         <trans-unit id="151" translate="yes" xml:space="preserve">
-          <source>Click <bpt id="p1">&lt;strong&gt;</bpt>Sales and marketing<ept id="p1">&lt;/strong&gt;</ept> <ph id="ph1">&amp;gt;</ph> <bpt id="p2">&lt;strong&gt;</bpt>Common<ept id="p2">&lt;/strong&gt;</ept> <ph id="ph2">&amp;gt;</ph> <bpt id="p3">&lt;strong&gt;</bpt>Customers<ept id="p3">&lt;/strong&gt;</ept> <ph id="ph3">&amp;gt;</ph> <bpt id="p4">&lt;strong&gt;</bpt>All<ept id="p4">&lt;/strong&gt;</ept><bpt id="p5"> &lt;strong&gt;</bpt>customers<ept id="p5">&lt;/strong&gt;</ept>.</source>
+          <source>Click <bpt id="p1">&lt;strong&gt;</bpt>Sales and marketing<ept id="p1">&lt;/strong&gt;</ept> <ph id="ph1">&amp;gt;</ph> <bpt id="p2">&lt;strong&gt;</bpt>Common<ept id="p2">&lt;/strong&gt;</ept> <ph id="ph2">&amp;gt;</ph> <bpt id="p3">&lt;strong&gt;</bpt>Customers<ept id="p3">&lt;/strong&gt;</ept> <ph id="ph3">&amp;gt;</ph> <bpt id="p4">&lt;strong&gt;</bpt>All<ept id="p4">&lt;/strong&gt;</ept> <bpt id="p5">&lt;strong&gt;</bpt>customers<ept id="p5">&lt;/strong&gt;</ept>.</source>
         </trans-unit>
         <trans-unit id="152" translate="yes" xml:space="preserve">
           <source>Double-click a customer to open the <bpt id="p1">&lt;strong&gt;</bpt>Customers<ept id="p1">&lt;/strong&gt;</ept> page.</source>
