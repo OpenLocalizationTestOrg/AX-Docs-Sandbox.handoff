@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-868c4f2" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2163b122c471834614645bab1468745627fcd82a</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-57a3028" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ca9feb741f061757da0c4ff81fd73b6a2f2034df</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\financial\read-only-entity-financial.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">developer-content</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">956f445ff467591835a65c269a72cb1874d8c395</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b2d42db966f1f830ece0d7275466bab4dbf90a97</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5ac0880d394aa166b4cb62a16d2f20ebd8198ef6</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5fbaf76221125de1424bf6c479f40ccc8fc7f572</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -16,7 +16,7 @@
           <source>Build a read-only entity that exposes financial dimensions</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>In this topic, we describe how to build an entity for registered transactions.</source>
+          <source>In this topic, we describe how to build an entity for transactions that are registered in Microsoft Dynamics 365 for Operations.</source>
         </trans-unit>
         <trans-unit id="103" translate="yes" xml:space="preserve">
           <source>Build a read-only entity that exposes financial dimensions</source>
@@ -25,16 +25,16 @@
           <source>"<ph id="ph1">[!include[banner](../includes/banner.md)]</ph>"</source>
         </trans-unit>
         <trans-unit id="105" translate="yes" xml:space="preserve">
-          <source>In this topic, we describe how to build an entity for registered transactions that are registered.</source>
+          <source>In this topic, we describe how to build an entity for transactions that are registered in Microsoft Dynamics 365 for Operations.</source>
         </trans-unit>
         <trans-unit id="106" translate="yes" xml:space="preserve">
-          <source>This topic comes from Per Baarsoe Jorgensen of the Solutions Architecture team.</source>
+          <source>This topic comes from Per Baarsoe Jorgensen of the Microsoft Dynamics 365 for Operations Solutions Architecture team.</source>
         </trans-unit>
         <trans-unit id="107" translate="yes" xml:space="preserve">
           <source>It describes a real-world scenario that we have encountered as we work with customers.</source>
         </trans-unit>
         <trans-unit id="108" translate="yes" xml:space="preserve">
-          <source>Imagine a scenario where we must expose all vendor invoice line transactions together with the financial dimensions that were applied through the distributions.</source>
+          <source>magine a scenario where we must expose all vendor invoice line transactions together with the financial dimensions that were applied through the distributions.</source>
         </trans-unit>
         <trans-unit id="109" translate="yes" xml:space="preserve">
           <source>Because easy consumption by a third-party tool is essential, we will create an entity for this scenario.</source>
@@ -214,19 +214,19 @@
           <source>We want to make the adjustments in a resilient manner by using the extension approach, so that minimal maintenance will be required when we upgrade the code base to newer versions in the future.</source>
         </trans-unit>
         <trans-unit id="168" translate="yes" xml:space="preserve">
-          <source>Microsoft Dynamics 365 for Finance and Operations, Enterprise edition version 1611</source>
+          <source>Dynamics 365 for Operations version 1611</source>
         </trans-unit>
         <trans-unit id="169" translate="yes" xml:space="preserve">
-          <source>For version 1611 or later, you should use the wizard that is available in Microsoft Visual Studio (at <bpt id="p1">**</bpt>Dynamics 365<ept id="p1">**</ept> <ph id="ph1">&amp;gt;</ph> <bpt id="p2">**</bpt>Addins<ept id="p2">**</ept> <ph id="ph2">&amp;gt;</ph> <bpt id="p3">**</bpt>Add financial dimensions for Odata<ept id="p3">**</ept>).</source>
+          <source>For Microsoft Dynamics 365 for Operations version 1611 or later, you should use the wizard that is available in Microsoft Visual Studio (at <bpt id="p1">**</bpt>Dynamics 365<ept id="p1">**</ept> <ph id="ph1">&amp;gt;</ph> <bpt id="p2">**</bpt>Addins<ept id="p2">**</ept> <ph id="ph2">&amp;gt;</ph> <bpt id="p3">**</bpt>Add financial dimensions for Odata<ept id="p3">**</ept>).</source>
         </trans-unit>
         <trans-unit id="170" translate="yes" xml:space="preserve">
           <source>For instructions, see <bpt id="p1">[</bpt>Add dimensions to the Microsoft Excel template<ept id="p1">](dimensions-overview.md)</ept>.</source>
         </trans-unit>
         <trans-unit id="171" translate="yes" xml:space="preserve">
-          <source>Earlier versions</source>
+          <source>Earlier versions of Dynamics 365 for Operations</source>
         </trans-unit>
         <trans-unit id="172" translate="yes" xml:space="preserve">
-          <source>If you're working with earlier versions, you must complete the steps that are outlined here.</source>
+          <source>If you're working with earlier versions of Dynamics 365 for Operations, you must complete the steps that are outlined here.</source>
         </trans-unit>
         <trans-unit id="173" translate="yes" xml:space="preserve">
           <source>First, we add the entity extension itself.</source>
