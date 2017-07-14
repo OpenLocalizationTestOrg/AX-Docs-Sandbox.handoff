@@ -3,22 +3,15 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="es-es">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-57a3028" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">51300798c1727f03e79aea10013900a107328aa3</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">71853c6197a6a7f222db0f1978c7cb232b87c5ee</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">core\includes\banner.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">premium</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e446e7e2632ed1cf17a2b0d2280d1933c2d89357</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">733b679286201e3bff505e26a2705f0b521d8e53</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4c8a8a22aafb5e3aeebcd991816569a2a98797be</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">da39a3ee5e6b4b0d3255bfef95601890afd80709</xliffext:olxliffhash>
     </header>
     <body>
-      <group id="content" extype="content">
-        <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Welcome to the documentation for Microsoft Dynamics 365 for Operations on docs.microsoft.com.</source>
-        </trans-unit>
-        <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>We are migrating our content here from the Dynamics 365 for Operations Help Wiki.</source>
-        </trans-unit>
-      </group>
+      <group id="content" extype="content" />
     </body>
   </file>
 </xliff>
