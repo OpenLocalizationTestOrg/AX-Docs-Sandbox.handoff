@@ -3,12 +3,12 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="cs-cz">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-57a3028" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4f771d6e599c2abeafe522da1f151be525e0201b</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4d690ddbe4dd75f8990421b3963630cf2c395770</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">core\breadcrumb\toc.yml</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">premium</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0e9820e69bd901eb9e5a9ae2e7c3f23f69a64911</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e1ac45a4ddf259bf4ca1d481860a7dc48087e98c</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a9130cf230ad13e6b1f452b758c30b32c4890d3e</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">80c5023d8afeda1534b781565ea7a66bea239e4f</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -16,22 +16,28 @@
           <source>Dynamics 365</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>Operations</source>
+          <source>Introduction to Dynamics 365</source>
         </trans-unit>
         <trans-unit id="103" translate="yes" xml:space="preserve">
-          <source>Developer and Administrator</source>
+          <source>What's new</source>
         </trans-unit>
         <trans-unit id="104" translate="yes" xml:space="preserve">
-          <source>Financials</source>
+          <source>Finance and Operations, Enterprise</source>
         </trans-unit>
         <trans-unit id="105" translate="yes" xml:space="preserve">
-          <source>Human resources</source>
+          <source>Developer and Administrator</source>
         </trans-unit>
         <trans-unit id="106" translate="yes" xml:space="preserve">
-          <source>Retail</source>
+          <source>Financials</source>
         </trans-unit>
         <trans-unit id="107" translate="yes" xml:space="preserve">
           <source>Supply chain</source>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Talent</source>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Retail</source>
         </trans-unit>
       </group>
     </body>
