@@ -3,12 +3,12 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-57a3028" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">90ea983810ef9f525ed42e7c08d7ce58a56758a1</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">fcaebe716e661425b1018e0510162e6ebbecc615</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\lcs-solutions\database-backup-lcs-solutions.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">developer-content</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3f7884b33ed27362ff9c355580bcc84055fa51f5</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">203da2d168bbe72c3b4dc40a170d23cc47697958</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5462212b73e3dfb79d3e747463a062facedc3895</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f36dd40cb58cb8ba28248cee7fde1cd9cf4972e1</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -16,7 +16,7 @@
           <source>Back up database for an LCS solution</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>A Dynamics 365 for Operations database backup is required for your LCS solution package.</source>
+          <source>A Finance and Operations database backup is required for your LCS solution package.</source>
         </trans-unit>
         <trans-unit id="103" translate="yes" xml:space="preserve">
           <source>When you back up your database, you must include the master, reference, and transactional data that is specific to your solution and industry.</source>
@@ -28,7 +28,7 @@
           <source>Back up database for an LCS solution</source>
         </trans-unit>
         <trans-unit id="106" translate="yes" xml:space="preserve">
-          <source>A Dynamics 365 for Operations database backup is required for your LCS solution package.</source>
+          <source>A Finance and Operations database backup is required for your LCS solution package.</source>
         </trans-unit>
         <trans-unit id="107" translate="yes" xml:space="preserve">
           <source>When you back up your database, you must include the master, reference, and transactional data that is specific to your solution and industry.</source>

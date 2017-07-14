@@ -3,12 +3,12 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-57a3028" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c5a7f4c743492c4c6ee1b6de2f23499f2b3603c2</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ce0368cbb500a8b4f8d754b749d493d4e63a68a2</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\lcs-solutions\app-validation-lcs-solutions.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">developer-content</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">38274c77efea6e7b952bf4398a8ad69a5fbca43b</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4b5b5e4b82781b1609e517b54ed5febda35da291</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">7f45411f4d647ae116d1b0770b83aa6a879108cb</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3606f143bdac672fd97e28ab9938a9139a845824</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -154,10 +154,10 @@
           <source>Deploy an environment</source>
         </trans-unit>
         <trans-unit id="148" translate="yes" xml:space="preserve">
-          <source>Deploy a standard Microsoft Dynamics 365 for Operations environment that has partner code that is based on the package contents (Code, Binaries, and Config).</source>
+          <source>Deploy a standard Microsoft Dynamics 365 for Finance and Operations environment that has partner code that is based on the package contents (Code, Binaries, and Config).</source>
         </trans-unit>
         <trans-unit id="149" translate="yes" xml:space="preserve">
-          <source>Successfully deploy at least two Dynamics 365 for Operations environments without any errors.</source>
+          <source>Successfully deploy at least two Finance and Operations environments without any errors.</source>
         </trans-unit>
         <trans-unit id="150" translate="yes" xml:space="preserve">
           <source>The environment configuration is the same as the reference environment of the partner.</source>
@@ -184,7 +184,7 @@
           <source>In the specified legal entity, deploy the data that is supplied to the environment without any errors.</source>
         </trans-unit>
         <trans-unit id="158" translate="yes" xml:space="preserve">
-          <source>Create new data in the selected master, and then push the data to the Dynamics 365 for Operations environment, without any errors.</source>
+          <source>Create new data in the selected master, and then push the data to the Finance and Operations environment, without any errors.</source>
         </trans-unit>
         <trans-unit id="159" translate="yes" xml:space="preserve">
           <source>2</source>
@@ -235,7 +235,7 @@
           <source>Business database backup</source>
         </trans-unit>
         <trans-unit id="175" translate="yes" xml:space="preserve">
-          <source>A business database of your upgraded Dynamics 365 for Operations environment and best practice configurations should be loaded into the Asset library in LCS.</source>
+          <source>A business database of your upgraded Finance and Operations environment and best practice configurations should be loaded into the Asset library in LCS.</source>
         </trans-unit>
         <trans-unit id="176" translate="yes" xml:space="preserve">
           <source>Project name and description</source>
@@ -277,7 +277,7 @@
           <source>Deployable packages</source>
         </trans-unit>
         <trans-unit id="189" translate="yes" xml:space="preserve">
-          <source>Incorporate the deployable packages that are required in order to bring your custom features and functionality into Dynamics 365 for Operations.</source>
+          <source>Incorporate the deployable packages that are required in order to bring your custom features and functionality into Finance and Operations.</source>
         </trans-unit>
         <trans-unit id="190" translate="yes" xml:space="preserve">
           <source>Models (code and tests)</source>
@@ -352,7 +352,7 @@
           <source>1</source>
         </trans-unit>
         <trans-unit id="214" translate="yes" xml:space="preserve">
-          <source>Validate Dynamics 365 for Operations customer code.</source>
+          <source>Validate Finance and Operations customer code.</source>
         </trans-unit>
         <trans-unit id="215" translate="yes" xml:space="preserve">
           <source>Run all customer model files by using the CAR tool, and generate the report.</source>

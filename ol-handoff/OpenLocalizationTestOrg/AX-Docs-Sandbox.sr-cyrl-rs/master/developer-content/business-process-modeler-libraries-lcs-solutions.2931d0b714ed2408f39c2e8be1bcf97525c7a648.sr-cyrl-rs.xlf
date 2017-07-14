@@ -3,12 +3,12 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-57a3028" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">190a0bcb7fec16c7d093a59253f4d2dbd1d4b4c0</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">32b9b7f662950dd93ec27106d4e240808ba99e2f</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\lcs-solutions\business-process-modeler-libraries-lcs-solutions.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">developer-content</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b431854d9ba13ad8b1ef4ceb7d7e67936e37bc35</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">eacc61a11197222bad52934653360c5de102688c</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e7efaee95bc80b29e6668bfcb2b66437bfce3452</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0bc562d2681c0ca44ed3960087e6e7f9ecc57547</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -178,16 +178,16 @@
           <source>Create a task recording and associate it with a business process</source>
         </trans-unit>
         <trans-unit id="156" translate="yes" xml:space="preserve">
-          <source>Task recordings should be created in a Microsoft Dynamics 365 for Operations environment that has your custom data and customizations.</source>
+          <source>Task recordings should be created in a Microsoft Finance and Operations environment that has your custom data and customizations.</source>
         </trans-unit>
         <trans-unit id="157" translate="yes" xml:space="preserve">
-          <source>For reference information about Task recorder, see <bpt id="p1">[</bpt>Task Recorder in Microsoft Dynamics 365 for Operations<ept id="p1">](../user-interface/task-recorder.md)</ept>.</source>
+          <source>For reference information about Task recorder, see <bpt id="p1">[</bpt>Task Recorder in Microsoft Dynamics 365 for Finance and Operations<ept id="p1">](../user-interface/task-recorder.md)</ept>.</source>
         </trans-unit>
         <trans-unit id="158" translate="yes" xml:space="preserve">
           <source>Create a task recording</source>
         </trans-unit>
         <trans-unit id="159" translate="yes" xml:space="preserve">
-          <source>In Dynamics 365 for Operations, click the <bpt id="p1">**</bpt>Settings<ept id="p1">**</ept> button in the upper-right corner, and then click <bpt id="p2">**</bpt>Task recorder<ept id="p2">**</ept>.</source>
+          <source>In Finance and Operations, click the <bpt id="p1">**</bpt>Settings<ept id="p1">**</ept> button in the upper-right corner, and then click <bpt id="p2">**</bpt>Task recorder<ept id="p2">**</ept>.</source>
         </trans-unit>
         <trans-unit id="160" translate="yes" xml:space="preserve">
           <source>Click <bpt id="p1">**</bpt>Create recording<ept id="p1">**</ept>.</source>
@@ -241,7 +241,7 @@
           <source>Set up task guides</source>
         </trans-unit>
         <trans-unit id="177" translate="yes" xml:space="preserve">
-          <source>In Dynamics 365 for Operations, click <bpt id="p1">**</bpt>System administration<ept id="p1">**</ept> <ph id="ph1">&amp;gt;</ph> <bpt id="p2">**</bpt>Setup<ept id="p2">**</ept> <ph id="ph2">&amp;gt;</ph> <bpt id="p3">**</bpt>System parameters<ept id="p3">**</ept>, and then click the <bpt id="p4">**</bpt>Help<ept id="p4">**</ept> tab.</source>
+          <source>In Finance and Operations, click <bpt id="p1">**</bpt>System administration<ept id="p1">**</ept> <ph id="ph1">&amp;gt;</ph> <bpt id="p2">**</bpt>Setup<ept id="p2">**</ept> <ph id="ph2">&amp;gt;</ph> <bpt id="p3">**</bpt>System parameters<ept id="p3">**</ept>, and then click the <bpt id="p4">**</bpt>Help<ept id="p4">**</ept> tab.</source>
         </trans-unit>
         <trans-unit id="178" translate="yes" xml:space="preserve">
           <source>Select the LCS project where the business process library that you want to work with is stored.</source>
@@ -262,7 +262,7 @@
           <source>Use task guides</source>
         </trans-unit>
         <trans-unit id="184" translate="yes" xml:space="preserve">
-          <source>In Dynamics 365 for Operations, open the page where you want to run the task guide.</source>
+          <source>In Finance and Operations, open the page where you want to run the task guide.</source>
         </trans-unit>
         <trans-unit id="185" translate="yes" xml:space="preserve">
           <source>In the upper-right corner, click the <bpt id="p1">**</bpt>Settings<ept id="p1">**</ept> button, and then click <bpt id="p2">**</bpt>Task recorder<ept id="p2">**</ept>.</source>

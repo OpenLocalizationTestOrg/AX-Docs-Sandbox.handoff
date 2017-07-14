@@ -3,12 +3,12 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="sr-cyrl-rs">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-57a3028" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">cf0ec995f0b0206a086cb696bbbaffb0d0c37f0e</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">86834e8313688b222db53a5b0c53af94d02800a9</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\lcs-solutions\code-migration-lcs-solutions.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">developer-content</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">7f8f2a6f796186f08cf4f286a2e26956aa468426</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">cadcc67c1bfb1c3f74c7da60ff509564c5c12bcd</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">27c322020459d61a10109e0980331d847237492d</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">36fa3d371b502e7fb1162c92a85894a190d05a27</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -22,7 +22,7 @@
           <source>Migrate code for an LCS solution</source>
         </trans-unit>
         <trans-unit id="104" translate="yes" xml:space="preserve">
-          <source>The first step in completing your solution package is to upgrade your code using the best practices in <bpt id="p1">&lt;strong&gt;</bpt>Migrate and Create Dynamics 365 for Operations Solutions<ept id="p1">&lt;/strong&gt;</ept> in LCS.</source>
+          <source>The first step in completing your solution package is to upgrade your code using the best practices in <bpt id="p1">&lt;strong&gt;</bpt>Migrate and Create Finance and Operations Solutions<ept id="p1">&lt;/strong&gt;</ept> in LCS.</source>
         </trans-unit>
         <trans-unit id="105" translate="yes" xml:space="preserve">
           <source>After this step is complete, you must run the Customization Analysis report.</source>
@@ -31,7 +31,7 @@
           <source>This report analyzes your customization and extension models, and runs a predefined set of best practice rules.</source>
         </trans-unit>
         <trans-unit id="107" translate="yes" xml:space="preserve">
-          <source>To generate the Customization Analysis report (CAR), run the following command on a Microsoft Dynamics 365 for Operations development environment.</source>
+          <source>To generate the Customization Analysis report (CAR), run the following command on a Microsoft Dynamics 365 for Finance and Operations development environment.</source>
         </trans-unit>
         <trans-unit id="108" translate="yes" xml:space="preserve">
           <source>Here's an example of how this command might look.</source>
@@ -46,7 +46,7 @@
           <source>A copy of the CAR report must be submitted to Microsoft prior to your validation meeting.</source>
         </trans-unit>
         <trans-unit id="112" translate="yes" xml:space="preserve">
-          <source>For more information, see the Dynamics 365 for Operations Help topic, <bpt id="p1">[</bpt>Customization Analysis Report<ept id="p1">](../dev-tools/customization-analysis-report.md)</ept> or refer to the <bpt id="p2">[</bpt>Dynamics Community blog<ept id="p2">](http://community.dynamics.com/ax/b/newdynamicsax/archive/2016/03/21/customization-analysis-report-exceptions-and-known-issues)</ept> for issues and exceptions.</source>
+          <source>For more information, see the Finance and Operations Help topic, <bpt id="p1">[</bpt>Customization Analysis Report<ept id="p1">](../dev-tools/customization-analysis-report.md)</ept> or refer to the <bpt id="p2">[</bpt>Dynamics Community blog<ept id="p2">](http://community.dynamics.com/ax/b/newdynamicsax/archive/2016/03/21/customization-analysis-report-exceptions-and-known-issues)</ept> for issues and exceptions.</source>
         </trans-unit>
         <trans-unit id="113" translate="yes" xml:space="preserve">
           <source>See also</source>
