@@ -2,12 +2,12 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-c4f8ee6" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ef27326427790ed8dae917fb076ca004ffe3141f</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-2668206" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">090afc13f8f79b8b38fe4a6382a67a98d334689d</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\localizations\emea-aut-packing-material-fee-calculation.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
-      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">409587af5fe6339a6654bbd63be136572f4c5a11</xliffext:olskeletonhash>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0e5524d51810733927870ddbfc4393cdf33c6f53</xliffext:olskeletonhash>
       <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">54abf1f5cb3b4643ed2178e5c1f53e5039d7455f</xliffext:olxliffhash>
     </header>
     <body>
@@ -79,7 +79,7 @@
           <source>You must create a category hierarchy type for packing materials and set the category hierarchy to <bpt id="p1">&lt;strong&gt;</bpt>Packing<ept id="p1">&lt;/strong&gt;</ept>.</source>
         </trans-unit>
         <trans-unit id="123" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">&lt;strong&gt;</bpt><ept id="p1">&lt;/strong&gt;</ept><bpt id="p2"> &lt;strong&gt;</bpt>Note:<ept id="p2">&lt;/strong&gt;</ept> You can set up a packing category hierarchy for only one category hierarchy type.</source>
+          <source><bpt id="p1">&lt;strong&gt;</bpt><ept id="p1">&lt;/strong&gt;</ept> <bpt id="p2">&lt;strong&gt;</bpt>Note:<ept id="p2">&lt;/strong&gt;</ept> You can set up a packing category hierarchy for only one category hierarchy type.</source>
         </trans-unit>
         <trans-unit id="124" translate="yes" xml:space="preserve">
           <source>After you create category hierarchies, follow these steps to associate each product with a category hierarchy.</source>
